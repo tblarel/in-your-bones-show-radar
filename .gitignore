@@ -1,0 +1,15 @@
+creds.json
+
+.env
+
+.tm_cache/
+
+*.log
+__pycache__/
+*.pyc
+keys_64.py
+test_creds.py
+creds_b64.txt
+dashboard\.env.local
+!feed.xml
+scripts/

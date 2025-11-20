@@ -1,0 +1,31 @@
+name: Bay Area Show Radar
+
+on:
+  schedule:
+    # 4pm PT ≈ 00:00 UTC next day; adjust if you like
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run fetcher
+        env:
+          TM_API_KEY: ${{ secrets.TM_API_KEY }}
+          SHEET_ID: ${{ secrets.SHEET_ID }}
+          GOOGLE_CREDS_JSON: ${{ secrets.GOOGLE_CREDS_JSON }}
+        run: |
+          python fetch_events.py
