@@ -1,515 +1,898 @@
-# fetch_events.py
-import os
-import json
+"""
+fetch_events.py
+
+End-to-end "InYourBones — Ticketmaster Radar" script.
+
+Features:
+- Fetch Ticketmaster events for a set of Bay Area cities and time windows
+- Basic on-disk caching to avoid hammering the API
+- Heuristic scoring via scoring.score_event
+- AI refinement / editorial ranking via ai_filter.refine_top_events_with_ai
+- Multi-night show collapsing (e.g. 3-night Ariana run → one row with [multi-night x3])
+- Exports:
+    * JSON files per window
+    * CSV files per window
+    * RSS feed per window
+    * Plain-text digest per window (for potential email use)
+
+You can run this directly:
+    python fetch_events.py
+"""
+
+from __future__ import annotations
+
+import csv
 import hashlib
-from datetime import datetime, timedelta, timezone, time
+import json
+import os
+from dataclasses import dataclass
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+from typing import Any, Dict, Iterable, List, Tuple
 
 import requests
 from dotenv import load_dotenv
 
-from scoring import (
-    score_event,
-    get_venue_tier,
-    get_genre_fit,
-    get_promoter_weight,
-    editorial_fit_score,
-)
-from ai_filter import refine_top_events_with_ai  # AI reranking
+from scoring import score_event
+from ai_filter import refine_top_events_with_ai
+
 
 # ---------------------------
-# Environment & config
+# Config
 # ---------------------------
 
-load_dotenv()
-
-TM_API_KEY = os.getenv("TM_API_KEY")
-if not TM_API_KEY:
-    raise ValueError("TM_API_KEY not found in environment variables. Check your .env file.")
-
-GOOGLE_CREDS_RAW = os.getenv("GOOGLE_CREDS_JSON")
-if GOOGLE_CREDS_RAW:
-    try:
-        json.loads(GOOGLE_CREDS_RAW)
-        print("✓ Loaded GOOGLE_CREDS_JSON successfully")
-    except Exception as e:
-        print("⚠ Failed to parse GOOGLE_CREDS_JSON:", e)
-else:
-    print("⚠ GOOGLE_CREDS_JSON not found (this is OK for now)")
-
-OPENAI_PRESENT = bool(os.getenv("OPENAI_API_KEY"))
-
-TM_BASE_URL = "https://app.ticketmaster.com/discovery/v2/events.json"
-
-BAY_CITIES = [
-    "San Francisco",
-    "Oakland",
-    "Berkeley",
-    "San Jose",
-    "Santa Cruz",
-    "Mountain View",
-    "Santa Clara",
-    "Napa",
-    "Concord",
+CITIES = [
+    ("San Francisco", "CA"),
+    ("Oakland", "CA"),
+    ("Berkeley", "CA"),
+    ("San Jose", "CA"),
+    ("Santa Cruz", "CA"),
+    ("Mountain View", "CA"),
+    ("Santa Clara", "CA"),
+    ("Napa", "CA"),
+    ("Concord", "CA"),
 ]
 
-WINDOWS = {
-    "short_term": {
-        "start_days": 14,
-        "end_days": 120,
-    },
-    "far_out": {
-        "start_days": 120,
-        "end_days": 365,
-    },
+COUNTRY_CODE = "US"
+
+# Time windows relative to "now"
+WINDOW_DEFS = {
+    "short_term": (14, 120),   # days from now
+    "far_out": (120, 365),
 }
 
-# ---------------------------
-# Simple on-disk cache
-# ---------------------------
+CACHE_DIR = Path(".tm_cache")
+CACHE_TTL_SECONDS = 12 * 3600  # 12 hours
 
-CACHE_ENABLED = True
-CACHE_DIR = ".tm_cache"
-CACHE_TTL_HOURS = 12  # how long a cached response is considered fresh
+EXPORT_DIR = Path("output")
+EXPORT_DIR.mkdir(exist_ok=True, parents=True)
 
-os.makedirs(CACHE_DIR, exist_ok=True)
-
-
-def _make_cache_key(params: dict) -> str:
-    """
-    Build a stable cache key from request params. We:
-    - Drop the API key
-    - Sort params to keep order stable
-    - Hash the resulting string
-    """
-    items = sorted((k, v) for k, v in params.items() if k.lower() != "apikey")
-    s = "&".join(f"{k}={v}" for k, v in items)
-    return hashlib.md5(s.encode("utf-8")).hexdigest()
-
-
-def _get_cache_path(key: str) -> str:
-    return os.path.join(CACHE_DIR, f"{key}.json")
-
-
-def _load_from_cache(key: str):
-    path = _get_cache_path(key)
-    if not os.path.exists(path):
-        return None
-
-    try:
-        with open(path, "r", encoding="utf-8") as f:
-            payload = json.load(f)
-    except Exception:
-        return None
-
-    ts_str = payload.get("timestamp")
-    if not ts_str:
-        return None
-
-    try:
-        ts = datetime.fromisoformat(ts_str)
-    except Exception:
-        return None
-
-    if CACHE_TTL_HOURS is not None:
-        if datetime.now(timezone.utc) - ts.replace(tzinfo=timezone.utc) > timedelta(hours=CACHE_TTL_HOURS):
-            # expired
-            return None
-
-    return payload.get("data")
-
-
-def _save_to_cache(key: str, data: dict, params: dict):
-    path = _get_cache_path(key)
-    payload = {
-        "timestamp": datetime.now(timezone.utc).isoformat(),
-        "params": {k: v for k, v in params.items() if k.lower() != "apikey"},
-        "data": data,
-    }
-    try:
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(payload, f)
-    except Exception as e:
-        print(f"⚠ Failed to write cache file {path}: {e}")
+STATE_DIR = Path("state")
+STATE_DIR.mkdir(exist_ok=True, parents=True)
+KNOWN_EVENTS_FILE = STATE_DIR / "known_events.json"
 
 
 # ---------------------------
-# HTTP helper
+# Helpers
 # ---------------------------
 
-def tm_request(params):
+@dataclass
+class NormalizedEvent:
+    id: str
+    name: str
+    primary_artist: str
+    url: str | None
+    city: str | None
+    state: str | None
+    country: str | None
+    venue_name: str | None
+    local_date: str | None
+    start_datetime: datetime | None
+    promoter_name: str | None
+    window: str
+    score: float
+    raw: Dict[str, Any]
+
+
+def _tm_iso(dt: datetime) -> str:
+    # Ticketmaster expects UTC ISO8601 with 'Z'
+    return dt.astimezone(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def _make_cache_key(params: Dict[str, Any]) -> str:
     """
-    Make request to Ticketmaster Discovery API with basic error handling
-    and simple on-disk caching keyed by params.
+    Produce a deterministic hash for a Ticketmaster params dict,
+    ignoring the API key.
     """
-    # Build cache key (without apikey)
+    safe = {k: v for k, v in params.items() if k != "apikey"}
+    blob = json.dumps(safe, sort_keys=True, separators=(",", ":")).encode("utf-8")
+    return hashlib.md5(blob).hexdigest()
+
+
+def _params_to_query(params: Dict[str, Any]) -> str:
+    parts = []
+    for k, v in params.items():
+        parts.append(f"{k}={v}")
+    return "&".join(parts)
+
+
+def _tm_get_with_cache(params: Dict[str, Any], use_cache: bool = True) -> Dict[str, Any]:
+    """
+    Fetch Ticketmaster discovery endpoint with basic file cache.
+    """
+    base_url = "https://app.ticketmaster.com/discovery/v2/events.json"
+    CACHE_DIR.mkdir(exist_ok=True, parents=True)
+
     cache_key = _make_cache_key(params)
+    cache_path = CACHE_DIR / f"{cache_key}.json"
 
-    if CACHE_ENABLED:
-        cached = _load_from_cache(cache_key)
-        if cached is not None:
+    if use_cache and cache_path.exists():
+        age = datetime.now(timezone.utc) - datetime.fromtimestamp(
+            cache_path.stat().st_mtime, tz=timezone.utc
+        )
+        if age.total_seconds() <= CACHE_TTL_SECONDS:
             print(f"→ [cache hit] params={cache_key}")
-            return cached
+            with open(cache_path, "r", encoding="utf-8") as f:
+                return json.load(f)
 
-    params["apikey"] = TM_API_KEY
+    print(f"→ [live request] {base_url}?{_params_to_query(params)}")
+    resp = requests.get(base_url, params=params, timeout=20)
+    resp.raise_for_status()
+    data = resp.json()
 
-    try:
-        response = requests.get(TM_BASE_URL, params=params, timeout=15)
-        print(f"→ [live request] {response.url}")
-        response.raise_for_status()
-        data = response.json()
-    except requests.exceptions.HTTPError as e:
-        print("❌ HTTP error:", e)
-        try:
-            print("Response body:", response.text[:500])
-        except Exception:
-            pass
-        return None
-    except Exception as e:
-        print("❌ Request failed:", e)
-        return None
-
-    if CACHE_ENABLED:
-        _save_to_cache(cache_key, data, params)
+    with open(cache_path, "w", encoding="utf-8") as f:
+        json.dump(data, f)
 
     return data
 
 
-# ---------------------------
-# Fetching & normalization
-# ---------------------------
+def _extract_promoter_name(ev: Dict[str, Any]) -> str | None:
+    """
+    Try a few places Ticketmaster might store a promoter / presenter name.
+    """
+    promotions = ev.get("promoters") or []
+    if isinstance(promotions, list) and promotions:
+        name = promotions[0].get("name")
+        if name:
+            return name
 
-def fetch_events_for_city(city, days_from_now_start, days_from_now_end, max_events=200):
-    # Use date-based windows so caching works across runs on the same day
-    today_utc = datetime.now(timezone.utc).date()
+    promoter = ev.get("promoter") or {}
+    if isinstance(promoter, dict):
+        name = promoter.get("name") or promoter.get("description")
+        if name:
+            return name
 
-    start_date = today_utc + timedelta(days=days_from_now_start)
-    end_date = today_utc + timedelta(days=days_from_now_end)
+    return None
 
-    # Start and end at midnight UTC for stability
-    start = datetime.combine(start_date, time.min, tzinfo=timezone.utc)
-    end = datetime.combine(end_date, time.min, tzinfo=timezone.utc)
 
-    start_iso = start.isoformat(timespec="seconds").replace("+00:00", "Z")
-    end_iso = end.isoformat(timespec="seconds").replace("+00:00", "Z")
+def _normalize_tm_event(ev: Dict[str, Any], window: str) -> NormalizedEvent:
+    dates = ev.get("dates", {}) or {}
+    start = dates.get("start", {}) or {}
 
-    print(f"\n===== Fetching events for {city} =====")
-    print(f"  Date range: {start_iso} → {end_iso}")
+    # Start date / time
+    local_date = start.get("localDate")
+    date_time = start.get("dateTime")  # ISO8601
+    dt = None
+    if date_time:
+        try:
+            dt = datetime.fromisoformat(date_time.replace("Z", "+00:00"))
+        except Exception:
+            dt = None
 
-    all_events = []
+    embedded = ev.get("_embedded") or {}
+    venues = embedded.get("venues") or []
+    venue = venues[0] if venues else {}
+
+    city = (venue.get("city") or {}).get("name")
+    state = (venue.get("state") or {}).get("stateCode")
+    country = (venue.get("country") or {}).get("countryCode")
+    venue_name = venue.get("name")
+
+    # Artists / attractions
+    attractions = embedded.get("attractions") or []
+    primary_artist = None
+    if attractions:
+        primary_artist = attractions[0].get("name")
+
+    promoter_name = _extract_promoter_name(ev)
+
+    # We don't yet have a score; placeholder 0.0, actual score added later.
+    return NormalizedEvent(
+        id=str(ev.get("id")),
+        name=str(ev.get("name")),
+        primary_artist=primary_artist or str(ev.get("name")),
+        url=ev.get("url"),
+        city=city,
+        state=state,
+        country=country,
+        venue_name=venue_name,
+        local_date=local_date,
+        start_datetime=dt,
+        promoter_name=promoter_name,
+        window=window,
+        score=0.0,
+        raw=ev,
+    )
+
+
+def _fetch_city_for_window(
+    city: str,
+    state: str,
+    window_name: str,
+    start_dt: datetime,
+    end_dt: datetime,
+    max_events: int = 200,
+    use_cache: bool = True,
+) -> List[Dict[str, Any]]:
+    """
+    Fetch up to max_events Ticketmaster events for a single city + window.
+    Returns raw Ticketmaster event objects.
+    """
+    all_events: List[Dict[str, Any]] = []
     page = 0
-    page_size = 100
+    total_pages = None
 
     while True:
-        params = {
+        params: Dict[str, Any] = {
             "city": city,
-            "stateCode": "CA",
-            "countryCode": "US",
+            "stateCode": state,
+            "countryCode": COUNTRY_CODE,
             "classificationName": "music",
-            "startDateTime": start_iso,
-            "endDateTime": end_iso,
-            "size": page_size,
+            "startDateTime": _tm_iso(start_dt),
+            "endDateTime": _tm_iso(end_dt),
+            "size": 100,
             "page": page,
             "sort": "date,asc",
+            "apikey": os.getenv("TM_API_KEY") or "",
         }
 
-        data = tm_request(params)
-        if not data:
-            print(f"⚠ No data returned for {city} page {page}")
-            break
+        data = _tm_get_with_cache(params, use_cache=use_cache)
 
-        embedded = data.get("_embedded", {})
-        events = embedded.get("events", [])
-        if not events:
+        page_events = data.get("_embedded", {}).get("events") or []
+        if not page_events:
             print(f"⚠ No events found for {city} on page {page}")
             break
 
-        all_events.extend(events)
-        print(f"  ✓ Page {page}: {len(events)} events (total so far: {len(all_events)})")
+        all_events.extend(page_events)
+        print(f"  ✓ Page {page}: {len(page_events)} events (total so far: {len(all_events)})")
+
+        # Pagination metadata
+        page_info = data.get("page") or {}
+        total_pages = page_info.get("totalPages")
 
         if len(all_events) >= max_events:
             print(f"  → Reached max_events={max_events} for {city}, stopping pagination.")
             break
 
-        page_info = data.get("page", {})
-        total_pages = page_info.get("totalPages", 1)
-        if page >= total_pages - 1:
+        if total_pages is not None and page >= total_pages - 1:
             print(f"  → Reached last page ({page}/{total_pages - 1}) for {city}.")
             break
 
         page += 1
 
-    print(f"✓ Found {len(all_events)} events in {city} in total")
+    print(f"✓ Found {len(all_events)} events in {city} in total\n")
     return all_events
 
 
-def parse_date(date_raw: str):
-    if not date_raw:
-        return None
-    try:
-        return datetime.fromisoformat(date_raw.replace("Z", "+00:00"))
-    except Exception:
-        return None
-
-
-def extract_primary_genre(raw_event):
-    classifications = raw_event.get("classifications") or []
-    if not classifications:
-        return None
-
-    c = classifications[0] or {}
-    for key in ("subGenre", "genre", "subType", "type", "segment"):
-        part = c.get(key) or {}
-        name = part.get("name")
-        if name and name != "Undefined":
-            return name
-    return None
-
-
-def extract_promoter_name(raw_event):
+def _dedupe_events(events: Iterable[NormalizedEvent]) -> List[NormalizedEvent]:
     """
-    Ticketmaster sometimes uses 'promoter' or 'promoters'.
-    We grab the first recognizable name if present.
+    De-duplicate by Ticketmaster event id, keeping the highest score.
     """
-    promoter = raw_event.get("promoter") or {}
-    name = promoter.get("name")
-    if name:
-        return name
-
-    promoters = raw_event.get("promoters") or []
-    if promoters:
-        first = promoters[0] or {}
-        if first.get("name"):
-            return first["name"]
-
-    return None
+    best_by_id: Dict[str, NormalizedEvent] = {}
+    for ev in events:
+        if not ev.id:
+            continue
+        existing = best_by_id.get(ev.id)
+        if existing is None or ev.score > existing.score:
+            best_by_id[ev.id] = ev
+    return list(best_by_id.values())
 
 
-def normalize_event(raw, window_name: str):
-    venues = (raw.get("_embedded") or {}).get("venues") or [{}]
-    venue = venues[0] or {}
-    venue_name = venue.get("name", "Unknown Venue")
-    city_name = (venue.get("city") or {}).get("name", "")
-
-    attractions = (raw.get("_embedded") or {}).get("attractions") or []
-    primary_artist = attractions[0]["name"] if attractions else None
-
-    date_raw = (raw.get("dates") or {}).get("start", {}).get("dateTime")
-    date = parse_date(date_raw)
-
-    genre_name = extract_primary_genre(raw)
-    promoter_name = extract_promoter_name(raw)
-
-    normalized = {
-        "id": raw.get("id"),
-        "name": raw.get("name"),
-        "artist_primary": primary_artist,
-        "venue": venue_name,
-        "city": city_name,
-        "date": date,
-        "window": window_name,
-        "genre_primary": genre_name,
-        "promoter_name": promoter_name,
-    }
-
-    # Attach per-dimension scores and flags
-    venue_tier = get_venue_tier(venue_name)
-    genre_fit = get_genre_fit(genre_name)
-    promoter_weight = get_promoter_weight(promoter_name, venue_name)
-    ed_fit = editorial_fit_score(normalized)
-
-    normalized["venue_tier"] = venue_tier
-    normalized["genre_fit"] = genre_fit
-    normalized["promoter_weight"] = promoter_weight
-    normalized["editorial_fit"] = ed_fit
-
-    # A rough guess at 'press eligibility'
-    normalized["press_eligible"] = bool(
-        (venue_tier >= 0.75 and genre_fit >= 0.7) or promoter_weight >= 0.7
-    )
-
-    normalized["score"] = score_event(normalized)
-    return normalized
-
-
-def dedupe_events(events):
+def _collapse_multi_night(events: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     """
-    Dedupe by (artist_primary or name, venue, window), keeping the earliest
-    date + best scoring 'canonical' entry, and tracking multi-night runs.
+    Collapse multi-night runs into a single representative row.
 
-    For each (artist, venue, window) key we aggregate:
-    - canonical event (used for metadata and score)
-    - date_first (earliest date)
-    - date_last  (latest date)
-    - num_dates  (how many dates were seen)
-    - multi_day  (bool)
+    Grouping key:
+      (primary_artist or name, venue_name, window)
+
+    Within each group, we:
+      - track earliest & latest start_datetime
+      - count number of nights
+      - attach list of all underlying event ids in 'ids'
     """
-    seen = {}
+    from collections import defaultdict
 
-    for e in events:
-        artist_key = e.get("artist_primary") or e.get("name")
-        key = (artist_key, e.get("venue"), e.get("window"))
+    if not events:
+        return []
 
-        d_new = e.get("date")
+    groups: Dict[Tuple[str, str, str], List[Dict[str, Any]]] = defaultdict(list)
 
-        if key not in seen:
-            seen[key] = {
-                "canonical": e,
-                "date_first": d_new,
-                "date_last": d_new,
-                "num_dates": 1 if d_new else 0,
-            }
+    for ev in events:
+        artist = (ev.get("primary_artist") or ev.get("name") or "").strip().lower()
+        venue = (ev.get("venue_name") or "").strip().lower()
+        window = ev.get("window") or ""
+        key = (artist, venue, window)
+        groups[key].append(ev)
+
+    collapsed: List[Dict[str, Any]] = []
+
+    for key, items in groups.items():
+        if len(items) == 1:
+            ev = dict(items[0])
+            ev.setdefault("multi_night", False)
+            ev.setdefault("night_count", 1)
+            ev.setdefault("ids", [ev.get("id")])
+            ev.setdefault("date_start", ev.get("start_datetime"))
+            ev.setdefault("date_end", ev.get("start_datetime"))
+            collapsed.append(ev)
             continue
 
-        agg = seen[key]
+        # Multi-night run
+        sorted_items = sorted(
+            items,
+            key=lambda e: e.get("start_datetime") or datetime.max.replace(tzinfo=timezone.utc),
+        )
+        first = dict(sorted_items[0])
 
-        # Update date range + count
-        if d_new:
-            if agg["date_first"] is None or d_new < agg["date_first"]:
-                agg["date_first"] = d_new
-            if agg["date_last"] is None or d_new > agg["date_last"]:
-                agg["date_last"] = d_new
-            agg["num_dates"] += 1
-
-        # Decide if this new event should replace the canonical representative
-        c = agg["canonical"]
-        d_old = c.get("date")
-
-        if d_new and d_old:
-            if d_new < d_old:
-                better = True
-            elif d_new > d_old:
-                better = False
-            else:
-                better = e.get("score", 0) > c.get("score", 0)
-        elif d_new and not d_old:
-            better = True
-        elif not d_new and d_old:
-            better = False
+        dates = [
+            e.get("start_datetime")
+            for e in sorted_items
+            if isinstance(e.get("start_datetime"), datetime)
+        ]
+        if dates:
+            date_start = min(dates)
+            date_end = max(dates)
         else:
-            better = e.get("score", 0) > c.get("score", 0)
+            date_start = first.get("start_datetime")
+            date_end = first.get("start_datetime")
 
-        if better:
-            agg["canonical"] = e
+        first["multi_night"] = True
+        first["night_count"] = len(sorted_items)
+        first["ids"] = [e.get("id") for e in sorted_items if e.get("id")]
+        first["date_start"] = date_start
+        first["date_end"] = date_end
 
-    # Flatten aggregated structures into final events
-    result = []
-    for agg in seen.values():
-        c = agg["canonical"].copy()
-        c["date_first"] = agg["date_first"]
-        c["date_last"] = agg["date_last"]
-        c["num_dates"] = agg["num_dates"]
-        c["multi_day"] = bool(agg["num_dates"] and agg["num_dates"] > 1)
-        result.append(c)
+        # Aggregate AI priority as max, keep reason from first
+        priorities = [e.get("ai_priority") for e in sorted_items if e.get("ai_priority") is not None]
+        if priorities:
+            first["ai_priority"] = max(priorities)
 
-    return result
+        collapsed.append(first)
+
+    # Sort collapsed list by (ai_priority desc, score desc)
+    def sort_key(ev: Dict[str, Any]):
+        return (
+            ev.get("ai_priority") or 0,
+            ev.get("score") or 0.0,
+        )
+
+    collapsed.sort(key=sort_key, reverse=True)
+    return collapsed
 
 
-def _format_date_range(e):
+def _format_date_range(ev: Dict[str, Any]) -> str:
     """
-    Helper to show a nicer date string in CLI output if multi-day.
+    Human-friendly date range like:
+      2026-01-06 → 2026-01-08
+    or single date if not multi-night.
     """
-    d_first = e.get("date_first") or e.get("date")
-    d_last = e.get("date_last") or e.get("date")
+    def fmt(dt: datetime | None) -> str:
+        if not dt:
+            return "?"
+        return dt.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M")
 
-    if not d_first:
-        return "Unknown date"
-
-    if not d_last or d_last == d_first:
-        return d_first.strftime("%Y-%m-%d %H:%M")
-
-    # Multi-day span
-    if d_first.date() == d_last.date():
-        # Same calendar day, different times
-        return f"{d_first.strftime('%Y-%m-%d')} ({d_first.strftime('%H:%M')}–{d_last.strftime('%H:%M')})"
-
-    # Different days
-    # Example: 2026-05-08 → 2026-05-10
-    return f"{d_first.strftime('%Y-%m-%d')} → {d_last.strftime('%Y-%m-%d')}"
+    if ev.get("multi_night"):
+        return f"{fmt(ev.get('date_start'))} → {fmt(ev.get('date_end'))}"
+    dt = ev.get("start_datetime")
+    if isinstance(dt, datetime):
+        return fmt(dt)
+    # fallback to local_date
+    ld = ev.get("local_date")
+    return ld or "?"
 
 
-def summarize_normalized_event(e):
-    date_s = _format_date_range(e)
-    artist_or_name = e["artist_primary"] or e["name"]
-    ai_part = f" | AI {e['ai_priority']:.1f}" if "ai_priority" in e else ""
-    multi_tag = ""
-    if e.get("multi_day") and e.get("num_dates", 1) > 1:
-        multi_tag = f" [multi-night x{e['num_dates']}]"
+def _serialize_for_export(ev: Dict[str, Any]) -> Dict[str, Any]:
+    def to_iso(x):
+        if isinstance(x, datetime):
+            return x.astimezone(timezone.utc).isoformat()
+        return x
 
-    print(
-        f" • [{e['score']:.3f}{ai_part}] {date_s} — {artist_or_name} "
-        f"@ {e['venue']} ({e['city']}){multi_tag} [{e['window']}]"
-    )
+    return {
+        "id": ev.get("id"),
+        "ids": ev.get("ids"),
+        "name": ev.get("name"),
+        "primary_artist": ev.get("primary_artist"),
+        "venue_name": ev.get("venue_name"),
+        "city": ev.get("city"),
+        "state": ev.get("state"),
+        "country": ev.get("country"),
+        "url": ev.get("url"),
+        "window": ev.get("window"),
+        "local_date": ev.get("local_date"),
+        "start_datetime": to_iso(ev.get("start_datetime")),
+        "date_start": to_iso(ev.get("date_start")),
+        "date_end": to_iso(ev.get("date_end")),
+        "multi_night": ev.get("multi_night", False),
+        "night_count": ev.get("night_count", 1),
+        "score": ev.get("score"),
+        "ai_priority": ev.get("ai_priority"),
+        "ai_reason": ev.get("ai_reason"),
+    }
+
+
+def _export_json(window: str, events: List[Dict[str, Any]]) -> None:
+    path = EXPORT_DIR / f"radar_{window}.json"
+    payload = [_serialize_for_export(ev) for ev in events]
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+    print(f"✓ JSON exported → {path}")
+
+
+def _export_csv(window: str, events: List[Dict[str, Any]]) -> None:
+    path = EXPORT_DIR / f"radar_{window}.csv"
+    if not events:
+        with open(path, "w", newline="", encoding="utf-8") as f:
+            f.write("")  # empty
+        print(f"✓ CSV exported (empty) → {path}")
+        return
+
+    fieldnames = list(_serialize_for_export(events[0]).keys())
+    with open(path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for ev in events:
+            writer.writerow(_serialize_for_export(ev))
+    print(f"✓ CSV exported → {path}")
+
+
+def _export_rss(window: str, events: List[Dict[str, Any]]) -> None:
+    """
+    Minimal RSS 2.0 feed so you can plug this into a widget or RSS reader.
+    """
+    from xml.etree.ElementTree import Element, SubElement, ElementTree
+    from email.utils import format_datetime
+
+    path = EXPORT_DIR / f"radar_{window}.rss"
+
+    rss = Element("rss", version="2.0")
+    channel = SubElement(rss, "channel")
+
+    title = SubElement(channel, "title")
+    title.text = f"InYourBones — Bay Area Radar ({window})"
+
+    link = SubElement(channel, "link")
+    link.text = "https://inyourbones.live"
+
+    desc = SubElement(channel, "description")
+    desc.text = "Curated upcoming Bay Area shows from InYourBones."
+
+    now = datetime.now(timezone.utc)
+    last_build = SubElement(channel, "lastBuildDate")
+    last_build.text = format_datetime(now)
+
+    for ev in events:
+        item = SubElement(channel, "item")
+        title = SubElement(item, "title")
+        artist = ev.get("primary_artist") or ev.get("name") or "Unknown artist"
+        venue = ev.get("venue_name") or "Unknown venue"
+        title.text = f"{artist} @ {venue}"
+
+        link_el = SubElement(item, "link")
+        link_el.text = ev.get("url") or "https://inyourbones.live"
+
+        guid = SubElement(item, "guid")
+        guid.text = (ev.get("id") or "") + f"-{window}"
+
+        pub = SubElement(item, "pubDate")
+        dt = ev.get("start_datetime") or ev.get("date_start") or now
+        if isinstance(dt, datetime):
+            pub.text = format_datetime(dt)
+        else:
+            pub.text = format_datetime(now)
+
+        desc_el = SubElement(item, "description")
+        date_str = _format_date_range(ev)
+        reason = ev.get("ai_reason") or ""
+        desc_el.text = f"{date_str} — {artist} at {venue}. {reason}".strip()
+
+    tree = ElementTree(rss)
+    tree.write(path, encoding="utf-8", xml_declaration=True)
+    print(f"✓ RSS exported → {path}")
+
+
+def _export_digest(window: str, events: List[Dict[str, Any]]) -> None:
+    """
+    Simple plain-text digest that could be dropped into a weekly email.
+    """
+    path = EXPORT_DIR / f"radar_{window}_digest.txt"
+    lines: List[str] = []
+    header = f"InYourBones — Bay Area Radar ({window})"
+    lines.append(header)
+    lines.append("=" * len(header))
+    lines.append("")
+
+    for ev in events:
+        date_str = _format_date_range(ev)
+        artist = ev.get("primary_artist") or ev.get("name")
+        venue = ev.get("venue_name") or "Unknown venue"
+        city = ev.get("city") or ""
+        reason = ev.get("ai_reason") or ""
+        multi = ""
+        if ev.get("multi_night"):
+            multi = f" [multi-night x{ev.get('night_count')}]"
+        lines.append(f"- {date_str} — {artist} @ {venue} ({city}){multi}")
+        if reason:
+            lines.append(f"    ▹ {reason}")
+        lines.append("")
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+    print(f"✓ Digest exported → {path}")
 
 
 # ---------------------------
-# Main
+# State management for tracking new events
 # ---------------------------
 
-def main():
+def _load_known_events() -> Dict[str, Dict[str, str]]:
+    """
+    Load the known events state file.
+    Returns a dict like:
+    {
+      "short_term": {"event_key": "2025-11-20", ...},
+      "far_out": {"event_key": "2025-11-20", ...}
+    }
+    """
+    if not KNOWN_EVENTS_FILE.exists():
+        return {}
+    
+    try:
+        with open(KNOWN_EVENTS_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        # Ensure both windows exist
+        if not isinstance(data, dict):
+            return {}
+        for window in WINDOW_DEFS.keys():
+            if window not in data:
+                data[window] = {}
+        return data
+    except Exception as e:
+        print(f"⚠ Failed to load known events: {e}")
+        return {}
+
+
+def _save_known_events(known: Dict[str, Dict[str, str]]) -> None:
+    """
+    Save the known events state file.
+    """
+    try:
+        with open(KNOWN_EVENTS_FILE, "w", encoding="utf-8") as f:
+            json.dump(known, f, indent=2, ensure_ascii=False)
+        print(f"✓ Known events state saved → {KNOWN_EVENTS_FILE}")
+    except Exception as e:
+        print(f"⚠ Failed to save known events: {e}")
+
+
+def _event_key(ev: Dict[str, Any]) -> str:
+    """
+    Generate a stable key for an event.
+    For single-night: just the TM id
+    For multi-night: primary id + date range to track the run
+    """
+    if ev.get("multi_night") and ev.get("ids"):
+        # Use sorted IDs to handle any ordering issues
+        ids = sorted(ev.get("ids", []))
+        return "|".join(ids)
+    # Single night: just use the primary ID
+    return str(ev.get("id", ""))
+
+
+def _export_new_only_json(window: str, events: List[Dict[str, Any]]) -> None:
+    """
+    Export JSON file containing only new events.
+    """
+    path = EXPORT_DIR / f"radar_{window}_new.json"
+    payload = [_serialize_for_export(ev) for ev in events]
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, indent=2, ensure_ascii=False)
+    print(f"✓ New events JSON exported → {path}")
+
+
+def _export_new_only_digest(window: str, events: List[Dict[str, Any]]) -> None:
+    """
+    Plain-text digest of only new events (ideal for email alerts).
+    """
+    path = EXPORT_DIR / f"radar_{window}_new_digest.txt"
+    lines: List[str] = []
+    header = f"InYourBones — NEW Bay Area Shows ({window})"
+    lines.append(header)
+    lines.append("=" * len(header))
+    lines.append("")
+    
+    if not events:
+        lines.append("No new shows since last run.")
+        lines.append("")
+    else:
+        lines.append(f"Found {len(events)} new show(s) since last run:")
+        lines.append("")
+
+        for ev in events:
+            date_str = _format_date_range(ev)
+            artist = ev.get("primary_artist") or ev.get("name")
+            venue = ev.get("venue_name") or "Unknown venue"
+            city = ev.get("city") or ""
+            reason = ev.get("ai_reason") or ""
+            multi = ""
+            if ev.get("multi_night"):
+                multi = f" [multi-night x{ev.get('night_count')}]"
+            lines.append(f"- {date_str} — {artist} @ {venue} ({city}){multi}")
+            if reason:
+                lines.append(f"    ▹ {reason}")
+            lines.append("")
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines))
+
+    print(f"✓ New events digest exported → {path}")
+
+
+# ---------------------------
+# Main orchestration
+# ---------------------------
+
+def main() -> None:
+    load_dotenv()
+
     print("\n==============================")
     print("InYourBones — Ticketmaster Radar (Scored + AI Refined + Cached)")
     print("==============================\n")
 
+    # Environment check
+    tm_key = os.getenv("TM_API_KEY")
+    if not tm_key:
+        print("❌ TM_API_KEY not set in environment.")
+        return
+
+    openai_key = os.getenv("OPENAI_API_KEY")
     print("Environment check:")
-    print("✓ TM_API_KEY loaded:", "Yes" if TM_API_KEY else "NO!")
-    print("✓ OPENAI_API_KEY present:", "Yes" if OPENAI_PRESENT else "No (AI step will be skipped)")
-    print(f"✓ Caching enabled: {CACHE_ENABLED} (TTL={CACHE_TTL_HOURS}h, dir={CACHE_DIR})")
+    print(f"✓ TM_API_KEY loaded: {'Yes' if tm_key else 'No'}")
+    print(f"✓ OPENAI_API_KEY present: {'Yes' if openai_key else 'No'}")
+    print(f"✓ Caching enabled: True (TTL={CACHE_TTL_SECONDS/3600:.0f}h, dir={CACHE_DIR})")
     print()
 
-    normalized_events = []
+    # Optional: GOOGLE_CREDS_JSON just to sanity-check env
+    google_creds_raw = os.getenv("GOOGLE_CREDS_JSON")
+    if google_creds_raw:
+        try:
+            json.loads(google_creds_raw)
+            print("✓ Loaded GOOGLE_CREDS_JSON successfully\n")
+        except json.JSONDecodeError:
+            print("⚠ GOOGLE_CREDS_JSON is set but not valid JSON\n")
+    else:
+        print("ℹ GOOGLE_CREDS_JSON not set (ok if you don't need Sheets/BigQuery)\n")
 
-    # Fetch + normalize
-    for window_name, cfg in WINDOWS.items():
-        print(
-            f"\n==============================\n"
-            f"Window: {window_name} "
-            f"({cfg['start_days']}–{cfg['end_days']} days from now)\n"
-            f"=============================="
+    now = datetime.now(timezone.utc)
+
+    all_normalized: List[NormalizedEvent] = []
+
+    # Fetch + normalize for each window & city
+    for window_name, (start_offset, end_offset) in WINDOW_DEFS.items():
+        print("\n==============================")
+        print(f"Window: {window_name} ({start_offset}–{end_offset} days from now)")
+        print("==============================\n")
+
+        start_dt = datetime.combine(
+            (now + timedelta(days=start_offset)).date(),
+            datetime.min.time(),
+            tzinfo=timezone.utc,
         )
-        for city in BAY_CITIES:
-            raw_events = fetch_events_for_city(
-                city,
-                days_from_now_start=cfg["start_days"],
-                days_from_now_end=cfg["end_days"],
+        end_dt = datetime.combine(
+            (now + timedelta(days=end_offset)).date(),
+            datetime.min.time(),
+            tzinfo=timezone.utc,
+        )
+
+        for city, state in CITIES:
+            print(f"===== Fetching events for {city} =====")
+            print(f"  Date range: {_tm_iso(start_dt)} → {_tm_iso(end_dt)}")
+            raw_events = _fetch_city_for_window(
+                city=city,
+                state=state,
+                window_name=window_name,
+                start_dt=start_dt,
+                end_dt=end_dt,
                 max_events=200,
+                use_cache=True,
             )
-            for raw in raw_events:
-                ev = normalize_event(raw, window_name)
-                normalized_events.append(ev)
+            for ev in raw_events:
+                norm = _normalize_tm_event(ev, window_name)
+                all_normalized.append(norm)
 
-    # Dedupe across all windows (we keep window info in each event)
-    deduped_events = dedupe_events(normalized_events)
-    print(f"\n✓ After deduplication, events count: {len(deduped_events)}")
-
-    # Per window: sort by score, take top N, run AI refinement
-    for window_name in WINDOWS.keys():
-        window_events = [e for e in deduped_events if e["window"] == window_name]
-        window_events_sorted = sorted(
-            window_events,
-            key=lambda e: e["score"],
-            reverse=True
+    # Convert NormalizedEvent dataclasses to dicts and score them
+    enriched: List[Dict[str, Any]] = []
+    for ne in all_normalized:
+        ev_dict = {
+            "id": ne.id,
+            "name": ne.name,
+            "primary_artist": ne.primary_artist,
+            "url": ne.url,
+            "city": ne.city,
+            "state": ne.state,
+            "country": ne.country,
+            "venue_name": ne.venue_name,
+            "local_date": ne.local_date,
+            "start_datetime": ne.start_datetime,
+            "promoter_name": ne.promoter_name,
+            "window": ne.window,
+        }
+        sres = score_event(
+            {
+                **ev_dict,
+                "_embedded": ne.raw.get("_embedded") if isinstance(ne.raw, dict) else None,
+                "classifications": ne.raw.get("classifications") if isinstance(ne.raw, dict) else [],
+                "start_datetime": ne.start_datetime,
+            }
         )
+        ev_dict["score"] = sres.score
+        enriched.append(ev_dict)
 
-        pre_top_n = 200  # expanded AI input pool
-        candidates = window_events_sorted[:pre_top_n]
+    # De-duplicate by TM id
+    deduped = _dedupe_events(
+        [
+            NormalizedEvent(
+                id=e["id"],
+                name=e["name"],
+                primary_artist=e["primary_artist"],
+                url=e["url"],
+                city=e["city"],
+                state=e["state"],
+                country=e["country"],
+                venue_name=e["venue_name"],
+                local_date=e["local_date"],
+                start_datetime=e["start_datetime"],
+                promoter_name=e["promoter_name"],
+                window=e["window"],
+                score=e["score"],
+                raw={},
+            )
+            for e in enriched
+        ]
+    )
 
+    # Convert back to dicts with scores
+    deduped_dicts: List[Dict[str, Any]] = [
+        {
+            "id": ev.id,
+            "name": ev.name,
+            "primary_artist": ev.primary_artist,
+            "url": ev.url,
+            "city": ev.city,
+            "state": ev.state,
+            "country": ev.country,
+            "venue_name": ev.venue_name,
+            "local_date": ev.local_date,
+            "start_datetime": ev.start_datetime,
+            "promoter_name": ev.promoter_name,
+            "window": ev.window,
+            "score": ev.score,
+        }
+        for ev in deduped
+    ]
+
+    print(f"✓ After deduplication, events count: {len(deduped_dicts)}\n")
+
+    # Per-window AI refinement & collapsing
+    final_by_window: Dict[str, List[Dict[str, Any]]] = {}
+
+    for window_name in WINDOW_DEFS.keys():
+        window_events = [e for e in deduped_dicts if e["window"] == window_name]
+        window_events.sort(key=lambda e: e["score"], reverse=True)
+
+        pre_top_n = 200
+        candidates = window_events[:pre_top_n]
+        top_k = 20  # final number of rows we care about per window
+
+        print("==============================")
         print(
-            f"\n==============================\n"
             f"AI-refined top events for window '{window_name}' "
-            f"(from {len(window_events)} events, taking first {len(candidates)} for AI)\n"
-            f"=============================="
+            f"(from {len(window_events)} events, taking first {len(candidates)} for AI)"
+        )
+        print("==============================")
+
+        refined = refine_top_events_with_ai(
+            candidates,
+            window_name,
+            top_k=top_k,
+            max_items=pre_top_n,
+            debug=False,
         )
 
-        refined = refine_top_events_with_ai(candidates, window_name, top_k=20)
+        collapsed = _collapse_multi_night(refined)
+        final_by_window[window_name] = collapsed
 
-        for e in refined:
-            summarize_normalized_event(e)
+        # Print to console
+        for ev in collapsed:
+            date_str = _format_date_range(ev)
+            venue = ev.get("venue_name") or "Unknown venue"
+            city = ev.get("city") or ""
+            ai = ev.get("ai_priority")
+            multi = ""
+            if ev.get("multi_night"):
+                multi = f" [multi-night x{ev.get('night_count')}]"
+            ai_str = f" | AI {ai:.1f}" if isinstance(ai, (int, float)) and ai is not None else ""
+            print(
+                f" • [{ev.get('score'):.3f}{ai_str}] {date_str} — "
+                f"{ev.get('name')} @ {venue} ({city}){multi} [{window_name}]"
+            )
 
-    print("\n==============================")
-    print(f"Total normalized events before dedupe: {len(normalized_events)}")
-    print(f"Total normalized events after dedupe: {len(deduped_events)}")
+        print()
+
+    total_before = len(all_normalized)
+    total_after = sum(len(v) for v in final_by_window.values())
+    print("==============================")
+    print(f"Total normalized events before dedupe: {total_before}")
+    print(f"Total collapsed editorial picks after AI: {total_after}")
     print("==============================\n")
-    print("Test complete.\n")
+
+    # Load known events from previous runs
+    print("Loading known events state...")
+    known_events = _load_known_events()
+    for window in WINDOW_DEFS.keys():
+        if window not in known_events:
+            known_events[window] = {}
+    print(f"✓ Loaded {sum(len(v) for v in known_events.values())} known events from previous runs\n")
+
+    # Track new events and update state
+    new_by_window: Dict[str, List[Dict[str, Any]]] = {}
+    run_date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+
+    print("Identifying new events...")
+    for window_name, events in final_by_window.items():
+        # Build set of current event keys in this window
+        current_keys = {_event_key(ev) for ev in events if _event_key(ev)}
+        
+        # Remove events that are no longer in the current window (cleanup old entries)
+        old_keys = set(known_events[window_name].keys())
+        removed_keys = old_keys - current_keys
+        if removed_keys:
+            for key in removed_keys:
+                del known_events[window_name][key]
+            print(f"  {window_name}: Removed {len(removed_keys)} events that are no longer in window")
+        
+        # Identify new events
+        new_events = []
+        for ev in events:
+            key = _event_key(ev)
+            if key and key not in known_events[window_name]:
+                new_events.append(ev)
+                # Add to known events with current run date
+                known_events[window_name][key] = run_date
+        
+        new_by_window[window_name] = new_events
+        print(f"  {window_name}: {len(new_events)} new out of {len(events)} total")
+    
+    print()
+
+    # Save updated known events state
+    _save_known_events(known_events)
+    print()
+
+    # Exports - Full feeds
+    print("Exporting full feeds...")
+    for window_name, events in final_by_window.items():
+        _export_json(window_name, events)
+        _export_csv(window_name, events)
+        _export_rss(window_name, events)
+        _export_digest(window_name, events)
+    print()
+
+    # Exports - New-only feeds
+    print("Exporting new-only feeds...")
+    for window_name, new_events in new_by_window.items():
+        _export_new_only_json(window_name, new_events)
+        _export_new_only_digest(window_name, new_events)
+    print()
 
 
 if __name__ == "__main__":

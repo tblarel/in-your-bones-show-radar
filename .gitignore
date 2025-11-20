@@ -5,6 +5,7 @@ creds.json
 .tm_cache/
 
 *.log
+output.txt
 __pycache__/
 *.pyc
 keys_64.py

@@ -1,0 +1,141 @@
+[
+  {
+    "id": "G5vYZbgD1f1IU",
+    "ids": [
+      "G5vYZbgD1f1IU"
+    ],
+    "name": "The Neighbourhood: THE WOURLD TOUR",
+    "primary_artist": "The Neighbourhood",
+    "venue_name": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-san-francisco-california-10-07-2026/event/1C00635ECA50AA36",
+    "window": "far_out",
+    "local_date": "2026-10-07",
+    "start_datetime": "2026-10-08T02:30:00+00:00",
+    "date_start": "2026-10-08T02:30:00+00:00",
+    "date_end": "2026-10-08T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6369999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Jeff Tweedy's solo performances are intimate and showcase his songwriting prowess, appealing to indie music fans."
+  },
+  {
+    "id": "G5vYZbg9ir1-u",
+    "ids": [
+      "G5vYZbg9ir1-u"
+    ],
+    "name": "RUSH: Fifty Something",
+    "primary_artist": "RUSH",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/rush-fifty-something-san-jose-california-10-17-2026/event/1C006355EC78A84D",
+    "window": "far_out",
+    "local_date": "2026-10-17",
+    "start_datetime": "2026-10-18T02:30:00+00:00",
+    "date_start": "2026-10-18T02:30:00+00:00",
+    "date_end": "2026-10-18T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6459999999999999,
+    "ai_priority": 5,
+    "ai_reason": "RUSH's upcoming shows are a celebration of their legacy, appealing to classic rock enthusiasts."
+  },
+  {
+    "id": "G5vYZbgRAp1vf",
+    "ids": [
+      "G5vYZbgRAp1vf"
+    ],
+    "name": "O.A.R. Three Decades Tour",
+    "primary_artist": "O.A.R.",
+    "venue_name": "The Masonic",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/oar-three-decades-tour-san-francisco-california-08-12-2026/event/1C00635BC558A054",
+    "window": "far_out",
+    "local_date": "2026-08-12",
+    "start_datetime": "2026-08-13T01:30:00+00:00",
+    "date_start": "2026-08-13T01:30:00+00:00",
+    "date_end": "2026-08-13T01:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.631,
+    "ai_priority": 5,
+    "ai_reason": "Melody's Echo Chamber's unique sound and captivating performances are sure to resonate with indie music lovers."
+  },
+  {
+    "id": "G5vYZbgwznyjQ",
+    "ids": [
+      "G5vYZbgwznyjQ"
+    ],
+    "name": "Father John Misty 3/24",
+    "primary_artist": "Father John Misty",
+    "venue_name": "The Castro Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/father-john-misty-324-san-francisco-california-03-24-2026/event/1C00635CB8AB971A",
+    "window": "far_out",
+    "local_date": "2026-03-24",
+    "start_datetime": "2026-03-25T03:00:00+00:00",
+    "date_start": "2026-03-25T03:00:00+00:00",
+    "date_end": "2026-03-25T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.58,
+    "ai_priority": 5,
+    "ai_reason": "Tycho's atmospheric sound and immersive live shows create a unique experience for electronic music fans."
+  },
+  {
+    "id": "G5vYZbUQtyhrc",
+    "ids": [
+      "G5vYZbUQtyhrc"
+    ],
+    "name": "Maddox Batson: Live Worldwide Tour",
+    "primary_artist": "Maddox Batson",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/maddox-batson-live-worldwide-tour-san-francisco-california-04-04-2026/event/1C006366A9E5B7AD",
+    "window": "far_out",
+    "local_date": "2026-04-04",
+    "start_datetime": "2026-04-05T03:00:00+00:00",
+    "date_start": "2026-04-05T03:00:00+00:00",
+    "date_end": "2026-04-05T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.5740000000000001,
+    "ai_priority": 5,
+    "ai_reason": "Olivia Dean's soulful sound and storytelling ability make her performances a must-see for R&B fans."
+  },
+  {
+    "id": "G5vYZbs0KVflb",
+    "ids": [
+      "G5vYZbs0KVflb",
+      "G5vYZbsn2Ysxo"
+    ],
+    "name": "Ariana Grande - The Eternal Sunshine Tour",
+    "primary_artist": "Ariana Grande",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-oakland-california-06-06-2026/event/1C00631913D14AD8",
+    "window": "far_out",
+    "local_date": "2026-06-06",
+    "start_datetime": "2026-06-07T03:00:00+00:00",
+    "date_start": "2026-06-07T03:00:00+00:00",
+    "date_end": "2026-06-10T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
+    "score": 0.6489999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  }
+]

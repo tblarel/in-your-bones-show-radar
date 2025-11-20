@@ -1,241 +1,252 @@
-# scoring.py
+"""
+scoring.py
+
+Heuristics for scoring Ticketmaster events for InYourBones show radar.
+
+The goal is to assign each event a base numeric score in [0, 1] that reflects
+how compelling it is for coverage, before any AI reranking happens.
+
+This module is intentionally self-contained and does NOT call any external APIs.
+"""
+
+from __future__ import annotations
+
+from dataclasses import dataclass
 from datetime import datetime, timezone
+from typing import Dict, Any, Optional
 
-# Rough venue tiers (0–1.0) based on size / prestige / how interesting they are for you.
-VENUE_TIERS = {
-    # SF
-    "Chase Center": 1.0,
-    "Chase Center - Thrive City": 0.9,
-    "Bill Graham Civic Auditorium": 0.9,
-    "Warfield": 0.9,
-    "The Warfield": 0.9,
-    "The Masonic": 0.85,
-    "The Fillmore": 0.85,
-    "The Independent": 0.8,
-    "Great American Music Hall": 0.8,
-    "Bimbo's 365 Club": 0.8,
-    "The Regency Ballroom": 0.8,
-    "The UC Theatre": 0.8,
-    "Rickshaw Stop": 0.7,
-    "Neck of the Woods": 0.6,
-    "Brick and Mortar Music Hall": 0.6,
-    "Cafe Du Nord": 0.7,
-    "The Chapel": 0.7,
+# ---------------------------
+# Venue tiers & weights
+# ---------------------------
 
-    # Oakland
-    "Fox Theater - Oakland": 0.9,
-    "Oakland Arena": 0.95,
-    "Paramount Theatre Oakland": 0.85,
-    "Crybaby": 0.7,
-    "Yoshi's Oakland": 0.7,
+# Rough tiers for common Bay Area venues. 
+VENUE_TIERS: Dict[str, float] = {
+    # --- ARENAS / STADIUMS ---
+    "chase center": 1.00,
+    "oakland arena": 0.98,
+    "sap center": 0.97,
+    "sap center at san jose": 0.97,
+    "levis stadium": 0.97,
+    "levi's stadium": 0.97,
 
-    # Berkeley
-    "Greek Theatre-U.C. Berkeley": 0.9,
-    "Cornerstone - CA": 0.7,
+    # --- LARGE AMPHITHEATERS / OUTDOOR ---
+    "shoreline amphitheatre": 0.96,
+    "greek theatre-uc berkeley": 0.96,
+    "greek theatre": 0.96,
+    "frost amphitheater": 0.94,
+    "mountain winery": 0.93,
+    "concord pavilion": 0.93,
+    "toyota pavilion at concord": 0.93,
 
-    # South Bay / SC
-    "SAP Center at San Jose": 0.95,
-    "San Jose Civic": 0.8,
-    "San Jose Center for the Performing Arts": 0.75,
-    "The Ritz": 0.7,
-    "Levi's® Stadium": 1.0,
+    # --- LARGE THEATERS / CIVIC ---
+    "bill graham civic auditorium": 0.94,
+    "san jose civic": 0.92,
+    "san jose center for the performing arts": 0.91,
+    "paramount theatre oakland": 0.91,
+    "palace of fine arts": 0.90,
+    "davies symphony hall": 0.90,
+    "war memorial opera house": 0.90,
 
-    # Shoreline / Napa / Concord
-    "Shoreline Amphitheatre": 0.9,
-    "Blue Note Napa": 0.7,
-    "Uptown Theatre Napa": 0.8,
-    "Toyota Pavilion at Concord": 0.9,
+    # --- MARQUEE CLUBS / A-TIER CLUBS ---
+    "the fillmore": 0.93,
+    "warfield": 0.93,
+    "the warfield": 0.93,
+    "fox theater - oakland": 0.93,
+    "fox theatre - oakland": 0.93,
+    "fox theater": 0.93,
+    "the masonic": 0.92,
+    "the regency ballroom": 0.91,
+    "regency ballroom": 0.91,
+    "uc theatre": 0.89,
+    "the uc theatre": 0.89,
+    "great american music hall": 0.89,
+    "gamh": 0.89,
+    "august hall": 0.88,
+    "bimbo's 365 club": 0.88,
+    "bimbos 365 club": 0.88,
+    "bimbo's": 0.88,
 
-    # Fallback
-    "Unknown Venue": 0.4,
+    # --- STRONG CLUBS / B-TIER CLUBS ---
+    "the independent": 0.88,
+    "independent": 0.88,
+    "the chapel": 0.85,
+    "the new parish": 0.84,
+    "new parish": 0.84,
+    "sweetwater music hall": 0.84,
+    "sweetwater": 0.84,
+    "cornerstone berkeley": 0.83,
+    "cornerstone": 0.83,
+
+    # High-cred but small
+    "bottom of the hill": 0.82,
+
+    # --- INTIMATE / SMALL MUSIC ROOMS ---
+    "rickshaw stop": 0.82,
+    "cafe du nord": 0.81,
+    "brick & mortar music hall": 0.80,
+    "brick and mortar music hall": 0.80,
+    "neck of the woods": 0.79,
+    "the lost church - san francisco": 0.79,
+    "the lost church": 0.79,
+    "boom boom room": 0.78,
+    "music city san francisco": 0.78,
+    "the make-out room": 0.77,
+    "make-out room": 0.77,
+
+    # --- NAPA / NORTH BAY ---
+    "uptown theatre napa": 0.86,
+    "blue note napa": 0.84,
 }
 
-# Genre preference weights (0–1.0). Tune to your taste.
-GENRE_BOOST = {
-    "Rock": 1.0,
-    "Alternative": 0.90,
-    "Indie": 0.85,
-    "Indie Rock": 0.90,
-    "Pop": 0.95,
-    "Pop Rock": 0.95,
-    "Hip-Hop/Rap": 0.95,
-    "Hip-Hop": 0.95,
-    "Rap": 0.95,
-    "R&B": 0.8,
-    "Electronic": 0.95,
-    "Dance/Electronic": 0.95,
-    "Reggae": 0.8,
-    "Punk": 0.8,
 
-    # Stuff you likely care less about for IYB
-    "Country": 0.7,
-    "Classical": 0.1,
-    "Jazz": 0.1,
-    "Comedy": 0.0,
+DEFAULT_VENUE_WEIGHT = 0.75
+
+
+def _normalize_key(value: Optional[str]) -> str:
+    if not value:
+        return ""
+    return value.strip().lower()
+
+
+def venue_weight(name: Optional[str]) -> float:
+    key = _normalize_key(name)
+    if not key:
+        return DEFAULT_VENUE_WEIGHT
+    for known, w in VENUE_TIERS.items():
+        if known in key:
+            return w
+    return DEFAULT_VENUE_WEIGHT
+
+
+# ---------------------------
+# Genre / classification fit
+# ---------------------------
+
+GENRE_HINTS = {
+    "pop": 1.0,
+    "rock": 1.0,
+    "indie": 1.0,
+    "alternative": 1.0,
+    "alt": 1.0,
+    "hip hop": 0.9,
+    "hip-hop": 0.9,
+    "rap": 0.9,
+    "electronic": 0.85,
+    "edm": 0.85,
+    "reggae": 0.85,
+    "country": 0.80,
+    "latin": 0.80,
+    "metal": 0.75,
+    "comedy": 0.3,   # de-prioritize non-music
 }
 
-# Very rough promoter “weights” based on how good they are for press / access / relevance.
-# This is substring-based, so "Goldenvoice Presents" etc will match.
-PROMOTER_KEYWORDS = {
-    "goldenvoice": 1.0,
-    "live nation": 0.95,
-    "another planet": 0.9,
-    "ape": 0.9,  # Another Planet shorthand sometimes
-    "chase center": 0.85,
-    "oakland arena": 0.85,
-    "sap center": 0.85,
-}
 
-
-def get_venue_tier(name: str) -> float:
-    if not name:
-        return VENUE_TIERS["Unknown Venue"]
-    return VENUE_TIERS.get(name, VENUE_TIERS["Unknown Venue"])
-
-
-def get_genre_fit(name: str | None) -> float:
-    if not name:
-        return 0.6  # neutral-ish default
-    return GENRE_BOOST.get(name, 0.6)
-
-
-def get_promoter_weight(promoter_name: str | None, venue_name: str | None = None) -> float:
+def genre_fit(event: Dict[str, Any]) -> float:
     """
-    Crude guess at how 'good' the promoter is for you.
-
-    - Boost Goldenvoice / Live Nation / Another Planet.
-    - If promoter is unknown but the venue is very big (Chase, Oakland Arena, SAP),
-      assume a decent promoter weight.
+    Very lightweight genre fit based on Ticketmaster 'classifications'.
     """
-    base = 0.5  # neutral default
+    classes = event.get("classifications") or []
+    texts = []
+    for c in classes:
+        for key in ("genre", "subGenre", "segment", "subType", "type"):
+            obj = c.get(key)
+            if isinstance(obj, dict):
+                name = obj.get("name")
+                if name:
+                    texts.append(str(name).lower())
 
-    if promoter_name:
-        p = promoter_name.lower()
-        best = base
-        for kw, w in PROMOTER_KEYWORDS.items():
-            if kw in p:
-                best = max(best, w)
-        if best != base:
-            return best
+    if not texts:
+        return 0.8  # neutral if unknown
 
-    # No known promoter string – infer from venue
-    venue_tier = get_venue_tier(venue_name or "")
-    if venue_tier >= 0.95:
-        return 0.85
-    if venue_tier >= 0.9:
-        return 0.8
-    if venue_tier >= 0.8:
-        return 0.7
-
-    return base
+    best = 0.7
+    for text in texts:
+        for hint, weight in GENRE_HINTS.items():
+            if hint in text:
+                best = max(best, weight)
+    return best
 
 
-def date_bonus(event) -> float:
+# ---------------------------
+# Date proximity bonus
+# ---------------------------
+
+def date_proximity_bonus(dt: Optional[datetime], now: Optional[datetime] = None) -> float:
     """
-    Reward events that are in a "sweet spot" depending on window.
-    Returns 0–1.
+    Gives a small bonus for nearer-term shows.
+    0.0 for >= 365 days away, ~0.1 for very soon.
     """
-    date = event.get("date")
-    if not date:
+    if dt is None:
         return 0.0
+    if now is None:
+        now = datetime.now(timezone.utc)
 
-    now = datetime.now(timezone.utc)
-    days = (date - now).days
-    window = event.get("window")
-
-    if window == "short_term":
-        # Sweet spot: ~30–90 days from now
-        if 30 <= days <= 90:
-            return 1.0
-        # 14–30 days: still okay, smaller bonus
-        if 14 <= days < 30:
-            return 0.7
-        # 90–120 days: trailing off
-        if 90 < days <= 120:
-            return 0.6
-        return 0.3  # still something, but less ideal
-
-    if window == "far_out":
-        # Sweet spot: closer to the start of the far-out window (big tours just announced)
-        if 120 <= days <= 200:
-            return 1.0
-        if 200 < days <= 280:
-            return 0.7
-        if 280 < days <= 365:
-            return 0.5
-        return 0.2
-
-    # Fallback
-    return 0.5
+    delta_days = (dt - now).days
+    if delta_days < 0:
+        return -0.2  # in the past, strongly down-weight
+    if delta_days <= 7:
+        return 0.10
+    if delta_days <= 30:
+        return 0.08
+    if delta_days <= 120:
+        return 0.05
+    if delta_days <= 365:
+        return 0.02
+    return 0.0
 
 
-def editorial_fit_score(event) -> float:
+# ---------------------------
+# Public API
+# ---------------------------
+
+@dataclass
+class ScoreResult:
+    score: float
+    components: Dict[str, float]
+
+
+def score_event(event: Dict[str, Any]) -> ScoreResult:
     """
-    Heuristic "editorial fit" for InYourBones.live – 0–1.
+    Compute a base numeric score in [0, 1] for an event.
 
-    Things that help:
-    - Strong venue tier (warfield/fox/fillmore/independent/arenas/stadiums/etc).
-    - Genres you like (rock/alt/pop/electronic/hip-hop/etc).
-    - Core cities (SF / Oakland / Berkeley).
-    - Festivals / obviously photogenic shows.
+    We combine:
+      - venue weight
+      - genre fit
+      - date proximity
     """
-    venue_tier = get_venue_tier(event.get("venue"))
-    genre_fit = get_genre_fit(event.get("genre_primary"))
-    city = (event.get("city") or "").lower()
-    name = (event.get("artist_primary") or event.get("name") or "").lower()
-
-    score = 0.4  # base
-
-    # Venue impact
-    if venue_tier >= 0.9:
-        score += 0.25
-    elif venue_tier >= 0.8:
-        score += 0.18
-    elif venue_tier >= 0.7:
-        score += 0.1
-
-    # Genre impact
-    if genre_fit >= 0.9:
-        score += 0.25
-    elif genre_fit >= 0.75:
-        score += 0.15
-
-    # Core city: SF/Oakland/Berkeley
-    if city in ("san francisco", "oakland", "berkeley"):
-        score += 0.05
-
-    # Festivals / big productions
-    if "festival" in name or "fest " in name or "fest" == name.strip():
-        score += 0.1
-
-    # Clamp
-    return float(max(0.0, min(1.0, score)))
-
-
-def score_event(event) -> float:
-    """
-    Compute a 0–1+ score combining:
-    - venue tier
-    - genre fit
-    - editorial fit
-    - promoter weight
-    - date bonus for the given window
-
-    This is intentionally simple & tweakable.
-    """
-    venue_tier = get_venue_tier(event.get("venue"))
-    genre_fit = get_genre_fit(event.get("genre_primary"))
-    d_bonus = date_bonus(event)
-    promoter_w = get_promoter_weight(event.get("promoter_name"), event.get("venue"))
-    ed_fit = editorial_fit_score(event)
-
-    # Weighting – adjust as you like
-    score = (
-        0.30 * venue_tier +
-        0.20 * genre_fit +
-        0.20 * ed_fit +
-        0.15 * promoter_w +
-        0.15 * d_bonus
+    # Venue
+    v_name = event.get("venue_name") or (
+        (event.get("_embedded") or {}).get("venues", [{}])[0].get("name")
+        if isinstance(event.get("_embedded"), dict)
+        else None
     )
+    v_weight = venue_weight(v_name)
 
-    return float(round(score, 3))
+    # Genre
+    g_weight = genre_fit(event)
+
+    # Date
+    dt = event.get("start_datetime") or event.get("date")
+    if isinstance(dt, str):
+        try:
+            dt = datetime.fromisoformat(dt.replace("Z", "+00:00"))
+        except Exception:
+            dt = None
+    d_bonus = date_proximity_bonus(dt)
+
+    # Combine
+    base = 0.5
+    score = base
+    score += 0.3 * (v_weight - 0.75)  # venue swings ±0.075
+    score += 0.3 * (g_weight - 0.8)   # genre swings ±0.06
+    score += d_bonus                  # date can add up to 0.1
+
+    score = max(0.0, min(1.0, score))
+
+    components = {
+        "venue_weight": v_weight,
+        "genre_fit": g_weight,
+        "date_bonus": d_bonus,
+        "base": base,
+    }
+    return ScoreResult(score=score, components=components)
+    
