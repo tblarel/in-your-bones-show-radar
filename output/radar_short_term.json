@@ -19,8 +19,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.7149999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Kelly Chen is a major pop star with a dedicated following, making her upcoming live show a highly anticipated event."
+    "ai_priority": 9,
+    "ai_reason": "Kelly Chen is a prominent figure in the Asian pop scene, and her live performances are known for their high energy and emotional depth."
   },
   {
     "id": "G5vYZbVDB7G0v",
@@ -43,77 +43,7 @@
     "night_count": 1,
     "score": 0.7059999999999998,
     "ai_priority": 8,
-    "ai_reason": "Not So Silent Night features a lineup of popular alt-rock acts, promising a vibrant festival atmosphere."
-  },
-  {
-    "id": "G5vYZbm1Qa7N_",
-    "ids": [
-      "G5vYZbm1Qa7N_",
-      "G5vYZbm1Qa004"
-    ],
-    "name": "KATSEYE: THE BEAUTIFUL CHAOS TOUR",
-    "primary_artist": "KATSEYE",
-    "venue_name": "The Theater at Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/katseye-the-beautiful-chaos-tour-san-francisco-california-12-05-2025/event/1C0062E29A2448D9",
-    "window": "short_term",
-    "local_date": "2025-12-05",
-    "start_datetime": "2025-12-06T04:00:00+00:00",
-    "date_start": "2025-12-06T04:00:00+00:00",
-    "date_end": "2025-12-07T04:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.6969999999999998,
-    "ai_priority": 7,
-    "ai_reason": "KATSEYE is gaining traction with their unique sound and engaging live performances, making this tour noteworthy."
-  },
-  {
-    "id": "G5vYZblczw8D7",
-    "ids": [
-      "G5vYZblczw8D7"
-    ],
-    "name": "Public Service Broadcasting North American Tour 2025",
-    "primary_artist": "Public Service Broadcasting",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/public-service-broadcasting-north-american-tour-san-francisco-california-12-03-2025/event/1C0062BB78C90EC4",
-    "window": "short_term",
-    "local_date": "2025-12-03",
-    "start_datetime": "2025-12-04T04:00:00+00:00",
-    "date_start": "2025-12-04T04:00:00+00:00",
-    "date_end": "2025-12-04T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 7,
-    "ai_reason": "Public Service Broadcasting is known for their innovative live shows that blend music and visuals, making this a must-see."
-  },
-  {
-    "id": "Z7r9jZ1A7bw4O",
-    "ids": [
-      "Z7r9jZ1A7bw4O"
-    ],
-    "name": "Motion City Soundtrack w/ Say Anything",
-    "primary_artist": "Motion City Soundtrack",
-    "venue_name": "Warfield",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7bw4O",
-    "window": "short_term",
-    "local_date": "2025-12-05",
-    "start_datetime": "2025-12-06T03:30:00+00:00",
-    "date_start": "2025-12-06T03:30:00+00:00",
-    "date_end": "2025-12-06T03:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 7,
-    "ai_reason": "Motion City Soundtrack and Say Anything are both beloved bands with strong fanbases, ensuring a nostalgic and energetic show."
+    "ai_reason": "Not So Silent Night features a mix of popular alt and indie acts, making it a highly anticipated event in the Bay Area music scene."
   },
   {
     "id": "G5vYZbnjKoke0",
@@ -135,8 +65,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
-    "ai_priority": 7,
-    "ai_reason": "The Mountain Goats have a reputation for captivating live performances and a dedicated following, making this a standout event."
+    "ai_priority": 8,
+    "ai_reason": "The Mountain Goats have a cult following and are known for their engaging live shows, making this a must-see performance."
   },
   {
     "id": "G5vYZbmnrw7y2",
@@ -158,8 +88,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
-    "ai_priority": 7,
-    "ai_reason": "Couch is an emerging act with a fresh sound, making their show at The Fillmore an exciting opportunity for fans."
+    "ai_priority": 8,
+    "ai_reason": "Couch's BIG TALK Tour is generating buzz with their unique sound and energetic performances."
   },
   {
     "id": "G5vYZbmT_d7hi",
@@ -181,123 +111,31 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
+    "ai_priority": 8,
+    "ai_reason": "Waterparks is known for their dynamic live shows and strong fan engagement, making this tour highly anticipated."
+  },
+  {
+    "id": "G5vYZbRJsBgFH",
+    "ids": [
+      "G5vYZbRJsBgFH"
+    ],
+    "name": "The Allman Betts Family Revival",
+    "primary_artist": "The Allman Betts Family Revival",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-allman-betts-family-revival-san-francisco-california-12-21-2025/event/1C0062F9B1EB523C",
+    "window": "short_term",
+    "local_date": "2025-12-21",
+    "start_datetime": "2025-12-22T04:00:00+00:00",
+    "date_start": "2025-12-22T04:00:00+00:00",
+    "date_end": "2025-12-22T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.694,
     "ai_priority": 7,
-    "ai_reason": "Waterparks is known for their energetic performances and strong connection with fans, making this tour highly anticipated."
-  },
-  {
-    "id": "G5vYZbSDkTfza",
-    "ids": [
-      "G5vYZbSDkTfza"
-    ],
-    "name": "Alice 97.3's Alice in Winterland: Alex Warren and Rob Thomas ",
-    "primary_artist": "Alex Warren",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/alice-973s-alice-in-winterland-alex-san-francisco-california-12-04-2025/event/1C00633EC6FD4E09",
-    "window": "short_term",
-    "local_date": "2025-12-04",
-    "start_datetime": "2025-12-05T04:00:00+00:00",
-    "date_start": "2025-12-05T04:00:00+00:00",
-    "date_end": "2025-12-05T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.691,
-    "ai_priority": 6,
-    "ai_reason": "Alex Warren and Rob Thomas bring a mix of pop and rock, appealing to a wide audience with their collaborative show."
-  },
-  {
-    "id": "G5vYZbnLnIVVV",
-    "ids": [
-      "G5vYZbnLnIVVV"
-    ],
-    "name": "Jorma Kaukonen's 85th Birthday",
-    "primary_artist": "Jorma Kaukonen",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/jorma-kaukonens-85th-birthday-san-francisco-california-12-05-2025/event/1C0062A7EAA34D34",
-    "window": "short_term",
-    "local_date": "2025-12-05",
-    "start_datetime": "2025-12-06T03:00:00+00:00",
-    "date_start": "2025-12-06T03:00:00+00:00",
-    "date_end": "2025-12-06T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.691,
-    "ai_priority": 6,
-    "ai_reason": "Jorma Kaukonen's birthday celebration is a unique event honoring a legendary musician, attracting dedicated fans."
-  },
-  {
-    "id": "G5vYZbsR04Vll",
-    "ids": [
-      "G5vYZbsR04Vll"
-    ],
-    "name": "Pink Martini All-Stars present A Season of Stars",
-    "primary_artist": "Pink Martini",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/pink-martini-allstars-present-a-season-san-francisco-california-12-06-2025/event/1C00631BE4574AEB",
-    "window": "short_term",
-    "local_date": "2025-12-06",
-    "start_datetime": "2025-12-07T04:00:00+00:00",
-    "date_start": "2025-12-07T04:00:00+00:00",
-    "date_end": "2025-12-07T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.691,
-    "ai_priority": 6,
-    "ai_reason": "Pink Martini's All-Stars present a themed concert that promises a diverse and engaging musical experience."
-  },
-  {
-    "id": "Z7r9jZ1A7qevg",
-    "ids": [
-      "Z7r9jZ1A7qevg"
-    ],
-    "name": "Yuri",
-    "primary_artist": "Yuri",
-    "venue_name": "San Jose Civic",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7qevg",
-    "window": "short_term",
-    "local_date": "2025-12-04",
-    "start_datetime": "2025-12-05T04:30:00+00:00",
-    "date_start": "2025-12-05T04:30:00+00:00",
-    "date_end": "2025-12-05T04:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.691,
-    "ai_priority": 6,
-    "ai_reason": "Yuri is a well-known artist in the Latin music scene, ensuring a vibrant and lively performance."
-  },
-  {
-    "id": "G5vYZbm68CJc0",
-    "ids": [
-      "G5vYZbm68CJc0"
-    ],
-    "name": "FLOW WORLD TOUR 2025 \"NARUTO THE ROCK\"",
-    "primary_artist": "FLOW",
-    "venue_name": "San Jose Civic",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/flow-world-tour-2025-naruto-the-san-jose-california-12-05-2025/event/1C0062E1D03A6B64",
-    "window": "short_term",
-    "local_date": "2025-12-05",
-    "start_datetime": "2025-12-06T05:00:00+00:00",
-    "date_start": "2025-12-06T05:00:00+00:00",
-    "date_end": "2025-12-06T05:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.691,
-    "ai_priority": 6,
-    "ai_reason": "FLOW's tour themed around 'Naruto' appeals to both anime fans and music lovers, creating a unique concert experience."
+    "ai_reason": "The Allman Betts Family Revival brings together a talented lineup that honors the legacy of the Allman Brothers, appealing to classic rock fans."
   },
   {
     "id": "G5vYZbRSLTk6V",
@@ -319,31 +157,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.691,
-    "ai_priority": 6,
-    "ai_reason": "NGHTMRE's Mindfull Tour promises an exciting electronic music experience with a strong visual component."
-  },
-  {
-    "id": "G5vYZbslEafQt",
-    "ids": [
-      "G5vYZbslEafQt"
-    ],
-    "name": "KEYLAND UNCANNY VALLEY",
-    "primary_artist": "Key",
-    "venue_name": "Paramount Theatre Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/keyland-uncanny-valley-oakland-california-12-05-2025/event/1C00631AE72546A9",
-    "window": "short_term",
-    "local_date": "2025-12-05",
-    "start_datetime": "2025-12-06T04:00:00+00:00",
-    "date_start": "2025-12-06T04:00:00+00:00",
-    "date_end": "2025-12-06T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.688,
-    "ai_priority": 6,
-    "ai_reason": "Key's Uncanny Valley show at the Paramount Theatre offers a unique blend of genres and a captivating live performance."
+    "ai_priority": 7,
+    "ai_reason": "NGHTMRE is a prominent name in electronic music, known for his high-energy performances that attract large crowds."
   },
   {
     "id": "G5vYZbw5DipJq",
@@ -365,8 +180,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6849999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Mike Campbell & The Dirty Knobs bring a classic rock vibe to a beautiful venue, appealing to a wide audience."
+    "ai_priority": 7,
+    "ai_reason": "Mike Campbell & The Dirty Knobs offer a unique blend of rock and storytelling, appealing to fans of classic rock."
   },
   {
     "id": "Z7r9jZ1A7jkGA",
@@ -388,49 +203,256 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6819999999999999,
-    "ai_priority": 6,
-    "ai_reason": "The Bouncing Souls and H2O are iconic punk bands, promising an energetic and nostalgic concert experience."
+    "ai_priority": 7,
+    "ai_reason": "The Bouncing Souls are a beloved punk band with a reputation for energetic live shows, making this a great pick for punk rock fans."
   },
   {
-    "id": "rZ7HnEZ1AK-f3f",
+    "id": "rZ7HnEZ1AKx770",
     "ids": [
-      "rZ7HnEZ1AK-f3f"
+      "rZ7HnEZ1AKx770"
     ],
-    "name": "Anna of the North",
-    "primary_artist": "Anna of the North",
+    "name": "The Aces",
+    "primary_artist": "The Aces",
+    "venue_name": "Bimbo's 365 Club",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/the-aces-bimbos-365-club-tickets/13884124",
+    "window": "short_term",
+    "local_date": "2025-12-07",
+    "start_datetime": "2025-12-08T04:00:00+00:00",
+    "date_start": "2025-12-08T04:00:00+00:00",
+    "date_end": "2025-12-08T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 7,
+    "ai_reason": "The Aces are rising stars in the indie pop scene, known for their catchy melodies and engaging live performances."
+  },
+  {
+    "id": "G5vYZbVDCeDA3",
+    "ids": [
+      "G5vYZbVDCeDA3"
+    ],
+    "name": "DK: Danity Kane",
+    "primary_artist": "Danity Kane",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/dk-danity-kane-san-francisco-california-12-09-2025/event/1C00634ECE0BB152",
+    "window": "short_term",
+    "local_date": "2025-12-09",
+    "start_datetime": "2025-12-10T04:00:00+00:00",
+    "date_start": "2025-12-10T04:00:00+00:00",
+    "date_end": "2025-12-10T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Danity Kane's reunion tour is generating nostalgia and excitement among fans of early 2000s pop."
+  },
+  {
+    "id": "rZ7HnEZ1AfCZPK",
+    "ids": [
+      "rZ7HnEZ1AfCZPK"
+    ],
+    "name": "Foxwarren",
+    "primary_artist": "Hannah Frances",
     "venue_name": "The Independent",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketweb.com/event/anna-of-the-north-the-independent-tickets/13854494",
+    "url": "https://www.ticketweb.com/event/foxwarren-the-independent-tickets/14380953",
     "window": "short_term",
-    "local_date": "2025-12-03",
-    "start_datetime": "2025-12-04T04:00:00+00:00",
-    "date_start": "2025-12-04T04:00:00+00:00",
-    "date_end": "2025-12-04T04:00:00+00:00",
+    "local_date": "2025-12-09",
+    "start_datetime": "2025-12-10T04:00:00+00:00",
+    "date_start": "2025-12-10T04:00:00+00:00",
+    "date_end": "2025-12-10T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Foxwarren's unique sound and storytelling make them an intriguing act for indie music fans."
+  },
+  {
+    "id": "1Ae0ZbxGkzJ2s5w",
+    "ids": [
+      "1Ae0ZbxGkzJ2s5w"
+    ],
+    "name": "Bear Vs. Shark, Hushmoney, Milly",
+    "primary_artist": "Bear Vs. Shark",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/bear-vs-shark-hushmoney-milly-august-hall-tickets/14160413?REFERRAL_ID=tmfeed",
+    "window": "short_term",
+    "local_date": "2025-12-10",
+    "start_datetime": "2025-12-11T04:00:00+00:00",
+    "date_start": "2025-12-11T04:00:00+00:00",
+    "date_end": "2025-12-11T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Bear Vs. Shark's return is highly anticipated by fans of the post-hardcore scene, promising an energetic show."
+  },
+  {
+    "id": "rZ7HnEZ1AfCv8d",
+    "ids": [
+      "rZ7HnEZ1AfCv8d"
+    ],
+    "name": "Post Animal",
+    "primary_artist": "Post Animal",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/post-animal-the-independent-tickets/14381403",
+    "window": "short_term",
+    "local_date": "2025-12-10",
+    "start_datetime": "2025-12-11T04:00:00+00:00",
+    "date_start": "2025-12-11T04:00:00+00:00",
+    "date_end": "2025-12-11T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Post Animal is gaining traction in the indie rock scene, known for their vibrant live performances."
+  },
+  {
+    "id": "rZ7HnEZ1AKOoff",
+    "ids": [
+      "rZ7HnEZ1AKOoff"
+    ],
+    "name": "The Frights",
+    "primary_artist": "The Frights",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/the-frights-the-independent-tickets/13811514",
+    "window": "short_term",
+    "local_date": "2025-12-12",
+    "start_datetime": "2025-12-13T05:00:00+00:00",
+    "date_start": "2025-12-13T05:00:00+00:00",
+    "date_end": "2025-12-13T05:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6789999999999999,
     "ai_priority": 6,
-    "ai_reason": "Anna of the North is an emerging indie pop artist with a growing fanbase, making her show at The Independent noteworthy."
+    "ai_reason": "The Frights are known for their fun and lively shows, appealing to fans of surf rock and indie pop."
   },
   {
-    "id": "rZ7HnEZ1AKOtfV",
+    "id": "G5vYZbVigeEX8",
     "ids": [
-      "rZ7HnEZ1AKOtfV"
+      "G5vYZbVigeEX8"
     ],
-    "name": "Sydney Rose",
-    "primary_artist": "Sydney Rose",
+    "name": "Plain White T's",
+    "primary_artist": "Plain White T's",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/plain-white-ts-san-francisco-california-12-19-2025/event/1C00634B350A7F90",
+    "window": "short_term",
+    "local_date": "2025-12-19",
+    "start_datetime": "2025-12-20T04:00:00+00:00",
+    "date_start": "2025-12-20T04:00:00+00:00",
+    "date_end": "2025-12-20T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Plain White T's have a nostalgic appeal and are known for their engaging live performances."
+  },
+  {
+    "id": "rZ7HnEZ1AKPfvf",
+    "ids": [
+      "rZ7HnEZ1AKPfvf"
+    ],
+    "name": "Donzii",
+    "primary_artist": "Donzii",
     "venue_name": "The Independent",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketweb.com/event/sydney-rose-the-independent-tickets/13829534",
+    "url": "https://www.ticketweb.com/event/donzii-the-independent-tickets/13954054",
     "window": "short_term",
-    "local_date": "2025-12-04",
-    "start_datetime": "2025-12-05T04:00:00+00:00",
-    "date_start": "2025-12-05T04:00:00+00:00",
-    "date_end": "2025-12-05T04:00:00+00:00",
+    "local_date": "2025-12-19",
+    "start_datetime": "2025-12-20T05:00:00+00:00",
+    "date_start": "2025-12-20T05:00:00+00:00",
+    "date_end": "2025-12-20T05:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Donzii's unique sound and energetic performances are gaining attention in the indie music scene."
+  },
+  {
+    "id": "rZ7HnEZ1AKxKZ7",
+    "ids": [
+      "rZ7HnEZ1AKxKZ7"
+    ],
+    "name": "Xavier Omär",
+    "primary_artist": "Xavier Omär",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/xavier-omr-the-independent-tickets/13893004",
+    "window": "short_term",
+    "local_date": "2025-12-20",
+    "start_datetime": "2025-12-21T05:00:00+00:00",
+    "date_start": "2025-12-21T05:00:00+00:00",
+    "date_end": "2025-12-21T05:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Xavier Omär's blend of R&B and hip-hop is resonating with audiences, making his shows highly anticipated."
+  },
+  {
+    "id": "G5vYZbwmm6d8A",
+    "ids": [
+      "G5vYZbwmm6d8A"
+    ],
+    "name": "DOPE SHOW PRESENTS CASH MONEY MILLIONAIRES 30TH ANNIVERSARY",
+    "primary_artist": "Cash Money Millionaires",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/dope-show-presents-cash-money-millionaires-oakland-california-12-12-2025/event/1C00632BAE1C3405",
+    "window": "short_term",
+    "local_date": "2025-12-12",
+    "start_datetime": "2025-12-13T03:00:00+00:00",
+    "date_start": "2025-12-13T03:00:00+00:00",
+    "date_end": "2025-12-13T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Cash Money Millionaires' anniversary show celebrates a significant era in hip-hop, attracting fans of the genre."
+  },
+  {
+    "id": "rZ7HnEZ1Afbz0d",
+    "ids": [
+      "rZ7HnEZ1Afbz0d"
+    ],
+    "name": "Orgōne",
+    "primary_artist": "Orgōne",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/orgne-the-independent-tickets/14638903",
+    "window": "short_term",
+    "local_date": "2025-12-18",
+    "start_datetime": "2025-12-19T04:00:00+00:00",
+    "date_start": "2025-12-19T04:00:00+00:00",
+    "date_end": "2025-12-19T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6789999999999999,
