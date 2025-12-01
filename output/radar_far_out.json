@@ -20,7 +20,7 @@
     "night_count": 1,
     "score": 0.6549999999999999,
     "ai_priority": 10,
-    "ai_reason": "Florence + The Machine is known for their powerful live performances and unique sound, making this a highly anticipated event."
+    "ai_reason": "Florence + The Machine is known for their powerful live performances and emotional depth, making this a must-see event."
   },
   {
     "id": "G5vYZbghDoDwP",
@@ -43,54 +43,7 @@
     "night_count": 1,
     "score": 0.6549999999999999,
     "ai_priority": 9,
-    "ai_reason": "Demi Lovato's tour promises an engaging experience, showcasing her evolution as an artist."
-  },
-  {
-    "id": "G5vYZbgfqCjqs",
-    "ids": [
-      "G5vYZbgfqCjqs"
-    ],
-    "name": "BAD OMENS - DO YOU FEEL LOVE NORTH AMERICAN TOUR",
-    "primary_artist": "Bad Omens",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/bad-omens-do-you-feel-love-oakland-california-03-27-2026/event/1C0063551D39C771",
-    "window": "far_out",
-    "local_date": "2026-03-27",
-    "start_datetime": "2026-03-28T02:00:00+00:00",
-    "date_start": "2026-03-28T02:00:00+00:00",
-    "date_end": "2026-03-28T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6489999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Bad Omens has been gaining traction in the alt-rock scene, making their tour an exciting opportunity for fans."
-  },
-  {
-    "id": "G5vYZbs0KVflb",
-    "ids": [
-      "G5vYZbs0KVflb",
-      "G5vYZbsn2Ysxo"
-    ],
-    "name": "Ariana Grande - The Eternal Sunshine Tour",
-    "primary_artist": "Ariana Grande",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-oakland-california-06-06-2026/event/1C00631913D14AD8",
-    "window": "far_out",
-    "local_date": "2026-06-06",
-    "start_datetime": "2026-06-07T03:00:00+00:00",
-    "date_start": "2026-06-07T03:00:00+00:00",
-    "date_end": "2026-06-10T03:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.6489999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Ariana Grande's tour is sure to attract a large following, showcasing her impressive vocal talent."
+    "ai_reason": "Demi Lovato's upcoming tour promises to showcase her growth as an artist and connect with fans on a personal level."
   },
   {
     "id": "G5vYZbUl6bjMh",
@@ -112,8 +65,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6549999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Meghan Trainor's tour is expected to deliver a fun and energetic performance."
+    "ai_priority": 8,
+    "ai_reason": "Meghan Trainor's tour is expected to feature her catchy pop hits and engaging stage presence."
   },
   {
     "id": "G5vYZbVTOJiVS",
@@ -136,8 +89,8 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.6459999999999999,
-    "ai_priority": 7,
-    "ai_reason": "RUSH's upcoming shows are a celebration of their legacy, attracting long-time fans."
+    "ai_priority": 8,
+    "ai_reason": "RUSH's upcoming shows are a chance to witness a legendary band in action, appealing to nostalgia and rock fans."
   },
   {
     "id": "G5vYZbU3R_nwH",
@@ -159,77 +112,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6459999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Three Days Grace is known for their high-energy performances, appealing to rock enthusiasts."
-  },
-  {
-    "id": "G5vYZbUlQbqyD",
-    "ids": [
-      "G5vYZbUlQbqyD"
-    ],
-    "name": "Johnny Marr",
-    "primary_artist": "Johnny Marr",
-    "venue_name": "Uptown Theatre Napa",
-    "city": "Napa",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/johnny-marr-napa-california-03-23-2026/event/1C00636ADA61DE7B",
-    "window": "far_out",
-    "local_date": "2026-03-23",
-    "start_datetime": "2026-03-24T03:00:00+00:00",
-    "date_start": "2026-03-24T03:00:00+00:00",
-    "date_end": "2026-03-24T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.643,
-    "ai_priority": 6,
-    "ai_reason": "Johnny Marr's reputation as a live performer adds significant value to this event."
-  },
-  {
-    "id": "G5vYZbgwgryKe",
-    "ids": [
-      "G5vYZbgwgryKe"
-    ],
-    "name": "Bob Moses & Cannons: Afterglow Tour",
-    "primary_artist": "Bob Moses",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/bob-moses-cannons-afterglow-tour-berkeley-california-07-17-2026/event/1C00635CB57B94C2",
-    "window": "far_out",
-    "local_date": "2026-07-17",
-    "start_datetime": "2026-07-18T02:30:00+00:00",
-    "date_start": "2026-07-18T02:30:00+00:00",
-    "date_end": "2026-07-18T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Bob Moses & Cannons are set to deliver a captivating electronic experience."
-  },
-  {
-    "id": "G5vYZbgpVwI0F",
-    "ids": [
-      "G5vYZbgpVwI0F"
-    ],
-    "name": "Rainbow Kitten Surprise: bones North American Tour",
-    "primary_artist": "Rainbow Kitten Surprise",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/rainbow-kitten-surprise-bones-north-american-berkeley-california-07-18-2026/event/1C006355B4CA8908",
-    "window": "far_out",
-    "local_date": "2026-07-18",
-    "start_datetime": "2026-07-19T03:00:00+00:00",
-    "date_start": "2026-07-19T03:00:00+00:00",
-    "date_end": "2026-07-19T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Rainbow Kitten Surprise is known for their engaging live shows and unique sound."
+    "ai_priority": 8,
+    "ai_reason": "Three Days Grace is known for their high-energy performances and dedicated fan base."
   },
   {
     "id": "G5vYZbgBhEbRe",
@@ -252,8 +136,54 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Jack Johnson's laid-back style and strong fan base make this a highly anticipated event."
+    "ai_priority": 8,
+    "ai_reason": "Jack Johnson's laid-back style and strong fan base make his shows a great experience for music lovers."
+  },
+  {
+    "id": "G5vYZbgpVwI0F",
+    "ids": [
+      "G5vYZbgpVwI0F"
+    ],
+    "name": "Rainbow Kitten Surprise: bones North American Tour",
+    "primary_artist": "Rainbow Kitten Surprise",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/rainbow-kitten-surprise-bones-north-american-berkeley-california-07-18-2026/event/1C006355B4CA8908",
+    "window": "far_out",
+    "local_date": "2026-07-18",
+    "start_datetime": "2026-07-19T03:00:00+00:00",
+    "date_start": "2026-07-19T03:00:00+00:00",
+    "date_end": "2026-07-19T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 8,
+    "ai_reason": "Rainbow Kitten Surprise is celebrated for their eclectic style and captivating live performances."
+  },
+  {
+    "id": "G5vYZbgwgryKe",
+    "ids": [
+      "G5vYZbgwgryKe"
+    ],
+    "name": "Bob Moses & Cannons: Afterglow Tour",
+    "primary_artist": "Bob Moses",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/bob-moses-cannons-afterglow-tour-berkeley-california-07-17-2026/event/1C00635CB57B94C2",
+    "window": "far_out",
+    "local_date": "2026-07-17",
+    "start_datetime": "2026-07-18T02:30:00+00:00",
+    "date_start": "2026-07-18T02:30:00+00:00",
+    "date_end": "2026-07-18T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Bob Moses & Cannons are known for their immersive live shows, blending electronic and rock elements."
   },
   {
     "id": "G5vYZbU3DGDUo",
@@ -275,54 +205,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6429999999999999,
-    "ai_priority": 5,
-    "ai_reason": "TRAIN's anniversary tour is likely to evoke nostalgia among fans of their classic hits."
-  },
-  {
-    "id": "G5vYZbVl6xQPM",
-    "ids": [
-      "G5vYZbVl6xQPM"
-    ],
-    "name": "LANY: Soft World Tour",
-    "primary_artist": "LANY",
-    "venue_name": "Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lany-soft-world-tour-san-francisco-california-04-03-2026/event/1C00634AC789A977",
-    "window": "far_out",
-    "local_date": "2026-04-03",
-    "start_datetime": "2026-04-04T02:30:00+00:00",
-    "date_start": "2026-04-04T02:30:00+00:00",
-    "date_end": "2026-04-04T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6369999999999999,
-    "ai_priority": 5,
-    "ai_reason": "LANY's indie-pop sound and growing popularity make their show a great pick."
-  },
-  {
-    "id": "G5vYZbSeOL3IZ",
-    "ids": [
-      "G5vYZbSeOL3IZ"
-    ],
-    "name": "RAYE - THIS TOUR MAY CONTAIN NEW MUSIC",
-    "primary_artist": "RAYE",
-    "venue_name": "The Theater at Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/raye-this-tour-may-contain-new-san-francisco-california-05-10-2026/event/1C006330A07D2A00",
-    "window": "far_out",
-    "local_date": "2026-05-10",
-    "start_datetime": "2026-05-11T03:00:00+00:00",
-    "date_start": "2026-05-11T03:00:00+00:00",
-    "date_end": "2026-05-11T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6369999999999999,
-    "ai_priority": 5,
-    "ai_reason": "RAYE's upcoming tour may include new music, generating excitement among fans."
+    "ai_priority": 7,
+    "ai_reason": "TRAIN's anniversary tour is a nostalgic trip for fans, celebrating their classic hits."
   },
   {
     "id": "G5vYZbgD1f1IU",
@@ -344,8 +228,54 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6369999999999999,
-    "ai_priority": 5,
-    "ai_reason": "Jeff Tweedy's solo performances are known for their intimate and engaging atmosphere."
+    "ai_priority": 7,
+    "ai_reason": "The Neighbourhood's unique sound and strong following make their shows a must-see."
+  },
+  {
+    "id": "G5vYZbVDFHBDS",
+    "ids": [
+      "G5vYZbVDFHBDS"
+    ],
+    "name": "VNV Nation - An Evening With",
+    "primary_artist": "VNV Nation",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/vnv-nation-an-evening-with-san-francisco-california-04-26-2026/event/1C00634EC8F3AEF3",
+    "window": "far_out",
+    "local_date": "2026-04-26",
+    "start_datetime": "2026-04-27T02:30:00+00:00",
+    "date_start": "2026-04-27T02:30:00+00:00",
+    "date_end": "2026-04-27T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 7,
+    "ai_reason": "VNV Nation's unique blend of electronic and rock makes their shows a captivating experience."
+  },
+  {
+    "id": "G5vYZbM1VTjOx",
+    "ids": [
+      "G5vYZbM1VTjOx"
+    ],
+    "name": "THE EARLY NOVEMBER & HELLOGOODBYE: 20 Years Young",
+    "primary_artist": "Hellogoodbye",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-early-november-hellogoodbye-20-years-san-francisco-california-04-01-2026/event/1C006372B4FDC822",
+    "window": "far_out",
+    "local_date": "2026-04-01",
+    "start_datetime": "2026-04-02T03:00:00+00:00",
+    "date_start": "2026-04-02T03:00:00+00:00",
+    "date_end": "2026-04-02T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 7,
+    "ai_reason": "The Early November & Hellogoodbye's anniversary tour promises a nostalgic experience for fans."
   },
   {
     "id": "G5vYZbUQtyhrc",
@@ -367,30 +297,78 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.5740000000000001,
-    "ai_priority": 5,
-    "ai_reason": "Olivia Dean's rising star status makes her show a noteworthy event."
+    "ai_priority": 7,
+    "ai_reason": "Maddox Batson's rising popularity and engaging performances make this a show to watch."
   },
   {
-    "id": "G5vYZbgwY0_eo",
+    "id": "rZ7HnEZ1Af_zbd",
     "ids": [
-      "G5vYZbgwY0_eo"
+      "rZ7HnEZ1Af_zbd"
     ],
-    "name": "AC/DC - POWER UP TOUR 2026 ",
-    "primary_artist": "AC/DC",
-    "venue_name": "Levi's® Stadium",
-    "city": "Santa Clara",
+    "name": "Quarters",
+    "primary_artist": "Telescreens",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/acdc-power-up-tour-2026-santa-clara-california-08-05-2026/event/1C00635CB0919091",
+    "url": "https://www.ticketweb.com/event/quarters-the-independent-tickets/14678603",
     "window": "far_out",
-    "local_date": "2026-08-05",
-    "start_datetime": "2026-08-06T02:00:00+00:00",
-    "date_start": "2026-08-06T02:00:00+00:00",
-    "date_end": "2026-08-06T02:00:00+00:00",
+    "local_date": "2026-03-30",
+    "start_datetime": "2026-03-31T03:00:00+00:00",
+    "date_start": "2026-03-31T03:00:00+00:00",
+    "date_end": "2026-03-31T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.505,
-    "ai_priority": 5,
-    "ai_reason": "Tycho's electronic music is perfect for a captivating live experience."
+    "score": 0.649,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZbs0KVflb",
+    "ids": [
+      "G5vYZbs0KVflb",
+      "G5vYZbsn2Ysxo",
+      "G5vYZbw38cMy6"
+    ],
+    "name": "Ariana Grande - The Eternal Sunshine Tour",
+    "primary_artist": "Ariana Grande",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-oakland-california-06-06-2026/event/1C00631913D14AD8",
+    "window": "far_out",
+    "local_date": "2026-06-06",
+    "start_datetime": "2026-06-07T03:00:00+00:00",
+    "date_start": "2026-06-07T03:00:00+00:00",
+    "date_end": "2026-06-11T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 3,
+    "score": 0.6489999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZbgfP2jiX",
+    "ids": [
+      "G5vYZbgfP2jiX"
+    ],
+    "name": "Lewis Capaldi",
+    "primary_artist": "Lewis Capaldi",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/lewis-capaldi-berkeley-california-05-03-2026/event/1C006355253DCB3E",
+    "window": "far_out",
+    "local_date": "2026-05-03",
+    "start_datetime": "2026-05-04T02:00:00+00:00",
+    "date_start": "2026-05-04T02:00:00+00:00",
+    "date_end": "2026-05-04T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": null,
+    "ai_reason": null
   }
 ]

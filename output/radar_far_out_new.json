@@ -1,9 +1,79 @@
 [
   {
+    "id": "G5vYZbVDFHBDS",
+    "ids": [
+      "G5vYZbVDFHBDS"
+    ],
+    "name": "VNV Nation - An Evening With",
+    "primary_artist": "VNV Nation",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/vnv-nation-an-evening-with-san-francisco-california-04-26-2026/event/1C00634EC8F3AEF3",
+    "window": "far_out",
+    "local_date": "2026-04-26",
+    "start_datetime": "2026-04-27T02:30:00+00:00",
+    "date_start": "2026-04-27T02:30:00+00:00",
+    "date_end": "2026-04-27T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 7,
+    "ai_reason": "VNV Nation's unique blend of electronic and rock makes their shows a captivating experience."
+  },
+  {
+    "id": "G5vYZbM1VTjOx",
+    "ids": [
+      "G5vYZbM1VTjOx"
+    ],
+    "name": "THE EARLY NOVEMBER & HELLOGOODBYE: 20 Years Young",
+    "primary_artist": "Hellogoodbye",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-early-november-hellogoodbye-20-years-san-francisco-california-04-01-2026/event/1C006372B4FDC822",
+    "window": "far_out",
+    "local_date": "2026-04-01",
+    "start_datetime": "2026-04-02T03:00:00+00:00",
+    "date_start": "2026-04-02T03:00:00+00:00",
+    "date_end": "2026-04-02T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 7,
+    "ai_reason": "The Early November & Hellogoodbye's anniversary tour promises a nostalgic experience for fans."
+  },
+  {
+    "id": "rZ7HnEZ1Af_zbd",
+    "ids": [
+      "rZ7HnEZ1Af_zbd"
+    ],
+    "name": "Quarters",
+    "primary_artist": "Telescreens",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/quarters-the-independent-tickets/14678603",
+    "window": "far_out",
+    "local_date": "2026-03-30",
+    "start_datetime": "2026-03-31T03:00:00+00:00",
+    "date_start": "2026-03-31T03:00:00+00:00",
+    "date_end": "2026-03-31T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.649,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
     "id": "G5vYZbs0KVflb",
     "ids": [
       "G5vYZbs0KVflb",
-      "G5vYZbsn2Ysxo"
+      "G5vYZbsn2Ysxo",
+      "G5vYZbw38cMy6"
     ],
     "name": "Ariana Grande - The Eternal Sunshine Tour",
     "primary_artist": "Ariana Grande",
@@ -16,80 +86,34 @@
     "local_date": "2026-06-06",
     "start_datetime": "2026-06-07T03:00:00+00:00",
     "date_start": "2026-06-07T03:00:00+00:00",
-    "date_end": "2026-06-10T03:00:00+00:00",
+    "date_end": "2026-06-11T03:00:00+00:00",
     "multi_night": true,
-    "night_count": 2,
+    "night_count": 3,
     "score": 0.6489999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Ariana Grande's tour is sure to attract a large following, showcasing her impressive vocal talent."
+    "ai_priority": null,
+    "ai_reason": null
   },
   {
-    "id": "G5vYZbUlQbqyD",
+    "id": "G5vYZbgfP2jiX",
     "ids": [
-      "G5vYZbUlQbqyD"
+      "G5vYZbgfP2jiX"
     ],
-    "name": "Johnny Marr",
-    "primary_artist": "Johnny Marr",
-    "venue_name": "Uptown Theatre Napa",
-    "city": "Napa",
+    "name": "Lewis Capaldi",
+    "primary_artist": "Lewis Capaldi",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/johnny-marr-napa-california-03-23-2026/event/1C00636ADA61DE7B",
+    "url": "https://www.ticketmaster.com/lewis-capaldi-berkeley-california-05-03-2026/event/1C006355253DCB3E",
     "window": "far_out",
-    "local_date": "2026-03-23",
-    "start_datetime": "2026-03-24T03:00:00+00:00",
-    "date_start": "2026-03-24T03:00:00+00:00",
-    "date_end": "2026-03-24T03:00:00+00:00",
+    "local_date": "2026-05-03",
+    "start_datetime": "2026-05-04T02:00:00+00:00",
+    "date_start": "2026-05-04T02:00:00+00:00",
+    "date_end": "2026-05-04T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.643,
-    "ai_priority": 6,
-    "ai_reason": "Johnny Marr's reputation as a live performer adds significant value to this event."
-  },
-  {
-    "id": "G5vYZbVl6xQPM",
-    "ids": [
-      "G5vYZbVl6xQPM"
-    ],
-    "name": "LANY: Soft World Tour",
-    "primary_artist": "LANY",
-    "venue_name": "Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lany-soft-world-tour-san-francisco-california-04-03-2026/event/1C00634AC789A977",
-    "window": "far_out",
-    "local_date": "2026-04-03",
-    "start_datetime": "2026-04-04T02:30:00+00:00",
-    "date_start": "2026-04-04T02:30:00+00:00",
-    "date_end": "2026-04-04T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6369999999999999,
-    "ai_priority": 5,
-    "ai_reason": "LANY's indie-pop sound and growing popularity make their show a great pick."
-  },
-  {
-    "id": "G5vYZbSeOL3IZ",
-    "ids": [
-      "G5vYZbSeOL3IZ"
-    ],
-    "name": "RAYE - THIS TOUR MAY CONTAIN NEW MUSIC",
-    "primary_artist": "RAYE",
-    "venue_name": "The Theater at Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/raye-this-tour-may-contain-new-san-francisco-california-05-10-2026/event/1C006330A07D2A00",
-    "window": "far_out",
-    "local_date": "2026-05-10",
-    "start_datetime": "2026-05-11T03:00:00+00:00",
-    "date_start": "2026-05-11T03:00:00+00:00",
-    "date_end": "2026-05-11T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6369999999999999,
-    "ai_priority": 5,
-    "ai_reason": "RAYE's upcoming tour may include new music, generating excitement among fans."
+    "score": 0.6429999999999999,
+    "ai_priority": null,
+    "ai_reason": null
   }
 ]
