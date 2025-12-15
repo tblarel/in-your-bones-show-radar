@@ -1,72 +1,26 @@
 [
   {
-    "id": "G5vYZbME8hBW0",
+    "id": "G5vYZbg5LSDFi",
     "ids": [
-      "G5vYZbME8hBW0"
+      "G5vYZbg5LSDFi"
     ],
-    "name": "FKA twigs Body High Tour: A live show with FKA twigs w/ Special Guests",
-    "primary_artist": "FKA twigs",
-    "venue_name": "Bill Graham Civic Auditorium",
+    "name": "Florence + The Machine - Everybody Scream Tour",
+    "primary_artist": "Florence + The Machine",
+    "venue_name": "Chase Center",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/fka-twigs-body-high-tour-a-san-francisco-california-04-07-2026/event/1C006379D06FAF64",
+    "url": "https://www.ticketmaster.com/florence-the-machine-everybody-scream-tour-san-francisco-california-05-15-2026/event/1C006352DFCFB22C",
     "window": "far_out",
-    "local_date": "2026-04-07",
-    "start_datetime": "2026-04-08T03:00:00+00:00",
-    "date_start": "2026-04-08T03:00:00+00:00",
-    "date_end": "2026-04-08T03:00:00+00:00",
+    "local_date": "2026-05-15",
+    "start_datetime": "2026-05-16T02:30:00+00:00",
+    "date_start": "2026-05-16T02:30:00+00:00",
+    "date_end": "2026-05-16T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6669999999999999,
+    "score": 0.6549999999999999,
     "ai_priority": 10,
-    "ai_reason": "FKA twigs is known for her innovative performances and unique sound, making this a highly anticipated show."
-  },
-  {
-    "id": "G5vYZbVSJPtsw",
-    "ids": [
-      "G5vYZbVSJPtsw"
-    ],
-    "name": "Sticky Fingers - Live in North America",
-    "primary_artist": "Sticky Fingers",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/sticky-fingers-live-in-north-america-san-francisco-california-04-06-2026/event/1C00634CE6969C72",
-    "window": "far_out",
-    "local_date": "2026-04-06",
-    "start_datetime": "2026-04-07T03:00:00+00:00",
-    "date_start": "2026-04-07T03:00:00+00:00",
-    "date_end": "2026-04-07T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.661,
-    "ai_priority": 9,
-    "ai_reason": "Sticky Fingers brings a blend of reggae and rock with a strong live reputation, promising an engaging performance."
-  },
-  {
-    "id": "G5vYZbz2qViLa",
-    "ids": [
-      "G5vYZbz2qViLa"
-    ],
-    "name": "NMIXX 1ST WORLD TOUR [EPISODE 1: ZERO FRONTIER] IN OAKLAND",
-    "primary_artist": "NMIXX",
-    "venue_name": "Paramount Theatre Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/nmixx-1st-world-tour-episode-1-oakland-california-04-07-2026/event/1C006383DDD2C7C9",
-    "window": "far_out",
-    "local_date": "2026-04-07",
-    "start_datetime": "2026-04-08T03:00:00+00:00",
-    "date_start": "2026-04-08T03:00:00+00:00",
-    "date_end": "2026-04-08T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.658,
-    "ai_priority": 8,
-    "ai_reason": "NMIXX is gaining traction in the K-pop scene, making their world tour a noteworthy event."
+    "ai_reason": "Florence + The Machine is known for their powerful live performances and emotional depth, making this a must-see event."
   },
   {
     "id": "G5vYZbghDoDwP",
@@ -88,60 +42,13 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6549999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Demi Lovato's tour is expected to showcase her powerful vocals and personal storytelling."
-  },
-  {
-    "id": "G5vYZbg5LSDFi",
-    "ids": [
-      "G5vYZbg5LSDFi"
-    ],
-    "name": "Florence + The Machine - Everybody Scream Tour",
-    "primary_artist": "Florence + The Machine",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/florence-the-machine-everybody-scream-tour-san-francisco-california-05-15-2026/event/1C006352DFCFB22C",
-    "window": "far_out",
-    "local_date": "2026-05-15",
-    "start_datetime": "2026-05-16T02:30:00+00:00",
-    "date_start": "2026-05-16T02:30:00+00:00",
-    "date_end": "2026-05-16T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Florence + The Machine is renowned for their captivating live shows, making this a must-see event."
-  },
-  {
-    "id": "G5vYZbUl6bjMh",
-    "ids": [
-      "G5vYZbUl6bjMh"
-    ],
-    "name": "Meghan Trainor: The Get In Girl Tour",
-    "primary_artist": "Meghan Trainor",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-san-francisco-california-08-08-2026/event/1C00636AC761CDDB",
-    "window": "far_out",
-    "local_date": "2026-08-08",
-    "start_datetime": "2026-08-09T01:30:00+00:00",
-    "date_start": "2026-08-09T01:30:00+00:00",
-    "date_end": "2026-08-09T01:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Meghan Trainor's tour promises to deliver her catchy pop hits in an energetic live setting."
+    "ai_priority": 9,
+    "ai_reason": "Demi Lovato's upcoming tour promises to showcase her growth as an artist and her strong connection with fans."
   },
   {
     "id": "G5vYZbs0KVflb",
     "ids": [
-      "G5vYZbs0KVflb",
-      "G5vYZbsn2Ysxo"
+      "G5vYZbs0KVflb"
     ],
     "name": "Ariana Grande - The Eternal Sunshine Tour",
     "primary_artist": "Ariana Grande",
@@ -154,12 +61,35 @@
     "local_date": "2026-06-06",
     "start_datetime": "2026-06-07T03:00:00+00:00",
     "date_start": "2026-06-07T03:00:00+00:00",
-    "date_end": "2026-06-10T03:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
+    "date_end": "2026-06-07T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
     "score": 0.6489999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Ariana Grande's tour is highly anticipated, featuring her impressive vocal range and fan-favorite tracks."
+    "ai_priority": 8,
+    "ai_reason": "Ariana Grande's tour is highly anticipated, with her impressive vocal abilities and engaging stage presence."
+  },
+  {
+    "id": "G5vYZbU3R_nwH",
+    "ids": [
+      "G5vYZbU3R_nwH"
+    ],
+    "name": "Three Days Grace - Alienation Tour ",
+    "primary_artist": "Three Days Grace",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-san-jose-california-11-18-2026/event/1C006364AF66ACBC",
+    "window": "far_out",
+    "local_date": "2026-11-18",
+    "start_datetime": "2026-11-19T03:00:00+00:00",
+    "date_start": "2026-11-19T03:00:00+00:00",
+    "date_end": "2026-11-19T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6459999999999999,
+    "ai_priority": 8,
+    "ai_reason": "Three Days Grace continues to resonate with fans, and their live shows are known for high energy and emotional intensity."
   },
   {
     "id": "G5vYZbVTOJiVS",
@@ -183,7 +113,7 @@
     "night_count": 2,
     "score": 0.6459999999999999,
     "ai_priority": 7,
-    "ai_reason": "RUSH's legacy continues to draw fans, making their upcoming shows a nostalgic experience."
+    "ai_reason": "RUSH's legacy and their ability to deliver a captivating performance make this a significant event for rock fans."
   },
   {
     "id": "G5vYZbgBhEbRe",
@@ -206,54 +136,54 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Jack Johnson's laid-back style and engaging performances make this a great summer show."
+    "ai_priority": 7,
+    "ai_reason": "Jack Johnson's laid-back style and strong fanbase promise a relaxing and enjoyable concert experience."
   },
   {
-    "id": "G5vYZbgwgryKe",
+    "id": "G5vYZbU3DGDUo",
     "ids": [
-      "G5vYZbgwgryKe"
+      "G5vYZbU3DGDUo"
     ],
-    "name": "Bob Moses & Cannons: Afterglow Tour",
-    "primary_artist": "Bob Moses",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
+    "name": "TRAIN - Drops of Jupiter: 25 Years in the Atmosphere",
+    "primary_artist": "Train",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/bob-moses-cannons-afterglow-tour-berkeley-california-07-17-2026/event/1C00635CB57B94C2",
+    "url": "https://www.ticketmaster.com/train-drops-of-jupiter-25-years-mountain-view-california-08-26-2026/event/1C006364BB33BD91",
     "window": "far_out",
-    "local_date": "2026-07-17",
-    "start_datetime": "2026-07-18T02:30:00+00:00",
-    "date_start": "2026-07-18T02:30:00+00:00",
-    "date_end": "2026-07-18T02:30:00+00:00",
+    "local_date": "2026-08-26",
+    "start_datetime": "2026-08-27T01:45:00+00:00",
+    "date_start": "2026-08-27T01:45:00+00:00",
+    "date_end": "2026-08-27T01:45:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6429999999999999,
     "ai_priority": 6,
-    "ai_reason": "Rainbow Kitten Surprise is known for their eclectic sound and dynamic live shows."
+    "ai_reason": "TRAIN's nostalgic hits and engaging live performances resonate with a wide audience."
   },
   {
-    "id": "G5vYZbMOBNAM5",
+    "id": "G5vYZbM91ksYq",
     "ids": [
-      "G5vYZbMOBNAM5"
+      "G5vYZbM91ksYq"
     ],
-    "name": "Seven Lions: Asleep in the Garden of Infernal Stars Tour",
-    "primary_artist": "Seven Lions",
+    "name": "Levity presents LASERSHIP (18+)",
+    "primary_artist": "Levity",
     "venue_name": "Bill Graham Civic Auditorium",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/seven-lions-asleep-in-the-garden-san-francisco-california-05-30-2026/event/1C0063783A8C5DCB",
+    "url": "https://www.ticketmaster.com/levity-presents-lasership-18-san-francisco-california-05-09-2026/event/1C006375CA1B1C1D",
     "window": "far_out",
-    "local_date": "2026-05-30",
-    "start_datetime": "2026-05-31T02:30:00+00:00",
-    "date_start": "2026-05-31T02:30:00+00:00",
-    "date_end": "2026-05-31T02:30:00+00:00",
+    "local_date": "2026-05-09",
+    "start_datetime": "2026-05-10T02:30:00+00:00",
+    "date_start": "2026-05-10T02:30:00+00:00",
+    "date_end": "2026-05-10T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6369999999999999,
     "ai_priority": 6,
-    "ai_reason": "Seven Lions is a prominent figure in electronic music, known for his immersive live sets."
+    "ai_reason": "Lewis Capaldi's heartfelt songwriting and powerful vocals make his shows emotional highlights."
   },
   {
     "id": "G5vYZbgD1f1IU",
@@ -275,77 +205,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6369999999999999,
-    "ai_priority": 5,
-    "ai_reason": "The Neighbourhood's unique sound and strong fan base make their tour a noteworthy event."
-  },
-  {
-    "id": "G5vYZbV5eP6YU",
-    "ids": [
-      "G5vYZbV5eP6YU"
-    ],
-    "name": "Joyce Manor, Militarie Gun, Teen Mortgage, & Combat",
-    "primary_artist": "Joyce Manor",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/joyce-manor-militarie-gun-teen-mortgage-san-francisco-california-05-15-2026/event/1C006342C2947C36",
-    "window": "far_out",
-    "local_date": "2026-05-15",
-    "start_datetime": "2026-05-16T02:00:00+00:00",
-    "date_start": "2026-05-16T02:00:00+00:00",
-    "date_end": "2026-05-16T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 5,
-    "ai_reason": "Joyce Manor's punk energy and engaging live performances will resonate with fans."
-  },
-  {
-    "id": "G5vYZbgRAp1vf",
-    "ids": [
-      "G5vYZbgRAp1vf"
-    ],
-    "name": "O.A.R. Three Decades Tour",
-    "primary_artist": "O.A.R.",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/oar-three-decades-tour-san-francisco-california-08-12-2026/event/1C00635BC558A054",
-    "window": "far_out",
-    "local_date": "2026-08-12",
-    "start_datetime": "2026-08-13T01:30:00+00:00",
-    "date_start": "2026-08-13T01:30:00+00:00",
-    "date_end": "2026-08-13T01:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.631,
-    "ai_priority": 5,
-    "ai_reason": "O.A.R. has a loyal following and their live shows are known for their energy and engagement."
-  },
-  {
-    "id": "G5vYZbM1MNHRS",
-    "ids": [
-      "G5vYZbM1MNHRS"
-    ],
-    "name": "St. Lucia",
-    "primary_artist": "St. Lucia",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/st-lucia-san-francisco-california-05-17-2026/event/1C006372B78FCBF3",
-    "window": "far_out",
-    "local_date": "2026-05-17",
-    "start_datetime": "2026-05-18T03:00:00+00:00",
-    "date_start": "2026-05-18T03:00:00+00:00",
-    "date_end": "2026-05-18T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.619,
-    "ai_priority": 5,
-    "ai_reason": "St. Lucia's vibrant sound and engaging performances make their show a must-see."
+    "ai_priority": 6,
+    "ai_reason": "The Neighbourhood's atmospheric sound and strong fan engagement make their shows a must-see."
   },
   {
     "id": "G5vYZbVDFHBDS",
@@ -367,26 +228,187 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.619,
-    "ai_priority": 5,
-    "ai_reason": "VNV Nation's unique blend of electronic music and live performance is highly regarded."
+    "ai_priority": 6,
+    "ai_reason": "VNV Nation's unique blend of electronic music and engaging performances attract a dedicated following."
   },
   {
-    "id": "rZ7HnEZ1Afp6ZK",
+    "id": "G5vYZbgwgryKe",
     "ids": [
-      "rZ7HnEZ1Afp6ZK"
+      "G5vYZbgwgryKe"
     ],
-    "name": "The Moss",
-    "primary_artist": "The Moss",
+    "name": "Bob Moses & Cannons: Afterglow Tour",
+    "primary_artist": "Bob Moses",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/bob-moses-cannons-afterglow-tour-berkeley-california-07-17-2026/event/1C00635CB57B94C2",
+    "window": "far_out",
+    "local_date": "2026-07-17",
+    "start_datetime": "2026-07-18T02:30:00+00:00",
+    "date_start": "2026-07-18T02:30:00+00:00",
+    "date_end": "2026-07-18T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 5,
+    "ai_reason": "Bob Moses & Cannons' collaboration promises a unique blend of electronic and rock influences."
+  },
+  {
+    "id": "G5vYZbgpVwI0F",
+    "ids": [
+      "G5vYZbgpVwI0F"
+    ],
+    "name": "Rainbow Kitten Surprise: bones North American Tour",
+    "primary_artist": "Rainbow Kitten Surprise",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/rainbow-kitten-surprise-bones-north-american-berkeley-california-07-18-2026/event/1C006355B4CA8908",
+    "window": "far_out",
+    "local_date": "2026-07-18",
+    "start_datetime": "2026-07-19T03:00:00+00:00",
+    "date_start": "2026-07-19T03:00:00+00:00",
+    "date_end": "2026-07-19T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 5,
+    "ai_reason": "Rainbow Kitten Surprise's eclectic sound and energetic performances create a memorable concert experience."
+  },
+  {
+    "id": "G5vYZbz5Jgj7T",
+    "ids": [
+      "G5vYZbz5Jgj7T"
+    ],
+    "name": "TOTO + Christopher Cross + The Romantics",
+    "primary_artist": "Toto",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/toto-christopher-cross-the-romantics-mountain-view-california-08-15-2026/event/1C006382E6D5C13F",
+    "window": "far_out",
+    "local_date": "2026-08-15",
+    "start_datetime": "2026-08-16T01:45:00+00:00",
+    "date_start": "2026-08-16T01:45:00+00:00",
+    "date_end": "2026-08-16T01:45:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 5,
+    "ai_reason": "Yellowcard's nostalgia and energetic performances resonate with fans of early 2000s pop-punk."
+  },
+  {
+    "id": "G5vYZbMOBNAM5",
+    "ids": [
+      "G5vYZbMOBNAM5"
+    ],
+    "name": "Seven Lions: Asleep in the Garden of Infernal Stars Tour - 5/30",
+    "primary_artist": "Seven Lions",
+    "venue_name": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/seven-lions-asleep-in-the-garden-san-francisco-california-05-30-2026/event/1C0063783A8C5DCB",
+    "window": "far_out",
+    "local_date": "2026-05-30",
+    "start_datetime": "2026-05-31T02:30:00+00:00",
+    "date_start": "2026-05-31T02:30:00+00:00",
+    "date_end": "2026-05-31T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6369999999999999,
+    "ai_priority": 5,
+    "ai_reason": "Evanescence's powerful presence and emotional performances continue to captivate audiences."
+  },
+  {
+    "id": "G5vYZbgMrj1gO",
+    "ids": [
+      "G5vYZbgMrj1gO"
+    ],
+    "name": "Santigold",
+    "primary_artist": "Santigold",
+    "venue_name": "The Castro Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/santigold-san-francisco-california-05-16-2026/event/1C00635DDE70AD60",
+    "window": "far_out",
+    "local_date": "2026-05-16",
+    "start_datetime": "2026-05-17T03:00:00+00:00",
+    "date_start": "2026-05-17T03:00:00+00:00",
+    "date_end": "2026-05-17T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.58,
+    "ai_priority": 5,
+    "ai_reason": "Santigold's unique style and engaging stage presence make her shows a vibrant experience."
+  },
+  {
+    "id": "G5vYZbM6-gWMX",
+    "ids": [
+      "G5vYZbM6-gWMX"
+    ],
+    "name": "Olivia Dean: The Art Of Loving Live",
+    "primary_artist": "Olivia Dean",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/olivia-dean-the-art-of-loving-san-francisco-california-07-11-2026/event/1C006371E1D7DDFE",
+    "window": "far_out",
+    "local_date": "2026-07-11",
+    "start_datetime": "2026-07-12T03:00:00+00:00",
+    "date_start": "2026-07-12T03:00:00+00:00",
+    "date_end": "2026-07-12T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.565,
+    "ai_priority": 5,
+    "ai_reason": "Olivia Dean's rising star status and engaging performances are drawing attention in the music scene."
+  },
+  {
+    "id": "G5vYZbUl6bjMh",
+    "ids": [
+      "G5vYZbUl6bjMh"
+    ],
+    "name": "Meghan Trainor: The Get In Girl Tour",
+    "primary_artist": "Meghan Trainor",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-san-francisco-california-08-08-2026/event/1C00636AC761CDDB",
+    "window": "far_out",
+    "local_date": "2026-08-08",
+    "start_datetime": "2026-08-09T01:30:00+00:00",
+    "date_start": "2026-08-09T01:30:00+00:00",
+    "date_end": "2026-08-09T01:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6549999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "rZ7HnEZ1Afj0GS",
+    "ids": [
+      "rZ7HnEZ1Afj0GS"
+    ],
+    "name": "Die Spitz",
+    "primary_artist": "Die Spitz",
     "venue_name": "The Independent",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketweb.com/event/the-moss-the-independent-tickets/14587013",
+    "url": "https://www.ticketweb.com/event/die-spitz-the-independent-tickets/14724333",
     "window": "far_out",
-    "local_date": "2026-04-06",
-    "start_datetime": "2026-04-07T03:00:00+00:00",
-    "date_start": "2026-04-07T03:00:00+00:00",
-    "date_end": "2026-04-07T03:00:00+00:00",
+    "local_date": "2026-04-13",
+    "start_datetime": "2026-04-14T03:00:00+00:00",
+    "date_start": "2026-04-14T03:00:00+00:00",
+    "date_end": "2026-04-14T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.649,
