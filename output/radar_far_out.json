@@ -1,5 +1,28 @@
 [
   {
+    "id": "G5vYZbURUm-Ov",
+    "ids": [
+      "G5vYZbURUm-Ov"
+    ],
+    "name": "Waxahatchee & MJ Lenderman with special guest Brennan Wedl",
+    "primary_artist": "Waxahatchee",
+    "venue_name": "The Masonic",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/waxahatchee-mj-lenderman-with-special-guest-san-francisco-california-05-05-2026/event/1C00636BF6BA1801",
+    "window": "far_out",
+    "local_date": "2026-05-05",
+    "start_datetime": "2026-05-06T02:30:00+00:00",
+    "date_start": "2026-05-06T02:30:00+00:00",
+    "date_end": "2026-05-06T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.661,
+    "ai_priority": 9,
+    "ai_reason": "Waxahatchee is known for her poignant songwriting and strong live performances, making this a must-see show."
+  },
+  {
     "id": "G5vYZbg5LSDFi",
     "ids": [
       "G5vYZbg5LSDFi"
@@ -19,54 +42,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6549999999999999,
-    "ai_priority": 10,
-    "ai_reason": "Florence + The Machine is known for their powerful live performances and emotional depth, making this tour highly anticipated."
-  },
-  {
-    "id": "G5vYZbz5n0j3J",
-    "ids": [
-      "G5vYZbz5n0j3J"
-    ],
-    "name": "Lily Allen Performs West End Girl",
-    "primary_artist": "Lily Allen",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lily-allen-performs-west-end-girl-san-francisco-california-04-28-2026/event/1C006382EA91C4A6",
-    "window": "far_out",
-    "local_date": "2026-04-28",
-    "start_datetime": "2026-04-29T03:00:00+00:00",
-    "date_start": "2026-04-29T03:00:00+00:00",
-    "date_end": "2026-04-29T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.661,
-    "ai_priority": 9,
-    "ai_reason": "Lily Allen's unique blend of pop and storytelling makes her West End Girl performance an intriguing event."
-  },
-  {
-    "id": "G5vYZbUl6bjMh",
-    "ids": [
-      "G5vYZbUl6bjMh"
-    ],
-    "name": "Meghan Trainor: The Get In Girl Tour",
-    "primary_artist": "Meghan Trainor",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-san-francisco-california-08-08-2026/event/1C00636AC761CDDB",
-    "window": "far_out",
-    "local_date": "2026-08-08",
-    "start_datetime": "2026-08-09T01:30:00+00:00",
-    "date_start": "2026-08-09T01:30:00+00:00",
-    "date_end": "2026-08-09T01:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
     "ai_priority": 8,
-    "ai_reason": "Meghan Trainor's latest tour promises a fun pop experience with her catchy hits and engaging stage presence."
+    "ai_reason": "Florence + The Machine has a legendary live reputation, and their upcoming tour promises a captivating experience."
   },
   {
     "id": "G5vYZbVTOJiVS",
@@ -90,7 +67,30 @@
     "night_count": 2,
     "score": 0.6459999999999999,
     "ai_priority": 8,
-    "ai_reason": "RUSH's Fifty Something tour is a nostalgic trip for fans of classic rock, showcasing their legendary status."
+    "ai_reason": "RUSH's concerts are known for their elaborate performances, appealing to both long-time fans and new listeners."
+  },
+  {
+    "id": "G5vYZbU3R_nwH",
+    "ids": [
+      "G5vYZbU3R_nwH"
+    ],
+    "name": "Three Days Grace - Alienation Tour ",
+    "primary_artist": "Three Days Grace",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-san-jose-california-11-18-2026/event/1C006364AF66ACBC",
+    "window": "far_out",
+    "local_date": "2026-11-18",
+    "start_datetime": "2026-11-19T03:00:00+00:00",
+    "date_start": "2026-11-19T03:00:00+00:00",
+    "date_end": "2026-11-19T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6459999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Evanescence's powerful vocals and theatrical performances are a draw for rock fans."
   },
   {
     "id": "G5vYZbgBhEbRe",
@@ -114,76 +114,76 @@
     "night_count": 2,
     "score": 0.6429999999999999,
     "ai_priority": 7,
-    "ai_reason": "Jack Johnson's laid-back style and connection to nature resonate well with fans, making his tour appealing."
+    "ai_reason": "Jack Johnson's laid-back style and engaging live shows make this a great pick for fans of acoustic pop."
   },
   {
-    "id": "G5vYZbgpVwI0F",
+    "id": "G5vYZbgD1f1IU",
     "ids": [
-      "G5vYZbgpVwI0F"
+      "G5vYZbgD1f1IU"
     ],
-    "name": "Rainbow Kitten Surprise: bones North American Tour",
-    "primary_artist": "Rainbow Kitten Surprise",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
+    "name": "The Neighbourhood: THE WOURLD TOUR",
+    "primary_artist": "The Neighbourhood",
+    "venue_name": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/rainbow-kitten-surprise-bones-north-american-berkeley-california-07-18-2026/event/1C006355B4CA8908",
+    "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-san-francisco-california-10-07-2026/event/1C00635ECA50AA36",
     "window": "far_out",
-    "local_date": "2026-07-18",
-    "start_datetime": "2026-07-19T03:00:00+00:00",
-    "date_start": "2026-07-19T03:00:00+00:00",
-    "date_end": "2026-07-19T03:00:00+00:00",
+    "local_date": "2026-10-07",
+    "start_datetime": "2026-10-08T02:30:00+00:00",
+    "date_start": "2026-10-08T02:30:00+00:00",
+    "date_end": "2026-10-08T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6429999999999999,
+    "score": 0.6369999999999999,
     "ai_priority": 7,
-    "ai_reason": "Rainbow Kitten Surprise's unique sound and energetic performances make them a standout act on this tour."
+    "ai_reason": "The Neighbourhood's atmospheric sound and strong live presence make this a compelling choice."
   },
   {
-    "id": "G5vYZbU3R_nwH",
+    "id": "G5vYZbV5eP6YU",
     "ids": [
-      "G5vYZbU3R_nwH"
+      "G5vYZbV5eP6YU"
     ],
-    "name": "Three Days Grace - Alienation Tour ",
-    "primary_artist": "Three Days Grace",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
+    "name": "Joyce Manor, Militarie Gun, Teen Mortgage, & Combat",
+    "primary_artist": "Joyce Manor",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-san-jose-california-11-18-2026/event/1C006364AF66ACBC",
+    "url": "https://www.ticketmaster.com/joyce-manor-militarie-gun-teen-mortgage-san-francisco-california-05-15-2026/event/1C006342C2947C36",
     "window": "far_out",
-    "local_date": "2026-11-18",
-    "start_datetime": "2026-11-19T03:00:00+00:00",
-    "date_start": "2026-11-19T03:00:00+00:00",
-    "date_end": "2026-11-19T03:00:00+00:00",
+    "local_date": "2026-05-15",
+    "start_datetime": "2026-05-16T02:00:00+00:00",
+    "date_start": "2026-05-16T02:00:00+00:00",
+    "date_end": "2026-05-16T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6459999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Three Days Grace's Alienation Tour promises to deliver their signature rock sound to fans."
+    "score": 0.634,
+    "ai_priority": 7,
+    "ai_reason": "Joyce Manor's mix of punk and indie rock has garnered a dedicated following, ensuring a lively show."
   },
   {
-    "id": "G5vYZbgwgryKe",
+    "id": "G5vYZbM1MNHRS",
     "ids": [
-      "G5vYZbgwgryKe"
+      "G5vYZbM1MNHRS"
     ],
-    "name": "Bob Moses & Cannons: Afterglow Tour",
-    "primary_artist": "Bob Moses",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
+    "name": "St. Lucia",
+    "primary_artist": "St. Lucia",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/bob-moses-cannons-afterglow-tour-berkeley-california-07-17-2026/event/1C00635CB57B94C2",
+    "url": "https://www.ticketmaster.com/st-lucia-san-francisco-california-05-17-2026/event/1C006372B78FCBF3",
     "window": "far_out",
-    "local_date": "2026-07-17",
-    "start_datetime": "2026-07-18T02:30:00+00:00",
-    "date_start": "2026-07-18T02:30:00+00:00",
-    "date_end": "2026-07-18T02:30:00+00:00",
+    "local_date": "2026-05-17",
+    "start_datetime": "2026-05-18T03:00:00+00:00",
+    "date_start": "2026-05-18T03:00:00+00:00",
+    "date_end": "2026-05-18T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Bob Moses' blend of electronic and live music creates a captivating experience for concertgoers."
+    "score": 0.619,
+    "ai_priority": 7,
+    "ai_reason": "St. Lucia's vibrant sound and engaging live performances make this a highly anticipated event."
   },
   {
     "id": "G5vYZbU3DGDUo",
@@ -206,30 +206,7 @@
     "night_count": 1,
     "score": 0.6429999999999999,
     "ai_priority": 6,
-    "ai_reason": "TRAIN's 25th anniversary tour celebrates their classic hits, appealing to long-time fans."
-  },
-  {
-    "id": "G5vYZbgD1f1IU",
-    "ids": [
-      "G5vYZbgD1f1IU"
-    ],
-    "name": "The Neighbourhood: THE WOURLD TOUR",
-    "primary_artist": "The Neighbourhood",
-    "venue_name": "Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-san-francisco-california-10-07-2026/event/1C00635ECA50AA36",
-    "window": "far_out",
-    "local_date": "2026-10-07",
-    "start_datetime": "2026-10-08T02:30:00+00:00",
-    "date_start": "2026-10-08T02:30:00+00:00",
-    "date_end": "2026-10-08T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6369999999999999,
-    "ai_priority": 6,
-    "ai_reason": "The Neighbourhood's upcoming tour is highly anticipated, given their strong fanbase and engaging music."
+    "ai_reason": "Three Days Grace's hard rock sound and energetic shows appeal to a dedicated fanbase."
   },
   {
     "id": "G5vYZbMOBNAM5",
@@ -252,122 +229,30 @@
     "night_count": 1,
     "score": 0.6369999999999999,
     "ai_priority": 6,
-    "ai_reason": "Evanescence's tour featuring Spiritbox and Nova Twins promises a powerful night of rock music."
+    "ai_reason": "Childish Gambino's innovative music and dynamic performances promise a memorable experience."
   },
   {
-    "id": "G5vYZbM91ksYq",
+    "id": "G5vYZbgVBKr5N",
     "ids": [
-      "G5vYZbM91ksYq"
+      "G5vYZbgVBKr5N"
     ],
-    "name": "Levity presents LASERSHIP (18+)",
-    "primary_artist": "Levity",
-    "venue_name": "Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/levity-presents-lasership-18-san-francisco-california-05-09-2026/event/1C006375CA1B1C1D",
-    "window": "far_out",
-    "local_date": "2026-05-09",
-    "start_datetime": "2026-05-10T02:30:00+00:00",
-    "date_start": "2026-05-10T02:30:00+00:00",
-    "date_end": "2026-05-10T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6369999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Lewis Capaldi's emotional ballads and strong stage presence make his show a highly anticipated event."
-  },
-  {
-    "id": "G5vYZbV5eP6YU",
-    "ids": [
-      "G5vYZbV5eP6YU"
-    ],
-    "name": "Joyce Manor, Militarie Gun, Teen Mortgage, & Combat",
-    "primary_artist": "Joyce Manor",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/joyce-manor-militarie-gun-teen-mortgage-san-francisco-california-05-15-2026/event/1C006342C2947C36",
-    "window": "far_out",
-    "local_date": "2026-05-15",
-    "start_datetime": "2026-05-16T02:00:00+00:00",
-    "date_start": "2026-05-16T02:00:00+00:00",
-    "date_end": "2026-05-16T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 6,
-    "ai_reason": "Joyce Manor's punk-infused sound and energetic performances make them a must-see for fans of the genre."
-  },
-  {
-    "id": "G5vYZbM1MNHRS",
-    "ids": [
-      "G5vYZbM1MNHRS"
-    ],
-    "name": "St. Lucia",
-    "primary_artist": "St. Lucia",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/st-lucia-san-francisco-california-05-17-2026/event/1C006372B78FCBF3",
-    "window": "far_out",
-    "local_date": "2026-05-17",
-    "start_datetime": "2026-05-18T03:00:00+00:00",
-    "date_start": "2026-05-18T03:00:00+00:00",
-    "date_end": "2026-05-18T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.619,
-    "ai_priority": 6,
-    "ai_reason": "St. Lucia's vibrant sound and engaging live shows make them a great addition to the lineup."
-  },
-  {
-    "id": "G5vYZbUwn7Gvo",
-    "ids": [
-      "G5vYZbUwn7Gvo"
-    ],
-    "name": "The New Pornographers",
-    "primary_artist": "The New Pornographers",
+    "name": "Lucy Dacus 5/18",
+    "primary_artist": "Lucy Dacus",
     "venue_name": "The Castro Theatre",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-new-pornographers-san-francisco-california-05-11-2026/event/1C00636CAA10C051",
+    "url": "https://www.ticketmaster.com/lucy-dacus-518-san-francisco-california-05-18-2026/event/1C00635D3A4DE2E3",
     "window": "far_out",
-    "local_date": "2026-05-11",
-    "start_datetime": "2026-05-12T03:00:00+00:00",
-    "date_start": "2026-05-12T03:00:00+00:00",
-    "date_end": "2026-05-12T03:00:00+00:00",
+    "local_date": "2026-05-18",
+    "start_datetime": "2026-05-19T03:00:00+00:00",
+    "date_start": "2026-05-19T03:00:00+00:00",
+    "date_end": "2026-05-19T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.58,
     "ai_priority": 6,
-    "ai_reason": "The New Pornographers' unique sound and strong live reputation make their show an exciting prospect."
-  },
-  {
-    "id": "G5vYZbM6-gWMX",
-    "ids": [
-      "G5vYZbM6-gWMX"
-    ],
-    "name": "Olivia Dean: The Art Of Loving Live",
-    "primary_artist": "Olivia Dean",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/olivia-dean-the-art-of-loving-san-francisco-california-07-11-2026/event/1C006371E1D7DDFE",
-    "window": "far_out",
-    "local_date": "2026-07-11",
-    "start_datetime": "2026-07-12T03:00:00+00:00",
-    "date_start": "2026-07-12T03:00:00+00:00",
-    "date_end": "2026-07-12T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.565,
-    "ai_priority": 6,
-    "ai_reason": "Olivia Dean's rising star status and engaging performances make her shows a must-see."
+    "ai_reason": "Doja Cat's genre-blending style and high-energy performances are sure to attract a large audience."
   },
   {
     "id": "G5vYZbghDoDwP",
@@ -393,9 +278,34 @@
     "ai_reason": null
   },
   {
+    "id": "G5vYZbUl6bjMh",
+    "ids": [
+      "G5vYZbUl6bjMh"
+    ],
+    "name": "Meghan Trainor: The Get In Girl Tour",
+    "primary_artist": "Meghan Trainor",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-san-francisco-california-08-08-2026/event/1C00636AC761CDDB",
+    "window": "far_out",
+    "local_date": "2026-08-08",
+    "start_datetime": "2026-08-09T01:30:00+00:00",
+    "date_start": "2026-08-09T01:30:00+00:00",
+    "date_end": "2026-08-09T01:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6549999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
     "id": "G5vYZbs0KVflb",
     "ids": [
-      "G5vYZbs0KVflb"
+      "G5vYZbs0KVflb",
+      "G5vYZbsn2Ysxo",
+      "G5vYZbw38cMy6"
     ],
     "name": "Ariana Grande - The Eternal Sunshine Tour",
     "primary_artist": "Ariana Grande",
@@ -408,10 +318,56 @@
     "local_date": "2026-06-06",
     "start_datetime": "2026-06-07T03:00:00+00:00",
     "date_start": "2026-06-07T03:00:00+00:00",
-    "date_end": "2026-06-07T03:00:00+00:00",
+    "date_end": "2026-06-11T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 3,
+    "score": 0.6489999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZbz2hJjQL",
+    "ids": [
+      "G5vYZbz2hJjQL"
+    ],
+    "name": "Forrest Frank: The Jesus Generation Tour",
+    "primary_artist": "Forrest Frank",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/forrest-frank-the-jesus-generation-tour-oakland-california-07-14-2026/event/1C006383DB99C69F",
+    "window": "far_out",
+    "local_date": "2026-07-14",
+    "start_datetime": "2026-07-15T02:00:00+00:00",
+    "date_start": "2026-07-15T02:00:00+00:00",
+    "date_end": "2026-07-15T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6489999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZbgwgryKe",
+    "ids": [
+      "G5vYZbgwgryKe"
+    ],
+    "name": "Bob Moses & Cannons: Afterglow Tour",
+    "primary_artist": "Bob Moses",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/bob-moses-cannons-afterglow-tour-berkeley-california-07-17-2026/event/1C00635CB57B94C2",
+    "window": "far_out",
+    "local_date": "2026-07-17",
+    "start_datetime": "2026-07-18T02:30:00+00:00",
+    "date_start": "2026-07-18T02:30:00+00:00",
+    "date_end": "2026-07-18T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
     "ai_priority": null,
     "ai_reason": null
   }

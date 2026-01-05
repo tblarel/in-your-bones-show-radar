@@ -1,100 +1,56 @@
 [
   {
-    "id": "G5vYZbz5n0j3J",
+    "id": "G5vYZbURUm-Ov",
     "ids": [
-      "G5vYZbz5n0j3J"
+      "G5vYZbURUm-Ov"
     ],
-    "name": "Lily Allen Performs West End Girl",
-    "primary_artist": "Lily Allen",
+    "name": "Waxahatchee & MJ Lenderman with special guest Brennan Wedl",
+    "primary_artist": "Waxahatchee",
     "venue_name": "The Masonic",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/lily-allen-performs-west-end-girl-san-francisco-california-04-28-2026/event/1C006382EA91C4A6",
+    "url": "https://www.ticketmaster.com/waxahatchee-mj-lenderman-with-special-guest-san-francisco-california-05-05-2026/event/1C00636BF6BA1801",
     "window": "far_out",
-    "local_date": "2026-04-28",
-    "start_datetime": "2026-04-29T03:00:00+00:00",
-    "date_start": "2026-04-29T03:00:00+00:00",
-    "date_end": "2026-04-29T03:00:00+00:00",
+    "local_date": "2026-05-05",
+    "start_datetime": "2026-05-06T02:30:00+00:00",
+    "date_start": "2026-05-06T02:30:00+00:00",
+    "date_end": "2026-05-06T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.661,
     "ai_priority": 9,
-    "ai_reason": "Lily Allen's unique blend of pop and storytelling makes her West End Girl performance an intriguing event."
+    "ai_reason": "Waxahatchee is known for her poignant songwriting and strong live performances, making this a must-see show."
   },
   {
-    "id": "G5vYZbgpVwI0F",
+    "id": "G5vYZbgVBKr5N",
     "ids": [
-      "G5vYZbgpVwI0F"
+      "G5vYZbgVBKr5N"
     ],
-    "name": "Rainbow Kitten Surprise: bones North American Tour",
-    "primary_artist": "Rainbow Kitten Surprise",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/rainbow-kitten-surprise-bones-north-american-berkeley-california-07-18-2026/event/1C006355B4CA8908",
-    "window": "far_out",
-    "local_date": "2026-07-18",
-    "start_datetime": "2026-07-19T03:00:00+00:00",
-    "date_start": "2026-07-19T03:00:00+00:00",
-    "date_end": "2026-07-19T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Rainbow Kitten Surprise's unique sound and energetic performances make them a standout act on this tour."
-  },
-  {
-    "id": "G5vYZbU3DGDUo",
-    "ids": [
-      "G5vYZbU3DGDUo"
-    ],
-    "name": "TRAIN - Drops of Jupiter: 25 Years in the Atmosphere",
-    "primary_artist": "Train",
-    "venue_name": "Shoreline Amphitheatre",
-    "city": "Mountain View",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/train-drops-of-jupiter-25-years-mountain-view-california-08-26-2026/event/1C006364BB33BD91",
-    "window": "far_out",
-    "local_date": "2026-08-26",
-    "start_datetime": "2026-08-27T01:45:00+00:00",
-    "date_start": "2026-08-27T01:45:00+00:00",
-    "date_end": "2026-08-27T01:45:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "TRAIN's 25th anniversary tour celebrates their classic hits, appealing to long-time fans."
-  },
-  {
-    "id": "G5vYZbUwn7Gvo",
-    "ids": [
-      "G5vYZbUwn7Gvo"
-    ],
-    "name": "The New Pornographers",
-    "primary_artist": "The New Pornographers",
+    "name": "Lucy Dacus 5/18",
+    "primary_artist": "Lucy Dacus",
     "venue_name": "The Castro Theatre",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-new-pornographers-san-francisco-california-05-11-2026/event/1C00636CAA10C051",
+    "url": "https://www.ticketmaster.com/lucy-dacus-518-san-francisco-california-05-18-2026/event/1C00635D3A4DE2E3",
     "window": "far_out",
-    "local_date": "2026-05-11",
-    "start_datetime": "2026-05-12T03:00:00+00:00",
-    "date_start": "2026-05-12T03:00:00+00:00",
-    "date_end": "2026-05-12T03:00:00+00:00",
+    "local_date": "2026-05-18",
+    "start_datetime": "2026-05-19T03:00:00+00:00",
+    "date_start": "2026-05-19T03:00:00+00:00",
+    "date_end": "2026-05-19T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.58,
     "ai_priority": 6,
-    "ai_reason": "The New Pornographers' unique sound and strong live reputation make their show an exciting prospect."
+    "ai_reason": "Doja Cat's genre-blending style and high-energy performances are sure to attract a large audience."
   },
   {
     "id": "G5vYZbs0KVflb",
     "ids": [
-      "G5vYZbs0KVflb"
+      "G5vYZbs0KVflb",
+      "G5vYZbsn2Ysxo",
+      "G5vYZbw38cMy6"
     ],
     "name": "Ariana Grande - The Eternal Sunshine Tour",
     "primary_artist": "Ariana Grande",
@@ -107,7 +63,30 @@
     "local_date": "2026-06-06",
     "start_datetime": "2026-06-07T03:00:00+00:00",
     "date_start": "2026-06-07T03:00:00+00:00",
-    "date_end": "2026-06-07T03:00:00+00:00",
+    "date_end": "2026-06-11T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 3,
+    "score": 0.6489999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZbz2hJjQL",
+    "ids": [
+      "G5vYZbz2hJjQL"
+    ],
+    "name": "Forrest Frank: The Jesus Generation Tour",
+    "primary_artist": "Forrest Frank",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/forrest-frank-the-jesus-generation-tour-oakland-california-07-14-2026/event/1C006383DB99C69F",
+    "window": "far_out",
+    "local_date": "2026-07-14",
+    "start_datetime": "2026-07-15T02:00:00+00:00",
+    "date_start": "2026-07-15T02:00:00+00:00",
+    "date_end": "2026-07-15T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6489999999999999,
