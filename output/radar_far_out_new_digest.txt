@@ -1,16 +1,20 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 4 new show(s) since last run:
+Found 6 new show(s) since last run:
 
-- 2026-10-18 02:30 — RUSH @ SAP Center at San Jose (San Jose)
-    ▹ RUSH's legacy continues to attract fans, making their upcoming shows a nostalgic experience for many.
+- 2026-10-16 02:30 → 2026-10-18 02:30 — RUSH @ SAP Center at San Jose (San Jose) [multi-night x2]
+    ▹ RUSH's legacy continues to draw fans, making their tour a nostalgic experience for many.
 
-- 2026-07-19 03:00 — Rainbow Kitten Surprise @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Rainbow Kitten Surprise's unique sound and storytelling make their concert a compelling experience.
+- 2026-07-21 02:00 — Evanescence @ Shoreline Amphitheatre (Mountain View)
+    ▹ Evanescence's tour with Spiritbox and Nova Twins promises a powerful rock experience.
 
-- 2026-08-16 01:45 — Toto @ Shoreline Amphitheatre (Mountain View)
-    ▹ Yellowcard's nostalgia-driven tour is perfect for fans looking to relive their favorite hits.
+- 2026-08-13 01:30 — O.A.R. @ The Masonic (San Francisco)
+    ▹ O.A.R. brings a feel-good vibe that resonates well with their dedicated fanbase.
 
-- 2026-05-12 03:00 — The New Pornographers @ The Castro Theatre (San Francisco)
-    ▹ The New Pornographers are known for their catchy melodies and strong live presence, appealing to indie rock fans.
+- 2026-05-31 03:00 — Rick Springfield @ Uptown Theatre Napa (Napa)
+    ▹ Rick Springfield's nostalgic appeal continues to attract audiences.
+
+- 2026-05-20 03:00 — Red Rum Club @ The Independent (San Francisco)
+
+- 2026-06-08 03:00 — Pitbull @ Shoreline Amphitheatre (Mountain View)
