@@ -1,20 +1,17 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 6 new show(s) since last run:
+Found 5 new show(s) since last run:
 
-- 2026-10-16 02:30 → 2026-10-18 02:30 — RUSH @ SAP Center at San Jose (San Jose) [multi-night x2]
-    ▹ RUSH's legacy continues to draw fans, making their tour a nostalgic experience for many.
+- 2026-05-30 03:00 → 2026-05-31 03:00 — Alabama Shakes @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
+    ▹ Alabama Shakes are celebrated for their powerful live shows and soulful sound.
 
-- 2026-07-21 02:00 — Evanescence @ Shoreline Amphitheatre (Mountain View)
-    ▹ Evanescence's tour with Spiritbox and Nova Twins promises a powerful rock experience.
+- 2026-05-31 02:30 — Seven Lions @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Seven Lions is a prominent figure in electronic music, known for his immersive live sets.
 
-- 2026-08-13 01:30 — O.A.R. @ The Masonic (San Francisco)
-    ▹ O.A.R. brings a feel-good vibe that resonates well with their dedicated fanbase.
+- 2026-07-12 03:00 — Olivia Dean @ Chase Center (San Francisco)
+    ▹ Olivia Dean's rising star status and soulful performances make her shows highly anticipated.
 
-- 2026-05-31 03:00 — Rick Springfield @ Uptown Theatre Napa (Napa)
-    ▹ Rick Springfield's nostalgic appeal continues to attract audiences.
+- 2026-05-27 03:00 — Dance With The Dead @ August Hall (San Francisco)
 
-- 2026-05-20 03:00 — Red Rum Club @ The Independent (San Francisco)
-
-- 2026-06-08 03:00 — Pitbull @ Shoreline Amphitheatre (Mountain View)
+- 2026-07-24 01:00 — The Fray @ Greek Theatre-U.C. Berkeley (Berkeley)
