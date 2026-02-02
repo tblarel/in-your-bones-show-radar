@@ -1,17 +1,22 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 5 new show(s) since last run:
+Found 6 new show(s) since last run:
 
-- 2026-05-30 03:00 → 2026-05-31 03:00 — Alabama Shakes @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
-    ▹ Alabama Shakes are celebrated for their powerful live shows and soulful sound.
+- 2026-08-13 01:00 — Tedeschi Trucks Band @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Tedeschi Trucks Band is renowned for their powerful live shows and musicianship.
 
-- 2026-05-31 02:30 — Seven Lions @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Seven Lions is a prominent figure in electronic music, known for his immersive live sets.
+- 2026-09-02 03:00 — Screeching Weasel @ August Hall (San Francisco)
+    ▹ Kid Cudi's tour is highly anticipated, promising a blend of hip-hop and engaging stage presence.
 
-- 2026-07-12 03:00 — Olivia Dean @ Chase Center (San Francisco)
-    ▹ Olivia Dean's rising star status and soulful performances make her shows highly anticipated.
+- 2026-08-27 01:45 — Train @ Shoreline Amphitheatre (Mountain View)
+    ▹ TRAIN's anniversary tour celebrates their classic hits, appealing to nostalgia-driven fans.
 
-- 2026-05-27 03:00 — Dance With The Dead @ August Hall (San Francisco)
+- 2026-10-20 02:30 — Doja Cat @ Chase Center (San Francisco)
+    ▹ Doja Cat's world tour is generating significant buzz, promising a dynamic performance.
 
-- 2026-07-24 01:00 — The Fray @ Greek Theatre-U.C. Berkeley (Berkeley)
+- 2026-08-07 02:30 — Lionel Richie @ Chase Center (San Francisco)
+    ▹ Lionel Richie and Earth, Wind & Fire's collaboration is a nostalgic powerhouse for fans of classic hits.
+
+- 2026-06-26 02:30 — A$AP Rocky @ Chase Center (San Francisco)
+    ▹ A$AP Rocky's tour is highly anticipated, showcasing his unique style and stage presence.
