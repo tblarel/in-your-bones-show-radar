@@ -1,23 +1,35 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 7 new show(s) since last run:
+Found 11 new show(s) since last run:
 
-- 2026-02-18 04:00 — Sam Smith @ The Castro Theatre (San Francisco)
-    ▹ Sam Smith's 'To Be Free' tour is a highly anticipated event, showcasing his powerful vocals and emotional performances.
+- 2026-03-07 03:00 — Brandi Carlile @ Chase Center (San Francisco)
+    ▹ Brandi Carlile's powerful storytelling and strong live reputation make this a must-see event.
 
-- 2026-03-01 04:30 — Joseph @ August Hall (San Francisco)
-    ▹ Joseph's harmonies and heartfelt lyrics create a powerful live experience that resonates with audiences.
+- 2026-03-07 04:00 — Indigo De Souza @ The Fillmore (San Francisco)
+    ▹ Gogol Bordello is known for their electrifying live performances and eclectic sound.
 
-- 2026-03-14 02:00 → 2026-03-14 02:00 — Excision @ Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
-    ▹ Indigo De Souza's raw and emotional performances resonate with fans of indie rock.
+- 2026-03-11 03:00 — Aimee Mann @ The Fillmore (San Francisco)
+    ▹ Aimee Mann's anniversary tour offers a nostalgic look back at her influential work.
 
-- 2026-02-21 06:00 — Romare @ Monarch (San Francisco)
-    ▹ The Polish Ambassador's unique sound and engaging performances attract a dedicated following.
+- 2026-02-24 03:00 — Van Morrison @ Palace of Fine Arts (San Francisco)
+    ▹ Van Morrison's legacy as a classic artist makes this show a significant event.
 
-- 2026-02-27 04:00 — Chris Isaak @ Uptown Theatre Napa (Napa)
-    ▹ Chris Isaak's smooth voice and engaging stage presence make his shows a classic experience.
+- 2026-03-16 03:00 — Nine Inch Nails @ Chase Center (San Francisco)
+    ▹ Nine Inch Nails' return promises a powerful and immersive live experience.
 
-- 2026-03-01 03:30 — ARMNHMR @ Bill Graham Civic Auditorium (San Francisco)
+- 2026-03-08 04:00 — The Strumbellas @ August Hall (San Francisco)
+    ▹ The Strumbellas are known for their anthemic sound and engaging live shows.
 
-- 2026-03-04 04:00 — Zara Larsson @ Fox Theater - Oakland (Oakland)
+- 2026-03-28 02:00 — Bad Omens @ Oakland Arena (Oakland)
+    ▹ Bad Omens' rising popularity in the rock scene makes their tour an exciting prospect.
+
+- 2026-03-14 02:00 → 2026-03-15 02:00 — Excision @ Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
+    ▹ Jonah Kagen's rising star status and engaging performances make this show noteworthy.
+
+- 2026-03-08 03:30 — Silversun Pickups @ Uptown Theatre Napa (Napa)
+    ▹ Silversun Pickups' unique sound and energetic performances are always a treat.
+
+- 2026-03-07 04:00 — Gogol Bordello @ Warfield (San Francisco)
+
+- 2026-03-12 03:00 — dodie @ Fox Theater - Oakland (Oakland)
