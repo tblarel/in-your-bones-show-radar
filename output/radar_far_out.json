@@ -1,51 +1,5 @@
 [
   {
-    "id": "G5vYZbsn2Ysxo",
-    "ids": [
-      "G5vYZbsn2Ysxo"
-    ],
-    "name": "Ariana Grande - The Eternal Sunshine Tour",
-    "primary_artist": "Ariana Grande",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-oakland-california-06-09-2026/event/1C00631A8FC31891",
-    "window": "far_out",
-    "local_date": "2026-06-09",
-    "start_datetime": "2026-06-10T03:00:00+00:00",
-    "date_start": "2026-06-10T03:00:00+00:00",
-    "date_end": "2026-06-10T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6789999999999999,
-    "ai_priority": 9,
-    "ai_reason": "Ariana Grande's tour is highly anticipated, promising a strong live performance and a massive fanbase."
-  },
-  {
-    "id": "G5vYZ_d2ADlKy",
-    "ids": [
-      "G5vYZ_d2ADlKy"
-    ],
-    "name": "Lionel Richie and Earth, Wind & Fire - Sing a Song All Night Long",
-    "primary_artist": "Lionel Richie",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-san-francisco-california-08-06-2026/event/1C006433C5EEB4F9",
-    "window": "far_out",
-    "local_date": "2026-08-06",
-    "start_datetime": "2026-08-07T02:30:00+00:00",
-    "date_start": "2026-08-07T02:30:00+00:00",
-    "date_end": "2026-08-07T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Lionel Richie and Earth, Wind & Fire bring legendary status and a nostalgic appeal to the stage."
-  },
-  {
     "id": "G5vYZbUl6bjMh",
     "ids": [
       "G5vYZbUl6bjMh"
@@ -66,7 +20,7 @@
     "night_count": 1,
     "score": 0.6549999999999999,
     "ai_priority": 8,
-    "ai_reason": "Meghan Trainor's tour is likely to feature catchy pop hits and an engaging live experience."
+    "ai_reason": "Meghan Trainor's pop appeal and strong live performances make this a noteworthy event."
   },
   {
     "id": "G5vYZ_dwWjIOa",
@@ -89,12 +43,11 @@
     "night_count": 1,
     "score": 0.6549999999999999,
     "ai_priority": 8,
-    "ai_reason": "ZAYN's tour is generating buzz, and his live performances are known for their emotional depth."
+    "ai_reason": "ZAYN's return to the stage with a new tour is generating significant buzz."
   },
   {
-    "id": "G5vYZbVTOJiVS",
+    "id": "G5vYZbg9ir1-u",
     "ids": [
-      "G5vYZbVTOJiVS",
       "G5vYZbg9ir1-u"
     ],
     "name": "RUSH: Fifty Something",
@@ -103,17 +56,17 @@
     "city": "San Jose",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/rush-fifty-something-san-jose-california-10-15-2026/event/1C00634FE09ACD33",
+    "url": "https://www.ticketmaster.com/rush-fifty-something-san-jose-california-10-17-2026/event/1C006355EC78A84D",
     "window": "far_out",
-    "local_date": "2026-10-15",
-    "start_datetime": "2026-10-16T02:30:00+00:00",
-    "date_start": "2026-10-16T02:30:00+00:00",
+    "local_date": "2026-10-17",
+    "start_datetime": "2026-10-18T02:30:00+00:00",
+    "date_start": "2026-10-18T02:30:00+00:00",
     "date_end": "2026-10-18T02:30:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
+    "multi_night": false,
+    "night_count": 1,
     "score": 0.6459999999999999,
-    "ai_priority": 7,
-    "ai_reason": "RUSH's legacy and their upcoming tour are sure to attract dedicated fans and rock enthusiasts."
+    "ai_priority": 8,
+    "ai_reason": "Bob Moses is known for their captivating live shows, making this a must-see."
   },
   {
     "id": "G5vYZbgpVwI0F",
@@ -135,54 +88,31 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6429999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Rainbow Kitten Surprise is known for their energetic performances and unique blend of genres."
+    "ai_priority": 8,
+    "ai_reason": "Rainbow Kitten Surprise has a strong reputation for energetic and engaging performances."
   },
   {
-    "id": "G5vYZbgwgryKe",
+    "id": "G5vYZ_dK3rqfU",
     "ids": [
-      "G5vYZbgwgryKe"
+      "G5vYZ_dK3rqfU"
     ],
-    "name": "Bob Moses & Cannons: Afterglow Tour",
-    "primary_artist": "Bob Moses",
+    "name": "Tedeschi Trucks Band",
+    "primary_artist": "Tedeschi Trucks Band",
     "venue_name": "Greek Theatre-U.C. Berkeley",
     "city": "Berkeley",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/bob-moses-cannons-afterglow-tour-berkeley-california-07-17-2026/event/1C00635CB57B94C2",
+    "url": "https://www.ticketmaster.com/tedeschi-trucks-band-berkeley-california-08-12-2026/event/1C006434D279D536",
     "window": "far_out",
-    "local_date": "2026-07-17",
-    "start_datetime": "2026-07-18T02:30:00+00:00",
-    "date_start": "2026-07-18T02:30:00+00:00",
-    "date_end": "2026-07-18T02:30:00+00:00",
+    "local_date": "2026-08-12",
+    "start_datetime": "2026-08-13T01:00:00+00:00",
+    "date_start": "2026-08-13T01:00:00+00:00",
+    "date_end": "2026-08-13T01:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6429999999999999,
-    "ai_priority": 7,
-    "ai_reason": "The Fray and Dashboard Confessional together promise a nostalgic evening for fans of early 2000s rock."
-  },
-  {
-    "id": "G5vYZbU3R_nwH",
-    "ids": [
-      "G5vYZbU3R_nwH"
-    ],
-    "name": "Three Days Grace - Alienation Tour ",
-    "primary_artist": "Three Days Grace",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-san-jose-california-11-18-2026/event/1C006364AF66ACBC",
-    "window": "far_out",
-    "local_date": "2026-11-18",
-    "start_datetime": "2026-11-19T03:00:00+00:00",
-    "date_start": "2026-11-19T03:00:00+00:00",
-    "date_end": "2026-11-19T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6459999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Three Days Grace's tour promises a hard-hitting rock experience for fans of the genre."
+    "ai_priority": 8,
+    "ai_reason": "Tedeschi Trucks Band is celebrated for their exceptional live musicianship."
   },
   {
     "id": "G5vYZbgBhEbRe",
@@ -205,8 +135,54 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Jack Johnson's laid-back style and outdoor venue will create a relaxed and enjoyable atmosphere."
+    "ai_priority": 8,
+    "ai_reason": "Jack Johnson's laid-back vibe and strong fanbase make this show appealing."
+  },
+  {
+    "id": "G5vYZ_73hHn2w",
+    "ids": [
+      "G5vYZ_73hHn2w"
+    ],
+    "name": "Hilary Duff: the lucky me tour",
+    "primary_artist": "Hilary Duff",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/hilary-duff-the-lucky-me-tour-mountain-view-california-07-11-2026/event/1C0064449BF2A3F2",
+    "window": "far_out",
+    "local_date": "2026-07-11",
+    "start_datetime": "2026-07-12T02:00:00+00:00",
+    "date_start": "2026-07-12T02:00:00+00:00",
+    "date_end": "2026-07-12T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 8,
+    "ai_reason": "Hilary Duff's return to touring is generating nostalgia and excitement among fans."
+  },
+  {
+    "id": "G5vYZbMxHi14A",
+    "ids": [
+      "G5vYZbMxHi14A"
+    ],
+    "name": "Evanescence 2026 World Tour with Spiritbox and Nova Twins",
+    "primary_artist": "Evanescence",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/evanescence-2026-world-tour-with-spiritbox-mountain-view-california-07-20-2026/event/1C006378BCB0A545",
+    "window": "far_out",
+    "local_date": "2026-07-20",
+    "start_datetime": "2026-07-21T02:00:00+00:00",
+    "date_start": "2026-07-21T02:00:00+00:00",
+    "date_end": "2026-07-21T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 8,
+    "ai_reason": "Evanescence's tour with Spiritbox and Nova Twins offers a compelling lineup."
   },
   {
     "id": "G5vYZ_eNSWq8M",
@@ -228,54 +204,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "A$AP Rocky's tour is highly anticipated, showcasing his dynamic stage presence and popular hits."
-  },
-  {
-    "id": "G5vYZ_dK3rqfU",
-    "ids": [
-      "G5vYZ_dK3rqfU"
-    ],
-    "name": "Tedeschi Trucks Band",
-    "primary_artist": "Tedeschi Trucks Band",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/tedeschi-trucks-band-berkeley-california-08-12-2026/event/1C006434D279D536",
-    "window": "far_out",
-    "local_date": "2026-08-12",
-    "start_datetime": "2026-08-13T01:00:00+00:00",
-    "date_start": "2026-08-13T01:00:00+00:00",
-    "date_end": "2026-08-13T01:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Tedeschi Trucks Band's reputation for soulful performances makes this a compelling choice."
-  },
-  {
-    "id": "G5vYZbgD1f1IU",
-    "ids": [
-      "G5vYZbgD1f1IU"
-    ],
-    "name": "The Neighbourhood: THE WOURLD TOUR",
-    "primary_artist": "The Neighbourhood",
-    "venue_name": "Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-san-francisco-california-10-07-2026/event/1C00635ECA50AA36",
-    "window": "far_out",
-    "local_date": "2026-10-07",
-    "start_datetime": "2026-10-08T02:30:00+00:00",
-    "date_start": "2026-10-08T02:30:00+00:00",
-    "date_end": "2026-10-08T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6369999999999999,
-    "ai_priority": 6,
-    "ai_reason": "The Head And The Heart are known for their heartfelt performances, making this a must-see show."
+    "ai_priority": 8,
+    "ai_reason": "A$AP Rocky's tour is highly anticipated, promising a vibrant show."
   },
   {
     "id": "G5vYZbgRAp1vf",
@@ -297,99 +227,213 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.631,
-    "ai_priority": 6,
-    "ai_reason": "O.A.R.'s long-standing reputation for engaging live shows makes this a solid pick."
+    "ai_priority": 8,
+    "ai_reason": "O.A.R.'s three decades of music will resonate well with long-time fans."
   },
   {
-    "id": "G5vYZbYwsAoGE",
+    "id": "G5vYZb11EYk12",
     "ids": [
-      "G5vYZbYwsAoGE"
+      "G5vYZb11EYk12"
     ],
-    "name": "BELLE & SEBASTIAN: IF YOU'RE FEELING SINISTER + CLASSIC SONGS",
-    "primary_artist": "Belle & Sebastian",
+    "name": "Childish Gambino - The New World Tour",
+    "primary_artist": "Childish Gambino",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/childish-gambino-the-new-world-tour-san-francisco-california-09-08-2026/event/1C0060A2A7C0628F",
+    "window": "far_out",
+    "local_date": "2026-09-08",
+    "start_datetime": "2026-09-09T03:00:00+00:00",
+    "date_start": "2026-09-09T03:00:00+00:00",
+    "date_end": "2026-09-09T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.625,
+    "ai_priority": 8,
+    "ai_reason": "Childish Gambino's tour is expected to be a standout event with strong artistic vision."
+  },
+  {
+    "id": "G5vYZbgD1f1IU",
+    "ids": [
+      "G5vYZbgD1f1IU"
+    ],
+    "name": "The Neighbourhood: THE WOURLD TOUR",
+    "primary_artist": "The Neighbourhood",
+    "venue_name": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-san-francisco-california-10-07-2026/event/1C00635ECA50AA36",
+    "window": "far_out",
+    "local_date": "2026-10-07",
+    "start_datetime": "2026-10-08T02:30:00+00:00",
+    "date_start": "2026-10-08T02:30:00+00:00",
+    "date_end": "2026-10-08T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6369999999999999,
+    "ai_priority": 7,
+    "ai_reason": "The Neighbourhood's tour is generating excitement with their latest music."
+  },
+  {
+    "id": "G5vYZ_71hqI5F",
+    "ids": [
+      "G5vYZ_71hqI5F"
+    ],
+    "name": "The Lemon Twigs",
+    "primary_artist": "The Lemon Twigs",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-lemon-twigs-san-francisco-california-06-17-2026/event/1C0064429B7682C8",
+    "window": "far_out",
+    "local_date": "2026-06-17",
+    "start_datetime": "2026-06-18T03:00:00+00:00",
+    "date_start": "2026-06-18T03:00:00+00:00",
+    "date_end": "2026-06-18T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 7,
+    "ai_reason": "The Lemon Twigs are known for their eclectic sound and engaging live shows."
+  },
+  {
+    "id": "G5vYZ_eTN_yEE",
+    "ids": [
+      "G5vYZ_eTN_yEE"
+    ],
+    "name": "Courtney Barnett: Creature of Habit Tour",
+    "primary_artist": "Courtney Barnett",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/courtney-barnett-creature-of-habit-tour-san-francisco-california-08-26-2026/event/1C00642FE36799E7",
+    "window": "far_out",
+    "local_date": "2026-08-26",
+    "start_datetime": "2026-08-27T03:00:00+00:00",
+    "date_start": "2026-08-27T03:00:00+00:00",
+    "date_end": "2026-08-27T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 7,
+    "ai_reason": "Courtney Barnett's unique storytelling and live energy make her shows special."
+  },
+  {
+    "id": "G5vYZ_7pYzdvF",
+    "ids": [
+      "G5vYZ_7pYzdvF"
+    ],
+    "name": "Bilmuri - Kinda Hard Tour",
+    "primary_artist": "Bilmuri",
     "venue_name": "The Masonic",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/belle-sebastian-if-youre-feeling-sinister-san-francisco-california-06-11-2026/event/1C00630CB1151327",
+    "url": "https://www.ticketmaster.com/bilmuri-kinda-hard-tour-san-francisco-california-10-04-2026/event/1C006445B0E03048",
     "window": "far_out",
-    "local_date": "2026-06-11",
-    "start_datetime": "2026-06-12T03:00:00+00:00",
-    "date_start": "2026-06-12T03:00:00+00:00",
-    "date_end": "2026-06-12T03:00:00+00:00",
+    "local_date": "2026-10-04",
+    "start_datetime": "2026-10-05T02:00:00+00:00",
+    "date_start": "2026-10-05T02:00:00+00:00",
+    "date_end": "2026-10-05T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.631,
-    "ai_priority": 6,
-    "ai_reason": "Belle & Sebastian's classic songs will resonate with long-time fans and newcomers alike."
+    "ai_priority": 7,
+    "ai_reason": "Bilmuri's unique sound and growing fanbase make this an interesting pick."
   },
   {
-    "id": "G5vYZ_eXN9G3P",
+    "id": "G5vYZ_dLfzbxE",
     "ids": [
-      "G5vYZ_eXN9G3P"
+      "G5vYZ_dLfzbxE"
     ],
-    "name": "A$AP Rocky - Don't Be Dumb World Tour",
-    "primary_artist": "A$AP Rocky",
-    "venue_name": "Chase Center",
+    "name": "The Growlers - 9/18",
+    "primary_artist": "The Growlers",
+    "venue_name": "The Castro Theatre",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/aap-rocky-dont-be-dumb-world-san-francisco-california-06-25-2026/event/1C00642FA35CC4A5",
+    "url": "https://www.ticketmaster.com/the-growlers-918-san-francisco-california-09-18-2026/event/1C006437D4E188A7",
     "window": "far_out",
-    "local_date": "2026-06-25",
-    "start_datetime": "2026-06-26T02:30:00+00:00",
-    "date_start": "2026-06-26T02:30:00+00:00",
-    "date_end": "2026-06-26T02:30:00+00:00",
+    "local_date": "2026-09-18",
+    "start_datetime": "2026-09-19T03:00:00+00:00",
+    "date_start": "2026-09-19T03:00:00+00:00",
+    "date_end": "2026-09-19T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.625,
-    "ai_priority": 6,
-    "ai_reason": "Kid Cudi's tour is expected to be a highlight, featuring his unique blend of hip-hop and performance art."
+    "score": 0.58,
+    "ai_priority": 7,
+    "ai_reason": "Iron & Wine's intimate performances are always a treat for fans."
   },
   {
-    "id": "G5vYZbM6-gWMX",
+    "id": "G5vYZ_7mXfWZo",
     "ids": [
-      "G5vYZbM6-gWMX"
+      "G5vYZ_7mXfWZo"
     ],
-    "name": "Olivia Dean: The Art Of Loving Live",
-    "primary_artist": "Olivia Dean",
+    "name": "Diljit Dosanjh - Aura World Tour 2026",
+    "primary_artist": "Diljit Dosanjh",
     "venue_name": "Chase Center",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/olivia-dean-the-art-of-loving-san-francisco-california-07-11-2026/event/1C006371E1D7DDFE",
+    "url": "https://www.ticketmaster.com/diljit-dosanjh-aura-world-tour-2026-san-francisco-california-06-21-2026/event/1C00644BBE53D011",
     "window": "far_out",
-    "local_date": "2026-07-11",
-    "start_datetime": "2026-07-12T03:00:00+00:00",
-    "date_start": "2026-07-12T03:00:00+00:00",
-    "date_end": "2026-07-12T03:00:00+00:00",
+    "local_date": "2026-06-21",
+    "start_datetime": "2026-06-22T03:00:00+00:00",
+    "date_start": "2026-06-22T03:00:00+00:00",
+    "date_end": "2026-06-22T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.565,
-    "ai_priority": 6,
-    "ai_reason": "Olivia Dean's rising star status and engaging performances make her shows a great pick."
+    "ai_priority": 7,
+    "ai_reason": "Diljit Dosanjh's tour promises a vibrant cultural experience."
   },
   {
-    "id": "1k18vxjdGAGxoz9",
+    "id": "G5vYZ_d2ADlKy",
     "ids": [
-      "1k18vxjdGAGxoz9",
-      "Z7r9jZ1A7bsG9"
+      "G5vYZ_d2ADlKy"
     ],
-    "name": "The Church -- the Singles: 1980-2025",
-    "primary_artist": "The Church",
-    "venue_name": "August Hall",
+    "name": "Lionel Richie and Earth, Wind & Fire - Sing a Song All Night Long",
+    "primary_artist": "Lionel Richie",
+    "venue_name": "Chase Center",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketweb.com/event/the-church-august-hall-tickets/14291513?REFERRAL_ID=tmfeed",
+    "url": "https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-san-francisco-california-08-06-2026/event/1C006433C5EEB4F9",
     "window": "far_out",
-    "local_date": "2026-06-09",
-    "start_datetime": "2026-06-10T02:00:00+00:00",
-    "date_start": "2026-06-10T02:00:00+00:00",
-    "date_end": "2026-06-10T02:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.649,
+    "local_date": "2026-08-06",
+    "start_datetime": "2026-08-07T02:30:00+00:00",
+    "date_start": "2026-08-07T02:30:00+00:00",
+    "date_end": "2026-08-07T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6549999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZbz2hJjQL",
+    "ids": [
+      "G5vYZbz2hJjQL"
+    ],
+    "name": "Forrest Frank: The Jesus Generation Tour",
+    "primary_artist": "Forrest Frank",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/forrest-frank-the-jesus-generation-tour-oakland-california-07-14-2026/event/1C006383DB99C69F",
+    "window": "far_out",
+    "local_date": "2026-07-14",
+    "start_datetime": "2026-07-15T02:00:00+00:00",
+    "date_start": "2026-07-15T02:00:00+00:00",
+    "date_end": "2026-07-15T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6489999999999999,
     "ai_priority": null,
     "ai_reason": null
   }

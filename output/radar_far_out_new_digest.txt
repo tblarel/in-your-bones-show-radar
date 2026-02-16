@@ -1,21 +1,33 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 6 new show(s) since last run:
+Found 10 new show(s) since last run:
 
-- 2026-06-10 03:00 — Ariana Grande @ Oakland Arena (Oakland)
-    ▹ Ariana Grande's tour is highly anticipated, promising a strong live performance and a massive fanbase.
+- 2026-10-18 02:30 — RUSH @ SAP Center at San Jose (San Jose)
+    ▹ Bob Moses is known for their captivating live shows, making this a must-see.
 
-- 2026-09-03 03:00 — ZAYN @ Chase Center (San Francisco)
-    ▹ ZAYN's tour is generating buzz, and his live performances are known for their emotional depth.
+- 2026-07-12 02:00 — Hilary Duff @ Shoreline Amphitheatre (Mountain View)
+    ▹ Hilary Duff's return to touring is generating nostalgia and excitement among fans.
 
-- 2026-08-13 03:00 — John Mellencamp @ Shoreline Amphitheatre (Mountain View)
-    ▹ A$AP Rocky's tour is highly anticipated, showcasing his dynamic stage presence and popular hits.
+- 2026-07-21 02:00 — Evanescence @ Shoreline Amphitheatre (Mountain View)
+    ▹ Evanescence's tour with Spiritbox and Nova Twins offers a compelling lineup.
 
-- 2026-10-08 02:30 — The Neighbourhood @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ The Head And The Heart are known for their heartfelt performances, making this a must-see show.
+- 2026-09-09 03:00 — Childish Gambino @ Chase Center (San Francisco)
+    ▹ Childish Gambino's tour is expected to be a standout event with strong artistic vision.
 
-- 2026-06-12 03:00 — Belle & Sebastian @ The Masonic (San Francisco)
-    ▹ Belle & Sebastian's classic songs will resonate with long-time fans and newcomers alike.
+- 2026-06-18 03:00 — The Lemon Twigs @ The Fillmore (San Francisco)
+    ▹ The Lemon Twigs are known for their eclectic sound and engaging live shows.
 
-- 2026-06-10 02:00 → 2026-06-10 02:00 — The Church @ August Hall (San Francisco) [multi-night x2]
+- 2026-08-27 03:00 — Courtney Barnett @ The Fillmore (San Francisco)
+    ▹ Courtney Barnett's unique storytelling and live energy make her shows special.
+
+- 2026-10-05 02:00 — Bilmuri @ The Masonic (San Francisco)
+    ▹ Bilmuri's unique sound and growing fanbase make this an interesting pick.
+
+- 2026-09-19 03:00 — The Growlers @ The Castro Theatre (San Francisco)
+    ▹ Iron & Wine's intimate performances are always a treat for fans.
+
+- 2026-06-22 03:00 — Diljit Dosanjh @ Chase Center (San Francisco)
+    ▹ Diljit Dosanjh's tour promises a vibrant cultural experience.
+
+- 2026-07-15 02:00 — Forrest Frank @ Oakland Arena (Oakland)

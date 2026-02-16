@@ -1,35 +1,31 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 11 new show(s) since last run:
+Found 10 new show(s) since last run:
 
-- 2026-03-07 03:00 — Brandi Carlile @ Chase Center (San Francisco)
-    ▹ Brandi Carlile's powerful storytelling and strong live reputation make this a must-see event.
+- 2026-03-13 03:00 — Whitney @ The Fillmore (San Francisco)
+    ▹ Whitney's indie-folk sound and engaging live shows make this a highly anticipated performance.
 
-- 2026-03-07 04:00 — Indigo De Souza @ The Fillmore (San Francisco)
-    ▹ Gogol Bordello is known for their electrifying live performances and eclectic sound.
+- 2026-03-15 02:30 — Black Label Society @ Warfield (San Francisco)
+    ▹ Black Label Society's heavy sound and loyal fan base ensure an exciting live show.
 
-- 2026-03-11 03:00 — Aimee Mann @ The Fillmore (San Francisco)
-    ▹ Aimee Mann's anniversary tour offers a nostalgic look back at her influential work.
+- 2026-03-15 03:00 — ALO @ The Fillmore (San Francisco)
+    ▹ ALO's blend of rock and funk makes for a fun and lively concert experience.
 
-- 2026-02-24 03:00 — Van Morrison @ Palace of Fine Arts (San Francisco)
-    ▹ Van Morrison's legacy as a classic artist makes this show a significant event.
+- 2026-03-17 03:00 — yung kai @ August Hall (San Francisco)
+    ▹ yung kai's tour promises an intimate and engaging performance for fans.
 
-- 2026-03-16 03:00 — Nine Inch Nails @ Chase Center (San Francisco)
-    ▹ Nine Inch Nails' return promises a powerful and immersive live experience.
+- 2026-05-04 02:00 — Lewis Capaldi @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Dave's tour is generating buzz, promising a memorable live experience.
 
-- 2026-03-08 04:00 — The Strumbellas @ August Hall (San Francisco)
-    ▹ The Strumbellas are known for their anthemic sound and engaging live shows.
+- 2026-03-31 03:00 — Sarah Kinsley @ August Hall (San Francisco)
+    ▹ Sarah Kinsley's rising profile and unique sound make her a noteworthy act.
 
-- 2026-03-28 02:00 — Bad Omens @ Oakland Arena (Oakland)
-    ▹ Bad Omens' rising popularity in the rock scene makes their tour an exciting prospect.
+- 2026-03-21 03:00 — Maggie Lindemann @ August Hall (San Francisco)
+    ▹ Maggie Lindemann's growing popularity and unique sound make her a noteworthy act.
 
-- 2026-03-14 02:00 → 2026-03-15 02:00 — Excision @ Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
-    ▹ Jonah Kagen's rising star status and engaging performances make this show noteworthy.
+- 2026-03-19 03:00 — Lauren Spencer Smith @ The Fillmore (San Francisco)
 
-- 2026-03-08 03:30 — Silversun Pickups @ Uptown Theatre Napa (Napa)
-    ▹ Silversun Pickups' unique sound and energetic performances are always a treat.
+- 2026-03-19 03:00 — Lauren Spencer Smith @ The Masonic (San Francisco)
 
-- 2026-03-07 04:00 — Gogol Bordello @ Warfield (San Francisco)
-
-- 2026-03-12 03:00 — dodie @ Fox Theater - Oakland (Oakland)
+- 2026-03-03 04:00 — Natalie Jane @ Great American Music Hall (San Francisco)
