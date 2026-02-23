@@ -1,28 +1,5 @@
 [
   {
-    "id": "G5vYZbVDiuGdX",
-    "ids": [
-      "G5vYZbVDiuGdX"
-    ],
-    "name": "Brandi Carlile - The Human Tour ",
-    "primary_artist": "Brandi Carlile",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/brandi-carlile-the-human-tour-san-francisco-california-03-06-2026/event/1C00634EEC34C0FE",
-    "window": "short_term",
-    "local_date": "2026-03-06",
-    "start_datetime": "2026-03-07T03:00:00+00:00",
-    "date_start": "2026-03-07T03:00:00+00:00",
-    "date_end": "2026-03-07T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.7149999999999999,
-    "ai_priority": 9,
-    "ai_reason": "Brandi Carlile's strong storytelling and powerful live performances make this a must-see event."
-  },
-  {
     "id": "G5vYZbSlrLJhr",
     "ids": [
       "G5vYZbSlrLJhr"
@@ -42,8 +19,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.7149999999999999,
-    "ai_priority": 9,
-    "ai_reason": "Nine Inch Nails is known for their intense live shows, making this tour highly anticipated."
+    "ai_priority": 10,
+    "ai_reason": "Nine Inch Nails is a legendary act with a strong live reputation, making this a must-see event."
   },
   {
     "id": "G5vYZbM0lCvrC",
@@ -66,77 +43,8 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.6969999999999998,
-    "ai_priority": 8,
-    "ai_reason": "Excision's reputation for high-energy electronic performances draws significant buzz."
-  },
-  {
-    "id": "G5vYZbwXCivuD",
-    "ids": [
-      "G5vYZbwXCivuD"
-    ],
-    "name": "Indigo De Souza",
-    "primary_artist": "Indigo De Souza",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/indigo-de-souza-san-francisco-california-03-06-2026/event/1C00632F8EB0137B",
-    "window": "short_term",
-    "local_date": "2026-03-06",
-    "start_datetime": "2026-03-07T04:00:00+00:00",
-    "date_start": "2026-03-07T04:00:00+00:00",
-    "date_end": "2026-03-07T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 8,
-    "ai_reason": "Indigo De Souza's unique sound and strong live reputation make her a standout act."
-  },
-  {
-    "id": "Z7r9jZ1A7raua",
-    "ids": [
-      "Z7r9jZ1A7raua"
-    ],
-    "name": "Gogol Bordello",
-    "primary_artist": "Gogol Bordello",
-    "venue_name": "Warfield",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7raua",
-    "window": "short_term",
-    "local_date": "2026-03-06",
-    "start_datetime": "2026-03-07T04:00:00+00:00",
-    "date_start": "2026-03-07T04:00:00+00:00",
-    "date_end": "2026-03-07T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 8,
-    "ai_reason": "Gogol Bordello's energetic performances and eclectic style are always a crowd favorite."
-  },
-  {
-    "id": "G5vYZbUSxxeGu",
-    "ids": [
-      "G5vYZbUSxxeGu"
-    ],
-    "name": "Aimee Mann, 22 ½ Lost In Space Anniversary Tour with Jonathan Coulton",
-    "primary_artist": "Aimee Mann",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/aimee-mann-22-12-lost-in-san-francisco-california-03-10-2026/event/1C00636CE288230D",
-    "window": "short_term",
-    "local_date": "2026-03-10",
-    "start_datetime": "2026-03-11T03:00:00+00:00",
-    "date_start": "2026-03-11T03:00:00+00:00",
-    "date_end": "2026-03-11T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 8,
-    "ai_reason": "Aimee Mann's anniversary tour promises a nostalgic yet fresh experience for fans."
+    "ai_priority": 9,
+    "ai_reason": "Excision is known for high-energy electronic shows, making this a standout event for fans of the genre."
   },
   {
     "id": "G5vYZbwp9RfQJ",
@@ -159,30 +67,7 @@
     "night_count": 1,
     "score": 0.694,
     "ai_priority": 8,
-    "ai_reason": "Whitney's indie-folk sound and engaging live shows make this a highly anticipated performance."
-  },
-  {
-    "id": "Z7r9jZ1A7rApp",
-    "ids": [
-      "Z7r9jZ1A7rApp"
-    ],
-    "name": "Black Label Society",
-    "primary_artist": "Black Label Society",
-    "venue_name": "Warfield",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rApp",
-    "window": "short_term",
-    "local_date": "2026-03-14",
-    "start_datetime": "2026-03-15T02:30:00+00:00",
-    "date_start": "2026-03-15T02:30:00+00:00",
-    "date_end": "2026-03-15T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 7,
-    "ai_reason": "Black Label Society's heavy sound and loyal fan base ensure an exciting live show."
+    "ai_reason": "Whitney's blend of indie rock and folk is highly praised, promising an engaging live performance."
   },
   {
     "id": "G5vYZbMJ3O9mK",
@@ -204,31 +89,54 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
-    "ai_priority": 7,
-    "ai_reason": "ALO's blend of rock and funk makes for a fun and lively concert experience."
+    "ai_priority": 8,
+    "ai_reason": "ALO brings a unique sound and a strong live presence, appealing to fans of jam and indie music."
   },
   {
-    "id": "G5vYZbYRTmb2k",
+    "id": "G5vYZ_eVlPzL3",
     "ids": [
-      "G5vYZbYRTmb2k"
+      "G5vYZ_eVlPzL3"
     ],
-    "name": "The Strumbellas - Into Dust Tour",
-    "primary_artist": "The Strumbellas",
-    "venue_name": "August Hall",
+    "name": "Unbroken Chain: A Celebration of the Life and Music of Phil Lesh",
+    "primary_artist": "Grahame Lesh",
+    "venue_name": "The Fillmore",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-strumbellas-into-dust-tour-san-francisco-california-03-07-2026/event/1C00630BFFB983C6",
+    "url": "https://www.ticketmaster.com/unbroken-chain-a-celebration-of-the-san-francisco-california-03-20-2026/event/1C00642D2B9787D2",
     "window": "short_term",
-    "local_date": "2026-03-07",
-    "start_datetime": "2026-03-08T04:00:00+00:00",
-    "date_start": "2026-03-08T04:00:00+00:00",
-    "date_end": "2026-03-08T04:00:00+00:00",
+    "local_date": "2026-03-20",
+    "start_datetime": "2026-03-21T03:00:00+00:00",
+    "date_start": "2026-03-21T03:00:00+00:00",
+    "date_end": "2026-03-21T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6789999999999999,
+    "score": 0.694,
     "ai_priority": 7,
-    "ai_reason": "The Strumbellas' folk-rock sound and engaging performances are sure to resonate with fans."
+    "ai_reason": "Unbroken Chain celebrates Phil Lesh's legacy, attracting fans of the Grateful Dead and jam band culture."
+  },
+  {
+    "id": "G5vYZbMvFoynR",
+    "ids": [
+      "G5vYZbMvFoynR"
+    ],
+    "name": "Jeff Tweedy with special guest Macie Stewart",
+    "primary_artist": "Jeff Tweedy",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/jeff-tweedy-with-special-guest-macie-san-francisco-california-03-25-2026/event/1C00637048479AAF",
+    "window": "short_term",
+    "local_date": "2026-03-25",
+    "start_datetime": "2026-03-26T03:00:00+00:00",
+    "date_start": "2026-03-26T03:00:00+00:00",
+    "date_end": "2026-03-26T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.694,
+    "ai_priority": 7,
+    "ai_reason": "Jeff Tweedy's solo performance is a highlight for fans of Americana and indie rock."
   },
   {
     "id": "G5vYZbgdSlmNI",
@@ -251,76 +159,7 @@
     "night_count": 1,
     "score": 0.6789999999999999,
     "ai_priority": 7,
-    "ai_reason": "yung kai's tour promises an intimate and engaging performance for fans."
-  },
-  {
-    "id": "G5vYZbUuJTSc4",
-    "ids": [
-      "G5vYZbUuJTSc4"
-    ],
-    "name": "Silversun Pickups - Tenterhooks Tour",
-    "primary_artist": "Silversun Pickups",
-    "venue_name": "Uptown Theatre Napa",
-    "city": "Napa",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-napa-california-03-07-2026/event/1C00636366FF3B55",
-    "window": "short_term",
-    "local_date": "2026-03-07",
-    "start_datetime": "2026-03-08T03:30:00+00:00",
-    "date_start": "2026-03-08T03:30:00+00:00",
-    "date_end": "2026-03-08T03:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6729999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Silversun Pickups' signature sound and live energy make this a must-see show."
-  },
-  {
-    "id": "G5vYZbgfP2jiX",
-    "ids": [
-      "G5vYZbgfP2jiX"
-    ],
-    "name": "Lewis Capaldi",
-    "primary_artist": "Lewis Capaldi",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lewis-capaldi-berkeley-california-05-03-2026/event/1C006355253DCB3E",
-    "window": "short_term",
-    "local_date": "2026-05-03",
-    "start_datetime": "2026-05-04T02:00:00+00:00",
-    "date_start": "2026-05-04T02:00:00+00:00",
-    "date_end": "2026-05-04T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6729999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Dave's tour is generating buzz, promising a memorable live experience."
-  },
-  {
-    "id": "G5vYZbMEntiC2",
-    "ids": [
-      "G5vYZbMEntiC2"
-    ],
-    "name": "Sarah Kinsley",
-    "primary_artist": "Sarah Kinsley",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/sarah-kinsley-san-francisco-california-03-30-2026/event/1C006379EAA6C38F",
-    "window": "short_term",
-    "local_date": "2026-03-30",
-    "start_datetime": "2026-03-31T03:00:00+00:00",
-    "date_start": "2026-03-31T03:00:00+00:00",
-    "date_end": "2026-03-31T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.649,
-    "ai_priority": 7,
-    "ai_reason": "Sarah Kinsley's rising profile and unique sound make her a noteworthy act."
+    "ai_reason": "Lauren Spencer Smith's rising star status makes her show a noteworthy event for pop music enthusiasts."
   },
   {
     "id": "G5vYZbgkxwyLe",
@@ -341,9 +180,217 @@
     "date_end": "2026-03-21T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.649,
+    "score": 0.6789999999999999,
     "ai_priority": 7,
-    "ai_reason": "Maggie Lindemann's growing popularity and unique sound make her a noteworthy act."
+    "ai_reason": "Maggie Lindemann is gaining traction in the pop scene, making her show a promising event."
+  },
+  {
+    "id": "Z7r9jZ1A7OF7w",
+    "ids": [
+      "Z7r9jZ1A7OF7w"
+    ],
+    "name": "Nothing w/ Full Body 2",
+    "primary_artist": "Nothing",
+    "venue_name": "The Regency Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7OF7w",
+    "window": "short_term",
+    "local_date": "2026-03-19",
+    "start_datetime": "2026-03-20T02:00:00+00:00",
+    "date_start": "2026-03-20T02:00:00+00:00",
+    "date_end": "2026-03-20T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.688,
+    "ai_priority": 6,
+    "ai_reason": "Nothing's atmospheric sound and strong live reputation make this a compelling show for alternative music fans."
+  },
+  {
+    "id": "Z7r9jZ1A7Obv7",
+    "ids": [
+      "Z7r9jZ1A7Obv7"
+    ],
+    "name": "Colony House",
+    "primary_artist": "Colony House",
+    "venue_name": "Great American Music Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Obv7",
+    "window": "short_term",
+    "local_date": "2026-03-15",
+    "start_datetime": "2026-03-16T03:00:00+00:00",
+    "date_start": "2026-03-16T03:00:00+00:00",
+    "date_end": "2026-03-16T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6819999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Colony House's indie rock sound is well-received, promising an engaging live experience."
+  },
+  {
+    "id": "Z7r9jZ1A7Obv8",
+    "ids": [
+      "Z7r9jZ1A7Obv8"
+    ],
+    "name": "Dirty Three",
+    "primary_artist": "Dirty Three",
+    "venue_name": "Great American Music Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Obv8",
+    "window": "short_term",
+    "local_date": "2026-03-23",
+    "start_datetime": "2026-03-24T03:00:00+00:00",
+    "date_start": "2026-03-24T03:00:00+00:00",
+    "date_end": "2026-03-24T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6819999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Dirty Three's unique instrumental sound offers a captivating live performance for fans of experimental music."
+  },
+  {
+    "id": "Z7r9jZ1A7Obvo",
+    "ids": [
+      "Z7r9jZ1A7Obvo"
+    ],
+    "name": "My Life with the Thrill Kill Kult",
+    "primary_artist": "My Life with the Thrill Kill Kult",
+    "venue_name": "Great American Music Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Obvo",
+    "window": "short_term",
+    "local_date": "2026-03-25",
+    "start_datetime": "2026-03-26T02:00:00+00:00",
+    "date_start": "2026-03-26T02:00:00+00:00",
+    "date_end": "2026-03-26T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6819999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Johnny Marr's legacy as a guitarist and songwriter makes his show a significant event for fans of rock music."
+  },
+  {
+    "id": "G5vYZbgfqCjqs",
+    "ids": [
+      "G5vYZbgfqCjqs"
+    ],
+    "name": "BAD OMENS - DO YOU FEEL LOVE NORTH AMERICAN TOUR",
+    "primary_artist": "Bad Omens",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/bad-omens-do-you-feel-love-oakland-california-03-27-2026/event/1C0063551D39C771",
+    "window": "short_term",
+    "local_date": "2026-03-27",
+    "start_datetime": "2026-03-28T02:00:00+00:00",
+    "date_start": "2026-03-28T02:00:00+00:00",
+    "date_end": "2026-03-28T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 6,
+    "ai_reason": "BAD OMENS is gaining popularity in the rock scene, making their tour a noteworthy event."
+  },
+  {
+    "id": "G5vYZbUhfKrGj",
+    "ids": [
+      "G5vYZbUhfKrGj"
+    ],
+    "name": "redveil",
+    "primary_artist": "redveil",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/redveil-san-francisco-california-03-18-2026/event/1C006366D44DE31C",
+    "window": "short_term",
+    "local_date": "2026-03-18",
+    "start_datetime": "2026-03-19T03:00:00+00:00",
+    "date_start": "2026-03-19T03:00:00+00:00",
+    "date_end": "2026-03-19T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.649,
+    "ai_priority": 6,
+    "ai_reason": "Calum Scott's emotional pop ballads are well-received, making his performance a highlight for fans."
+  },
+  {
+    "id": "G5vYZbVNIpaO6",
+    "ids": [
+      "G5vYZbVNIpaO6",
+      "G5vYZbVNIpyOa"
+    ],
+    "name": "Sam Smith - To Be Free: San Francisco 3/10",
+    "primary_artist": "Sam Smith",
+    "venue_name": "The Castro Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/sam-smith-to-be-free-san-san-francisco-california-03-10-2026/event/1C006348E8589807",
+    "window": "short_term",
+    "local_date": "2026-03-10",
+    "start_datetime": "2026-03-11T03:00:00+00:00",
+    "date_start": "2026-03-11T03:00:00+00:00",
+    "date_end": "2026-03-12T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
+    "score": 0.6399999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Sam Smith's powerful vocals and stage presence make this a highly anticipated show."
+  },
+  {
+    "id": "G5vYZbUSxxeGu",
+    "ids": [
+      "G5vYZbUSxxeGu"
+    ],
+    "name": "Aimee Mann, 22 ½ Lost In Space Anniversary Tour with Jonathan Coulton",
+    "primary_artist": "Aimee Mann",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/aimee-mann-22-12-lost-in-san-francisco-california-03-10-2026/event/1C00636CE288230D",
+    "window": "short_term",
+    "local_date": "2026-03-10",
+    "start_datetime": "2026-03-11T03:00:00+00:00",
+    "date_start": "2026-03-11T03:00:00+00:00",
+    "date_end": "2026-03-11T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.694,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "Z7r9jZ1A7rApp",
+    "ids": [
+      "Z7r9jZ1A7rApp"
+    ],
+    "name": "Black Label Society",
+    "primary_artist": "Black Label Society",
+    "venue_name": "Warfield",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7rApp",
+    "window": "short_term",
+    "local_date": "2026-03-14",
+    "start_datetime": "2026-03-15T02:30:00+00:00",
+    "date_start": "2026-03-15T02:30:00+00:00",
+    "date_end": "2026-03-15T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.694,
+    "ai_priority": null,
+    "ai_reason": null
   },
   {
     "id": "G5vYZ_drSCqu2",
@@ -365,75 +412,6 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
-    "ai_priority": null,
-    "ai_reason": null
-  },
-  {
-    "id": "G5vYZbsl29dBy",
-    "ids": [
-      "G5vYZbsl29dBy"
-    ],
-    "name": "Zara Larsson: Midnight Sun Tour 2026",
-    "primary_artist": "Zara Larsson",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/zara-larsson-midnight-sun-tour-2026-oakland-california-03-03-2026/event/1C00631ACF5C3EB9",
-    "window": "short_term",
-    "local_date": "2026-03-03",
-    "start_datetime": "2026-03-04T04:00:00+00:00",
-    "date_start": "2026-03-04T04:00:00+00:00",
-    "date_end": "2026-03-04T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": null,
-    "ai_reason": null
-  },
-  {
-    "id": "G5vYZblDVCEez",
-    "ids": [
-      "G5vYZblDVCEez"
-    ],
-    "name": "Lauren Spencer Smith-MOVED TO THE FILLMORE!",
-    "primary_artist": "Lauren Spencer Smith",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lauren-spencer-smithmoved-to-the-fillmore-san-francisco-california-03-18-2026/event/1C0062BEF43A70B8",
-    "window": "short_term",
-    "local_date": "2026-03-18",
-    "start_datetime": "2026-03-19T03:00:00+00:00",
-    "date_start": "2026-03-19T03:00:00+00:00",
-    "date_end": "2026-03-19T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.691,
-    "ai_priority": null,
-    "ai_reason": null
-  },
-  {
-    "id": "Z7r9jZ1A7Obvv",
-    "ids": [
-      "Z7r9jZ1A7Obvv"
-    ],
-    "name": "Natalie Jane",
-    "primary_artist": "Natalie Jane",
-    "venue_name": "Great American Music Hall",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7Obvv",
-    "window": "short_term",
-    "local_date": "2026-03-02",
-    "start_datetime": "2026-03-03T04:00:00+00:00",
-    "date_start": "2026-03-03T04:00:00+00:00",
-    "date_end": "2026-03-03T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6819999999999999,
     "ai_priority": null,
     "ai_reason": null
   }
