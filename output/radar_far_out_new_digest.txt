@@ -1,37 +1,23 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 11 new show(s) since last run:
+Found 7 new show(s) since last run:
 
-- 2026-06-23 02:00 — Metric @ The Masonic (San Francisco)
-    ▹ The lineup featuring Metric, Broken Social Scene, and Stars promises a rich blend of indie and alt-rock with significant buzz.
+- 2026-08-30 03:00 — Tori Amos @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Tori Amos's In Times of Dragons Tour is likely to attract a dedicated audience eager for her emotive storytelling and unique sound.
 
-- 2026-06-24 02:30 — Madison Beer @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Madison Beer is gaining traction in the pop scene, and her tour is highly anticipated.
+- 2026-08-27 01:45 — Train @ Shoreline Amphitheatre (Mountain View)
+    ▹ Train's 25 Years in the Atmosphere tour celebrates their legacy, likely attracting long-time fans.
 
-- 2026-10-16 02:30 → 2026-10-18 02:30 — RUSH @ SAP Center at San Jose (San Jose) [multi-night x2]
-    ▹ RUSH's legacy continues to attract fans, making their tour a significant event.
+- 2026-07-12 02:00 — Hilary Duff @ Shoreline Amphitheatre (Mountain View)
+    ▹ Hilary Duff's Lucky Me Tour is a nostalgic draw for fans of early 2000s pop music.
 
-- 2026-09-27 03:00 — Cristian Castro @ San Jose Civic (San Jose)
-    ▹ AC/DC's tour is a major event for rock fans, promising a high-energy experience.
+- 2026-08-13 01:30 — O.A.R. @ The Masonic (San Francisco)
+    ▹ O.A.R. has a dedicated fan base and their Three Decades Tour will likely resonate with long-time followers.
 
-- 2026-11-19 03:00 — Three Days Grace @ SAP Center at San Jose (San Jose)
-    ▹ Three Days Grace continues to resonate with rock fans, making their tour noteworthy.
+- 2026-07-20 03:00 — Micky Dolenz @ Uptown Theatre Napa (Napa)
+    ▹ Micky Dolenz's 60 Years of The Monkees offers a nostalgic trip for fans of classic pop music.
 
-- 2026-09-02 03:00 — Screeching Weasel @ August Hall (San Francisco)
-    ▹ The Black Crowes and Whiskey Myers promise a night of rock and country fusion.
+- 2026-09-03 03:00 — ZAYN @ Chase Center (San Francisco)
 
-- 2026-08-30 03:00 — J. Cole @ Oakland Arena (Oakland)
-    ▹ J. Cole's tour is highly anticipated, showcasing his strong reputation in hip-hop.
-
-- 2026-07-18 02:30 — Bob Moses @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Forrest Frank's tour is gaining traction, appealing to fans of modern pop.
-
-- 2026-06-27 03:00 — Dillstradamus @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Dillstradamus promises an exciting electronic experience with a strong following.
-
-- 2026-08-23 03:00 — The Breeders @ The Castro Theatre (San Francisco)
-    ▹ The Breeders are a staple in the indie scene, and their shows are always a nostalgic treat.
-
-- 2026-07-12 03:00 — Olivia Dean @ Chase Center (San Francisco)
-    ▹ Poppy's tour is generating interest with her unique blend of pop and alternative styles.
+- 2026-07-15 02:00 — Forrest Frank @ Oakland Arena (Oakland)
