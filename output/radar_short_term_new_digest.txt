@@ -1,50 +1,30 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 16 new show(s) since last run:
+Found 9 new show(s) since last run:
 
-- 2026-04-04 02:30 — LANY @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ LANY has a strong reputation for their engaging live performances and emotional pop sound, making this show a must-see.
+- 2026-06-25 03:00 — Juvenile @ Fox Theater - Oakland (Oakland)
+    ▹ Juvenile's return with the 400 Degreez Band is a nostalgic draw for hip-hop fans.
 
-- 2026-04-07 02:30 — The Strokes @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ The Strokes are iconic in the indie rock scene, and their live shows are known for high energy and nostalgia.
+- 2026-03-30 01:30 — The Maine @ The Regency Ballroom (San Francisco)
+    ▹ The Maine's pop-rock sound and engaging performances make them a solid choice for fans of the genre.
 
-- 2026-04-08 03:00 — FKA twigs @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ FKA twigs is celebrated for her innovative performances and unique sound, promising a captivating live experience.
+- 2026-05-17 02:00 — Rene Liu @ SAP Center at San Jose (San Jose)
+    ▹ Kid Cudi's innovative approach to hip-hop and engaging performances make his tour highly anticipated.
 
-- 2026-04-03 03:00 — Jackson Wang @ Oakland Arena (Oakland)
-    ▹ Jackson Wang's fusion of pop and performance art is drawing attention, making this a standout event.
+- 2026-05-30 03:00 → 2026-05-31 03:00 — Alabama Shakes @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
+    ▹ Alabama Shakes' soulful sound and dynamic performances make them a must-see act.
 
-- 2026-04-07 03:00 — Sticky Fingers @ The Masonic (San Francisco)
-    ▹ Sticky Fingers brings a unique blend of reggae and rock, promising a lively and fun concert experience.
+- 2026-04-27 02:30 — VNV Nation @ August Hall (San Francisco)
+    ▹ VNV Nation's electronic music is known for its powerful live performances, appealing to fans of the genre.
 
-- 2026-03-31 03:00 — Sarah Kinsley @ August Hall (San Francisco)
-    ▹ The Midnight is known for their nostalgic synth-pop sound and engaging live shows, appealing to a dedicated fanbase.
+- 2026-04-01 03:00 — Nick Lowe @ The Castro Theatre (San Francisco)
+    ▹ Nick Lowe's legacy in rock and pop makes his performance a compelling choice for music lovers.
 
-- 2026-03-30 03:00 — Goldie Boutilier @ August Hall (San Francisco)
-    ▹ Calum Scott's heartfelt ballads and strong vocal performances make his shows emotionally resonant.
+- 2026-06-27 01:00 — Los Tucanes De Tijuana @ Oakland Arena (Oakland)
+    ▹ Lamb of God's heavy sound and intense live shows attract a dedicated fanbase.
 
-- 2026-04-14 02:30 — Bruce Springsteen and The E Street Band @ Chase Center (San Francisco)
-    ▹ Bruce Springsteen's legendary status and dynamic performances ensure a memorable concert experience.
+- 2026-06-13 01:30 — The Pussycat Dolls @ Shoreline Amphitheatre (Mountain View)
+    ▹ The Pussycat Dolls' reunion tour is a nostalgic draw for fans of early 2000s pop.
 
-- 2026-04-01 03:00 — Dave @ Fox Theater - Oakland (Oakland)
-    ▹ Dave's unique storytelling and engaging stage presence make his performance a highly anticipated event.
-
-- 2026-03-28 02:30 — Jeff Tweedy @ Uptown Theatre Napa (Napa)
-    ▹ Jeff Tweedy's solo performances are intimate and showcase his songwriting prowess, appealing to fans of indie folk.
-
-- 2026-04-25 03:00 — Rhye @ August Hall (San Francisco)
-    ▹ Rhye's smooth sound and intimate performances create a captivating atmosphere for concertgoers.
-
-- 2026-04-17 01:50 — The Format @ The Castro Theatre (San Francisco)
-    ▹ The Format's return is generating excitement among fans of alternative rock, promising a nostalgic experience.
-
-- 2026-04-23 03:00 — Hatsune Miku @ San Jose Civic (San Jose)
-    ▹ Hatsune Miku's unique virtual performances attract a dedicated fanbase, making this a special event.
-
-- 2026-04-12 03:00 — The Summer Set @ August Hall (San Francisco)
-    ▹ Good Kid's rising popularity and engaging live shows make their performance a noteworthy event.
-
-- 2026-03-23 03:00 — Grahame Lesh @ The Fillmore (San Francisco)
-
-- 2026-03-26 03:00 — Jeff Tweedy @ The Fillmore (San Francisco)
+- 2026-04-08 00:00 — Escape the Fate Vip @ The Fillmore   (San Francisco)
