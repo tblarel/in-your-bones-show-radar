@@ -1,30 +1,35 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 9 new show(s) since last run:
+Found 11 new show(s) since last run:
 
-- 2026-06-25 03:00 — Juvenile @ Fox Theater - Oakland (Oakland)
-    ▹ Juvenile's return with the 400 Degreez Band is a nostalgic draw for hip-hop fans.
+- 2026-04-17 02:00 — Royel Otis @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Royel Otis is gaining traction with their unique sound, making this tour an exciting opportunity to catch them live.
 
-- 2026-03-30 01:30 — The Maine @ The Regency Ballroom (San Francisco)
-    ▹ The Maine's pop-rock sound and engaging performances make them a solid choice for fans of the genre.
+- 2026-04-18 03:00 → 2026-04-19 03:00 — Gillian Welch & David Rawlings @ Fox Theater - Oakland (Oakland) [multi-night x2]
+    ▹ Gillian Welch & David Rawlings offer a unique acoustic experience that appeals to folk and Americana fans.
 
-- 2026-05-17 02:00 — Rene Liu @ SAP Center at San Jose (San Jose)
-    ▹ Kid Cudi's innovative approach to hip-hop and engaging performances make his tour highly anticipated.
+- 2026-04-23 03:00 — Hatsune Miku @ San Jose Civic (San Jose)
+    ▹ Behemoth is known for their intense live performances, making this a must-see for metal fans.
 
-- 2026-05-30 03:00 → 2026-05-31 03:00 — Alabama Shakes @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
-    ▹ Alabama Shakes' soulful sound and dynamic performances make them a must-see act.
+- 2026-05-12 03:00 — Demi Lovato @ Chase Center (San Francisco)
+    ▹ Demi Lovato's upcoming tour promises to deliver a powerful performance with a strong emotional connection.
 
-- 2026-04-27 02:30 — VNV Nation @ August Hall (San Francisco)
-    ▹ VNV Nation's electronic music is known for its powerful live performances, appealing to fans of the genre.
+- 2026-05-04 02:00 — Lewis Capaldi @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Lewis Capaldi's heartfelt ballads and engaging stage presence make this concert a must-attend.
 
-- 2026-04-01 03:00 — Nick Lowe @ The Castro Theatre (San Francisco)
-    ▹ Nick Lowe's legacy in rock and pop makes his performance a compelling choice for music lovers.
+- 2026-06-12 02:00 — James Blake @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ James Blake's unique sound and emotional performances are sure to resonate with fans.
 
-- 2026-06-27 01:00 — Los Tucanes De Tijuana @ Oakland Arena (Oakland)
-    ▹ Lamb of God's heavy sound and intense live shows attract a dedicated fanbase.
+- 2026-07-18 02:30 — Bob Moses @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Bob Moses is known for their captivating live shows, blending electronic and live instrumentation.
 
-- 2026-06-13 01:30 — The Pussycat Dolls @ Shoreline Amphitheatre (Mountain View)
-    ▹ The Pussycat Dolls' reunion tour is a nostalgic draw for fans of early 2000s pop.
+- 2026-07-19 03:00 — Rainbow Kitten Surprise @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Rainbow Kitten Surprise's energetic performances and eclectic sound make this a standout show.
 
-- 2026-04-08 00:00 — Escape the Fate Vip @ The Fillmore   (San Francisco)
+- 2026-07-20 01:00 — Young the Giant @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Young the Giant's live shows are known for their high energy and engaging performances.
+
+- 2026-04-08 02:30 — Lacuna Coil @ The Fillmore (San Francisco)
+
+- 2026-04-18 23:00 — Dancing with the Stars @ San Jose Civic (San Jose)

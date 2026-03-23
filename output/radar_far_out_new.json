@@ -1,48 +1,140 @@
 [
   {
-    "id": "G5vYZbMnbsIIP",
+    "id": "G5vYZbMxHi14A",
     "ids": [
-      "G5vYZbMnbsIIP"
+      "G5vYZbMxHi14A"
     ],
-    "name": "Tori Amos - In Times of Dragons Tour",
-    "primary_artist": "Tori Amos",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/tori-amos-in-times-of-dragons-berkeley-california-08-29-2026/event/1C00637A98C68A25",
-    "window": "far_out",
-    "local_date": "2026-08-29",
-    "start_datetime": "2026-08-30T03:00:00+00:00",
-    "date_start": "2026-08-30T03:00:00+00:00",
-    "date_end": "2026-08-30T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Evanescence's world tour with Spiritbox and Nova Twins is a strong lineup that combines rock and alternative sounds, drawing significant interest."
-  },
-  {
-    "id": "G5vYZ_7mLnaBa",
-    "ids": [
-      "G5vYZ_7mLnaBa"
-    ],
-    "name": "Santana & The Doobie Brothers - Oneness Tour 2026",
-    "primary_artist": "Santana",
+    "name": "Evanescence 2026 World Tour with Spiritbox and Nova Twins",
+    "primary_artist": "Evanescence",
     "venue_name": "Shoreline Amphitheatre",
     "city": "Mountain View",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/santana-the-doobie-brothers-oneness-tour-mountain-view-california-08-09-2026/event/1C00644B9FA89E89",
+    "url": "https://www.ticketmaster.com/evanescence-2026-world-tour-with-spiritbox-mountain-view-california-07-20-2026/event/1C006378BCB0A545",
     "window": "far_out",
-    "local_date": "2026-08-09",
-    "start_datetime": "2026-08-10T02:00:00+00:00",
-    "date_start": "2026-08-10T02:00:00+00:00",
-    "date_end": "2026-08-10T02:00:00+00:00",
+    "local_date": "2026-07-20",
+    "start_datetime": "2026-07-21T02:00:00+00:00",
+    "date_start": "2026-07-21T02:00:00+00:00",
+    "date_end": "2026-07-21T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6729999999999999,
+    "ai_priority": 9,
+    "ai_reason": "Evanescence's return with Spiritbox and Nova Twins promises a powerful night of rock and emotional performances."
+  },
+  {
+    "id": "G5vYZ_eNSWq8M",
+    "ids": [
+      "G5vYZ_eNSWq8M"
+    ],
+    "name": "John Mellencamp Dancing Words Tour The Greatest Hits",
+    "primary_artist": "John Mellencamp",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-mountain-view-california-08-12-2026/event/1C006428F3F5D437",
+    "window": "far_out",
+    "local_date": "2026-08-12",
+    "start_datetime": "2026-08-13T03:00:00+00:00",
+    "date_start": "2026-08-13T03:00:00+00:00",
+    "date_end": "2026-08-13T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6429999999999999,
     "ai_priority": 7,
-    "ai_reason": "J. Cole's Fall-Off Tour is a significant event in hip-hop, promising a powerful live experience from one of the genre's leading artists."
+    "ai_reason": "Godsmack's hard-hitting rock sound is sure to energize the audience, appealing to rock enthusiasts."
+  },
+  {
+    "id": "G5vYZ_kEkqCJe",
+    "ids": [
+      "G5vYZ_kEkqCJe"
+    ],
+    "name": "Bleachers Forever",
+    "primary_artist": "Bleachers",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/bleachers-forever-berkeley-california-09-17-2026/event/1C006469C674E982",
+    "window": "far_out",
+    "local_date": "2026-09-17",
+    "start_datetime": "2026-09-18T01:30:00+00:00",
+    "date_start": "2026-09-18T01:30:00+00:00",
+    "date_end": "2026-09-18T01:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Bleachers' energetic performances and catchy tunes are a highlight for fans of modern pop-rock."
+  },
+  {
+    "id": "G5vYZ_dKneCYe",
+    "ids": [
+      "G5vYZ_dKneCYe"
+    ],
+    "name": "Screeching Weasel",
+    "primary_artist": "Screeching Weasel",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/screeching-weasel-san-francisco-california-09-01-2026/event/1C006434EA08EC02",
+    "window": "far_out",
+    "local_date": "2026-09-01",
+    "start_datetime": "2026-09-02T03:00:00+00:00",
+    "date_start": "2026-09-02T03:00:00+00:00",
+    "date_end": "2026-09-02T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 7,
+    "ai_reason": "Courtney Barnett's unique voice and lyrical storytelling make her shows a must-see for indie music fans."
+  },
+  {
+    "id": "G5vYZ_k1ywuyI",
+    "ids": [
+      "G5vYZ_k1ywuyI"
+    ],
+    "name": "Bonnie Raitt - Live 2026 with Special Guest Jon Cleary",
+    "primary_artist": "Bonnie Raitt",
+    "venue_name": "The Theater at Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/bonnie-raitt-live-2026-with-special-san-francisco-california-10-10-2026/event/1C006462B9C8DE68",
+    "window": "far_out",
+    "local_date": "2026-10-10",
+    "start_datetime": "2026-10-11T03:00:00+00:00",
+    "date_start": "2026-10-11T03:00:00+00:00",
+    "date_end": "2026-10-11T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6369999999999999,
+    "ai_priority": 6,
+    "ai_reason": "Bonnie Raitt's legendary status and soulful performances attract a diverse audience."
+  },
+  {
+    "id": "G5vYZbgwY0_eo",
+    "ids": [
+      "G5vYZbgwY0_eo"
+    ],
+    "name": "AC/DC - POWER UP TOUR 2026 ",
+    "primary_artist": "AC/DC",
+    "venue_name": "Levi's® Stadium",
+    "city": "Santa Clara",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/acdc-power-up-tour-2026-santa-clara-california-08-05-2026/event/1C00635CB0919091",
+    "window": "far_out",
+    "local_date": "2026-08-05",
+    "start_datetime": "2026-08-06T02:00:00+00:00",
+    "date_start": "2026-08-06T02:00:00+00:00",
+    "date_end": "2026-08-06T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.505,
+    "ai_priority": 6,
+    "ai_reason": "Arlo Parks' rise in the music scene and her soulful sound make her a compelling act to see live."
   }
 ]
