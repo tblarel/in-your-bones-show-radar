@@ -1,5 +1,28 @@
 [
   {
+    "id": "G5vYZbghDoDwP",
+    "ids": [
+      "G5vYZbghDoDwP"
+    ],
+    "name": "Demi Lovato: It's Not That Deep Tour",
+    "primary_artist": "Demi Lovato",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/demi-lovato-its-not-that-deep-san-francisco-california-05-11-2026/event/1C006356FB47BCA5",
+    "window": "short_term",
+    "local_date": "2026-05-11",
+    "start_datetime": "2026-05-12T03:00:00+00:00",
+    "date_start": "2026-05-12T03:00:00+00:00",
+    "date_end": "2026-05-12T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.7149999999999999,
+    "ai_priority": 9,
+    "ai_reason": "Demi Lovato's tour promises a strong live performance and personal storytelling, appealing to a wide audience."
+  },
+  {
     "id": "G5vYZbgfP2jiX",
     "ids": [
       "G5vYZbgfP2jiX"
@@ -19,31 +42,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.7029999999999998,
-    "ai_priority": 9,
-    "ai_reason": "Lewis Capaldi's powerful vocals and emotional songwriting have made him a standout in the pop scene, ensuring a memorable live experience."
-  },
-  {
-    "id": "G5vYZ_ddy7l-1",
-    "ids": [
-      "G5vYZ_ddy7l-1"
-    ],
-    "name": "Said the Sky",
-    "primary_artist": "Said the Sky",
-    "venue_name": "Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/said-the-sky-san-francisco-california-04-25-2026/event/1C006430F912B84A",
-    "window": "short_term",
-    "local_date": "2026-04-25",
-    "start_datetime": "2026-04-26T02:30:00+00:00",
-    "date_start": "2026-04-26T02:30:00+00:00",
-    "date_end": "2026-04-26T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6969999999999998,
     "ai_priority": 8,
-    "ai_reason": "Said the Sky is known for his captivating electronic performances, blending emotional melodies with energetic beats."
+    "ai_reason": "Lewis Capaldi's emotional ballads and powerful voice make for a compelling live experience."
   },
   {
     "id": "G5vYZ_eL_Il35",
@@ -66,58 +66,59 @@
     "night_count": 1,
     "score": 0.6969999999999998,
     "ai_priority": 8,
-    "ai_reason": "Charlie Puth's catchy pop hits and impressive vocal range promise an engaging live show."
+    "ai_reason": "Charlie Puth's pop hits and engaging stage presence are sure to attract a large crowd."
   },
   {
-    "id": "G5vYZbgrHRtMP",
+    "id": "G5vYZbSeOL3IZ",
     "ids": [
-      "G5vYZbgrHRtMP"
+      "G5vYZbSeOL3IZ"
     ],
-    "name": "The Brook & The Bluff: The Werewolf Tour",
-    "primary_artist": "The Brook & The Bluff",
-    "venue_name": "The Fillmore",
+    "name": "RAYE - THIS TOUR MAY CONTAIN NEW MUSIC",
+    "primary_artist": "RAYE",
+    "venue_name": "The Theater at Bill Graham Civic Auditorium",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-brook-the-bluff-the-werewolf-san-francisco-california-04-25-2026/event/1C006357BCBE9DE5",
+    "url": "https://www.ticketmaster.com/raye-this-tour-may-contain-new-san-francisco-california-05-10-2026/event/1C006330A07D2A00",
     "window": "short_term",
-    "local_date": "2026-04-25",
-    "start_datetime": "2026-04-26T03:00:00+00:00",
-    "date_start": "2026-04-26T03:00:00+00:00",
-    "date_end": "2026-04-26T03:00:00+00:00",
+    "local_date": "2026-05-10",
+    "start_datetime": "2026-05-11T03:00:00+00:00",
+    "date_start": "2026-05-11T03:00:00+00:00",
+    "date_end": "2026-05-11T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.694,
+    "score": 0.6969999999999998,
     "ai_priority": 8,
-    "ai_reason": "The Brook & The Bluff's unique blend of indie and folk elements creates a captivating live atmosphere."
+    "ai_reason": "RAYE's upcoming tour is generating buzz with new music, appealing to fans eager for fresh material."
   },
   {
-    "id": "G5vYZby1qGabY",
+    "id": "G5vYZbM91ksYq",
     "ids": [
-      "G5vYZby1qGabY"
+      "G5vYZbM91ksYq"
     ],
-    "name": "The Wood Brothers",
-    "primary_artist": "The Wood Brothers",
-    "venue_name": "The Fillmore",
+    "name": "Levity presents LASERSHIP (18+)",
+    "primary_artist": "Levity",
+    "venue_name": "Bill Graham Civic Auditorium",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-wood-brothers-san-francisco-california-05-05-2026/event/1C0063929D309630",
+    "url": "https://www.ticketmaster.com/levity-presents-lasership-18-san-francisco-california-05-09-2026/event/1C006375CA1B1C1D",
     "window": "short_term",
-    "local_date": "2026-05-05",
-    "start_datetime": "2026-05-06T03:00:00+00:00",
-    "date_start": "2026-05-06T03:00:00+00:00",
-    "date_end": "2026-05-06T03:00:00+00:00",
+    "local_date": "2026-05-09",
+    "start_datetime": "2026-05-10T02:00:00+00:00",
+    "date_start": "2026-05-10T02:00:00+00:00",
+    "date_end": "2026-05-10T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 8,
-    "ai_reason": "The Wood Brothers are celebrated for their dynamic live performances and rich harmonies, appealing to roots music fans."
+    "score": 0.6969999999999998,
+    "ai_priority": 7,
+    "ai_reason": "The Wood Brothers blend folk and rock, known for their captivating live performances."
   },
   {
     "id": "G5vYZ_6LTWsGk",
     "ids": [
-      "G5vYZ_6LTWsGk"
+      "G5vYZ_6LTWsGk",
+      "G5vYZ_kC7I9g-"
     ],
     "name": "Yebba - Jean Tour",
     "primary_artist": "Yebba",
@@ -130,35 +131,35 @@
     "local_date": "2026-05-06",
     "start_datetime": "2026-05-07T03:00:00+00:00",
     "date_start": "2026-05-07T03:00:00+00:00",
-    "date_end": "2026-05-07T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
+    "date_end": "2026-05-08T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
     "score": 0.694,
-    "ai_priority": 8,
-    "ai_reason": "Yebba's soulful voice and emotional depth make her live shows a must-see for fans of contemporary R&B."
+    "ai_priority": 7,
+    "ai_reason": "Yebba's soulful voice and emotional depth will resonate well in an intimate setting."
   },
   {
-    "id": "G5vYZ_eMFhu7u",
+    "id": "G5vYZ_A3gPtHi",
     "ids": [
-      "G5vYZ_eMFhu7u"
+      "G5vYZ_A3gPtHi"
     ],
-    "name": "Oh Wonder: Songs At The Piano",
-    "primary_artist": "Oh Wonder",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
+    "name": "Live 105 Welcomes: Pennywise",
+    "primary_artist": "Pennywise",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/oh-wonder-songs-at-the-piano-oakland-california-04-29-2026/event/1C00642DC86CD10D",
+    "url": "https://www.ticketmaster.com/live-105-welcomes-pennywise-san-francisco-california-05-08-2026/event/1C006454B5969F2C",
     "window": "short_term",
-    "local_date": "2026-04-29",
-    "start_datetime": "2026-04-30T03:00:00+00:00",
-    "date_start": "2026-04-30T03:00:00+00:00",
-    "date_end": "2026-04-30T03:00:00+00:00",
+    "local_date": "2026-05-08",
+    "start_datetime": "2026-05-09T03:00:00+00:00",
+    "date_start": "2026-05-09T03:00:00+00:00",
+    "date_end": "2026-05-09T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
-    "ai_priority": 8,
-    "ai_reason": "Oh Wonder's intimate and atmospheric performances resonate well with their dedicated fanbase."
+    "ai_priority": 7,
+    "ai_reason": "Pennywise's punk energy and loyal fanbase make for an exciting live show."
   },
   {
     "id": "G5vYZbMJc4_3p",
@@ -181,54 +182,7 @@
     "night_count": 1,
     "score": 0.694,
     "ai_priority": 7,
-    "ai_reason": "Good Kid's unique sound and engaging stage presence make their show a promising experience."
-  },
-  {
-    "id": "G5vYZbURUm-Ov",
-    "ids": [
-      "G5vYZbURUm-Ov"
-    ],
-    "name": "Waxahatchee & MJ Lenderman with special guest Brennan Wedl",
-    "primary_artist": "Waxahatchee",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/waxahatchee-mj-lenderman-with-special-guest-san-francisco-california-05-05-2026/event/1C00636BF6BA1801",
-    "window": "short_term",
-    "local_date": "2026-05-05",
-    "start_datetime": "2026-05-06T02:30:00+00:00",
-    "date_start": "2026-05-06T02:30:00+00:00",
-    "date_end": "2026-05-06T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.691,
-    "ai_priority": 7,
-    "ai_reason": "Waxahatchee's blend of indie rock and personal storytelling creates a compelling live performance."
-  },
-  {
-    "id": "G5vYZbgQt_zw8",
-    "ids": [
-      "G5vYZbgQt_zw8",
-      "G5vYZbgQnKFVz"
-    ],
-    "name": "Hatsune Miku - EXPO 2026 North America",
-    "primary_artist": "Hatsune Miku",
-    "venue_name": "San Jose Civic",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/hatsune-miku-expo-2026-north-america-san-jose-california-04-22-2026/event/1C006356A9678C90",
-    "window": "short_term",
-    "local_date": "2026-04-22",
-    "start_datetime": "2026-04-23T03:00:00+00:00",
-    "date_start": "2026-04-23T03:00:00+00:00",
-    "date_end": "2026-04-24T03:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.691,
-    "ai_priority": 7,
-    "ai_reason": "Hatsune Miku's virtual performances attract a dedicated fanbase, making for a unique concert experience."
+    "ai_reason": "Good Kid's unique sound and engaging stage presence will attract a diverse audience."
   },
   {
     "id": "G5vYZbg5LSDFi",
@@ -251,53 +205,7 @@
     "night_count": 1,
     "score": 0.6849999999999999,
     "ai_priority": 7,
-    "ai_reason": "Demi Lovato's powerful vocals and emotional performances make her concerts a must-see."
-  },
-  {
-    "id": "G5vYZ_7l_fTAh",
-    "ids": [
-      "G5vYZ_7l_fTAh"
-    ],
-    "name": "James Blake - Trying Times Tour",
-    "primary_artist": "James Blake",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/james-blake-trying-times-tour-berkeley-california-06-11-2026/event/1C00644AD953F15B",
-    "window": "short_term",
-    "local_date": "2026-06-11",
-    "start_datetime": "2026-06-12T02:00:00+00:00",
-    "date_start": "2026-06-12T02:00:00+00:00",
-    "date_end": "2026-06-12T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6729999999999999,
-    "ai_priority": 7,
-    "ai_reason": "James Blake's innovative sound and emotional depth promise a captivating live show."
-  },
-  {
-    "id": "G5vYZ_62OFdvk",
-    "ids": [
-      "G5vYZ_62OFdvk"
-    ],
-    "name": "Bob Dylan",
-    "primary_artist": "Bob Dylan",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/bob-dylan-berkeley-california-06-13-2026/event/1C006473E0203046",
-    "window": "short_term",
-    "local_date": "2026-06-13",
-    "start_datetime": "2026-06-14T02:00:00+00:00",
-    "date_start": "2026-06-14T02:00:00+00:00",
-    "date_end": "2026-06-14T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6729999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Bob Dylan's legendary status and timeless songs ensure a significant live music experience."
+    "ai_reason": "Florence + The Machine's theatrical performances are a must-see for indie music fans."
   },
   {
     "id": "G5vYZbgwgryKe",
@@ -320,76 +228,168 @@
     "night_count": 1,
     "score": 0.6729999999999999,
     "ai_priority": 7,
-    "ai_reason": "Rainbow Kitten Surprise's eclectic style and energetic performances create a vibrant concert atmosphere."
+    "ai_reason": "Rainbow Kitten Surprise's eclectic style and energetic performances are highly anticipated."
   },
   {
-    "id": "G5vYZ_7Y7e23y",
+    "id": "G5vYZ_79aA6IX",
     "ids": [
-      "G5vYZ_7Y7e23y"
+      "G5vYZ_79aA6IX"
     ],
-    "name": "Young the Giant - Victory Garden Tour with Cold War Kids",
-    "primary_artist": "Young the Giant",
+    "name": "SANAM: SANAM North American Tour 2026",
+    "primary_artist": "SANAM",
+    "venue_name": "Paramount Theatre Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/sanam-sanam-north-american-tour-2026-oakland-california-05-10-2026/event/1C006445C9147A3E",
+    "window": "short_term",
+    "local_date": "2026-05-10",
+    "start_datetime": "2026-05-11T02:00:00+00:00",
+    "date_start": "2026-05-11T02:00:00+00:00",
+    "date_end": "2026-05-11T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.688,
+    "ai_priority": 6,
+    "ai_reason": "James Blake's innovative sound and emotional performances are a highlight for fans."
+  },
+  {
+    "id": "G5vYZbgpVwI0F",
+    "ids": [
+      "G5vYZbgpVwI0F"
+    ],
+    "name": "Rainbow Kitten Surprise: bones North American Tour",
+    "primary_artist": "Rainbow Kitten Surprise",
     "venue_name": "Greek Theatre-U.C. Berkeley",
     "city": "Berkeley",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/young-the-giant-victory-garden-tour-berkeley-california-07-19-2026/event/1C00644C0408F4B9",
+    "url": "https://www.ticketmaster.com/rainbow-kitten-surprise-bones-north-american-berkeley-california-07-18-2026/event/1C006355B4CA8908",
     "window": "short_term",
-    "local_date": "2026-07-19",
-    "start_datetime": "2026-07-20T01:00:00+00:00",
-    "date_start": "2026-07-20T01:00:00+00:00",
-    "date_end": "2026-07-20T01:00:00+00:00",
+    "local_date": "2026-07-18",
+    "start_datetime": "2026-07-19T03:00:00+00:00",
+    "date_start": "2026-07-19T03:00:00+00:00",
+    "date_end": "2026-07-19T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6729999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Young the Giant's engaging live shows and anthemic songs resonate with a wide audience."
+    "ai_priority": 6,
+    "ai_reason": "Bob Moses' blend of electronic and live music creates a captivating concert atmosphere."
   },
   {
-    "id": "G5vYZ_d9C2fkW",
+    "id": "G5vYZ_7mLnaBa",
     "ids": [
-      "G5vYZ_d9C2fkW"
+      "G5vYZ_7mLnaBa"
     ],
-    "name": "Alabama Shakes - 5/29",
-    "primary_artist": "Alabama Shakes",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
+    "name": "Santana & The Doobie Brothers - Oneness Tour 2026",
+    "primary_artist": "Santana",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/alabama-shakes-529-berkeley-california-05-29-2026/event/1C006435CE3D41BD",
+    "url": "https://www.ticketmaster.com/santana-the-doobie-brothers-oneness-tour-mountain-view-california-08-09-2026/event/1C00644B9FA89E89",
     "window": "short_term",
-    "local_date": "2026-05-29",
-    "start_datetime": "2026-05-30T03:00:00+00:00",
-    "date_start": "2026-05-30T03:00:00+00:00",
-    "date_end": "2026-05-30T03:00:00+00:00",
+    "local_date": "2026-08-09",
+    "start_datetime": "2026-08-10T02:00:00+00:00",
+    "date_start": "2026-08-10T02:00:00+00:00",
+    "date_end": "2026-08-10T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6729999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Alabama Shakes' soulful sound and powerful performances make their concerts a highlight for fans."
+    "ai_priority": 6,
+    "ai_reason": "Santana's legendary status and collaboration with The Doobie Brothers promise a memorable concert."
   },
   {
-    "id": "G5vYZbM91ksYq",
+    "id": "G5vYZ_k9NBEMN",
     "ids": [
-      "G5vYZbM91ksYq"
+      "G5vYZ_k9NBEMN"
     ],
-    "name": "Levity presents LASERSHIP (18+)",
-    "primary_artist": "Levity",
-    "venue_name": "Bill Graham Civic Auditorium",
+    "name": "LAGWAGON - Celebrating 35 Years of Fat Wreck Chords",
+    "primary_artist": "Lagwagon",
+    "venue_name": "The Fillmore",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/levity-presents-lasership-18-san-francisco-california-05-09-2026/event/1C006375CA1B1C1D",
+    "url": "https://www.ticketmaster.com/lagwagon-celebrating-35-years-of-fat-san-francisco-california-05-16-2026/event/1C006465E3EA7DE3",
     "window": "short_term",
-    "local_date": "2026-05-09",
-    "start_datetime": "2026-05-10T02:00:00+00:00",
-    "date_start": "2026-05-10T02:00:00+00:00",
-    "date_end": "2026-05-10T02:00:00+00:00",
+    "local_date": "2026-05-16",
+    "start_datetime": "2026-05-17T02:00:00+00:00",
+    "date_start": "2026-05-17T02:00:00+00:00",
+    "date_end": "2026-05-17T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6669999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Levity presents a unique event that combines music and performance art, appealing to diverse audiences."
+    "score": 0.664,
+    "ai_priority": 6,
+    "ai_reason": "Lagwagon's celebration of their legacy will resonate with long-time punk fans."
+  },
+  {
+    "id": "G5vYZ_eS9UD5R",
+    "ids": [
+      "G5vYZ_eS9UD5R"
+    ],
+    "name": "Live 105 Welcomes The Afghan Whigs 40th Anniv Tour w/ Mercury Rev",
+    "primary_artist": "The Afghan Whigs",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/live-105-welcomes-the-afghan-whigs-san-francisco-california-05-19-2026/event/1C00642CD7DBB2EF",
+    "window": "short_term",
+    "local_date": "2026-05-19",
+    "start_datetime": "2026-05-20T02:30:00+00:00",
+    "date_start": "2026-05-20T02:30:00+00:00",
+    "date_end": "2026-05-20T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.664,
+    "ai_priority": 6,
+    "ai_reason": "The Afghan Whigs' anniversary tour promises a nostalgic experience for fans."
+  },
+  {
+    "id": "G5vYZ_k9qKUE6",
+    "ids": [
+      "G5vYZ_k9qKUE6"
+    ],
+    "name": "The Adicts",
+    "primary_artist": "The Adicts",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-adicts-san-francisco-california-05-23-2026/event/1C006465DD4F69C7",
+    "window": "short_term",
+    "local_date": "2026-05-23",
+    "start_datetime": "2026-05-24T03:00:00+00:00",
+    "date_start": "2026-05-24T03:00:00+00:00",
+    "date_end": "2026-05-24T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.664,
+    "ai_priority": 6,
+    "ai_reason": "The Adicts' unique style and high-energy shows are a draw for punk rock enthusiasts."
+  },
+  {
+    "id": "G5vYZbzRQBmzV",
+    "ids": [
+      "G5vYZbzRQBmzV"
+    ],
+    "name": "CAZZU: LATINAJE EN VIVO",
+    "primary_artist": "Cazzu",
+    "venue_name": "San Jose Civic",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/cazzu-latinaje-en-vivo-san-jose-california-04-30-2026/event/1C00638BDAEAEE34",
+    "window": "short_term",
+    "local_date": "2026-04-30",
+    "start_datetime": "2026-05-01T03:00:00+00:00",
+    "date_start": "2026-05-01T03:00:00+00:00",
+    "date_end": "2026-05-01T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.631,
+    "ai_priority": 6,
+    "ai_reason": "Cazzu's live performance is expected to be vibrant and engaging, appealing to a diverse audience."
   },
   {
     "id": "Z7r9jZ1A7qz_o",
@@ -415,22 +415,22 @@
     "ai_reason": null
   },
   {
-    "id": "G5vYZ_klV4zP7",
+    "id": "G5vYZby1qGabY",
     "ids": [
-      "G5vYZ_klV4zP7"
+      "G5vYZby1qGabY"
     ],
-    "name": "Notes & Words Benefiting UCSF Benioff Children's Hospitals",
-    "primary_artist": "The Coverups",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
+    "name": "The Wood Brothers",
+    "primary_artist": "The Wood Brothers",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/notes-words-benefiting-ucsf-benioff-childrens-oakland-california-05-02-2026/event/1C00646AF4578944",
+    "url": "https://www.ticketmaster.com/the-wood-brothers-san-francisco-california-05-05-2026/event/1C0063929D309630",
     "window": "short_term",
-    "local_date": "2026-05-02",
-    "start_datetime": "2026-05-03T03:00:00+00:00",
-    "date_start": "2026-05-03T03:00:00+00:00",
-    "date_end": "2026-05-03T03:00:00+00:00",
+    "local_date": "2026-05-05",
+    "start_datetime": "2026-05-06T03:00:00+00:00",
+    "date_start": "2026-05-06T03:00:00+00:00",
+    "date_end": "2026-05-06T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,

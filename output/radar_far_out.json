@@ -1,49 +1,49 @@
 [
   {
-    "id": "G5vYZ_kKKkPME",
+    "id": "G5vYZ_Ax_50E-",
     "ids": [
-      "G5vYZ_kKKkPME"
+      "G5vYZ_Ax_50E-"
     ],
-    "name": "IVE WORLD TOUR <SHOW WHAT I AM> IN OAKLAND",
-    "primary_artist": "IVE",
-    "venue_name": "Oakland Arena",
+    "name": "The Beths & Beach Bunny: US Tour 2026",
+    "primary_artist": "The Beths",
+    "venue_name": "San Jose Civic",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-beths-beach-bunny-us-tour-san-jose-california-08-11-2026/event/1C006458992E49E1",
+    "window": "far_out",
+    "local_date": "2026-08-11",
+    "start_datetime": "2026-08-12T02:00:00+00:00",
+    "date_start": "2026-08-12T02:00:00+00:00",
+    "date_end": "2026-08-12T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.661,
+    "ai_priority": 10,
+    "ai_reason": "The Beths and Beach Bunny are both rising indie pop acts with strong live reputations, making this a must-see show."
+  },
+  {
+    "id": "G5vYZ_dwmaVqs",
+    "ids": [
+      "G5vYZ_dwmaVqs"
+    ],
+    "name": "Little Feat: The Last Farewell Tour",
+    "primary_artist": "Little Feat",
+    "venue_name": "Fox Theater - Oakland",
     "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/ive-world-tour-show-what-i-oakland-california-08-04-2026/event/1C006464D31A5DE7",
+    "url": "https://www.ticketmaster.com/little-feat-the-last-farewell-tour-oakland-california-08-10-2026/event/1C00643CAE274771",
     "window": "far_out",
-    "local_date": "2026-08-04",
-    "start_datetime": "2026-08-05T03:00:00+00:00",
-    "date_start": "2026-08-05T03:00:00+00:00",
-    "date_end": "2026-08-05T03:00:00+00:00",
+    "local_date": "2026-08-10",
+    "start_datetime": "2026-08-11T03:00:00+00:00",
+    "date_start": "2026-08-11T03:00:00+00:00",
+    "date_end": "2026-08-11T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6789999999999999,
+    "score": 0.664,
     "ai_priority": 9,
-    "ai_reason": "IVE is gaining significant buzz in the K-pop scene, making their world tour a must-see event."
-  },
-  {
-    "id": "G5vYZ_d2ADlKy",
-    "ids": [
-      "G5vYZ_d2ADlKy"
-    ],
-    "name": "Lionel Richie and Earth, Wind & Fire - Sing a Song All Night Long",
-    "primary_artist": "Lionel Richie",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lionel-richie-and-earth-wind-fire-san-francisco-california-08-06-2026/event/1C006433C5EEB4F9",
-    "window": "far_out",
-    "local_date": "2026-08-06",
-    "start_datetime": "2026-08-07T02:30:00+00:00",
-    "date_start": "2026-08-07T02:30:00+00:00",
-    "date_end": "2026-08-07T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Lionel Richie and Earth, Wind & Fire promise a nostalgic night filled with classic hits from two legendary acts."
+    "ai_reason": "Little Feat's farewell tour is a significant event for fans of classic rock, offering a nostalgic experience."
   },
   {
     "id": "G5vYZ_dwWjIOa",
@@ -66,30 +66,7 @@
     "night_count": 1,
     "score": 0.6549999999999999,
     "ai_priority": 8,
-    "ai_reason": "ZAYN's return to the stage is highly anticipated, especially following his successful solo career."
-  },
-  {
-    "id": "G5vYZ_kw4eyPa",
-    "ids": [
-      "G5vYZ_kw4eyPa"
-    ],
-    "name": "LIVE 105 Presents WEEZER: The Gathering",
-    "primary_artist": "Weezer",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/live-105-presents-weezer-the-gathering-san-francisco-california-09-09-2026/event/1C00646C950B9949",
-    "window": "far_out",
-    "local_date": "2026-09-09",
-    "start_datetime": "2026-09-10T02:00:00+00:00",
-    "date_start": "2026-09-10T02:00:00+00:00",
-    "date_end": "2026-09-10T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Weezer continues to maintain a strong live reputation, making their gathering tour an exciting event."
+    "ai_reason": "ZAYN's tour is highly anticipated, as he has a strong following and a reputation for captivating live shows."
   },
   {
     "id": "G5vYZ_6LcqXgK",
@@ -112,30 +89,7 @@
     "night_count": 1,
     "score": 0.6549999999999999,
     "ai_priority": 8,
-    "ai_reason": "Lily Allen's performance is a unique opportunity to see her live, especially with her distinctive style."
-  },
-  {
-    "id": "G5vYZ_AllHHol",
-    "ids": [
-      "G5vYZ_AllHHol"
-    ],
-    "name": "LIVE 105 Presents: Gorillaz - The Mountain Tour",
-    "primary_artist": "Gorillaz",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/live-105-presents-gorillaz-the-mountain-oakland-california-10-28-2026/event/1C00645AEBF3C46B",
-    "window": "far_out",
-    "local_date": "2026-10-28",
-    "start_datetime": "2026-10-29T02:00:00+00:00",
-    "date_start": "2026-10-29T02:00:00+00:00",
-    "date_end": "2026-10-29T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6489999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Gorillaz's innovative live shows are always a highlight, promising a visually and musically engaging experience."
+    "ai_reason": "Lily Allen's performance promises a unique blend of pop and storytelling, appealing to her dedicated fanbase."
   },
   {
     "id": "G5vYZ_kCV6mBN",
@@ -157,124 +111,77 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6489999999999999,
-    "ai_priority": 7,
-    "ai_reason": "i-dle is known for their captivating performances, making their world tour a significant event in the K-pop landscape."
+    "ai_priority": 8,
+    "ai_reason": "i-dle's world tour showcases a popular K-pop group known for their energetic performances and strong fanbase."
   },
   {
-    "id": "G5vYZ_6LIFmOe",
+    "id": "G5vYZ_AllHHol",
     "ids": [
-      "G5vYZ_6LIFmOe"
+      "G5vYZ_AllHHol"
     ],
-    "name": "Benson Boone: Wanted Man Tour",
-    "primary_artist": "Benson Boone",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
+    "name": "LIVE 105 Presents: Gorillaz - The Mountain Tour",
+    "primary_artist": "Gorillaz",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/benson-boone-wanted-man-tour-san-jose-california-08-07-2026/event/1C006477E822E802",
+    "url": "https://www.ticketmaster.com/live-105-presents-gorillaz-the-mountain-oakland-california-10-28-2026/event/1C00645AEBF3C46B",
     "window": "far_out",
-    "local_date": "2026-08-07",
-    "start_datetime": "2026-08-08T03:00:00+00:00",
-    "date_start": "2026-08-08T03:00:00+00:00",
-    "date_end": "2026-08-08T03:00:00+00:00",
+    "local_date": "2026-10-28",
+    "start_datetime": "2026-10-29T02:00:00+00:00",
+    "date_start": "2026-10-29T02:00:00+00:00",
+    "date_end": "2026-10-29T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6459999999999999,
+    "score": 0.6489999999999999,
     "ai_priority": 7,
-    "ai_reason": "Benson Boone is an emerging artist with a growing fanbase, making his tour noteworthy."
+    "ai_reason": "Gorillaz are known for their innovative live shows, making this tour a highly anticipated event."
   },
   {
-    "id": "G5vYZbVTOJiVS",
+    "id": "G5vYZ_k1ywuyI",
     "ids": [
-      "G5vYZbVTOJiVS",
-      "G5vYZbg9ir1-u"
+      "G5vYZ_k1ywuyI"
     ],
-    "name": "RUSH: Fifty Something",
-    "primary_artist": "RUSH",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
+    "name": "Bonnie Raitt - Live 2026 with Special Guest Jon Cleary",
+    "primary_artist": "Bonnie Raitt",
+    "venue_name": "The Theater at Bill Graham Civic Auditorium",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/rush-fifty-something-san-jose-california-10-15-2026/event/1C00634FE09ACD33",
+    "url": "https://www.ticketmaster.com/bonnie-raitt-live-2026-with-special-san-francisco-california-10-10-2026/event/1C006462B9C8DE68",
     "window": "far_out",
-    "local_date": "2026-10-15",
-    "start_datetime": "2026-10-16T02:30:00+00:00",
-    "date_start": "2026-10-16T02:30:00+00:00",
-    "date_end": "2026-10-18T02:30:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.6459999999999999,
-    "ai_priority": 7,
-    "ai_reason": null
-  },
-  {
-    "id": "G5vYZ_kmf8y1D",
-    "ids": [
-      "G5vYZ_kmf8y1D"
-    ],
-    "name": "Mon Laferte - Femme Fatale Tour",
-    "primary_artist": "Mon Laferte",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san-jose-california-11-06-2026/event/1C00646B944392BB",
-    "window": "far_out",
-    "local_date": "2026-11-06",
-    "start_datetime": "2026-11-07T04:00:00+00:00",
-    "date_start": "2026-11-07T04:00:00+00:00",
-    "date_end": "2026-11-07T04:00:00+00:00",
+    "local_date": "2026-10-10",
+    "start_datetime": "2026-10-11T03:00:00+00:00",
+    "date_start": "2026-10-11T03:00:00+00:00",
+    "date_end": "2026-10-11T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6459999999999999,
+    "score": 0.6369999999999999,
     "ai_priority": 7,
-    "ai_reason": "Mon Laferte's unique blend of genres and powerful performances make her tour an exciting prospect."
+    "ai_reason": "Bonnie Raitt's live performance is a rare treat, showcasing her legendary status in the music industry."
   },
   {
-    "id": "G5vYZbU3R_nwH",
+    "id": "G5vYZ_k3LHG-Q",
     "ids": [
-      "G5vYZbU3R_nwH"
+      "G5vYZ_k3LHG-Q"
     ],
-    "name": "Three Days Grace - Alienation Tour ",
-    "primary_artist": "Three Days Grace",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
+    "name": "Passion Pit - The Pretty Penny Tour",
+    "primary_artist": "Passion Pit",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-san-jose-california-11-18-2026/event/1C006364AF66ACBC",
+    "url": "https://www.ticketmaster.com/passion-pit-the-pretty-penny-tour-oakland-california-08-16-2026/event/1C0064649FF0C85A",
     "window": "far_out",
-    "local_date": "2026-11-18",
-    "start_datetime": "2026-11-19T03:00:00+00:00",
-    "date_start": "2026-11-19T03:00:00+00:00",
-    "date_end": "2026-11-19T03:00:00+00:00",
+    "local_date": "2026-08-16",
+    "start_datetime": "2026-08-17T02:30:00+00:00",
+    "date_start": "2026-08-17T02:30:00+00:00",
+    "date_end": "2026-08-17T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6459999999999999,
+    "score": 0.634,
     "ai_priority": 7,
-    "ai_reason": "Three Days Grace's solid reputation for energetic live shows makes their upcoming tour appealing."
-  },
-  {
-    "id": "G5vYZ_6RQGEcM",
-    "ids": [
-      "G5vYZ_6RQGEcM"
-    ],
-    "name": "Johnny Blue Skies & the Dark Clouds - Mutiny for the Masses 2026 Tour",
-    "primary_artist": "Johnny Blue Skies",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/johnny-blue-skies-the-dark-clouds-berkeley-california-09-15-2026/event/1C00647BDA327B77",
-    "window": "far_out",
-    "local_date": "2026-09-15",
-    "start_datetime": "2026-09-16T02:00:00+00:00",
-    "date_start": "2026-09-16T02:00:00+00:00",
-    "date_end": "2026-09-16T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Johnny Blue Skies offers a compelling live experience that is sure to resonate with audiences."
+    "ai_reason": "Passion Pit's tour revives their energetic sound, appealing to fans of indie electronic music."
   },
   {
     "id": "G5vYZ_kEkqCJe",
@@ -296,8 +203,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6429999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Bleachers' engaging performances and strong fan connection make this show a must-see."
+    "ai_priority": 6,
+    "ai_reason": "Jon Batiste's live show is expected to be a vibrant celebration of music, appealing to a wide audience."
   },
   {
     "id": "G5vYZbgBhEbRe",
@@ -320,54 +227,8 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.6429999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Jack Johnson's laid-back style and strong live reputation make his tour a great choice for fans."
-  },
-  {
-    "id": "G5vYZ_7mLnaBa",
-    "ids": [
-      "G5vYZ_7mLnaBa"
-    ],
-    "name": "Santana & The Doobie Brothers - Oneness Tour 2026",
-    "primary_artist": "Santana",
-    "venue_name": "Shoreline Amphitheatre",
-    "city": "Mountain View",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/santana-the-doobie-brothers-oneness-tour-mountain-view-california-08-09-2026/event/1C00644B9FA89E89",
-    "window": "far_out",
-    "local_date": "2026-08-09",
-    "start_datetime": "2026-08-10T02:00:00+00:00",
-    "date_start": "2026-08-10T02:00:00+00:00",
-    "date_end": "2026-08-10T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 7,
-    "ai_reason": "Santana and The Doobie Brothers together is a classic rock lover's dream, promising a night of unforgettable music."
-  },
-  {
-    "id": "G5vYZ_eNSWq8M",
-    "ids": [
-      "G5vYZ_eNSWq8M"
-    ],
-    "name": "John Mellencamp Dancing Words Tour The Greatest Hits",
-    "primary_artist": "John Mellencamp",
-    "venue_name": "Shoreline Amphitheatre",
-    "city": "Mountain View",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/john-mellencamp-dancing-words-tour-the-mountain-view-california-08-12-2026/event/1C006428F3F5D437",
-    "window": "far_out",
-    "local_date": "2026-08-12",
-    "start_datetime": "2026-08-13T03:00:00+00:00",
-    "date_start": "2026-08-13T03:00:00+00:00",
-    "date_end": "2026-08-13T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 7,
-    "ai_reason": "John Mellencamp's legacy and hits make his show a nostalgic highlight for fans."
+    "ai_priority": 6,
+    "ai_reason": "Jack Johnson's tour is a chance to see a beloved artist known for his laid-back vibe and engaging performances."
   },
   {
     "id": "G5vYZbgD1f1IU",
@@ -389,29 +250,168 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6369999999999999,
-    "ai_priority": 7,
-    "ai_reason": "The Neighbourhood's tour is generating buzz, making it a noteworthy event for indie music fans."
+    "ai_priority": 6,
+    "ai_reason": "The Neighbourhood's tour is a great opportunity to catch a popular alt-rock band known for their atmospheric sound."
   },
   {
-    "id": "G5vYZbUl6bjMh",
+    "id": "G5vYZ_6GAOFcs",
     "ids": [
-      "G5vYZbUl6bjMh"
+      "G5vYZ_6GAOFcs"
     ],
-    "name": "Meghan Trainor: The Get In Girl Tour",
-    "primary_artist": "Meghan Trainor",
+    "name": "Eagles Of Death Metal: Death By Sexy 20th Anniversary Tour",
+    "primary_artist": "Eagles of Death Metal",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/eagles-of-death-metal-death-by-san-francisco-california-09-01-2026/event/1C00647305808B71",
+    "window": "far_out",
+    "local_date": "2026-09-01",
+    "start_datetime": "2026-09-02T03:00:00+00:00",
+    "date_start": "2026-09-02T03:00:00+00:00",
+    "date_end": "2026-09-02T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 6,
+    "ai_reason": "Eagles of Death Metal bring a high-energy rock experience, appealing to fans of the genre."
+  },
+  {
+    "id": "G5vYZ_k3Wj-BC",
+    "ids": [
+      "G5vYZ_k3Wj-BC"
+    ],
+    "name": "Social Distortion - Born To Kill World Tour",
+    "primary_artist": "Social Distortion",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/social-distortion-born-to-kill-world-oakland-california-09-29-2026/event/1C006464BD721E8E",
+    "window": "far_out",
+    "local_date": "2026-09-29",
+    "start_datetime": "2026-09-30T02:00:00+00:00",
+    "date_start": "2026-09-30T02:00:00+00:00",
+    "date_end": "2026-09-30T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 6,
+    "ai_reason": "Social Distortion's tour is a chance to see a legendary punk band with a dedicated following."
+  },
+  {
+    "id": "G5vYZ_k9tCFP3",
+    "ids": [
+      "G5vYZ_k9tCFP3"
+    ],
+    "name": "Live 105 Presents: Rise Against: Ricochet 2026",
+    "primary_artist": "Rise Against",
+    "venue_name": "The Masonic",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/live-105-presents-rise-against-ricochet-san-francisco-california-10-22-2026/event/1C006465E9388952",
+    "window": "far_out",
+    "local_date": "2026-10-22",
+    "start_datetime": "2026-10-23T02:00:00+00:00",
+    "date_start": "2026-10-23T02:00:00+00:00",
+    "date_end": "2026-10-23T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.631,
+    "ai_priority": 5,
+    "ai_reason": "Rise Against's show promises a powerful punk rock experience, resonating with their passionate fanbase."
+  },
+  {
+    "id": "G5vYZ_kw4eyPa",
+    "ids": [
+      "G5vYZ_kw4eyPa"
+    ],
+    "name": "LIVE 105 Presents WEEZER: The Gathering",
+    "primary_artist": "Weezer",
     "venue_name": "Chase Center",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/meghan-trainor-the-get-in-girl-san-francisco-california-08-08-2026/event/1C00636AC761CDDB",
+    "url": "https://www.ticketmaster.com/live-105-presents-weezer-the-gathering-san-francisco-california-09-09-2026/event/1C00646C950B9949",
     "window": "far_out",
-    "local_date": "2026-08-08",
-    "start_datetime": "2026-08-09T01:30:00+00:00",
-    "date_start": "2026-08-09T01:30:00+00:00",
-    "date_end": "2026-08-09T01:30:00+00:00",
+    "local_date": "2026-09-09",
+    "start_datetime": "2026-09-10T02:00:00+00:00",
+    "date_start": "2026-09-10T02:00:00+00:00",
+    "date_end": "2026-09-10T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6549999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZ_FLJZy-y",
+    "ids": [
+      "G5vYZ_FLJZy-y"
+    ],
+    "name": "SOMBR - You Are The Reason Tour",
+    "primary_artist": "Sombr",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san-jose-california-10-07-2026/event/1C006487E6039879",
+    "window": "far_out",
+    "local_date": "2026-10-07",
+    "start_datetime": "2026-10-08T02:30:00+00:00",
+    "date_start": "2026-10-08T02:30:00+00:00",
+    "date_end": "2026-10-08T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6459999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZbVTOJiVS",
+    "ids": [
+      "G5vYZbVTOJiVS",
+      "G5vYZbg9ir1-u"
+    ],
+    "name": "RUSH: Fifty Something",
+    "primary_artist": "RUSH",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/rush-fifty-something-san-jose-california-10-15-2026/event/1C00634FE09ACD33",
+    "window": "far_out",
+    "local_date": "2026-10-15",
+    "start_datetime": "2026-10-16T02:30:00+00:00",
+    "date_start": "2026-10-16T02:30:00+00:00",
+    "date_end": "2026-10-18T02:30:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
+    "score": 0.6459999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZ_kmf8y1D",
+    "ids": [
+      "G5vYZ_kmf8y1D"
+    ],
+    "name": "Mon Laferte - Femme Fatale Tour",
+    "primary_artist": "Mon Laferte",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/mon-laferte-femme-fatale-tour-san-jose-california-11-06-2026/event/1C00646B944392BB",
+    "window": "far_out",
+    "local_date": "2026-11-06",
+    "start_datetime": "2026-11-07T04:00:00+00:00",
+    "date_start": "2026-11-07T04:00:00+00:00",
+    "date_end": "2026-11-07T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6459999999999999,
     "ai_priority": null,
     "ai_reason": null
   }
