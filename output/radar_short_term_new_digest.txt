@@ -1,28 +1,35 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 8 new show(s) since last run:
+Found 11 new show(s) since last run:
 
-- 2026-05-17 02:00 — Rene Liu @ SAP Center at San Jose (San Jose)
-    ▹ Lewis Capaldi's heartfelt ballads and engaging stage presence make his shows a memorable experience.
+- 2026-05-28 02:00 — Yellowcard @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Yellowcard's nostalgia factor combined with their energetic performances makes this a must-see.
 
-- 2026-05-17 02:00 → 2026-05-18 02:00 — Lagwagon @ The Fillmore (San Francisco) [multi-night x2]
-    ▹ Lagwagon's celebration of their legacy with a special anniversary tour appeals to long-time fans.
+- 2026-05-20 02:30 — The Afghan Whigs @ The Fillmore (San Francisco)
+    ▹ The Afghan Whigs' anniversary tour with Mercury Rev promises a unique blend of alt-rock nostalgia.
 
-- 2026-05-21 03:00 — hemlocke springs @ The Fillmore (San Francisco)
-    ▹ hemlocke springs is gaining attention for their unique sound and engaging performances.
+- 2026-05-23 03:00 — Mt. Joy @ The Fillmore (San Francisco)
+    ▹ Mt. Joy's anniversary tour is a celebration of their journey, promising a heartfelt performance.
 
-- 2026-05-08 02:00 — Hayley Williams @ Fox Theater - Oakland (Oakland)
-    ▹ Hayley Williams' unique event offers a fun twist, appealing to her dedicated fanbase.
+- 2026-05-27 03:00 — TK from Ling tosite sigure @ The Fillmore (San Francisco)
+    ▹ TK from Ling tosite sigure brings a unique blend of rock and electronic elements to their shows.
 
-- 2026-05-16 02:00 — Joyce Manor @ The Fillmore (San Francisco)
-    ▹ Pennywise's show is a treat for punk rock enthusiasts, promising high energy and nostalgia.
+- 2026-05-11 02:00 — Hayley Williams @ Fox Theater - Oakland (Oakland)
+    ▹ Hayley Williams' event adds an exciting twist with a unique theme, appealing to her fanbase.
 
-- 2026-05-09 03:00 — AVTT/PTTN @ The Masonic (San Francisco)
-    ▹ The Avett Brothers and Mike Patton's collaboration brings together diverse musical styles for an exciting show.
+- 2026-05-15 03:00 — The Midnight @ Fox Theater - Oakland (Oakland)
+    ▹ The Midnight is known for their engaging live performances that blend nostalgia with modern sounds.
 
-- 2026-05-31 02:30 — Seven Lions @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Seven Lions' tour is known for its immersive electronic experience, appealing to fans of the genre.
+- 2026-05-18 02:30 — Julien Dore @ Fox Theater - Oakland (Oakland)
+    ▹ Julien Doré's unique sound and artistic vision make him a compelling live act.
 
-- 2026-07-17 03:00 — Widespread Panic @ Fox Theater - Oakland (Oakland)
-    ▹ Dance With The Dead's unique blend of electronic and rock is gaining traction, making their show a must-see.
+- 2026-05-17 02:00 — Wavy Gravys Birthday Bash @ The Masonic (San Francisco)
+    ▹ Wavy Gravy's birthday bash combines music and philanthropy, creating a unique event.
+
+- 2026-05-21 03:00 — Dry Cleaning @ August Hall (San Francisco)
+    ▹ Echo & the Bunnymen's legacy in the post-punk scene ensures a memorable performance.
+
+- 2026-05-22 03:00 — Kevin Morby @ The Fillmore (San Francisco)
+
+- 2026-05-28 03:00 — The Last Dinner Party @ Fox Theater - Oakland (Oakland)
