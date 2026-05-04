@@ -1,30 +1,42 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 9 new show(s) since last run:
+Found 13 new show(s) since last run:
 
-- 2026-10-07 03:00 — aespa @ Oakland Arena (Oakland)
-    ▹ aespa's live tour is a significant event in the K-pop scene, promising a high-energy show with a dedicated fanbase.
+- 2026-12-12 03:00 — Olivia Rodrigo @ Oakland Arena (Oakland)
+    ▹ Olivia Rodrigo's Unraveled Tour is highly anticipated, following her meteoric rise in the music industry.
 
-- 2026-10-16 02:30 → 2026-10-18 02:30 — RUSH @ SAP Center at San Jose (San Jose) [multi-night x2]
-    ▹ RUSH's Fifty Something tour appeals to classic rock fans and celebrates their legendary status in music history.
+- 2026-10-17 02:30 — The Rush Tribute Project @ Palace of Fine Arts (San Francisco)
+    ▹ Childish Gambino's New World Tour is highly anticipated, promising a unique blend of genres and a dynamic live experience.
 
-- 2026-11-19 03:00 — Three Days Grace @ SAP Center at San Jose (San Jose)
-    ▹ Three Days Grace's Alienation Tour is a chance for fans to experience their hard-hitting rock sound live.
+- 2026-10-11 03:00 — Bonnie Raitt @ The Theater at Bill Graham Civic Auditorium (San Francisco)
+    ▹ $uicideboy$'s Grey Day Tour features a mix of hip-hop and punk, appealing to a diverse audience.
 
-- 2026-08-30 03:00 — Tori Amos @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Tori Amos's In Times of Dragons Tour showcases her iconic storytelling and musical prowess.
+- 2026-09-13 03:00 — Public Image Ltd @ The Fillmore (San Francisco)
+    ▹ Public Image Ltd's tour is a chance to see a pioneering band in post-punk, known for their influential sound.
 
-- 2026-10-01 01:30 → 2026-10-02 01:30 — Jack Johnson @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
-    ▹ Jack Johnson's SURFILMUSIC Tour offers a laid-back vibe perfect for fans of acoustic and soft rock.
+- 2026-10-04 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
+    ▹ My Morning Jacket's shows are known for their improvisational style and strong musicianship.
 
-- 2026-08-28 02:00 — Muse @ Shoreline Amphitheatre (Mountain View)
-    ▹ Muse's The Wow! Signal Tour is a highly anticipated event for rock fans, promising an unforgettable experience.
+- 2026-10-19 03:00 — The Wallflowers @ The Fillmore (San Francisco)
+    ▹ The Wallflowers bring a nostalgic vibe with their classic hits, appealing to fans of 90s rock.
 
-- 2026-08-27 01:45 — Train @ Shoreline Amphitheatre (Mountain View)
-    ▹ TRAIN's Drops of Jupiter tour celebrates their classic hits, appealing to a broad audience.
+- 2026-10-04 03:00 — Jon Batiste @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Dilated Peoples' performance is a chance to see influential figures in hip-hop, known for their lyrical prowess.
 
-- 2026-10-04 03:00 → 2026-10-05 03:00 — My Morning Jacket @ The Fillmore (San Francisco) [multi-night x2]
-    ▹ My Morning Jacket's series of shows at The Fillmore promises a deep dive into their expansive discography.
+- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
+    ▹ Social Distortion's tour offers a blend of punk rock and storytelling that resonates with fans.
 
-- 2026-11-07 04:00 — Mon Laferte @ SAP Center at San Jose (San Jose)
+- 2026-09-10 03:00 — Slayyyter @ Fox Theater - Oakland (Oakland)
+    ▹ Slayyyter's WOR$T GIRL IN THE WORLD TOUR is generating excitement in the pop scene with her bold style.
+
+- 2026-10-23 02:00 — Rise Against @ The Masonic (San Francisco)
+    ▹ Rise Against's Ricochet tour promises a politically charged performance from a band known for their activism.
+
+- 2026-10-12 02:00 — Chayanne @ Chase Center (San Francisco)
+    ▹ Billy Strings' shows are celebrated for their virtuosic musicianship and engaging performances.
+
+- 2026-10-11 03:00 — Jacob Collier @ The Castro Theatre (San Francisco)
+    ▹ Jacob Collier's innovative approach to music and live performance makes his show a unique experience.
+
+- 2026-09-02 03:00 — Screeching Weasel @ August Hall (San Francisco)

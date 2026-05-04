@@ -1,35 +1,40 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 11 new show(s) since last run:
+Found 12 new show(s) since last run:
 
-- 2026-05-28 02:00 — Yellowcard @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Yellowcard's nostalgia factor combined with their energetic performances makes this a must-see.
+- 2026-05-30 03:00 → 2026-05-31 03:00 — Alabama Shakes @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
+    ▹ Alabama Shakes are known for their powerful live performances and have a strong reputation in the indie rock scene.
 
-- 2026-05-20 02:30 — The Afghan Whigs @ The Fillmore (San Francisco)
-    ▹ The Afghan Whigs' anniversary tour with Mercury Rev promises a unique blend of alt-rock nostalgia.
+- 2026-05-18 02:00 — Lagwagon @ The Fillmore (San Francisco)
+    ▹ Lagwagon's celebration of 35 years of Fat Wreck Chords is a significant event for punk rock enthusiasts.
 
-- 2026-05-23 03:00 — Mt. Joy @ The Fillmore (San Francisco)
-    ▹ Mt. Joy's anniversary tour is a celebration of their journey, promising a heartfelt performance.
+- 2026-05-30 02:30 — Seven Lions @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Seven Lions is a prominent figure in electronic music, known for his captivating live performances.
 
-- 2026-05-27 03:00 — TK from Ling tosite sigure @ The Fillmore (San Francisco)
-    ▹ TK from Ling tosite sigure brings a unique blend of rock and electronic elements to their shows.
+- 2026-07-19 03:00 — Rainbow Kitten Surprise @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Rainbow Kitten Surprise is known for their dynamic live shows and eclectic sound, appealing to a diverse audience.
 
-- 2026-05-11 02:00 — Hayley Williams @ Fox Theater - Oakland (Oakland)
-    ▹ Hayley Williams' event adds an exciting twist with a unique theme, appealing to her fanbase.
+- 2026-07-18 02:30 — Bob Moses @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Bob Moses is recognized for their atmospheric live performances, making their show a highlight for electronic music fans.
 
-- 2026-05-15 03:00 — The Midnight @ Fox Theater - Oakland (Oakland)
-    ▹ The Midnight is known for their engaging live performances that blend nostalgia with modern sounds.
+- 2026-07-15 02:00 — Forrest Frank @ Oakland Arena (Oakland)
+    ▹ For fans of indie pop, this show promises a unique experience with a rising artist.
 
-- 2026-05-18 02:30 — Julien Dore @ Fox Theater - Oakland (Oakland)
-    ▹ Julien Doré's unique sound and artistic vision make him a compelling live act.
+- 2026-05-29 03:00 — Chapterhouse @ August Hall (San Francisco)
+    ▹ Dance With The Dead combines electronic and rock elements, promising an exciting live experience.
 
-- 2026-05-17 02:00 — Wavy Gravys Birthday Bash @ The Masonic (San Francisco)
-    ▹ Wavy Gravy's birthday bash combines music and philanthropy, creating a unique event.
+- 2026-06-03 02:30 — The Cab @ August Hall (San Francisco)
+    ▹ The Cab's tour is generating interest, particularly among fans of pop rock.
 
-- 2026-05-21 03:00 — Dry Cleaning @ August Hall (San Francisco)
-    ▹ Echo & the Bunnymen's legacy in the post-punk scene ensures a memorable performance.
+- 2026-05-24 05:00 — Børns @ Uptown Theatre Napa (Napa)
+    ▹ BØRNS is known for his vibrant performances and catchy pop sound, making this a fun show to attend.
 
-- 2026-05-22 03:00 — Kevin Morby @ The Fillmore (San Francisco)
+- 2026-06-13 01:30 — The Pussycat Dolls @ Shoreline Amphitheatre (Mountain View)
+    ▹ The Pussycat Dolls' reunion tour is a notable event for pop music fans.
 
-- 2026-05-28 03:00 — The Last Dinner Party @ Fox Theater - Oakland (Oakland)
+- 2026-06-14 02:00 — Bob Dylan @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Bob Dylan's legacy and live reputation make his shows a significant event for music lovers.
+
+- 2026-05-19 03:00 → 2026-05-20 03:00 — Lucy Dacus @ The Castro Theatre (San Francisco) [multi-night x2]
+    ▹ Lucy Dacus is a critically acclaimed artist with a strong live reputation, appealing to indie rock fans.
