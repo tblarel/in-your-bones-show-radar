@@ -1,59 +1,58 @@
 InYourBones — Bay Area Radar (far_out)
 ======================================
 
-- 2026-09-02 03:00 — Eagles of Death Metal @ The Fillmore (San Francisco)
-    ▹ Eagles of Death Metal's 20th anniversary tour promises a high-energy performance from a band known for their engaging live shows.
-
-- 2026-09-03 03:00 — ZAYN @ Chase Center (San Francisco)
-    ▹ ZAYN's Konnakol Tour is generating buzz, showcasing his evolution as an artist and his strong fanbase.
-
-- 2026-11-11 03:00 — Teddy Swims @ Chase Center (San Francisco)
-    ▹ Teddy Swims is known for his powerful vocals and emotional performances, making his UGLY Tour a must-see.
-
-- 2026-10-29 02:00 — Gorillaz @ Oakland Arena (Oakland)
-    ▹ Gorillaz's Mountain Tour is expected to be a visually stunning and musically diverse experience.
-
-- 2026-12-12 03:00 — Olivia Rodrigo @ Oakland Arena (Oakland)
-    ▹ Olivia Rodrigo's Unraveled Tour is highly anticipated, following her meteoric rise in the music industry.
-
-- 2026-10-17 02:30 — The Rush Tribute Project @ Palace of Fine Arts (San Francisco)
-    ▹ Childish Gambino's New World Tour is highly anticipated, promising a unique blend of genres and a dynamic live experience.
-
-- 2026-09-18 01:30 — Bleachers @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Bleachers' Forever tour showcases their indie-pop sound, promising an engaging live performance.
-
-- 2026-10-11 03:00 — Bonnie Raitt @ The Theater at Bill Graham Civic Auditorium (San Francisco)
-    ▹ $uicideboy$'s Grey Day Tour features a mix of hip-hop and punk, appealing to a diverse audience.
-
-- 2026-09-13 03:00 — Public Image Ltd @ The Fillmore (San Francisco)
-    ▹ Public Image Ltd's tour is a chance to see a pioneering band in post-punk, known for their influential sound.
-
-- 2026-10-04 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
-    ▹ My Morning Jacket's shows are known for their improvisational style and strong musicianship.
-
-- 2026-10-19 03:00 — The Wallflowers @ The Fillmore (San Francisco)
-    ▹ The Wallflowers bring a nostalgic vibe with their classic hits, appealing to fans of 90s rock.
-
-- 2026-10-04 03:00 — Jon Batiste @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Dilated Peoples' performance is a chance to see influential figures in hip-hop, known for their lyrical prowess.
-
-- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
-    ▹ Social Distortion's tour offers a blend of punk rock and storytelling that resonates with fans.
-
-- 2026-09-10 03:00 — Slayyyter @ Fox Theater - Oakland (Oakland)
-    ▹ Slayyyter's WOR$T GIRL IN THE WORLD TOUR is generating excitement in the pop scene with her bold style.
-
-- 2026-10-23 02:00 — Rise Against @ The Masonic (San Francisco)
-    ▹ Rise Against's Ricochet tour promises a politically charged performance from a band known for their activism.
-
-- 2026-10-12 02:00 — Chayanne @ Chase Center (San Francisco)
-    ▹ Billy Strings' shows are celebrated for their virtuosic musicianship and engaging performances.
-
-- 2026-10-11 03:00 — Jacob Collier @ The Castro Theatre (San Francisco)
-    ▹ Jacob Collier's innovative approach to music and live performance makes his show a unique experience.
+- 2026-09-09 03:00 — Childish Gambino @ Chase Center (San Francisco)
+    ▹ Childish Gambino's live performances are known for their energy and depth, making this a highly anticipated event.
 
 - 2026-09-10 02:00 — Weezer @ Chase Center (San Francisco)
+    ▹ Weezer continues to be a major player in the alt-rock scene, and their upcoming show promises a nostalgic yet fresh experience.
 
 - 2026-09-24 03:00 — Lily Allen @ Chase Center (San Francisco)
+    ▹ Lily Allen's unique blend of pop and storytelling makes her performance a must-see, especially with her West End show.
 
-- 2026-09-02 03:00 — Screeching Weasel @ August Hall (San Francisco)
+- 2026-11-11 03:00 — Teddy Swims @ Chase Center (San Francisco)
+    ▹ Teddy Swims has been gaining traction for his soulful voice and engaging performances, making this tour noteworthy.
+
+- 2026-10-29 02:00 — Gorillaz @ Oakland Arena (Oakland)
+    ▹ Gorillaz's innovative approach to live music and their eclectic sound make this tour a significant event.
+
+- 2026-12-12 03:00 → 2026-12-13 03:00 — Olivia Rodrigo @ Oakland Arena (Oakland) [multi-night x2]
+    ▹ Olivia Rodrigo's rapid rise in the pop world and her emotional performances make her shows highly anticipated.
+
+- 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
+    ▹ Beck's eclectic style and long-standing reputation for great live shows make this tour exciting.
+
+- 2026-09-18 01:30 — Bleachers @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Jon Batiste's dynamic performances and Grammy-winning artistry make this a must-see event.
+
+- 2026-09-10 01:30 — Liz Phair @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Liz Phair and Sleater-Kinney together offer a powerful lineup that appeals to indie rock fans.
+
+- 2026-09-20 02:00 — Godsmack @ Shoreline Amphitheatre (Mountain View)
+    ▹ Kishi Bashi's unique sound and engaging performances make his anniversary tour noteworthy.
+
+- 2026-10-11 03:00 — Bonnie Raitt @ The Theater at Bill Graham Civic Auditorium (San Francisco)
+    ▹ Hayley Williams' solo show promises to showcase her unique artistry and connection with fans.
+
+- 2026-09-26 03:00 — Kruder & Dorfmeister @ Fox Theater - Oakland (Oakland)
+    ▹ Kruder & Dorfmeister's anniversary tour is a significant event for electronic music enthusiasts.
+
+- 2026-10-23 02:00 — Rise Against @ The Masonic (San Francisco)
+    ▹ Rise Against's activism and powerful live shows resonate strongly with fans.
+
+- 2026-10-26 03:00 — Kishi Bashi @ The Fillmore (San Francisco)
+    ▹ Dermot Kennedy's emotive performances and rising popularity make his show a must-see.
+
+- 2026-10-29 02:00 — G-Eazy @ Shoreline Amphitheatre (Mountain View)
+    ▹ $uicideboy$'s unique style and dedicated fanbase make this tour highly anticipated.
+
+- 2026-09-22 03:00 — Jack Harlow @ Fox Theater - Oakland (Oakland)
+    ▹ Snarky Puppy's innovative sound and musicianship make their performance a highlight for jazz fans.
+
+- 2026-10-03 02:30 — Billy Strings @ Oakland Arena (Oakland)
+    ▹ Billy Strings' blend of bluegrass and rock has garnered him a passionate following, making this event significant.
+
+- 2026-10-04 02:00 — Disney Worlds Collide Concert Tour @ Chase Center (San Francisco)
+    ▹ San Holo's electronic music and engaging performances are set to attract a lively crowd.
+
+- 2026-10-07 03:00 — aespa @ Oakland Arena (Oakland)

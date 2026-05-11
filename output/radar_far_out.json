@@ -1,49 +1,72 @@
 [
   {
-    "id": "G5vYZ_6GAOFcs",
+    "id": "G5vYZb11EYk12",
     "ids": [
-      "G5vYZ_6GAOFcs"
+      "G5vYZb11EYk12"
     ],
-    "name": "Eagles Of Death Metal: Death By Sexy 20th Anniversary Tour",
-    "primary_artist": "Eagles of Death Metal",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/eagles-of-death-metal-death-by-san-francisco-california-09-01-2026/event/1C00647305808B71",
-    "window": "far_out",
-    "local_date": "2026-09-01",
-    "start_datetime": "2026-09-02T03:00:00+00:00",
-    "date_start": "2026-09-02T03:00:00+00:00",
-    "date_end": "2026-09-02T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.664,
-    "ai_priority": 9,
-    "ai_reason": "Eagles of Death Metal's 20th anniversary tour promises a high-energy performance from a band known for their engaging live shows."
-  },
-  {
-    "id": "G5vYZ_dwWjIOa",
-    "ids": [
-      "G5vYZ_dwWjIOa"
-    ],
-    "name": "ZAYN: The Konnakol Tour",
-    "primary_artist": "ZAYN",
+    "name": "Childish Gambino - The New World Tour",
+    "primary_artist": "Childish Gambino",
     "venue_name": "Chase Center",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/zayn-the-konnakol-tour-san-francisco-california-09-02-2026/event/1C00643CBD728809",
+    "url": "https://www.ticketmaster.com/childish-gambino-the-new-world-tour-san-francisco-california-09-08-2026/event/1C0060A2A7C0628F",
     "window": "far_out",
-    "local_date": "2026-09-02",
-    "start_datetime": "2026-09-03T03:00:00+00:00",
-    "date_start": "2026-09-03T03:00:00+00:00",
-    "date_end": "2026-09-03T03:00:00+00:00",
+    "local_date": "2026-09-08",
+    "start_datetime": "2026-09-09T03:00:00+00:00",
+    "date_start": "2026-09-09T03:00:00+00:00",
+    "date_end": "2026-09-09T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.655,
+    "ai_priority": 10,
+    "ai_reason": "Childish Gambino's live performances are known for their energy and depth, making this a highly anticipated event."
+  },
+  {
+    "id": "G5vYZ_kw4eyPa",
+    "ids": [
+      "G5vYZ_kw4eyPa"
+    ],
+    "name": "LIVE 105 Presents WEEZER: The Gathering",
+    "primary_artist": "Weezer",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/live-105-presents-weezer-the-gathering-san-francisco-california-09-09-2026/event/1C00646C950B9949",
+    "window": "far_out",
+    "local_date": "2026-09-09",
+    "start_datetime": "2026-09-10T02:00:00+00:00",
+    "date_start": "2026-09-10T02:00:00+00:00",
+    "date_end": "2026-09-10T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6549999999999999,
     "ai_priority": 9,
-    "ai_reason": "ZAYN's Konnakol Tour is generating buzz, showcasing his evolution as an artist and his strong fanbase."
+    "ai_reason": "Weezer continues to be a major player in the alt-rock scene, and their upcoming show promises a nostalgic yet fresh experience."
+  },
+  {
+    "id": "G5vYZ_6LcqXgK",
+    "ids": [
+      "G5vYZ_6LcqXgK"
+    ],
+    "name": "Lily Allen Performs West End Girl",
+    "primary_artist": "Lily Allen",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/lily-allen-performs-west-end-girl-san-francisco-california-09-23-2026/event/1C006477ED77ED53",
+    "window": "far_out",
+    "local_date": "2026-09-23",
+    "start_datetime": "2026-09-24T03:00:00+00:00",
+    "date_start": "2026-09-24T03:00:00+00:00",
+    "date_end": "2026-09-24T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6549999999999999,
+    "ai_priority": 8,
+    "ai_reason": "Lily Allen's unique blend of pop and storytelling makes her performance a must-see, especially with her West End show."
   },
   {
     "id": "G5vYZ_FnHI2eZ",
@@ -66,7 +89,7 @@
     "night_count": 1,
     "score": 0.6549999999999999,
     "ai_priority": 8,
-    "ai_reason": "Teddy Swims is known for his powerful vocals and emotional performances, making his UGLY Tour a must-see."
+    "ai_reason": "Teddy Swims has been gaining traction for his soulful voice and engaging performances, making this tour noteworthy."
   },
   {
     "id": "G5vYZ_AllHHol",
@@ -89,12 +112,13 @@
     "night_count": 1,
     "score": 0.6489999999999999,
     "ai_priority": 8,
-    "ai_reason": "Gorillaz's Mountain Tour is expected to be a visually stunning and musically diverse experience."
+    "ai_reason": "Gorillaz's innovative approach to live music and their eclectic sound make this tour a significant event."
   },
   {
     "id": "G5vYZ_aMbKo0B",
     "ids": [
-      "G5vYZ_aMbKo0B"
+      "G5vYZ_aMbKo0B",
+      "G5vYZ_aMbfsP1"
     ],
     "name": "Olivia Rodrigo: The Unraveled Tour",
     "primary_artist": "Olivia Rodrigo",
@@ -107,35 +131,35 @@
     "local_date": "2026-12-11",
     "start_datetime": "2026-12-12T03:00:00+00:00",
     "date_start": "2026-12-12T03:00:00+00:00",
-    "date_end": "2026-12-12T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
+    "date_end": "2026-12-13T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
     "score": 0.6489999999999999,
     "ai_priority": 8,
-    "ai_reason": "Olivia Rodrigo's Unraveled Tour is highly anticipated, following her meteoric rise in the music industry."
+    "ai_reason": "Olivia Rodrigo's rapid rise in the pop world and her emotional performances make her shows highly anticipated."
   },
   {
-    "id": "G5vYZ_dw3o5zd",
+    "id": "G5vYZ_FLJZy-y",
     "ids": [
-      "G5vYZ_dw3o5zd"
+      "G5vYZ_FLJZy-y"
     ],
-    "name": "The Rush Tribute Project",
-    "primary_artist": "The Rush Tribute Project",
-    "venue_name": "Palace of Fine Arts",
-    "city": "San Francisco",
+    "name": "SOMBR - You Are The Reason Tour",
+    "primary_artist": "Sombr",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-rush-tribute-project-san-francisco-california-10-16-2026/event/1C00643C9244BE03",
+    "url": "https://www.ticketmaster.com/sombr-you-are-the-reason-tour-san-jose-california-10-07-2026/event/1C006487E6039879",
     "window": "far_out",
-    "local_date": "2026-10-16",
-    "start_datetime": "2026-10-17T02:30:00+00:00",
-    "date_start": "2026-10-17T02:30:00+00:00",
-    "date_end": "2026-10-17T02:30:00+00:00",
+    "local_date": "2026-10-07",
+    "start_datetime": "2026-10-08T02:00:00+00:00",
+    "date_start": "2026-10-08T02:00:00+00:00",
+    "date_end": "2026-10-08T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.625,
-    "ai_priority": 8,
-    "ai_reason": "Childish Gambino's New World Tour is highly anticipated, promising a unique blend of genres and a dynamic live experience."
+    "score": 0.6459999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Beck's eclectic style and long-standing reputation for great live shows make this tour exciting."
   },
   {
     "id": "G5vYZ_kEkqCJe",
@@ -158,7 +182,53 @@
     "night_count": 1,
     "score": 0.6429999999999999,
     "ai_priority": 7,
-    "ai_reason": "Bleachers' Forever tour showcases their indie-pop sound, promising an engaging live performance."
+    "ai_reason": "Jon Batiste's dynamic performances and Grammy-winning artistry make this a must-see event."
+  },
+  {
+    "id": "G5vYZ_aR9Vi7q",
+    "ids": [
+      "G5vYZ_aR9Vi7q"
+    ],
+    "name": "Liz Phair & Sleater-Kinney: The Flannel and The Fury 2026",
+    "primary_artist": "Liz Phair",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/liz-phair-sleaterkinney-the-flannel-and-berkeley-california-09-09-2026/event/1C00649BD7D2C11D",
+    "window": "far_out",
+    "local_date": "2026-09-09",
+    "start_datetime": "2026-09-10T01:30:00+00:00",
+    "date_start": "2026-09-10T01:30:00+00:00",
+    "date_end": "2026-09-10T01:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Liz Phair and Sleater-Kinney together offer a powerful lineup that appeals to indie rock fans."
+  },
+  {
+    "id": "G5vYZ_dKlXXzG",
+    "ids": [
+      "G5vYZ_dKlXXzG"
+    ],
+    "name": "GODSMACK - The Rise of Rock World Tour 2026",
+    "primary_artist": "Godsmack",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/godsmack-the-rise-of-rock-world-mountain-view-california-09-19-2026/event/1C006434EBFBEE0C",
+    "window": "far_out",
+    "local_date": "2026-09-19",
+    "start_datetime": "2026-09-20T02:00:00+00:00",
+    "date_start": "2026-09-20T02:00:00+00:00",
+    "date_end": "2026-09-20T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6429999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Kishi Bashi's unique sound and engaging performances make his anniversary tour noteworthy."
   },
   {
     "id": "G5vYZ_k1ywuyI",
@@ -181,145 +251,30 @@
     "night_count": 1,
     "score": 0.6369999999999999,
     "ai_priority": 7,
-    "ai_reason": "$uicideboy$'s Grey Day Tour features a mix of hip-hop and punk, appealing to a diverse audience."
+    "ai_reason": "Hayley Williams' solo show promises to showcase her unique artistry and connection with fans."
   },
   {
-    "id": "G5vYZ_kQFX_FC",
+    "id": "G5vYZ_kCR9X_j",
     "ids": [
-      "G5vYZ_kQFX_FC"
+      "G5vYZ_kCR9X_j"
     ],
-    "name": "Public Image Ltd - This Is Not The Last Tour",
-    "primary_artist": "Public Image Ltd",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/public-image-ltd-this-is-not-san-francisco-california-09-12-2026/event/1C00646688F9920E",
-    "window": "far_out",
-    "local_date": "2026-09-12",
-    "start_datetime": "2026-09-13T03:00:00+00:00",
-    "date_start": "2026-09-13T03:00:00+00:00",
-    "date_end": "2026-09-13T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 7,
-    "ai_reason": "Public Image Ltd's tour is a chance to see a pioneering band in post-punk, known for their influential sound."
-  },
-  {
-    "id": "G5vYZ_6bQ8FZh",
-    "ids": [
-      "G5vYZ_6bQ8FZh"
-    ],
-    "name": "My Morning Jacket",
-    "primary_artist": "My Morning Jacket",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/my-morning-jacket-san-francisco-california-10-03-2026/event/1C0064761A40801B",
-    "window": "far_out",
-    "local_date": "2026-10-03",
-    "start_datetime": "2026-10-04T03:00:00+00:00",
-    "date_start": "2026-10-04T03:00:00+00:00",
-    "date_end": "2026-10-04T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 7,
-    "ai_reason": "My Morning Jacket's shows are known for their improvisational style and strong musicianship."
-  },
-  {
-    "id": "G5vYZ_6JeBJZ6",
-    "ids": [
-      "G5vYZ_6JeBJZ6"
-    ],
-    "name": "The Wallflowers",
-    "primary_artist": "The Wallflowers",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-wallflowers-san-francisco-california-10-18-2026/event/1C00647982EA6007",
-    "window": "far_out",
-    "local_date": "2026-10-18",
-    "start_datetime": "2026-10-19T03:00:00+00:00",
-    "date_start": "2026-10-19T03:00:00+00:00",
-    "date_end": "2026-10-19T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 7,
-    "ai_reason": "The Wallflowers bring a nostalgic vibe with their classic hits, appealing to fans of 90s rock."
-  },
-  {
-    "id": "G5vYZ_F9s4AGq",
-    "ids": [
-      "G5vYZ_F9s4AGq"
-    ],
-    "name": "Jon Batiste - Jon Batiste Live",
-    "primary_artist": "Jon Batiste",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/jon-batiste-jon-batiste-live-berkeley-california-10-03-2026/event/1C006485F154531D",
-    "window": "far_out",
-    "local_date": "2026-10-03",
-    "start_datetime": "2026-10-04T03:00:00+00:00",
-    "date_start": "2026-10-04T03:00:00+00:00",
-    "date_end": "2026-10-04T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6429999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Dilated Peoples' performance is a chance to see influential figures in hip-hop, known for their lyrical prowess."
-  },
-  {
-    "id": "G5vYZ_k3Wj-BC",
-    "ids": [
-      "G5vYZ_k3Wj-BC"
-    ],
-    "name": "Social Distortion - Born To Kill World Tour",
-    "primary_artist": "Social Distortion",
+    "name": "Kruder & Dorfmeister: K&D Kicks 30 Anniversary Tour",
+    "primary_artist": "Kruder & Dorfmeister",
     "venue_name": "Fox Theater - Oakland",
     "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/social-distortion-born-to-kill-world-oakland-california-09-29-2026/event/1C006464BD721E8E",
+    "url": "https://www.ticketmaster.com/kruder-dorfmeister-kd-kicks-30-anniversary-oakland-california-09-25-2026/event/1C006463AF5FE65C",
     "window": "far_out",
-    "local_date": "2026-09-29",
-    "start_datetime": "2026-09-30T02:00:00+00:00",
-    "date_start": "2026-09-30T02:00:00+00:00",
-    "date_end": "2026-09-30T02:00:00+00:00",
+    "local_date": "2026-09-25",
+    "start_datetime": "2026-09-26T03:00:00+00:00",
+    "date_start": "2026-09-26T03:00:00+00:00",
+    "date_end": "2026-09-26T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.634,
-    "ai_priority": 6,
-    "ai_reason": "Social Distortion's tour offers a blend of punk rock and storytelling that resonates with fans."
-  },
-  {
-    "id": "G5vYZ_aYCK90v",
-    "ids": [
-      "G5vYZ_aYCK90v"
-    ],
-    "name": "Slayyyter - WOR$T GIRL IN THE WORLD TOUR",
-    "primary_artist": "Slayyyter",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/slayyyter-wort-girl-in-the-world-oakland-california-09-09-2026/event/1C00649C0E4D7901",
-    "window": "far_out",
-    "local_date": "2026-09-09",
-    "start_datetime": "2026-09-10T03:00:00+00:00",
-    "date_start": "2026-09-10T03:00:00+00:00",
-    "date_end": "2026-09-10T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 6,
-    "ai_reason": "Slayyyter's WOR$T GIRL IN THE WORLD TOUR is generating excitement in the pop scene with her bold style."
+    "ai_priority": 7,
+    "ai_reason": "Kruder & Dorfmeister's anniversary tour is a significant event for electronic music enthusiasts."
   },
   {
     "id": "G5vYZ_k9tCFP3",
@@ -341,121 +296,144 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.631,
-    "ai_priority": 6,
-    "ai_reason": "Rise Against's Ricochet tour promises a politically charged performance from a band known for their activism."
+    "ai_priority": 7,
+    "ai_reason": "Rise Against's activism and powerful live shows resonate strongly with fans."
   },
   {
-    "id": "G5vYZ_k9d23or",
+    "id": "G5vYZ_6dE8OLN",
     "ids": [
-      "G5vYZ_k9d23or"
+      "G5vYZ_6dE8OLN"
     ],
-    "name": "Chayanne - Bailemos Otra Vez Tour",
-    "primary_artist": "Chayanne",
+    "name": "Kishi Bashi: Sonderlust 10th Anniversary Tour",
+    "primary_artist": "Kishi Bashi",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/kishi-bashi-sonderlust-10th-anniversary-tour-san-francisco-california-10-25-2026/event/1C006470E74207E3",
+    "window": "far_out",
+    "local_date": "2026-10-25",
+    "start_datetime": "2026-10-26T03:00:00+00:00",
+    "date_start": "2026-10-26T03:00:00+00:00",
+    "date_end": "2026-10-26T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 6,
+    "ai_reason": "Dermot Kennedy's emotive performances and rising popularity make his show a must-see."
+  },
+  {
+    "id": "G5vYZ_a9251k2",
+    "ids": [
+      "G5vYZ_a9251k2"
+    ],
+    "name": "Logic & G-Eazy: The Endless Summer Tour Part II",
+    "primary_artist": "G-Eazy",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/logic-geazy-the-endless-summer-tour-mountain-view-california-10-28-2026/event/1C006495CF2CA18F",
+    "window": "far_out",
+    "local_date": "2026-10-28",
+    "start_datetime": "2026-10-29T02:00:00+00:00",
+    "date_start": "2026-10-29T02:00:00+00:00",
+    "date_end": "2026-10-29T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.613,
+    "ai_priority": 6,
+    "ai_reason": "$uicideboy$'s unique style and dedicated fanbase make this tour highly anticipated."
+  },
+  {
+    "id": "G5vYZ_6LqPWgq",
+    "ids": [
+      "G5vYZ_6LqPWgq"
+    ],
+    "name": "Jack Harlow - Monica Tour",
+    "primary_artist": "Jack Harlow",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/jack-harlow-monica-tour-oakland-california-09-21-2026/event/1C006477DD97DD5D",
+    "window": "far_out",
+    "local_date": "2026-09-21",
+    "start_datetime": "2026-09-22T03:00:00+00:00",
+    "date_start": "2026-09-22T03:00:00+00:00",
+    "date_end": "2026-09-22T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6040000000000001,
+    "ai_priority": 6,
+    "ai_reason": "Snarky Puppy's innovative sound and musicianship make their performance a highlight for jazz fans."
+  },
+  {
+    "id": "G5vYZ_6KrUK15",
+    "ids": [
+      "G5vYZ_6KrUK15"
+    ],
+    "name": "Billy Strings",
+    "primary_artist": "Billy Strings",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/billy-strings-oakland-california-10-02-2026/event/1C006474DED9328B",
+    "window": "far_out",
+    "local_date": "2026-10-02",
+    "start_datetime": "2026-10-03T02:30:00+00:00",
+    "date_start": "2026-10-03T02:30:00+00:00",
+    "date_end": "2026-10-03T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.589,
+    "ai_priority": 6,
+    "ai_reason": "Billy Strings' blend of bluegrass and rock has garnered him a passionate following, making this event significant."
+  },
+  {
+    "id": "G5vYZ_kI3yuzG",
+    "ids": [
+      "G5vYZ_kI3yuzG"
+    ],
+    "name": "Disney Descendants, ZOMBIES & Camp Rock: Worlds Collide Concert Tour",
+    "primary_artist": "Disney Worlds Collide Concert Tour",
     "venue_name": "Chase Center",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/chayanne-bailemos-otra-vez-tour-san-francisco-california-10-11-2026/event/1C006465C33D245E",
+    "url": "https://www.ticketmaster.com/disney-descendants-zombies-camp-rock-worlds-san-francisco-california-10-03-2026/event/1C00646A12E4DE0C",
     "window": "far_out",
-    "local_date": "2026-10-11",
-    "start_datetime": "2026-10-12T02:00:00+00:00",
-    "date_start": "2026-10-12T02:00:00+00:00",
-    "date_end": "2026-10-12T02:00:00+00:00",
+    "local_date": "2026-10-03",
+    "start_datetime": "2026-10-04T02:00:00+00:00",
+    "date_start": "2026-10-04T02:00:00+00:00",
+    "date_end": "2026-10-04T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.595,
+    "score": 0.565,
     "ai_priority": 6,
-    "ai_reason": "Billy Strings' shows are celebrated for their virtuosic musicianship and engaging performances."
+    "ai_reason": "San Holo's electronic music and engaging performances are set to attract a lively crowd."
   },
   {
-    "id": "G5vYZ_kQnKsrV",
+    "id": "G5vYZ_appqGq6",
     "ids": [
-      "G5vYZ_kQnKsrV"
+      "G5vYZ_appqGq6"
     ],
-    "name": "Jacob Collier - The Light For Days Tour",
-    "primary_artist": "Jacob Collier",
-    "venue_name": "The Castro Theatre",
-    "city": "San Francisco",
+    "name": "aespa LIVE TOUR - SYNK : COMPLæXITY - in OAKLAND",
+    "primary_artist": "aespa",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/jacob-collier-the-light-for-days-san-francisco-california-10-10-2026/event/1C006466AA4F17B4",
+    "url": "https://www.ticketmaster.com/aespa-live-tour-synk-complxity-in-oakland-california-10-06-2026/event/1C0064959674C747",
     "window": "far_out",
-    "local_date": "2026-10-10",
-    "start_datetime": "2026-10-11T03:00:00+00:00",
-    "date_start": "2026-10-11T03:00:00+00:00",
-    "date_end": "2026-10-11T03:00:00+00:00",
+    "local_date": "2026-10-06",
+    "start_datetime": "2026-10-07T03:00:00+00:00",
+    "date_start": "2026-10-07T03:00:00+00:00",
+    "date_end": "2026-10-07T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.58,
-    "ai_priority": 6,
-    "ai_reason": "Jacob Collier's innovative approach to music and live performance makes his show a unique experience."
-  },
-  {
-    "id": "G5vYZ_kw4eyPa",
-    "ids": [
-      "G5vYZ_kw4eyPa"
-    ],
-    "name": "LIVE 105 Presents WEEZER: The Gathering",
-    "primary_artist": "Weezer",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/live-105-presents-weezer-the-gathering-san-francisco-california-09-09-2026/event/1C00646C950B9949",
-    "window": "far_out",
-    "local_date": "2026-09-09",
-    "start_datetime": "2026-09-10T02:00:00+00:00",
-    "date_start": "2026-09-10T02:00:00+00:00",
-    "date_end": "2026-09-10T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": null,
-    "ai_reason": null
-  },
-  {
-    "id": "G5vYZ_6LcqXgK",
-    "ids": [
-      "G5vYZ_6LcqXgK"
-    ],
-    "name": "Lily Allen Performs West End Girl",
-    "primary_artist": "Lily Allen",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lily-allen-performs-west-end-girl-san-francisco-california-09-23-2026/event/1C006477ED77ED53",
-    "window": "far_out",
-    "local_date": "2026-09-23",
-    "start_datetime": "2026-09-24T03:00:00+00:00",
-    "date_start": "2026-09-24T03:00:00+00:00",
-    "date_end": "2026-09-24T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": null,
-    "ai_reason": null
-  },
-  {
-    "id": "G5vYZ_dKneCYe",
-    "ids": [
-      "G5vYZ_dKneCYe"
-    ],
-    "name": "Screeching Weasel",
-    "primary_artist": "Screeching Weasel",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/screeching-weasel-san-francisco-california-09-01-2026/event/1C006434EA08EC02",
-    "window": "far_out",
-    "local_date": "2026-09-01",
-    "start_datetime": "2026-09-02T03:00:00+00:00",
-    "date_start": "2026-09-02T03:00:00+00:00",
-    "date_end": "2026-09-02T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.649,
+    "score": 0.6489999999999999,
     "ai_priority": null,
     "ai_reason": null
   }

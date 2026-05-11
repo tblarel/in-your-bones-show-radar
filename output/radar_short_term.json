@@ -1,5 +1,30 @@
 [
   {
+    "id": "G5vYZbs0KVflb",
+    "ids": [
+      "G5vYZbs0KVflb",
+      "G5vYZbsn2Ysxo",
+      "G5vYZbw38cMy6"
+    ],
+    "name": "Ariana Grande - The Eternal Sunshine Tour",
+    "primary_artist": "Ariana Grande",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-oakland-california-06-06-2026/event/1C00631913D14AD8",
+    "window": "short_term",
+    "local_date": "2026-06-06",
+    "start_datetime": "2026-06-07T03:00:00+00:00",
+    "date_start": "2026-06-07T03:00:00+00:00",
+    "date_end": "2026-06-11T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 3,
+    "score": 0.7089999999999999,
+    "ai_priority": 10,
+    "ai_reason": "Ariana Grande's tour is highly anticipated and her live performances are known for their energy and production value."
+  },
+  {
     "id": "G5vYZ_d9C2fkW",
     "ids": [
       "G5vYZ_d9C2fkW",
@@ -20,8 +45,8 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.7029999999999998,
-    "ai_priority": 10,
-    "ai_reason": "Alabama Shakes are known for their powerful live performances and have a strong reputation in the indie rock scene."
+    "ai_priority": 9,
+    "ai_reason": "Alabama Shakes are celebrated for their powerful live shows and unique blend of rock and soul."
   },
   {
     "id": "G5vYZbz2-eGJA",
@@ -43,82 +68,14 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6969999999999998,
-    "ai_priority": 9,
-    "ai_reason": "Yellowcard's reunion tour is generating significant buzz, appealing to fans of pop-punk nostalgia."
-  },
-  {
-    "id": "G5vYZ_eS9UD5R",
-    "ids": [
-      "G5vYZ_eS9UD5R"
-    ],
-    "name": "Live 105 Welcomes The Afghan Whigs 40th Anniv Tour w/ Mercury Rev",
-    "primary_artist": "The Afghan Whigs",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/live-105-welcomes-the-afghan-whigs-san-francisco-california-05-19-2026/event/1C00642CD7DBB2EF",
-    "window": "short_term",
-    "local_date": "2026-05-19",
-    "start_datetime": "2026-05-20T02:30:00+00:00",
-    "date_start": "2026-05-20T02:30:00+00:00",
-    "date_end": "2026-05-20T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
     "ai_priority": 8,
-    "ai_reason": "The Afghan Whigs are a critically acclaimed band celebrating their 40th anniversary, making this a must-see for alt-rock fans."
-  },
-  {
-    "id": "G5vYZ_k9qKUE6",
-    "ids": [
-      "G5vYZ_k9qKUE6"
-    ],
-    "name": "The Adicts",
-    "primary_artist": "The Adicts",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-adicts-san-francisco-california-05-23-2026/event/1C006465DD4F69C7",
-    "window": "short_term",
-    "local_date": "2026-05-23",
-    "start_datetime": "2026-05-24T03:00:00+00:00",
-    "date_start": "2026-05-24T03:00:00+00:00",
-    "date_end": "2026-05-24T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 8,
-    "ai_reason": "Kevin Morby has a strong following and is known for his engaging live shows, appealing to indie and folk rock fans."
-  },
-  {
-    "id": "G5vYZ_62MKU4F",
-    "ids": [
-      "G5vYZ_62MKU4F"
-    ],
-    "name": "LAGWAGON - Celebrating 35 Years of Fat Wreck Chords",
-    "primary_artist": "Lagwagon",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/lagwagon-celebrating-35-years-of-fat-san-francisco-california-05-17-2026/event/1C006473F74F6548",
-    "window": "short_term",
-    "local_date": "2026-05-17",
-    "start_datetime": "2026-05-18T02:00:00+00:00",
-    "date_start": "2026-05-18T02:00:00+00:00",
-    "date_end": "2026-05-18T02:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 8,
-    "ai_reason": "Lagwagon's celebration of 35 years of Fat Wreck Chords is a significant event for punk rock enthusiasts."
+    "ai_reason": "Yellowcard's nostalgia factor and their iconic sound make this a must-see for fans of early 2000s pop-punk."
   },
   {
     "id": "G5vYZbzxlrMVW",
     "ids": [
-      "G5vYZbzxlrMVW"
+      "G5vYZbzxlrMVW",
+      "G5vYZbMOBNAM5"
     ],
     "name": "Seven Lions: Asleep In The Garden Of Infernal Stars Tour - 5/29",
     "primary_artist": "Seven Lions",
@@ -131,35 +88,104 @@
     "local_date": "2026-05-29",
     "start_datetime": "2026-05-30T02:30:00+00:00",
     "date_start": "2026-05-30T02:30:00+00:00",
-    "date_end": "2026-05-30T02:30:00+00:00",
+    "date_end": "2026-05-31T02:30:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
+    "score": 0.6969999999999998,
+    "ai_priority": 8,
+    "ai_reason": "Seven Lions is known for his captivating electronic performances, making this show a highlight for EDM fans."
+  },
+  {
+    "id": "G5vYZbSUc2VEb",
+    "ids": [
+      "G5vYZbSUc2VEb"
+    ],
+    "name": "Louis Tomlinson - How Did We Get Here? World Tour",
+    "primary_artist": "Louis Tomlinson",
+    "venue_name": "Bill Graham Civic Auditorium",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/louis-tomlinson-how-did-we-get-san-francisco-california-06-06-2026/event/1C00633DAD3F49D8",
+    "window": "short_term",
+    "local_date": "2026-06-06",
+    "start_datetime": "2026-06-07T02:00:00+00:00",
+    "date_start": "2026-06-07T02:00:00+00:00",
+    "date_end": "2026-06-07T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6969999999999998,
     "ai_priority": 7,
-    "ai_reason": "Seven Lions is a prominent figure in electronic music, known for his captivating live performances."
+    "ai_reason": "Louis Tomlinson's solo tour is generating buzz, appealing to both One Direction fans and new listeners."
   },
   {
-    "id": "G5vYZ_7npbF2t",
+    "id": "G5vYZ_dXiKBmK",
     "ids": [
-      "G5vYZ_7npbF2t"
+      "G5vYZ_dXiKBmK"
     ],
-    "name": "hemlocke springs: the apple tree under the sea tour",
-    "primary_artist": "hemlocke springs",
-    "venue_name": "The Fillmore",
+    "name": "Alesso (18+)",
+    "primary_artist": "Alesso",
+    "venue_name": "Bill Graham Civic Auditorium",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/hemlocke-springs-the-apple-tree-under-san-francisco-california-05-20-2026/event/1C00644A966083E9",
+    "url": "https://www.ticketmaster.com/alesso-18-san-francisco-california-06-05-2026/event/1C00643FAC4FAB93",
     "window": "short_term",
-    "local_date": "2026-05-20",
-    "start_datetime": "2026-05-21T03:00:00+00:00",
-    "date_start": "2026-05-21T03:00:00+00:00",
-    "date_end": "2026-05-21T03:00:00+00:00",
+    "local_date": "2026-06-05",
+    "start_datetime": "2026-06-06T03:00:00+00:00",
+    "date_start": "2026-06-06T03:00:00+00:00",
+    "date_end": "2026-06-06T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6969999999999998,
+    "ai_priority": 7,
+    "ai_reason": "This show features a well-known DJ, appealing to fans of electronic music."
+  },
+  {
+    "id": "G5vYZ_61ZrgMz",
+    "ids": [
+      "G5vYZ_61ZrgMz"
+    ],
+    "name": "Kesha: The Freedom Tour",
+    "primary_artist": "Kesha",
+    "venue_name": "Toyota Pavilion at Concord",
+    "city": "Concord",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/kesha-the-freedom-tour-concord-california-05-27-2026/event/1C006472807B5DF8",
+    "window": "short_term",
+    "local_date": "2026-05-27",
+    "start_datetime": "2026-05-28T02:00:00+00:00",
+    "date_start": "2026-05-28T02:00:00+00:00",
+    "date_end": "2026-05-28T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
     "ai_priority": 7,
-    "ai_reason": "Hemlocke Springs is gaining traction with their unique sound and energetic performances."
+    "ai_reason": "Kesha's return to the stage promises a fun and empowering experience for fans."
+  },
+  {
+    "id": "G5vYZ_7iMsLFh",
+    "ids": [
+      "G5vYZ_7iMsLFh"
+    ],
+    "name": "Chapterhouse: Whirlpool 35",
+    "primary_artist": "Chapterhouse",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/chapterhouse-whirlpool-35-san-francisco-california-05-28-2026/event/1C00644B37C5F21B",
+    "window": "short_term",
+    "local_date": "2026-05-28",
+    "start_datetime": "2026-05-29T03:00:00+00:00",
+    "date_start": "2026-05-29T03:00:00+00:00",
+    "date_end": "2026-05-29T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Alesso's performance is a highlight for electronic music fans, promising an energetic atmosphere."
   },
   {
     "id": "G5vYZbgpVwI0F",
@@ -182,7 +208,7 @@
     "night_count": 1,
     "score": 0.6729999999999999,
     "ai_priority": 7,
-    "ai_reason": "Rainbow Kitten Surprise is known for their dynamic live shows and eclectic sound, appealing to a diverse audience."
+    "ai_reason": "Rainbow Kitten Surprise is known for their unique sound and engaging live performances."
   },
   {
     "id": "G5vYZbgwgryKe",
@@ -205,53 +231,30 @@
     "night_count": 1,
     "score": 0.6729999999999999,
     "ai_priority": 7,
-    "ai_reason": "Bob Moses is recognized for their atmospheric live performances, making their show a highlight for electronic music fans."
+    "ai_reason": "Bob Moses' tour is expected to deliver a mesmerizing blend of electronic and live instrumentation."
   },
   {
-    "id": "G5vYZ_A1ST6ob",
+    "id": "G5vYZbYwYyoGo",
     "ids": [
-      "G5vYZ_A1ST6ob"
+      "G5vYZbYwYyoGo"
     ],
-    "name": "TK from Ling tosite sigure - TOUR 2026 NORTH AMERICA",
-    "primary_artist": "TK from Ling tosite sigure",
-    "venue_name": "The Fillmore",
+    "name": "BELLE & SEBASTIAN: TIGERMILK + CLASSIC SONGS",
+    "primary_artist": "Belle & Sebastian",
+    "venue_name": "The Masonic",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/tk-from-ling-tosite-sigure-tour-san-francisco-california-05-26-2026/event/1C006452B3FC7458",
+    "url": "https://www.ticketmaster.com/belle-sebastian-tigermilk-classic-songs-san-francisco-california-06-10-2026/event/1C00630CB0E51311",
     "window": "short_term",
-    "local_date": "2026-05-26",
-    "start_datetime": "2026-05-27T03:00:00+00:00",
-    "date_start": "2026-05-27T03:00:00+00:00",
-    "date_end": "2026-05-27T03:00:00+00:00",
+    "local_date": "2026-06-10",
+    "start_datetime": "2026-06-11T03:00:00+00:00",
+    "date_start": "2026-06-11T03:00:00+00:00",
+    "date_end": "2026-06-11T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.694,
+    "score": 0.691,
     "ai_priority": 6,
-    "ai_reason": "TK from Ling tosite sigure brings a unique sound that appeals to fans of Japanese rock."
-  },
-  {
-    "id": "G5vYZbzLIl1kU",
-    "ids": [
-      "G5vYZbzLIl1kU"
-    ],
-    "name": "CANCELED - Julien Doré",
-    "primary_artist": "Julien Dore",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/canceled-julien-dore-oakland-california-05-17-2026/event/1C006387E8ACA1B6",
-    "window": "short_term",
-    "local_date": "2026-05-17",
-    "start_datetime": "2026-05-18T02:30:00+00:00",
-    "date_start": "2026-05-18T02:30:00+00:00",
-    "date_end": "2026-05-18T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 6,
-    "ai_reason": "The Last Dinner Party is gaining attention with their fresh sound and engaging performances."
+    "ai_reason": "Belle & Sebastian's performance of classic songs is a treat for long-time fans."
   },
   {
     "id": "G5vYZbz2hJjQL",
@@ -274,145 +277,98 @@
     "night_count": 1,
     "score": 0.6789999999999999,
     "ai_priority": 6,
-    "ai_reason": "For fans of indie pop, this show promises a unique experience with a rising artist."
+    "ai_reason": "For fans of indie rock, Vundabar and Yot Club offer an exciting pairing for a night of fresh sounds."
   },
   {
-    "id": "G5vYZ_7iMsLFh",
+    "id": "G5vYZ_eLbfhCi",
     "ids": [
-      "G5vYZ_7iMsLFh"
+      "G5vYZ_eLbfhCi"
     ],
-    "name": "Chapterhouse: Whirlpool 35",
-    "primary_artist": "Chapterhouse",
+    "name": "Vundabar + Yot Club",
+    "primary_artist": "Vundabar",
     "venue_name": "August Hall",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/chapterhouse-whirlpool-35-san-francisco-california-05-28-2026/event/1C00644B37C5F21B",
+    "url": "https://www.ticketmaster.com/vundabar-yot-club-san-francisco-california-05-29-2026/event/1C006427D851B3AC",
     "window": "short_term",
-    "local_date": "2026-05-28",
-    "start_datetime": "2026-05-29T03:00:00+00:00",
-    "date_start": "2026-05-29T03:00:00+00:00",
-    "date_end": "2026-05-29T03:00:00+00:00",
+    "local_date": "2026-05-29",
+    "start_datetime": "2026-05-30T02:30:00+00:00",
+    "date_start": "2026-05-30T02:30:00+00:00",
+    "date_end": "2026-05-30T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6789999999999999,
     "ai_priority": 6,
-    "ai_reason": "Dance With The Dead combines electronic and rock elements, promising an exciting live experience."
+    "ai_reason": "Dance With The Dead's unique blend of electronic and rock is sure to deliver an engaging show."
   },
   {
-    "id": "G5vYZ_7MRNlC8",
+    "id": "G5vYZ_kKKkPME",
     "ids": [
-      "G5vYZ_7MRNlC8"
+      "G5vYZ_kKKkPME"
     ],
-    "name": "The Cab - Back From the Dead Tour",
-    "primary_artist": "The Cab",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
+    "name": "IVE WORLD TOUR <SHOW WHAT I AM> IN OAKLAND",
+    "primary_artist": "IVE",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-cab-back-from-the-dead-san-francisco-california-06-02-2026/event/1C00644DEF8EB390",
+    "url": "https://www.ticketmaster.com/ive-world-tour-show-what-i-oakland-california-08-04-2026/event/1C006464D31A5DE7",
     "window": "short_term",
-    "local_date": "2026-06-02",
-    "start_datetime": "2026-06-03T02:30:00+00:00",
-    "date_start": "2026-06-03T02:30:00+00:00",
-    "date_end": "2026-06-03T02:30:00+00:00",
+    "local_date": "2026-08-04",
+    "start_datetime": "2026-08-05T03:00:00+00:00",
+    "date_start": "2026-08-05T03:00:00+00:00",
+    "date_end": "2026-08-05T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6789999999999999,
     "ai_priority": 6,
-    "ai_reason": "The Cab's tour is generating interest, particularly among fans of pop rock."
+    "ai_reason": "IVE's world tour is generating excitement among K-pop fans, promising a vibrant performance."
   },
   {
-    "id": "G5vYZ_A90eJ1A",
+    "id": "G5vYZ_7l_fTAh",
     "ids": [
-      "G5vYZ_A90eJ1A"
+      "G5vYZ_7l_fTAh"
     ],
-    "name": "BottleRock AfterDark: BØRNS",
-    "primary_artist": "Børns",
-    "venue_name": "Uptown Theatre Napa",
-    "city": "Napa",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/bottlerock-afterdark-brns-napa-california-05-23-2026/event/1C006455E40A6285",
-    "window": "short_term",
-    "local_date": "2026-05-23",
-    "start_datetime": "2026-05-24T05:00:00+00:00",
-    "date_start": "2026-05-24T05:00:00+00:00",
-    "date_end": "2026-05-24T05:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6729999999999999,
-    "ai_priority": 6,
-    "ai_reason": "BØRNS is known for his vibrant performances and catchy pop sound, making this a fun show to attend."
-  },
-  {
-    "id": "G5vYZ_kJQ9n1N",
-    "ids": [
-      "G5vYZ_kJQ9n1N"
-    ],
-    "name": "The Pussycat Dolls: PCD FOREVER TOUR",
-    "primary_artist": "The Pussycat Dolls",
-    "venue_name": "Shoreline Amphitheatre",
-    "city": "Mountain View",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-pussycat-dolls-pcd-forever-tour-mountain-view-california-06-12-2026/event/1C0064699A5EA2A3",
-    "window": "short_term",
-    "local_date": "2026-06-12",
-    "start_datetime": "2026-06-13T01:30:00+00:00",
-    "date_start": "2026-06-13T01:30:00+00:00",
-    "date_end": "2026-06-13T01:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6729999999999999,
-    "ai_priority": 6,
-    "ai_reason": "The Pussycat Dolls' reunion tour is a notable event for pop music fans."
-  },
-  {
-    "id": "G5vYZ_62OFdvk",
-    "ids": [
-      "G5vYZ_62OFdvk"
-    ],
-    "name": "Bob Dylan",
-    "primary_artist": "Bob Dylan",
+    "name": "James Blake - Trying Times Tour",
+    "primary_artist": "James Blake",
     "venue_name": "Greek Theatre-U.C. Berkeley",
     "city": "Berkeley",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/bob-dylan-berkeley-california-06-13-2026/event/1C006473E0203046",
+    "url": "https://www.ticketmaster.com/james-blake-trying-times-tour-berkeley-california-06-11-2026/event/1C00644AD953F15B",
     "window": "short_term",
-    "local_date": "2026-06-13",
-    "start_datetime": "2026-06-14T02:00:00+00:00",
-    "date_start": "2026-06-14T02:00:00+00:00",
-    "date_end": "2026-06-14T02:00:00+00:00",
+    "local_date": "2026-06-11",
+    "start_datetime": "2026-06-12T02:00:00+00:00",
+    "date_start": "2026-06-12T02:00:00+00:00",
+    "date_end": "2026-06-12T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6729999999999999,
     "ai_priority": 6,
-    "ai_reason": "Bob Dylan's legacy and live reputation make his shows a significant event for music lovers."
+    "ai_reason": "James Blake's tour is highly anticipated, known for his emotionally charged performances."
   },
   {
-    "id": "G5vYZbgVBKr5N",
+    "id": "G5vYZby6WSrjp",
     "ids": [
-      "G5vYZbgVBKr5N",
-      "G5vYZbgVB4X5l"
+      "G5vYZby6WSrjp"
     ],
-    "name": "Lucy Dacus 5/18",
-    "primary_artist": "Lucy Dacus",
-    "venue_name": "The Castro Theatre",
-    "city": "San Francisco",
+    "name": "Pitbull - I'm Back with special guest Lil Jon",
+    "primary_artist": "Pitbull",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/lucy-dacus-518-san-francisco-california-05-18-2026/event/1C00635D3A4DE2E3",
+    "url": "https://www.ticketmaster.com/pitbull-im-back-with-special-guest-mountain-view-california-06-07-2026/event/1C006391FDCDE716",
     "window": "short_term",
-    "local_date": "2026-05-18",
-    "start_datetime": "2026-05-19T03:00:00+00:00",
-    "date_start": "2026-05-19T03:00:00+00:00",
-    "date_end": "2026-05-20T03:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.6399999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Lucy Dacus is a critically acclaimed artist with a strong live reputation, appealing to indie rock fans."
+    "local_date": "2026-06-07",
+    "start_datetime": "2026-06-08T03:00:00+00:00",
+    "date_start": "2026-06-08T03:00:00+00:00",
+    "date_end": "2026-06-08T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.7029999999999998,
+    "ai_priority": null,
+    "ai_reason": null
   }
 ]
