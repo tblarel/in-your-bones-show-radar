@@ -1,33 +1,31 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 10 new show(s) since last run:
+Found 9 new show(s) since last run:
 
-- 2026-06-07 03:00 → 2026-06-11 03:00 — Ariana Grande @ Oakland Arena (Oakland) [multi-night x3]
-    ▹ Ariana Grande's tour is highly anticipated and her live performances are known for their energy and production value.
+- 2026-06-13 01:30 — The Pussycat Dolls @ Shoreline Amphitheatre (Mountain View)
+    ▹ Alesso is a prominent figure in electronic music, known for his high-energy live shows.
 
-- 2026-05-30 02:30 → 2026-05-31 02:30 — Seven Lions @ Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
-    ▹ Seven Lions is known for his captivating electronic performances, making this show a highlight for EDM fans.
+- 2026-06-14 02:00 → 2026-06-15 01:30 — Bob Dylan @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
+    ▹ Bob Dylan's legacy and storytelling prowess continue to draw significant interest.
 
-- 2026-06-07 02:00 — Louis Tomlinson @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Louis Tomlinson's solo tour is generating buzz, appealing to both One Direction fans and new listeners.
+- 2026-06-11 03:00 → 2026-06-12 03:00 — Belle & Sebastian @ The Masonic (San Francisco) [multi-night x2]
+    ▹ Belle & Sebastian's nostalgic appeal and classic songs will resonate with long-time fans.
 
-- 2026-06-06 03:00 — Alesso @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ This show features a well-known DJ, appealing to fans of electronic music.
+- 2026-06-13 03:00 — Toadies @ The Fillmore (San Francisco)
+    ▹ Toadies are a beloved alt-rock band with a strong live reputation, appealing to nostalgic fans.
 
-- 2026-05-28 02:00 — Kesha @ Toyota Pavilion at Concord (Concord)
-    ▹ Kesha's return to the stage promises a fun and empowering experience for fans.
+- 2026-06-17 03:00 — Corbyn Besson @ The Fillmore (San Francisco)
+    ▹ Corbyn Besson's tour is gaining traction among younger audiences, making it a relevant pick.
 
-- 2026-06-11 03:00 — Belle & Sebastian @ The Masonic (San Francisco)
-    ▹ Belle & Sebastian's performance of classic songs is a treat for long-time fans.
+- 2026-06-18 03:00 — The Lemon Twigs @ The Fillmore (San Francisco)
+    ▹ The Lemon Twigs offer a refreshing take on rock with their unique style and live energy.
 
-- 2026-05-30 02:30 — Vundabar @ August Hall (San Francisco)
-    ▹ Dance With The Dead's unique blend of electronic and rock is sure to deliver an engaging show.
+- 2026-06-21 02:30 — Shakira @ SAP Center at San Jose (San Jose)
+    ▹ Shakira's world tour promises to be a spectacular event, drawing her global fanbase.
 
-- 2026-08-05 03:00 — IVE @ Oakland Arena (Oakland)
-    ▹ IVE's world tour is generating excitement among K-pop fans, promising a vibrant performance.
+- 2026-08-08 03:00 — Benson Boone @ SAP Center at San Jose (San Jose)
+    ▹ Benson Boone's rising popularity makes his tour a noteworthy event for pop music fans.
 
-- 2026-06-12 02:00 — James Blake @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ James Blake's tour is highly anticipated, known for his emotionally charged performances.
-
-- 2026-06-08 03:00 — Pitbull @ Shoreline Amphitheatre (Mountain View)
+- 2026-06-27 03:00 — Pomplamoose @ The Fillmore (San Francisco)
+    ▹ Pomplamoose's innovative approach to music and performance will attract a diverse audience.

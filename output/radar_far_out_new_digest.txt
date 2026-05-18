@@ -1,39 +1,31 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 12 new show(s) since last run:
+Found 9 new show(s) since last run:
 
-- 2026-09-09 03:00 — Childish Gambino @ Chase Center (San Francisco)
-    ▹ Childish Gambino's live performances are known for their energy and depth, making this a highly anticipated event.
+- 2026-09-25 03:00 — Jack White @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Jack White's live performances are renowned for their energy and musicianship, making this a must-see event.
 
-- 2026-12-12 03:00 → 2026-12-13 03:00 — Olivia Rodrigo @ Oakland Arena (Oakland) [multi-night x2]
-    ▹ Olivia Rodrigo's rapid rise in the pop world and her emotional performances make her shows highly anticipated.
+- 2026-11-20 04:00 — KATSEYE @ Oakland Arena (Oakland)
+    ▹ KATSEYE's tour promises a vibrant live show that blends various musical styles, appealing to diverse audiences.
 
-- 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
-    ▹ Beck's eclectic style and long-standing reputation for great live shows make this tour exciting.
+- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
+    ▹ The Smashing Pumpkins continue to captivate audiences with their iconic sound and dynamic stage presence.
 
-- 2026-09-10 01:30 — Liz Phair @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Liz Phair and Sleater-Kinney together offer a powerful lineup that appeals to indie rock fans.
+- 2026-10-12 02:00 — Chayanne @ Chase Center (San Francisco)
+    ▹ Billy Strings' blend of bluegrass and rock has garnered a dedicated following, ensuring a lively performance.
 
-- 2026-09-20 02:00 — Godsmack @ Shoreline Amphitheatre (Mountain View)
-    ▹ Kishi Bashi's unique sound and engaging performances make his anniversary tour noteworthy.
+- 2026-11-29 03:30 — Journey @ Chase Center (San Francisco)
+    ▹ aespa's live tour is highly anticipated, reflecting their rising popularity in the K-pop genre.
 
-- 2026-09-26 03:00 — Kruder & Dorfmeister @ Fox Theater - Oakland (Oakland)
-    ▹ Kruder & Dorfmeister's anniversary tour is a significant event for electronic music enthusiasts.
+- 2026-09-24 02:30 — LE SSERAFIM @ SAP Center at San Jose (San Jose)
+    ▹ LE SSERAFIM's performance is expected to be a vibrant showcase of their talent and charisma.
 
-- 2026-10-26 03:00 — Kishi Bashi @ The Fillmore (San Francisco)
-    ▹ Dermot Kennedy's emotive performances and rising popularity make his show a must-see.
+- 2026-10-04 03:00 → 2026-10-07 03:00 — My Morning Jacket @ The Fillmore (San Francisco) [multi-night x2]
+    ▹ My Morning Jacket's reputation for captivating live shows makes their multiple dates at The Fillmore noteworthy.
 
-- 2026-10-29 02:00 — G-Eazy @ Shoreline Amphitheatre (Mountain View)
-    ▹ $uicideboy$'s unique style and dedicated fanbase make this tour highly anticipated.
+- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
+    ▹ Social Distortion's punk rock legacy continues to draw fans, promising an energetic and nostalgic performance.
 
-- 2026-09-22 03:00 — Jack Harlow @ Fox Theater - Oakland (Oakland)
-    ▹ Snarky Puppy's innovative sound and musicianship make their performance a highlight for jazz fans.
-
-- 2026-10-03 02:30 — Billy Strings @ Oakland Arena (Oakland)
-    ▹ Billy Strings' blend of bluegrass and rock has garnered him a passionate following, making this event significant.
-
-- 2026-10-04 02:00 — Disney Worlds Collide Concert Tour @ Chase Center (San Francisco)
-    ▹ San Holo's electronic music and engaging performances are set to attract a lively crowd.
-
-- 2026-10-07 03:00 — aespa @ Oakland Arena (Oakland)
+- 2026-10-01 01:30 → 2026-10-02 01:30 — Jack Johnson @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
+    ▹ Jack Johnson's laid-back style and strong fan base ensure a relaxed and enjoyable concert experience.
