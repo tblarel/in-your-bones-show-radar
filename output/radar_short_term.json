@@ -1,8 +1,7 @@
 [
   {
-    "id": "G5vYZbs0KVflb",
+    "id": "G5vYZbsn2Ysxo",
     "ids": [
-      "G5vYZbs0KVflb",
       "G5vYZbsn2Ysxo",
       "G5vYZbw38cMy6"
     ],
@@ -12,17 +11,41 @@
     "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-oakland-california-06-06-2026/event/1C00631913D14AD8",
+    "url": "https://www.ticketmaster.com/ariana-grande-the-eternal-sunshine-tour-oakland-california-06-09-2026/event/1C00631A8FC31891",
     "window": "short_term",
-    "local_date": "2026-06-06",
-    "start_datetime": "2026-06-07T03:00:00+00:00",
-    "date_start": "2026-06-07T03:00:00+00:00",
+    "local_date": "2026-06-09",
+    "start_datetime": "2026-06-10T03:00:00+00:00",
+    "date_start": "2026-06-10T03:00:00+00:00",
     "date_end": "2026-06-11T03:00:00+00:00",
     "multi_night": true,
-    "night_count": 3,
+    "night_count": 2,
     "score": 0.7089999999999999,
     "ai_priority": 10,
-    "ai_reason": "Ariana Grande's tour is highly anticipated, showcasing her strong live reputation and pop appeal."
+    "ai_reason": "Ariana Grande's tour is highly anticipated and showcases her strong live reputation."
+  },
+  {
+    "id": "G5vYZ_663mr7P",
+    "ids": [
+      "G5vYZ_663mr7P",
+      "G5vYZ_6X6BktL"
+    ],
+    "name": "SHAKIRA - LAS MUJERES YA NO LLORAN WORLD TOUR",
+    "primary_artist": "Shakira",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/shakira-las-mujeres-ya-no-lloran-san-jose-california-06-19-2026/event/1C006471D2B9E125",
+    "window": "short_term",
+    "local_date": "2026-06-19",
+    "start_datetime": "2026-06-20T02:30:00+00:00",
+    "date_start": "2026-06-20T02:30:00+00:00",
+    "date_end": "2026-06-21T02:30:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
+    "score": 0.7059999999999998,
+    "ai_priority": 9,
+    "ai_reason": "Shakira's world tour is generating significant buzz, particularly with themes of empowerment."
   },
   {
     "id": "G5vYZ_7l_fTAh",
@@ -44,31 +67,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.7029999999999998,
-    "ai_priority": 9,
-    "ai_reason": "James Blake's unique sound and emotional performances make this a must-see event."
-  },
-  {
-    "id": "G5vYZ_kJQ9n1N",
-    "ids": [
-      "G5vYZ_kJQ9n1N"
-    ],
-    "name": "The Pussycat Dolls: PCD FOREVER TOUR",
-    "primary_artist": "The Pussycat Dolls",
-    "venue_name": "Shoreline Amphitheatre",
-    "city": "Mountain View",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-pussycat-dolls-pcd-forever-tour-mountain-view-california-06-12-2026/event/1C0064699A5EA2A3",
-    "window": "short_term",
-    "local_date": "2026-06-12",
-    "start_datetime": "2026-06-13T01:30:00+00:00",
-    "date_start": "2026-06-13T01:30:00+00:00",
-    "date_end": "2026-06-13T01:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.7029999999999998,
     "ai_priority": 8,
-    "ai_reason": "Alesso is a prominent figure in electronic music, known for his high-energy live shows."
+    "ai_reason": "James Blake's tour is expected to deliver an intimate and powerful live experience."
   },
   {
     "id": "G5vYZ_62OFdvk",
@@ -91,8 +91,8 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.7029999999999998,
-    "ai_priority": 7,
-    "ai_reason": "Bob Dylan's legacy and storytelling prowess continue to draw significant interest."
+    "ai_priority": 8,
+    "ai_reason": "Bob Dylan's legendary status and live reputation make his shows a must-see."
   },
   {
     "id": "G5vYZby6WSrjp",
@@ -118,120 +118,50 @@
     "ai_reason": "Pitbull's energetic performances and special guest Lil Jon promise a lively show."
   },
   {
-    "id": "G5vYZbSUc2VEb",
+    "id": "G5vYZ_kJQ9n1N",
     "ids": [
-      "G5vYZbSUc2VEb"
+      "G5vYZ_kJQ9n1N"
     ],
-    "name": "Louis Tomlinson - How Did We Get Here? World Tour",
-    "primary_artist": "Louis Tomlinson",
+    "name": "The Pussycat Dolls: PCD FOREVER TOUR",
+    "primary_artist": "The Pussycat Dolls",
+    "venue_name": "Shoreline Amphitheatre",
+    "city": "Mountain View",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-pussycat-dolls-pcd-forever-tour-mountain-view-california-06-12-2026/event/1C0064699A5EA2A3",
+    "window": "short_term",
+    "local_date": "2026-06-12",
+    "start_datetime": "2026-06-13T01:30:00+00:00",
+    "date_start": "2026-06-13T01:30:00+00:00",
+    "date_end": "2026-06-13T01:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.7029999999999998,
+    "ai_priority": 7,
+    "ai_reason": "The Pussycat Dolls' reunion tour is generating excitement among fans of early 2000s pop."
+  },
+  {
+    "id": "G5vYZ_eS8M1Yb",
+    "ids": [
+      "G5vYZ_eS8M1Yb"
+    ],
+    "name": "Madison Beer: the locket tour",
+    "primary_artist": "Madison Beer",
     "venue_name": "Bill Graham Civic Auditorium",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/louis-tomlinson-how-did-we-get-san-francisco-california-06-06-2026/event/1C00633DAD3F49D8",
+    "url": "https://www.ticketmaster.com/madison-beer-the-locket-tour-san-francisco-california-06-23-2026/event/1C00642CD0DCAC18",
     "window": "short_term",
-    "local_date": "2026-06-06",
-    "start_datetime": "2026-06-07T02:00:00+00:00",
-    "date_start": "2026-06-07T02:00:00+00:00",
-    "date_end": "2026-06-07T02:00:00+00:00",
+    "local_date": "2026-06-23",
+    "start_datetime": "2026-06-24T02:30:00+00:00",
+    "date_start": "2026-06-24T02:30:00+00:00",
+    "date_end": "2026-06-24T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6969999999999998,
-    "ai_priority": 6,
-    "ai_reason": "Louis Tomlinson's solo tour is generating buzz, appealing to his dedicated fanbase."
-  },
-  {
-    "id": "G5vYZbYwYyoGo",
-    "ids": [
-      "G5vYZbYwYyoGo",
-      "G5vYZbYwsAoGE"
-    ],
-    "name": "BELLE & SEBASTIAN: TIGERMILK + CLASSIC SONGS",
-    "primary_artist": "Belle & Sebastian",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/belle-sebastian-tigermilk-classic-songs-san-francisco-california-06-10-2026/event/1C00630CB0E51311",
-    "window": "short_term",
-    "local_date": "2026-06-10",
-    "start_datetime": "2026-06-11T03:00:00+00:00",
-    "date_start": "2026-06-11T03:00:00+00:00",
-    "date_end": "2026-06-12T03:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.691,
-    "ai_priority": 6,
-    "ai_reason": "Belle & Sebastian's nostalgic appeal and classic songs will resonate with long-time fans."
-  },
-  {
-    "id": "G5vYZbgpVwI0F",
-    "ids": [
-      "G5vYZbgpVwI0F"
-    ],
-    "name": "Rainbow Kitten Surprise: bones North American Tour",
-    "primary_artist": "Rainbow Kitten Surprise",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/rainbow-kitten-surprise-bones-north-american-berkeley-california-07-18-2026/event/1C006355B4CA8908",
-    "window": "short_term",
-    "local_date": "2026-07-18",
-    "start_datetime": "2026-07-19T03:00:00+00:00",
-    "date_start": "2026-07-19T03:00:00+00:00",
-    "date_end": "2026-07-19T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6729999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Rainbow Kitten Surprise is known for their engaging live performances and unique sound."
-  },
-  {
-    "id": "G5vYZbgwgryKe",
-    "ids": [
-      "G5vYZbgwgryKe"
-    ],
-    "name": "Bob Moses & Cannons: Afterglow Tour",
-    "primary_artist": "Bob Moses",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/bob-moses-cannons-afterglow-tour-berkeley-california-07-17-2026/event/1C00635CB57B94C2",
-    "window": "short_term",
-    "local_date": "2026-07-17",
-    "start_datetime": "2026-07-18T02:30:00+00:00",
-    "date_start": "2026-07-18T02:30:00+00:00",
-    "date_end": "2026-07-18T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6729999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Bob Moses' blend of electronic and live music creates a captivating concert experience."
-  },
-  {
-    "id": "G5vYZ_dXiKBmK",
-    "ids": [
-      "G5vYZ_dXiKBmK"
-    ],
-    "name": "Alesso (18+)",
-    "primary_artist": "Alesso",
-    "venue_name": "Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/alesso-18-san-francisco-california-06-05-2026/event/1C00643FAC4FAB93",
-    "window": "short_term",
-    "local_date": "2026-06-05",
-    "start_datetime": "2026-06-06T03:00:00+00:00",
-    "date_start": "2026-06-06T03:00:00+00:00",
-    "date_end": "2026-06-06T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6969999999999998,
-    "ai_priority": 5,
-    "ai_reason": "Alesso's electronic music prowess ensures a high-energy show that fans will not want to miss."
+    "ai_priority": 7,
+    "ai_reason": "Madison Beer's tour is gaining traction, appealing to a younger audience with her pop sound."
   },
   {
     "id": "G5vYZ_7nqZ_70",
@@ -253,31 +183,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
-    "ai_priority": 5,
-    "ai_reason": "Toadies are a beloved alt-rock band with a strong live reputation, appealing to nostalgic fans."
-  },
-  {
-    "id": "G5vYZ_a3n2DuU",
-    "ids": [
-      "G5vYZ_a3n2DuU"
-    ],
-    "name": "Corbyn Besson and Soulidified: The Pop'n Out Tour",
-    "primary_artist": "Corbyn Besson",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/corbyn-besson-and-soulidified-the-popn-san-francisco-california-06-16-2026/event/1C006494AA3FB376",
-    "window": "short_term",
-    "local_date": "2026-06-16",
-    "start_datetime": "2026-06-17T03:00:00+00:00",
-    "date_start": "2026-06-17T03:00:00+00:00",
-    "date_end": "2026-06-17T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 5,
-    "ai_reason": "Corbyn Besson's tour is gaining traction among younger audiences, making it a relevant pick."
+    "ai_priority": 6,
+    "ai_reason": "Toadies' tour brings a nostalgic alt-rock vibe, appealing to fans of the genre."
   },
   {
     "id": "G5vYZ_71hqI5F",
@@ -299,76 +206,103 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
-    "ai_priority": 5,
-    "ai_reason": "The Lemon Twigs offer a refreshing take on rock with their unique style and live energy."
+    "ai_priority": 6,
+    "ai_reason": "The Lemon Twigs are known for their engaging live performances and unique sound."
   },
   {
-    "id": "G5vYZ_6X6BktL",
+    "id": "G5vYZbYwYyoGo",
     "ids": [
-      "G5vYZ_6X6BktL"
+      "G5vYZbYwYyoGo",
+      "G5vYZbYDwgM5b",
+      "G5vYZbYwsAoGE"
     ],
-    "name": "SHAKIRA - LAS MUJERES YA NO LLORAN WORLD TOUR",
-    "primary_artist": "Shakira",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/shakira-las-mujeres-ya-no-lloran-san-jose-california-06-20-2026/event/1C00647F87E86A5F",
-    "window": "short_term",
-    "local_date": "2026-06-20",
-    "start_datetime": "2026-06-21T02:30:00+00:00",
-    "date_start": "2026-06-21T02:30:00+00:00",
-    "date_end": "2026-06-21T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6759999999999999,
-    "ai_priority": 5,
-    "ai_reason": "Shakira's world tour promises to be a spectacular event, drawing her global fanbase."
-  },
-  {
-    "id": "G5vYZ_6LIFmOe",
-    "ids": [
-      "G5vYZ_6LIFmOe"
-    ],
-    "name": "Benson Boone: Wanted Man Tour",
-    "primary_artist": "Benson Boone",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/benson-boone-wanted-man-tour-san-jose-california-08-07-2026/event/1C006477E822E802",
-    "window": "short_term",
-    "local_date": "2026-08-07",
-    "start_datetime": "2026-08-08T03:00:00+00:00",
-    "date_start": "2026-08-08T03:00:00+00:00",
-    "date_end": "2026-08-08T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6759999999999999,
-    "ai_priority": 5,
-    "ai_reason": "Benson Boone's rising popularity makes his tour a noteworthy event for pop music fans."
-  },
-  {
-    "id": "G5vYZ_6LzWRtF",
-    "ids": [
-      "G5vYZ_6LzWRtF"
-    ],
-    "name": "Pomplamoose",
-    "primary_artist": "Pomplamoose",
-    "venue_name": "The Fillmore",
+    "name": "BELLE & SEBASTIAN: TIGERMILK + CLASSIC SONGS",
+    "primary_artist": "Belle & Sebastian",
+    "venue_name": "The Masonic",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/pomplamoose-san-francisco-california-06-26-2026/event/1C006477F8F6FA48",
+    "url": "https://www.ticketmaster.com/belle-sebastian-tigermilk-classic-songs-san-francisco-california-06-10-2026/event/1C00630CB0E51311",
     "window": "short_term",
-    "local_date": "2026-06-26",
-    "start_datetime": "2026-06-27T03:00:00+00:00",
-    "date_start": "2026-06-27T03:00:00+00:00",
-    "date_end": "2026-06-27T03:00:00+00:00",
+    "local_date": "2026-06-10",
+    "start_datetime": "2026-06-11T03:00:00+00:00",
+    "date_start": "2026-06-11T03:00:00+00:00",
+    "date_end": "2026-06-12T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 3,
+    "score": 0.691,
+    "ai_priority": 6,
+    "ai_reason": "Belle & Sebastian's shows are beloved for their charm and engaging storytelling."
+  },
+  {
+    "id": "G5vYZ_dwM9Ej4",
+    "ids": [
+      "G5vYZ_dwM9Ej4",
+      "G5vYZ_dwMpEjG"
+    ],
+    "name": "LIVE 105: ALL THE FEELINGS TOUR w/ METRIC, BROKEN SOCIAL SCENE & STARS",
+    "primary_artist": "Metric",
+    "venue_name": "The Masonic",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/live-105-all-the-feelings-tour-san-francisco-california-06-21-2026/event/1C00643CB75E7715",
+    "window": "short_term",
+    "local_date": "2026-06-21",
+    "start_datetime": "2026-06-22T02:00:00+00:00",
+    "date_start": "2026-06-22T02:00:00+00:00",
+    "date_end": "2026-06-23T02:00:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
+    "score": 0.691,
+    "ai_priority": 6,
+    "ai_reason": "The lineup of Metric, Broken Social Scene, and Stars promises a memorable night for indie fans."
+  },
+  {
+    "id": "G5vYZbULMxycj",
+    "ids": [
+      "G5vYZbULMxycj"
+    ],
+    "name": "Ringo Starr and His All Starr Band",
+    "primary_artist": "Ringo Starr and His All Starr Band",
+    "venue_name": "San Jose Civic",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/ringo-starr-and-his-all-starr-san-jose-california-06-11-2026/event/1C006367F78B9B5C",
+    "window": "short_term",
+    "local_date": "2026-06-11",
+    "start_datetime": "2026-06-12T03:00:00+00:00",
+    "date_start": "2026-06-12T03:00:00+00:00",
+    "date_end": "2026-06-12T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.664,
+    "score": 0.691,
+    "ai_priority": 6,
+    "ai_reason": "Ringo Starr's legacy and the All Starr Band's lineup make this a noteworthy event."
+  },
+  {
+    "id": "Z7r9jZ1A70v_8",
+    "ids": [
+      "Z7r9jZ1A70v_8",
+      "Z7r9jZ1A70ke8"
+    ],
+    "name": "Jane Remover: Live Exhibit",
+    "primary_artist": "Jane Remover",
+    "venue_name": "The Regency Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70v_8",
+    "window": "short_term",
+    "local_date": "2026-06-15",
+    "start_datetime": "2026-06-16T03:00:00+00:00",
+    "date_start": "2026-06-16T03:00:00+00:00",
+    "date_end": "2026-06-17T03:00:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
+    "score": 0.688,
     "ai_priority": 5,
-    "ai_reason": "Pomplamoose's innovative approach to music and performance will attract a diverse audience."
+    "ai_reason": "Jane Remover's live exhibit promises an innovative and engaging performance experience."
   }
 ]
