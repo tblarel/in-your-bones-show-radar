@@ -1,34 +1,57 @@
 InYourBones — Bay Area Radar (far_out)
 ======================================
 
-- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
+- 2026-10-07 03:00 — aespa @ Oakland Arena (Oakland)
+    ▹ aespa is a rising K-pop sensation with a strong live reputation, making their Oakland show a must-see.
 
-- 2026-09-29 02:30 — Social Distortion @ The Masonic (San Francisco)
+- 2026-10-28 02:30 → 2026-10-29 02:30 — Phoebe Bridgers @ Chase Center (San Francisco) [multi-night x2]
+    ▹ Phoebe Bridgers has a compelling narrative and a dedicated fanbase, ensuring an impactful performance at Chase Center.
+
+- 2026-10-07 03:00 — Cavetown @ Fox Theater - Oakland (Oakland)
+    ▹ Cavetown's unique blend of indie pop and heartfelt lyrics has garnered significant buzz, making this show a highlight.
+
+- 2026-10-07 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
+    ▹ My Morning Jacket is known for their electrifying live shows, and their performance at The Fillmore is highly anticipated.
+
+- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
+    ▹ Gracie Abrams is a rising star in pop music, and her tour promises an intimate and memorable experience.
+
+- 2026-10-07 02:00 — The Menzingers @ Great American Music Hall (San Francisco)
+    ▹ The Menzingers are a fan-favorite punk band with a strong live presence, making their show at Great American Music Hall a must-see.
+
+- 2026-12-05 03:00 — John Summit @ Oakland Arena (Oakland)
+    ▹ John Summit is a prominent name in the electronic scene, and his tour is expected to deliver an energetic performance.
+
+- 2026-11-20 04:00 — KATSEYE @ Oakland Arena (Oakland)
+    ▹ KATSEYE is an emerging artist with a unique sound, making their tour an exciting event to catch.
+
+- 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
+    ▹ Gorillaz are known for their innovative live shows, and their upcoming tour promises a unique experience.
+
+- 2026-11-08 02:00 — Hugel @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Olivia Rodrigo continues to captivate audiences with her music, and her tour is expected to be a highlight of the year.
+
+- 2027-04-04 03:00 — Nothing But Thieves @ Fox Theater - Oakland (Oakland)
+    ▹ Nothing But Thieves is known for their powerful live performances, making their tour a must-see.
+
+- 2026-10-24 02:00 — SWITCHFOOT @ Blue Note Napa Summer Sessions (Napa)
+    ▹ Switchfoot's engaging live shows and dedicated fanbase make their concert a noteworthy event.
+
+- 2026-10-28 02:30 — Bryson Tiller @ Toyota Pavilion at Concord (Concord)
+    ▹ Bryson Tiller's unique sound and strong following ensure his tour will be an exciting experience.
+
+- 2026-12-04 04:00 — Fetty Wap @ The Masonic (San Francisco)
+    ▹ Fetty Wap's nostalgic appeal and energetic performances make his show at The Masonic an exciting event.
+
+- 2026-10-12 02:00 — Chayanne @ Chase Center (San Francisco)
+    ▹ Chayanne's tour promises a vibrant performance, appealing to fans of Latin pop music.
+
+- 2026-10-30 03:00 — Caifanes @ San Jose Civic (San Jose)
+    ▹ Caifanes is a legendary band in the Latin rock scene, and their show is expected to attract a large crowd.
+
+- 2026-10-16 03:00 — SiM @ August Hall (San Francisco)
+    ▹ SiM is gaining popularity in the rock scene, and their tour promises an engaging live experience.
 
 - 2026-11-11 03:00 — Teddy Swims @ Chase Center (San Francisco)
 
 - 2026-11-29 03:30 — Journey @ Chase Center (San Francisco)
-
-- 2027-05-26 02:30 — Niall Horan @ Chase Center (San Francisco)
-
-- 2026-09-29 03:00 — Tokyo Tea Room @ Bimbo's 365 Club (San Francisco)
-
-- 2026-09-30 03:00 — Way Dynamic @ The Independent (San Francisco)
-
-- 2026-10-07 03:00 — aespa @ Oakland Arena (Oakland)
-
-- 2026-10-29 02:00 — Gorillaz @ Oakland Arena (Oakland)
-
-- 2026-11-04 04:00 — XG @ Oakland Arena (Oakland)
-
-- 2026-11-20 04:00 — KATSEYE @ Oakland Arena (Oakland)
-
-- 2026-12-05 03:00 → 2026-12-06 03:00 — John Summit @ Oakland Arena (Oakland) [multi-night x2]
-
-- 2026-12-07 04:00 → 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland) [multi-night x2]
-
-- 2026-12-12 03:00 → 2026-12-13 03:00 — Olivia Rodrigo @ Oakland Arena (Oakland) [multi-night x2]
-
-- 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
-
-- 2026-10-16 02:30 → 2026-10-18 02:30 — RUSH @ SAP Center at San Jose (San Jose) [multi-night x2]

@@ -1,28 +1,37 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 12 new show(s) since last run:
+Found 11 new show(s) since last run:
 
-- 2026-06-15 01:30 — Bob Dylan @ Greek Theatre-U.C. Berkeley (Berkeley)
+- 2026-07-08 03:00 — Marcus King Band @ Fox Theater - Oakland (Oakland)
+    ▹ Dillstradamus (Dillon Francis B2B Flosstradamus) promises a high-energy electronic experience.
 
-- 2026-06-27 03:00 — Pomplamoose @ The Fillmore (San Francisco)
+- 2026-08-05 03:00 — IVE @ Oakland Arena (Oakland)
+    ▹ IVE's world tour is a significant event in the K-pop scene, attracting a dedicated fanbase.
 
-- 2026-06-28 01:30 — Killswitch Engage @ Warfield (San Francisco)
+- 2026-09-24 02:30 — LE SSERAFIM @ SAP Center at San Jose (San Jose)
+    ▹ LE SSERAFIM's tour is a major event in the K-pop landscape, promising a vibrant performance.
 
-- 2026-06-29 03:00 — Holly Humberstone @ The Fillmore (San Francisco)
+- 2026-08-08 03:00 — Benson Boone @ SAP Center at San Jose (San Jose)
+    ▹ Benson Boone is gaining traction with his unique sound and engaging performances.
 
-- 2026-07-01 03:00 — Joshua Slone @ The Fillmore (San Francisco)
+- 2026-07-19 03:00 — Rainbow Kitten Surprise @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Rainbow Kitten Surprise is known for their energetic performances and unique sound.
 
-- 2026-06-27 03:00 — Dillstradamus @ Fox Theater - Oakland (Oakland)
+- 2026-07-18 02:30 — Bob Moses @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Bob Moses & Cannons are set to deliver a captivating electronic music experience.
 
-- 2026-07-01 03:00 — Jon Anderson @ San Jose Civic (San Jose)
+- 2026-08-28 02:00 — Muse @ Shoreline Amphitheatre (Mountain View)
+    ▹ Muse's upcoming tour is highly anticipated, known for their elaborate live shows.
 
-- 2026-06-22 03:00 — Our Lady Peace @ The Regency Ballroom (San Francisco)
+- 2026-08-13 01:00 — Tedeschi Trucks Band @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Tedeschi Trucks Band offers a powerful blend of rock and blues, appealing to a wide audience.
 
-- 2026-06-26 03:30 — A$AP Rocky @ Chase Center (San Francisco)
+- 2026-10-01 01:30 — Jack Johnson @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Jack Johnson's tour is expected to attract a loyal fanbase with his laid-back style.
 
-- 2026-08-07 02:30 — Lionel Richie @ Chase Center (San Francisco)
+- 2026-06-27 02:00 — Los Tucanes De Tijuana @ Oakland Arena (Oakland)
+    ▹ LOS TUCANES, EL FANTASMA y LA DIFERENCIA offer a vibrant experience in the regional Mexican genre.
 
-- 2026-08-09 01:30 — Meghan Trainor @ Chase Center (San Francisco)
-
-- 2026-06-26 02:30 — RX Bandits @ The UC Theatre (Berkeley)
+- 2026-07-20 03:00 — Micky Dolenz @ Uptown Theatre Napa (Napa)
+    ▹ J. Cole's tour is highly anticipated, showcasing his significant impact on hip-hop.
