@@ -1,37 +1,24 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 11 new show(s) since last run:
+Found 7 new show(s) since last run:
 
-- 2026-07-08 03:00 — Marcus King Band @ Fox Theater - Oakland (Oakland)
-    ▹ Dillstradamus (Dillon Francis B2B Flosstradamus) promises a high-energy electronic experience.
+- 2026-07-11 03:00 → 2026-07-12 03:00 — SLANDER @ Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
+    ▹ SLANDER is a popular electronic act known for their energetic shows, appealing to a large audience.
 
-- 2026-08-05 03:00 — IVE @ Oakland Arena (Oakland)
-    ▹ IVE's world tour is a significant event in the K-pop scene, attracting a dedicated fanbase.
+- 2026-07-14 03:00 — Streetlight Manifesto @ The Regency Ballroom (San Francisco)
+    ▹ Streetlight Manifesto is known for their high-energy ska performances, appealing to a dedicated fanbase.
 
-- 2026-09-24 02:30 — LE SSERAFIM @ SAP Center at San Jose (San Jose)
-    ▹ LE SSERAFIM's tour is a major event in the K-pop landscape, promising a vibrant performance.
+- 2026-07-12 01:00 — Earlybirds Club @ August Hall (San Francisco)
+    ▹ Earlybirds Club presents a fresh indie sound that could resonate well with the local scene.
 
-- 2026-08-08 03:00 — Benson Boone @ SAP Center at San Jose (San Jose)
-    ▹ Benson Boone is gaining traction with his unique sound and engaging performances.
+- 2026-08-15 03:00 — YOASOBI @ Oakland Arena (Oakland)
+    ▹ YOASOBI's tour brings a unique Japanese pop experience to the Bay Area, attracting a diverse audience.
 
-- 2026-07-19 03:00 — Rainbow Kitten Surprise @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Rainbow Kitten Surprise is known for their energetic performances and unique sound.
+- 2026-08-17 02:30 — Passion Pit @ Fox Theater - Oakland (Oakland)
+    ▹ Social Distortion's tour appeals to fans of punk rock with a strong legacy.
 
-- 2026-07-18 02:30 — Bob Moses @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Bob Moses & Cannons are set to deliver a captivating electronic music experience.
+- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
+    ▹ Cavetown's tour is gaining traction among younger audiences with a heartfelt indie sound.
 
-- 2026-08-28 02:00 — Muse @ Shoreline Amphitheatre (Mountain View)
-    ▹ Muse's upcoming tour is highly anticipated, known for their elaborate live shows.
-
-- 2026-08-13 01:00 — Tedeschi Trucks Band @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Tedeschi Trucks Band offers a powerful blend of rock and blues, appealing to a wide audience.
-
-- 2026-10-01 01:30 — Jack Johnson @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Jack Johnson's tour is expected to attract a loyal fanbase with his laid-back style.
-
-- 2026-06-27 02:00 — Los Tucanes De Tijuana @ Oakland Arena (Oakland)
-    ▹ LOS TUCANES, EL FANTASMA y LA DIFERENCIA offer a vibrant experience in the regional Mexican genre.
-
-- 2026-07-20 03:00 — Micky Dolenz @ Uptown Theatre Napa (Napa)
-    ▹ J. Cole's tour is highly anticipated, showcasing his significant impact on hip-hop.
+- 2026-07-15 02:00 — Forrest Frank @ Oakland Arena (Oakland)
