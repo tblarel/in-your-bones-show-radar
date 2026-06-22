@@ -1,52 +1,53 @@
 InYourBones — Bay Area Radar (far_out)
 ======================================
 
-- 2026-12-05 03:00 — John Summit @ Oakland Arena (Oakland)
-    ▹ John Summit is a rising star in the electronic scene, known for his energetic performances and innovative sound.
-
-- 2026-11-29 03:30 — Journey @ Chase Center (San Francisco)
-    ▹ Teddy Swims is known for his powerful vocals and dynamic stage presence, appealing to a broad audience.
-
-- 2026-12-07 04:00 → 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland) [multi-night x2]
-    ▹ Gracie Abrams is gaining traction in the pop scene with her heartfelt lyrics and engaging live performances.
-
-- 2026-10-28 02:30 — Bryson Tiller @ Toyota Pavilion at Concord (Concord)
-    ▹ Bryson Tiller's unique blend of R&B and hip-hop has garnered him a loyal following, ensuring an exciting live show.
-
-- 2026-12-04 04:00 — Fetty Wap @ The Masonic (San Francisco)
-    ▹ Fetty Wap's nostalgic appeal and energetic performances make his shows a fun experience for fans.
-
-- 2026-11-20 04:00 — KATSEYE @ Oakland Arena (Oakland)
-    ▹ KATSEYE is an emerging act with a unique sound, promising an engaging live performance.
-
-- 2027-04-04 03:00 — Nothing But Thieves @ Fox Theater - Oakland (Oakland)
-    ▹ Nothing But Thieves are known for their captivating live shows and strong fan engagement.
-
-- 2026-10-16 03:00 — SiM @ August Hall (San Francisco)
-    ▹ SiM's energetic performances and dedicated fanbase make their shows a thrilling experience.
-
-- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
-    ▹ The Smashing Pumpkins continue to draw crowds with their legacy and nostalgic appeal.
-
-- 2026-10-17 03:00 — Sara Bareilles @ The Theater at Bill Graham Civic Auditorium (San Francisco)
-    ▹ EPIK HIGH is a prominent act in the hip-hop scene, known for their engaging live shows.
-
-- 2026-10-23 02:00 — Rise Against @ The Masonic (San Francisco)
-    ▹ Rise Against's passionate performances and dedicated fanbase make their shows a must-see.
-
-- 2026-11-13 04:00 — they are gutting a body of water @ August Hall (San Francisco)
-    ▹ they are gutting a body of water is an intriguing act with a unique sound, promising an interesting live experience.
-
-- 2026-10-18 03:00 — Blondshell @ The Castro Theatre (San Francisco)
-    ▹ Blondshell is gaining attention for her unique sound and engaging live performances.
-
-- 2026-10-30 03:30 — The Chicks @ The Masonic (San Francisco)
-    ▹ The Chicks are a well-known act with a strong following, ensuring a memorable live performance.
-
-- 2026-10-14 03:00 — MICO @ The Regency Ballroom (San Francisco)
-
-- 2026-10-28 02:30 → 2026-10-29 02:30 — Phoebe Bridgers @ Chase Center (San Francisco) [multi-night x2]
+- 2026-10-20 03:00 → 2026-10-21 03:00 — Geese @ Fox Theater - Oakland (Oakland) [multi-night x2]
+    ▹ Geese is gaining traction with their unique sound and energetic live performances, making this tour highly anticipated.
 
 - 2026-11-11 03:00 — Teddy Swims @ Chase Center (San Francisco)
+    ▹ Teddy Swims is known for his powerful vocals and engaging stage presence, making this tour a must-see.
+
+- 2026-10-28 02:30 → 2026-10-29 02:30 — Phoebe Bridgers @ Chase Center (San Francisco) [multi-night x2]
+    ▹ Phoebe Bridgers' tour is highly anticipated, with her storytelling and emotional performances resonating deeply with fans.
+
+- 2026-10-29 02:00 — Gorillaz @ Oakland Arena (Oakland)
+    ▹ Gorillaz's upcoming tour is a significant event, blending their eclectic sound with a strong visual performance.
+
+- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
+    ▹ Gracie Abrams is rising in popularity with her relatable lyrics and captivating live shows, making this tour noteworthy.
+
+- 2026-12-12 03:00 — Olivia Rodrigo @ Oakland Arena (Oakland)
+    ▹ Olivia Rodrigo's tour is a major highlight, with her powerful performances and massive fan following.
+
+- 2026-11-20 04:00 — KATSEYE @ Oakland Arena (Oakland)
+    ▹ John Summit's electronic music sets are gaining attention, promising an exciting night for dance music enthusiasts.
+
+- 2026-12-05 03:00 — John Summit @ Oakland Arena (Oakland)
+    ▹ John Summit's CTRL ESCAPE tour is expected to deliver high-energy performances, appealing to electronic music fans.
+
+- 2027-04-04 03:00 — Nothing But Thieves @ Fox Theater - Oakland (Oakland)
+    ▹ Nothing But Thieves is known for their energetic performances, making their tour a compelling choice for rock fans.
+
+- 2026-11-02 04:00 — Tom Jones @ The Masonic (San Francisco)
+    ▹ Tom Jones continues to draw crowds with his legendary status and engaging performances.
+
+- 2026-10-24 02:00 — SWITCHFOOT @ Blue Note Napa Summer Sessions (Napa)
+    ▹ Grace Enger's tour is gaining attention for her fresh sound and relatable lyrics.
+
+- 2026-12-04 04:00 — Fetty Wap @ The Masonic (San Francisco)
+    ▹ Fetty Wap's Nostalgia Tour is set to bring back hits that defined a generation, appealing to fans of hip-hop.
+
+- 2026-11-22 04:00 — Arcángel @ San Jose Civic (San Jose)
+    ▹ Arcángel's La 8va Maravilla World Tour is expected to showcase his unique style and strong fanbase.
+
+- 2026-12-08 04:00 — Angine de Poitrine @ The Castro Theatre (San Francisco)
+    ▹ Angine de Poitrine is expected to deliver a unique performance, appealing to fans of avant-garde music.
+
+- 2026-11-07 04:00 — Thee Sinseers @ The Fillmore (San Francisco)
+    ▹ Thee Sinseers are known for their engaging live shows, blending soul and R&B in a compelling way.
+
+- 2026-10-20 02:30 — Doja Cat @ Chase Center (San Francisco)
+
+- 2026-11-29 03:30 — Journey @ Chase Center (San Francisco)
 
 - 2027-05-26 02:30 — Niall Horan @ Chase Center (San Francisco)
