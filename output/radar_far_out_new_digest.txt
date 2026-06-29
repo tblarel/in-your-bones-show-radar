@@ -1,33 +1,25 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 10 new show(s) since last run:
+Found 7 new show(s) since last run:
 
-- 2026-10-20 03:00 → 2026-10-21 03:00 — Geese @ Fox Theater - Oakland (Oakland) [multi-night x2]
-    ▹ Geese is gaining traction with their unique sound and energetic live performances, making this tour highly anticipated.
+- 2026-10-27 03:00 — beabadoobee @ Oakland Arena (Oakland)
+    ▹ beabadoobee has gained significant buzz in the indie scene and her live performances are known for their energy.
 
-- 2026-10-29 02:00 — Gorillaz @ Oakland Arena (Oakland)
-    ▹ Gorillaz's upcoming tour is a significant event, blending their eclectic sound with a strong visual performance.
+- 2026-10-28 01:00 — Lenny Pearce @ Fox Theater - Oakland (Oakland)
+    ▹ Lenny Pearce's Toddler Rave concept is unique and appealing to families looking for fun, interactive experiences.
 
-- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
-    ▹ Gracie Abrams is rising in popularity with her relatable lyrics and captivating live shows, making this tour noteworthy.
+- 2026-10-28 03:00 — Slow Pulp @ The Fillmore (San Francisco)
+    ▹ Slow Pulp's blend of indie rock and emotive lyrics has earned them a strong following, making their show at The Fillmore noteworthy.
 
-- 2026-12-12 03:00 — Olivia Rodrigo @ Oakland Arena (Oakland)
-    ▹ Olivia Rodrigo's tour is a major highlight, with her powerful performances and massive fan following.
+- 2026-10-28 03:00 — Grace Enger @ August Hall (San Francisco)
+    ▹ Grace Enger's music has a fresh sound that resonates with indie pop fans, making her tour one to watch.
 
-- 2026-11-02 04:00 — Tom Jones @ The Masonic (San Francisco)
-    ▹ Tom Jones continues to draw crowds with his legendary status and engaging performances.
+- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
+    ▹ The Smashing Pumpkins' nostalgia factor and their legacy in rock music make this tour a compelling event.
 
-- 2026-10-24 02:00 — SWITCHFOOT @ Blue Note Napa Summer Sessions (Napa)
-    ▹ Grace Enger's tour is gaining attention for her fresh sound and relatable lyrics.
+- 2026-10-28 02:30 — Bryson Tiller @ Toyota Pavilion at Concord (Concord)
+    ▹ Bryson Tiller's neo-soul sound and engaging performances attract a dedicated fanbase, making his tour significant.
 
-- 2026-11-22 04:00 — Arcángel @ San Jose Civic (San Jose)
-    ▹ Arcángel's La 8va Maravilla World Tour is expected to showcase his unique style and strong fanbase.
-
-- 2026-12-08 04:00 — Angine de Poitrine @ The Castro Theatre (San Francisco)
-    ▹ Angine de Poitrine is expected to deliver a unique performance, appealing to fans of avant-garde music.
-
-- 2026-11-07 04:00 — Thee Sinseers @ The Fillmore (San Francisco)
-    ▹ Thee Sinseers are known for their engaging live shows, blending soul and R&B in a compelling way.
-
-- 2026-10-20 02:30 — Doja Cat @ Chase Center (San Francisco)
+- 2026-11-16 04:00 → 2026-11-22 04:00 — The Mountain Goats @ The Fillmore (San Francisco) [multi-night x5]
+    ▹ The Mountain Goats are known for their storytelling and intimate live performances, appealing to indie folk fans.
