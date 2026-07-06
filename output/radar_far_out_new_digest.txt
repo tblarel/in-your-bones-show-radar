@@ -1,25 +1,33 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 7 new show(s) since last run:
+Found 10 new show(s) since last run:
 
-- 2026-10-27 03:00 — beabadoobee @ Oakland Arena (Oakland)
-    ▹ beabadoobee has gained significant buzz in the indie scene and her live performances are known for their energy.
+- 2026-12-12 03:00 → 2026-12-13 03:00 — Olivia Rodrigo @ Oakland Arena (Oakland) [multi-night x2]
+    ▹ Olivia Rodrigo is a major pop sensation with a strong live reputation, making her shows highly anticipated.
 
-- 2026-10-28 01:00 — Lenny Pearce @ Fox Theater - Oakland (Oakland)
-    ▹ Lenny Pearce's Toddler Rave concept is unique and appealing to families looking for fun, interactive experiences.
-
-- 2026-10-28 03:00 — Slow Pulp @ The Fillmore (San Francisco)
-    ▹ Slow Pulp's blend of indie rock and emotive lyrics has earned them a strong following, making their show at The Fillmore noteworthy.
-
-- 2026-10-28 03:00 — Grace Enger @ August Hall (San Francisco)
-    ▹ Grace Enger's music has a fresh sound that resonates with indie pop fans, making her tour one to watch.
-
-- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
-    ▹ The Smashing Pumpkins' nostalgia factor and their legacy in rock music make this tour a compelling event.
-
-- 2026-10-28 02:30 — Bryson Tiller @ Toyota Pavilion at Concord (Concord)
-    ▹ Bryson Tiller's neo-soul sound and engaging performances attract a dedicated fanbase, making his tour significant.
+- 2026-12-07 04:00 → 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland) [multi-night x2]
+    ▹ Gracie Abrams is gaining buzz with her heartfelt pop music, and her tour is expected to draw significant attention.
 
 - 2026-11-16 04:00 → 2026-11-22 04:00 — The Mountain Goats @ The Fillmore (San Francisco) [multi-night x5]
-    ▹ The Mountain Goats are known for their storytelling and intimate live performances, appealing to indie folk fans.
+    ▹ The Black Angels bring a captivating psychedelic rock experience that resonates well with live audiences.
+
+- 2026-11-07 04:00 — Mon Laferte @ SAP Center at San Jose (San Jose)
+    ▹ Mon Laferte is a celebrated artist with a strong live presence, making her Femme Fatale Tour noteworthy.
+
+- 2026-11-08 02:00 — Hugel @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Hugel's event promises a lively atmosphere with a focus on dance music, appealing to electronic fans.
+
+- 2026-11-18 03:30 — Straight No Chaser @ Palace of Fine Arts (San Francisco)
+    ▹ Straight No Chaser offers a unique a cappella experience, appealing to fans of vocal harmony.
+
+- 2026-11-05 03:00 — Josh Garrels @ August Hall (San Francisco)
+    ▹ Underoath's anniversary tour will resonate with long-time fans of the post-hardcore genre.
+
+- 2026-12-04 04:00 — Fetty Wap @ The Masonic (San Francisco)
+    ▹ Fetty Wap's nostalgia tour is likely to attract fans eager to relive his hits from the past.
+
+- 2026-11-07 04:00 — Thee Sinseers @ The Fillmore (San Francisco)
+    ▹ Thee Sinseers' soulful sound is gaining traction, making their show a noteworthy event.
+
+- 2026-11-04 04:00 — XG @ Oakland Arena (Oakland)
