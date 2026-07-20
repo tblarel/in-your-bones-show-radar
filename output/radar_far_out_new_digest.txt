@@ -1,30 +1,23 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 9 new show(s) since last run:
+Found 8 new show(s) since last run:
 
-- 2026-11-29 03:30 — Journey @ Chase Center (San Francisco)
-    ▹ Journey's legacy and nostalgia factor attract a dedicated fanbase, making this a notable event.
+- 2026-11-17 04:00 → 2026-11-22 04:00 — The Mountain Goats @ The Fillmore (San Francisco) [multi-night x5]
+    ▹ The Mountain Goats are known for their compelling storytelling and dynamic live performances, making this multi-night event at The Fillmore a must-see.
 
-- 2026-11-12 04:00 — Brand New @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Brand New's return to the stage is highly anticipated, appealing to fans of alternative rock.
+- 2026-11-17 04:00 — Manic Street Preachers @ The Regency Ballroom (San Francisco)
+    ▹ Manic Street Preachers bring a rich legacy of politically charged lyrics and anthemic rock, promising an engaging show at The Regency Ballroom.
 
-- 2027-04-04 03:00 — Nothing But Thieves @ Fox Theater - Oakland (Oakland)
-    ▹ Nothing But Thieves is known for their dynamic live shows, making this tour a noteworthy event.
+- 2026-12-05 03:00 → 2026-12-06 03:00 — John Summit @ Oakland Arena (Oakland) [multi-night x2]
+    ▹ John Summit's CTRL ESCAPE tour promises an exciting electronic experience, appealing to dance music fans.
 
-- 2026-11-16 04:00 → 2026-11-22 04:00 — The Mountain Goats @ The Fillmore (San Francisco) [multi-night x5]
-    ▹ The Mountain Goats' unique storytelling and engaging performances make their shows a must-see.
+- 2026-11-18 03:30 — Straight No Chaser @ Palace of Fine Arts (San Francisco)
 
-- 2026-12-03 04:00 — Eloise @ The Fillmore (San Francisco)
-    ▹ Eloise's rising popularity and engaging performances make her show at The Fillmore noteworthy.
+- 2026-11-18 04:00 — Son Volt @ August Hall (San Francisco)
 
-- 2026-12-11 04:00 — Strawberry Guy @ The Fillmore (San Francisco)
-    ▹ Strawberry Guy's unique sound and growing fanbase make this show an exciting option.
+- 2026-11-18 04:00 — Silverada @ The Independent (San Francisco)
 
-- 2026-11-15 04:00 — Bonobo @ Fox Theater - Oakland (Oakland)
-    ▹ Bonobo's live performances are known for their immersive experience, making this tour a highlight.
+- 2026-11-19 03:00 — Three Days Grace @ SAP Center at San Jose (San Jose)
 
-- 2026-11-20 03:30 — Pretty Lights @ Fox Theater - Oakland (Oakland)
-    ▹ Pretty Lights' return to the stage is highly anticipated, promising a memorable live experience.
-
-- 2027-05-26 02:30 — Niall Horan @ Chase Center (San Francisco)
+- 2026-12-03 03:00 — The Neighbourhood @ Bill Graham Civic Auditorium (San Francisco)

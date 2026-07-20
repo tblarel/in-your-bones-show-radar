@@ -1,57 +1,58 @@
 InYourBones — Bay Area Radar (short_term)
 =========================================
 
-- 2026-08-01 00:00 — Dark Star Orchestra @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ IVE is a rising K-pop group with a strong following and a unique sound, making their world tour a must-see event.
-
-- 2026-07-29 02:30 → 2026-07-30 02:30 — ENHYPEN @ Oakland Arena (Oakland) [multi-night x2]
-    ▹ ENHYPEN's concerts are known for their high energy and impressive choreography, appealing to a dedicated fanbase.
-
-- 2026-08-05 03:00 — IVE @ Oakland Arena (Oakland)
-    ▹ Benson Boone is gaining traction in the indie pop scene, and his tour is a chance to catch him on the rise.
-
-- 2026-08-13 01:00 — Tedeschi Trucks Band @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Tedeschi Trucks Band is known for their exceptional live performances, blending rock and blues with a strong following.
-
-- 2026-08-10 02:00 — Santana @ Shoreline Amphitheatre (Mountain View)
-    ▹ Santana and The Doobie Brothers offer a nostalgic yet vibrant concert experience, appealing to classic rock fans.
-
-- 2026-08-09 03:00 — Corinne Bailey Rae @ The Fillmore (San Francisco)
-    ▹ Corinne Bailey Rae's anniversary celebration promises a soulful evening with her beloved hits.
-
-- 2026-08-12 03:00 — Interpol @ Warfield (San Francisco)
-    ▹ Interpol's return to the stage is highly anticipated, with their unique sound resonating with indie rock fans.
-
-- 2026-08-11 03:00 — Little Feat @ Fox Theater - Oakland (Oakland)
-    ▹ Little Feat's farewell tour features legendary musicians and a chance to experience their classic hits live.
-
-- 2026-08-02 02:00 — Sarah McLachlan @ Toyota Pavilion at Concord (Concord)
-    ▹ Sarah McLachlan's tour promises an emotional and captivating performance from a beloved artist.
-
-- 2026-07-28 02:30 — WOODZ @ San Jose Civic (San Jose)
-    ▹ WOODZ's world tour is a significant event for K-pop fans, showcasing his rising star power.
-
-- 2026-09-16 02:00 — Johnny Blue Skies @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Johnny Blue Skies offers a unique blend of genres, appealing to diverse music lovers.
-
-- 2026-09-02 03:00 — Eagles of Death Metal @ The Fillmore (San Francisco)
-    ▹ Eagles of Death Metal's anniversary tour is a celebration of their energetic rock sound and loyal fanbase.
-
-- 2026-08-31 03:00 — J. Cole @ Oakland Arena (Oakland)
-    ▹ J. Cole's tour is a major event in hip-hop, showcasing his lyrical prowess and strong stage presence.
-
-- 2026-08-29 03:00 — Sweet Pill @ August Hall (San Francisco)
-    ▹ Sweet Pill's tour is a chance to see an up-and-coming band making waves in the indie scene.
-
-- 2026-08-28 02:00 — Muse @ Shoreline Amphitheatre (Mountain View)
-    ▹ Muse's tour promises a spectacular live show with their signature theatricality and rock anthems.
-
 - 2026-08-17 02:30 — Passion Pit @ Fox Theater - Oakland (Oakland)
-    ▹ Passion Pit's tour brings back their catchy indie-pop sound, appealing to long-time fans.
-
-- 2026-09-26 03:00 — Jose Gonzalez @ Uptown Theatre Napa (Napa)
-    ▹ Jose Gonzalez's intimate performance will resonate with fans of folk and acoustic music.
+    ▹ Tedeschi Trucks Band is known for their exceptional live performances and musicianship, making this a must-see show.
 
 - 2026-08-07 02:30 — Lionel Richie @ Chase Center (San Francisco)
+    ▹ Lionel Richie and Earth, Wind & Fire bring a legendary lineup that promises a night of classic hits and nostalgia.
+
+- 2026-08-05 03:00 — IVE @ Oakland Arena (Oakland)
+    ▹ IVE is gaining significant buzz in the K-pop scene, making their world tour a hot ticket.
+
+- 2026-08-15 03:00 — YOASOBI @ Oakland Arena (Oakland)
+    ▹ YOASOBI has a strong following and their unique sound is captivating audiences worldwide.
+
+- 2026-08-08 03:00 — Benson Boone @ SAP Center at San Jose (San Jose)
+    ▹ Benson Boone is on the rise with a strong live reputation and a growing fanbase.
+
+- 2026-08-10 02:00 — Santana @ Shoreline Amphitheatre (Mountain View)
+    ▹ Santana & The Doobie Brothers promise a night filled with classic rock anthems and great musicianship.
+
+- 2026-08-16 03:00 → 2026-08-17 03:00 — CORTIS @ The Theater at Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
+    ▹ CORTIS is making waves with their unique sound and engaging performances.
+
+- 2026-08-09 03:00 — Corinne Bailey Rae @ The Fillmore (San Francisco)
+    ▹ Interpol's return to the stage is highly anticipated, and their live shows are known for their intensity.
+
+- 2026-08-06 03:00 — Old 97's @ The Fillmore (San Francisco)
+    ▹ Old 97's have a dedicated fanbase and are known for their energetic live shows.
+
+- 2026-08-16 00:30 — 311 @ Toyota Pavilion at Concord (Concord)
+    ▹ 311 and Dirty Heads combine reggae and rock for a fun, high-energy concert experience.
+
+- 2026-08-12 02:00 — The Beths @ San Jose Civic (San Jose)
+    ▹ The Beths & Beach Bunny's tour showcases two of the most exciting indie acts today.
+
+- 2026-08-11 03:00 — Little Feat @ Fox Theater - Oakland (Oakland)
+    ▹ Little Feat's farewell tour promises a nostalgic trip for fans of classic rock.
+
+- 2026-09-03 03:00 — ZAYN @ Chase Center (San Francisco)
+    ▹ ZAYN's return to the stage is highly anticipated, and his performances are known for their emotional depth.
+
+- 2026-08-14 03:00 — Saliva @ August Hall (San Francisco)
+    ▹ Saliva's energetic performances and hits from the 2000s will resonate with fans of nu-metal.
+
+- 2026-08-03 03:00 — Willow Avalon @ August Hall (San Francisco)
+    ▹ Willow Avalon is gaining traction with her fresh sound and engaging performances.
+
+- 2026-09-24 02:30 — LE SSERAFIM @ SAP Center at San Jose (San Jose)
+    ▹ LE SSERAFIM's tour is a significant event in the K-pop scene, drawing a dedicated fanbase.
+
+- 2026-09-16 02:00 — Johnny Blue Skies @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Jon Batiste's live performances are celebrated for their energy and musicianship.
+
+- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
+    ▹ Social Distortion's punk rock legacy continues to attract dedicated fans.
 
 - 2026-08-09 01:30 — Meghan Trainor @ Chase Center (San Francisco)
