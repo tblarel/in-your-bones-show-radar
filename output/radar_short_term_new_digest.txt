@@ -1,37 +1,48 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 11 new show(s) since last run:
+Found 15 new show(s) since last run:
 
-- 2026-08-15 03:00 — YOASOBI @ Oakland Arena (Oakland)
-    ▹ YOASOBI has a strong following and their unique sound is captivating audiences worldwide.
+- 2026-08-30 03:00 → 2026-08-31 03:00 — J. Cole @ Oakland Arena (Oakland) [multi-night x2]
+    ▹ J. Cole's tour promises to be a highlight of the summer, attracting a diverse crowd.
 
-- 2026-08-08 03:00 — Benson Boone @ SAP Center at San Jose (San Jose)
-    ▹ Benson Boone is on the rise with a strong live reputation and a growing fanbase.
+- 2026-10-29 02:00 — G-Eazy @ Shoreline Amphitheatre (Mountain View)
+    ▹ The combination of Nas and The Roots is a powerhouse in hip-hop, ensuring an unforgettable night.
 
-- 2026-08-16 03:00 → 2026-08-17 03:00 — CORTIS @ The Theater at Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
-    ▹ CORTIS is making waves with their unique sound and engaging performances.
+- 2026-10-02 01:30 — $UICIDEBOY$ @ Shoreline Amphitheatre (Mountain View)
+    ▹ $uicideboy$ brings a unique energy to the stage, appealing to a dedicated fanbase.
 
-- 2026-08-06 03:00 — Old 97's @ The Fillmore (San Francisco)
-    ▹ Old 97's have a dedicated fanbase and are known for their energetic live shows.
+- 2026-11-20 04:00 — KATSEYE @ Oakland Arena (Oakland)
+    ▹ CORTIS is gaining traction with a fresh sound, making this tour an exciting prospect.
 
-- 2026-08-16 00:30 — 311 @ Toyota Pavilion at Concord (Concord)
-    ▹ 311 and Dirty Heads combine reggae and rock for a fun, high-energy concert experience.
+- 2026-09-02 03:00 — Eagles of Death Metal @ The Fillmore (San Francisco)
+    ▹ Eagles of Death Metal's anniversary tour is a celebration of their influential sound.
 
-- 2026-08-12 02:00 — The Beths @ San Jose Civic (San Jose)
-    ▹ The Beths & Beach Bunny's tour showcases two of the most exciting indie acts today.
+- 2026-10-10 02:00 — Mastodon @ Fox Theater - Oakland (Oakland)
+    ▹ Gary Clark Jr. is known for his electrifying performances, making this a highly anticipated show.
 
-- 2026-09-03 03:00 — ZAYN @ Chase Center (San Francisco)
-    ▹ ZAYN's return to the stage is highly anticipated, and his performances are known for their emotional depth.
+- 2026-08-16 03:00 — CORTIS @ The Theater at Bill Graham Civic Auditorium (San Francisco)
+    ▹ Passion Pit's return promises a nostalgic yet fresh experience for fans.
 
-- 2026-08-14 03:00 — Saliva @ August Hall (San Francisco)
-    ▹ Saliva's energetic performances and hits from the 2000s will resonate with fans of nu-metal.
+- 2026-08-27 03:00 — Courtney Barnett @ The Fillmore (San Francisco)
+    ▹ Courtney Barnett's live performances are known for their authenticity and connection with fans.
 
-- 2026-08-03 03:00 — Willow Avalon @ August Hall (San Francisco)
-    ▹ Willow Avalon is gaining traction with her fresh sound and engaging performances.
+- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
+    ▹ The Smashing Pumpkins continue to draw crowds with their legacy and new material.
 
-- 2026-09-24 02:30 — LE SSERAFIM @ SAP Center at San Jose (San Jose)
-    ▹ LE SSERAFIM's tour is a significant event in the K-pop scene, drawing a dedicated fanbase.
+- 2026-08-28 02:00 — Muse @ Shoreline Amphitheatre (Mountain View)
+    ▹ Muse's upcoming tour is highly anticipated, showcasing their innovative sound.
 
-- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
-    ▹ Social Distortion's punk rock legacy continues to attract dedicated fans.
+- 2026-08-10 02:00 — Anuhea @ Blue Note Napa Summer Sessions (Napa)
+    ▹ Anuhea's performance is expected to resonate well with fans of contemporary Hawaiian music.
+
+- 2026-09-13 03:00 — Public Image Ltd @ The Fillmore (San Francisco)
+    ▹ Public Image Ltd's tour showcases their influential legacy in the post-punk scene.
+
+- 2026-09-12 03:00 — Asal @ August Hall (San Francisco)
+    ▹ Asal's tour promises to bring fresh energy and creativity to the stage.
+
+- 2026-09-26 03:00 — Jose Gonzalez @ Uptown Theatre Napa (Napa)
+    ▹ José González's intimate performance is sure to captivate with his unique sound.
+
+- 2026-08-13 01:00 — Tedeschi Trucks Band @ Greek Theatre-U.C. Berkeley (Berkeley)
