@@ -1,48 +1,31 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 15 new show(s) since last run:
+Found 10 new show(s) since last run:
 
-- 2026-08-30 03:00 → 2026-08-31 03:00 — J. Cole @ Oakland Arena (Oakland) [multi-night x2]
-    ▹ J. Cole's tour promises to be a highlight of the summer, attracting a diverse crowd.
+- 2026-08-21 01:30 — The Black Crowes @ Shoreline Amphitheatre (Mountain View)
+    ▹ The Black Crowes are known for their energetic live performances, and their collaboration with Whiskey Myers adds a unique Southern rock flavor.
 
-- 2026-10-29 02:00 — G-Eazy @ Shoreline Amphitheatre (Mountain View)
-    ▹ The combination of Nas and The Roots is a powerhouse in hip-hop, ensuring an unforgettable night.
+- 2026-08-29 03:00 — Sweet Pill @ August Hall (San Francisco)
+    ▹ Courtney Barnett's introspective lyrics and engaging stage presence make her shows a must-see for indie fans.
 
-- 2026-10-02 01:30 — $UICIDEBOY$ @ Shoreline Amphitheatre (Mountain View)
-    ▹ $uicideboy$ brings a unique energy to the stage, appealing to a dedicated fanbase.
+- 2026-08-21 03:00 — Corbyn Besson @ The Fillmore (San Francisco)
+    ▹ Corbyn Besson's rising popularity in the pop scene makes this tour one to watch for fans of contemporary pop music.
 
-- 2026-11-20 04:00 — KATSEYE @ Oakland Arena (Oakland)
-    ▹ CORTIS is gaining traction with a fresh sound, making this tour an exciting prospect.
+- 2026-08-30 03:00 — J. Cole @ Oakland Arena (Oakland)
+    ▹ J. Cole's live performances are renowned for their energy and connection with the audience, making this tour a highlight.
 
-- 2026-09-02 03:00 — Eagles of Death Metal @ The Fillmore (San Francisco)
-    ▹ Eagles of Death Metal's anniversary tour is a celebration of their influential sound.
+- 2026-08-17 03:00 — CORTIS @ The Theater at Bill Graham Civic Auditorium (San Francisco)
+    ▹ 5 Seconds of Summer's energetic performances and dedicated fanbase make this tour a significant event in the pop-punk scene.
 
-- 2026-10-10 02:00 — Mastodon @ Fox Theater - Oakland (Oakland)
-    ▹ Gary Clark Jr. is known for his electrifying performances, making this a highly anticipated show.
+- 2026-08-22 02:00 — Morris Day and the Time @ Blue Note Napa Summer Sessions (Napa)
+    ▹ Morris Day and the Time's legacy in funk music makes their performance a nostalgic event for fans.
 
-- 2026-08-16 03:00 — CORTIS @ The Theater at Bill Graham Civic Auditorium (San Francisco)
-    ▹ Passion Pit's return promises a nostalgic yet fresh experience for fans.
+- 2026-10-28 02:30 — Bryson Tiller @ Toyota Pavilion at Concord (Concord)
+    ▹ Bryson Tiller's blend of R&B and hip-hop continues to resonate with audiences, making his tour significant.
 
-- 2026-08-27 03:00 — Courtney Barnett @ The Fillmore (San Francisco)
-    ▹ Courtney Barnett's live performances are known for their authenticity and connection with fans.
+- 2026-09-03 03:00 — ZAYN @ Chase Center (San Francisco)
 
-- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
-    ▹ The Smashing Pumpkins continue to draw crowds with their legacy and new material.
+- 2026-08-28 02:30 — Mamamoo @ SAP Center at San Jose (San Jose)
 
-- 2026-08-28 02:00 — Muse @ Shoreline Amphitheatre (Mountain View)
-    ▹ Muse's upcoming tour is highly anticipated, showcasing their innovative sound.
-
-- 2026-08-10 02:00 — Anuhea @ Blue Note Napa Summer Sessions (Napa)
-    ▹ Anuhea's performance is expected to resonate well with fans of contemporary Hawaiian music.
-
-- 2026-09-13 03:00 — Public Image Ltd @ The Fillmore (San Francisco)
-    ▹ Public Image Ltd's tour showcases their influential legacy in the post-punk scene.
-
-- 2026-09-12 03:00 — Asal @ August Hall (San Francisco)
-    ▹ Asal's tour promises to bring fresh energy and creativity to the stage.
-
-- 2026-09-26 03:00 — Jose Gonzalez @ Uptown Theatre Napa (Napa)
-    ▹ José González's intimate performance is sure to captivate with his unique sound.
-
-- 2026-08-13 01:00 — Tedeschi Trucks Band @ Greek Theatre-U.C. Berkeley (Berkeley)
+- 2026-08-26 03:00 — David Byrne @ Greek Theatre-U.C. Berkeley (Berkeley)

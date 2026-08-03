@@ -1,40 +1,21 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 12 new show(s) since last run:
+Found 6 new show(s) since last run:
 
-- 2026-12-05 03:00 — John Summit @ Oakland Arena (Oakland)
-    ▹ John Summit is a prominent name in electronic music, and his CTRL ESCAPE tour is expected to deliver high energy.
+- 2026-12-09 04:00 — Angine de Poitrine @ Fox Theater - Oakland (Oakland)
+    ▹ Trivium's upcoming tour promises a powerful metal experience, appealing to fans of the genre.
 
-- 2026-12-03 04:00 — Eloise @ The Fillmore (San Francisco)
-    ▹ Eloise's tour is generating interest with her unique sound and engaging stage presence.
+- 2026-12-13 04:00 — Tiny Habits @ The Castro Theatre (San Francisco)
+    ▹ Ibeyi's unique blend of sounds and cultural influences makes their performance a compelling option for diverse music fans.
 
-- 2026-12-10 04:00 — The Jayhawks @ The Fillmore (San Francisco)
-    ▹ The Jayhawks celebrate 40 years, appealing to fans of classic Americana and roots rock.
+- 2026-12-10 04:00 — Jamey Johnson @ San Jose Civic (San Jose)
+    ▹ Jamey Johnson's tour offers a chance to see a respected figure in country music, appealing to fans of the genre.
 
-- 2026-12-11 04:00 — Strawberry Guy @ The Fillmore (San Francisco)
-    ▹ Strawberry Guy's indie sound is gaining traction, making this show a potential highlight.
+- 2026-12-07 04:00 — Alicia Villarreal @ San Jose Civic (San Jose)
+    ▹ Alicia Villarreal's tour showcases her powerful voice and Latin music appeal, making it a noteworthy event.
 
-- 2027-04-04 03:00 — Nothing But Thieves @ Fox Theater - Oakland (Oakland)
-    ▹ Nothing But Thieves are known for their dynamic live shows, making this a must-see for rock fans.
+- 2027-01-29 04:00 → 2027-01-31 04:00 — The California Honeydrops @ The Fillmore (San Francisco) [multi-night x3]
+    ▹ The California Honeydrops are known for their lively performances, making their shows a fun experience.
 
-- 2027-02-26 04:00 — Sylvan Esso @ Fox Theater - Oakland (Oakland)
-    ▹ Sylvan Esso's electronic pop sound is captivating, promising an engaging live performance.
-
-- 2026-12-06 02:35 — Trivium @ The Masonic (San Francisco)
-    ▹ Trivium's metal tour will attract dedicated fans and promises a powerful live experience.
-
-- 2027-01-18 03:30 — Jesse Cook @ Palace of Fine Arts (San Francisco)
-    ▹ Blue October's emotional rock resonates with fans, making their show a meaningful experience.
-
-- 2026-12-04 04:00 — Fetty Wap @ The Masonic (San Francisco)
-    ▹ Fetty Wap's nostalgia tour will attract fans of hip-hop and pop culture.
-
-- 2026-11-30 04:00 — Dweezil Zappa @ The Castro Theatre (San Francisco)
-    ▹ Dweezil Zappa's tribute to his father's music offers a unique experience for fans of rock history.
-
-- 2027-01-16 04:30 → 2027-01-17 04:00 — Book of Love @ The Chapel (San Francisco) [multi-night x2]
-    ▹ Gary Numan's legacy in electronic music makes this show appealing for fans of the genre.
-
-- 2027-01-29 04:00 → 2027-01-30 04:00 — The California Honeydrops @ The Fillmore (San Francisco) [multi-night x2]
-    ▹ The California Honeydrops are known for their lively performances, making this a fun event.
+- 2027-05-26 02:30 — Niall Horan @ Chase Center (San Francisco)
