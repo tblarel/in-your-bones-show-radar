@@ -1,5 +1,28 @@
 [
   {
+    "id": "G5vYZ_5mq0w7N",
+    "ids": [
+      "G5vYZ_5mq0w7N"
+    ],
+    "name": "Gracie Abrams: The Look at My Life Tour presented by Capital One",
+    "primary_artist": "Gracie Abrams",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakland-california-12-07-2026/event/1C0064BB9D932123",
+    "window": "far_out",
+    "local_date": "2026-12-07",
+    "start_datetime": "2026-12-08T04:00:00+00:00",
+    "date_start": "2026-12-08T04:00:00+00:00",
+    "date_end": "2026-12-08T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 9,
+    "ai_reason": "Gracie Abrams is gaining significant buzz as a rising pop artist, making her tour highly anticipated."
+  },
+  {
     "id": "G5vYZ_aMbKo0B",
     "ids": [
       "G5vYZ_aMbKo0B",
@@ -20,55 +43,8 @@
     "multi_night": true,
     "night_count": 2,
     "score": 0.6489999999999999,
-    "ai_priority": 10,
-    "ai_reason": "Olivia Rodrigo's tour is highly anticipated, showcasing her strong live reputation and connection with fans."
-  },
-  {
-    "id": "G5vYZ_1UDxFhX",
-    "ids": [
-      "G5vYZ_1UDxFhX",
-      "G5vYZ_5mq0w7N"
-    ],
-    "name": "Gracie Abrams: The Look at My Life Tour presented by Capital One",
-    "primary_artist": "Gracie Abrams",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakland-california-12-06-2026/event/1C0064ADBB8886FE",
-    "window": "far_out",
-    "local_date": "2026-12-06",
-    "start_datetime": "2026-12-07T04:00:00+00:00",
-    "date_start": "2026-12-07T04:00:00+00:00",
-    "date_end": "2026-12-08T04:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.6489999999999999,
-    "ai_priority": 9,
-    "ai_reason": "Gracie Abrams is gaining significant buzz with her heartfelt songwriting, making her tour a must-see for indie pop fans."
-  },
-  {
-    "id": "G5vYZ_5CHDJie",
-    "ids": [
-      "G5vYZ_5CHDJie"
-    ],
-    "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-    "primary_artist": "John Summit",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oakland-california-12-04-2026/event/1C0064B3BCEE6B02",
-    "window": "far_out",
-    "local_date": "2026-12-04",
-    "start_datetime": "2026-12-05T03:00:00+00:00",
-    "date_start": "2026-12-05T03:00:00+00:00",
-    "date_end": "2026-12-05T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6489999999999999,
     "ai_priority": 8,
-    "ai_reason": "John Summit's CTRL ESCAPE tour is poised to deliver an energetic electronic experience, appealing to dance music enthusiasts."
+    "ai_reason": "Olivia Rodrigo's live performances are known for their emotional intensity and strong fan engagement."
   },
   {
     "id": "G5vYZ_1U8_jNx",
@@ -89,101 +65,9 @@
     "date_end": "2026-12-09T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.634,
+    "score": 0.664,
     "ai_priority": 7,
-    "ai_reason": "Trivium's upcoming tour promises a powerful metal experience, appealing to fans of the genre."
-  },
-  {
-    "id": "G5vYZ_Gf0ezoV",
-    "ids": [
-      "G5vYZ_Gf0ezoV"
-    ],
-    "name": "An Evening with Sylvan Esso",
-    "primary_artist": "Sylvan Esso",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/an-evening-with-sylvan-esso-oakland-california-02-25-2027/event/1C0064C5240B8474",
-    "window": "far_out",
-    "local_date": "2027-02-25",
-    "start_datetime": "2027-02-26T04:00:00+00:00",
-    "date_start": "2027-02-26T04:00:00+00:00",
-    "date_end": "2027-02-26T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 7,
-    "ai_reason": "Sylvan Esso's unique blend of electronic and folk elements makes their show a standout for fans of innovative music."
-  },
-  {
-    "id": "G5vYZ_5KszTeQ",
-    "ids": [
-      "G5vYZ_5KszTeQ"
-    ],
-    "name": "Nothing But Thieves: The Stray Dogs World Tour",
-    "primary_artist": "Nothing But Thieves",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-oakland-california-04-03-2027/event/1C0064B4F1E3F09A",
-    "window": "far_out",
-    "local_date": "2027-04-03",
-    "start_datetime": "2027-04-04T03:00:00+00:00",
-    "date_start": "2027-04-04T03:00:00+00:00",
-    "date_end": "2027-04-04T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 7,
-    "ai_reason": "Nothing But Thieves are known for their compelling live performances, making this tour a highlight for rock fans."
-  },
-  {
-    "id": "G5vYZ_A2KV6-_",
-    "ids": [
-      "G5vYZ_A2KV6-_"
-    ],
-    "name": "The Neighbourhood: THE WOURLD TOUR",
-    "primary_artist": "The Neighbourhood",
-    "venue_name": "Bill Graham Civic Auditorium",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-neighbourhood-the-wourld-tour-san-francisco-california-12-02-2026/event/1C006453D3D07859",
-    "window": "far_out",
-    "local_date": "2026-12-02",
-    "start_datetime": "2026-12-03T03:00:00+00:00",
-    "date_start": "2026-12-03T03:00:00+00:00",
-    "date_end": "2026-12-03T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6369999999999999,
-    "ai_priority": 6,
-    "ai_reason": "The Neighbourhood's tour promises a captivating live experience, appealing to fans of alternative rock."
-  },
-  {
-    "id": "G5vYZ_CtT897C",
-    "ids": [
-      "G5vYZ_CtT897C"
-    ],
-    "name": "Eloise - The Drama Queen Tour",
-    "primary_artist": "Eloise",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/eloise-the-drama-queen-tour-san-francisco-california-12-02-2026/event/1C0064EA7F41710E",
-    "window": "far_out",
-    "local_date": "2026-12-02",
-    "start_datetime": "2026-12-03T04:00:00+00:00",
-    "date_start": "2026-12-03T04:00:00+00:00",
-    "date_end": "2026-12-03T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 6,
-    "ai_reason": "Eloise's tour is generating buzz, showcasing her fresh sound and engaging stage presence."
+    "ai_reason": "Niall Horan's Dinner Party Live On Tour promises a unique experience with an established pop star."
   },
   {
     "id": "G5vYZ_53UKNHh",
@@ -205,8 +89,123 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.634,
+    "ai_priority": 7,
+    "ai_reason": "Strawberry Guy is an emerging indie artist with a fresh sound, likely to attract a dedicated audience."
+  },
+  {
+    "id": "G5vYZ_ud64RQU",
+    "ids": [
+      "G5vYZ_ud64RQU"
+    ],
+    "name": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks ",
+    "primary_artist": "The Jayhawks",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/sanctuary-park-tour-celebrating-40-years-san-francisco-california-12-09-2026/event/1C0064D0C756F6B6",
+    "window": "far_out",
+    "local_date": "2026-12-09",
+    "start_datetime": "2026-12-10T04:00:00+00:00",
+    "date_start": "2026-12-10T04:00:00+00:00",
+    "date_end": "2026-12-10T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
     "ai_priority": 6,
-    "ai_reason": "Strawberry Guy's unique sound and growing fanbase make this show an exciting option for indie music lovers."
+    "ai_reason": "The Jayhawks have a strong legacy in alt-country, appealing to both nostalgia and new fans."
+  },
+  {
+    "id": "G5vYZ_2MrSP3Q",
+    "ids": [
+      "G5vYZ_2MrSP3Q"
+    ],
+    "name": "An Evening with Lord Huron",
+    "primary_artist": "Lord Huron",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/an-evening-with-lord-huron-oakland-california-01-03-2027/event/1C0064FDDECE549A",
+    "window": "far_out",
+    "local_date": "2027-01-03",
+    "start_datetime": "2027-01-04T04:00:00+00:00",
+    "date_start": "2027-01-04T04:00:00+00:00",
+    "date_end": "2027-01-04T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 6,
+    "ai_reason": "Lord Huron's atmospheric live shows are a draw for indie rock fans, promising a captivating experience."
+  },
+  {
+    "id": "G5vYZ_Gf0ezoV",
+    "ids": [
+      "G5vYZ_Gf0ezoV"
+    ],
+    "name": "An Evening with Sylvan Esso",
+    "primary_artist": "Sylvan Esso",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/an-evening-with-sylvan-esso-oakland-california-02-25-2027/event/1C0064C5240B8474",
+    "window": "far_out",
+    "local_date": "2027-02-25",
+    "start_datetime": "2027-02-26T04:00:00+00:00",
+    "date_start": "2027-02-26T04:00:00+00:00",
+    "date_end": "2027-02-26T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 6,
+    "ai_reason": "Sylvan Esso is known for their engaging electronic performances, appealing to a diverse audience."
+  },
+  {
+    "id": "G5vYZ_5KszTeQ",
+    "ids": [
+      "G5vYZ_5KszTeQ"
+    ],
+    "name": "Nothing But Thieves: The Stray Dogs World Tour",
+    "primary_artist": "Nothing But Thieves",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-oakland-california-04-03-2027/event/1C0064B4F1E3F09A",
+    "window": "far_out",
+    "local_date": "2027-04-03",
+    "start_datetime": "2027-04-04T03:00:00+00:00",
+    "date_start": "2027-04-04T03:00:00+00:00",
+    "date_end": "2027-04-04T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 6,
+    "ai_reason": "Nothing But Thieves are recognized for their energetic live shows and strong fanbase."
+  },
+  {
+    "id": "G5vYZ_uk9C1cy",
+    "ids": [
+      "G5vYZ_uk9C1cy"
+    ],
+    "name": "Virtual Riot & Blanke - Far From Home Tour",
+    "primary_artist": "Virtual Riot",
+    "venue_name": "San Jose Civic",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/virtual-riot-blanke-far-from-home-san-jose-california-12-12-2026/event/1C0064D19738AB79",
+    "window": "far_out",
+    "local_date": "2026-12-12",
+    "start_datetime": "2026-12-13T04:00:00+00:00",
+    "date_start": "2026-12-13T04:00:00+00:00",
+    "date_end": "2026-12-13T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.631,
+    "ai_priority": 6,
+    "ai_reason": "Virtual Riot is a prominent name in electronic music, promising a high-energy experience."
   },
   {
     "id": "G5vYZ_CUC0Jxp",
@@ -229,30 +228,53 @@
     "night_count": 1,
     "score": 0.625,
     "ai_priority": 5,
-    "ai_reason": "Jesse Cook's live performance is known for its captivating energy, appealing to fans of acoustic and world music."
+    "ai_reason": "Jesse Cook's fusion of world music and guitar mastery appeals to a niche but dedicated audience."
   },
   {
-    "id": "G5vYZ_1N8zXfr",
+    "id": "G5vYZ_2NiKcTO",
     "ids": [
-      "G5vYZ_1N8zXfr"
+      "G5vYZ_2NiKcTO"
     ],
-    "name": "Fetty Wap: Nostalgia Tour",
-    "primary_artist": "Fetty Wap",
-    "venue_name": "The Masonic",
+    "name": "Beth Hart",
+    "primary_artist": "Beth Hart",
+    "venue_name": "Uptown Theatre Napa",
+    "city": "Napa",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/beth-hart-napa-california-01-21-2027/event/1C0064F8EC4EDFE0",
+    "window": "far_out",
+    "local_date": "2027-01-21",
+    "start_datetime": "2027-01-22T04:00:00+00:00",
+    "date_start": "2027-01-22T04:00:00+00:00",
+    "date_end": "2027-01-22T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.613,
+    "ai_priority": 5,
+    "ai_reason": "Beth Hart's powerful vocals and blues-rock style attract a loyal following."
+  },
+  {
+    "id": "G5vYZ_FJIGjct",
+    "ids": [
+      "G5vYZ_FJIGjct"
+    ],
+    "name": "French 79 - Close To The Giants",
+    "primary_artist": "French 79",
+    "venue_name": "The Fillmore",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-san-francisco-california-12-03-2026/event/1C0064A8D0E3E51E",
+    "url": "https://www.ticketmaster.com/french-79-close-to-the-giants-san-francisco-california-05-06-2027/event/1C006489A831CB69",
     "window": "far_out",
-    "local_date": "2026-12-03",
-    "start_datetime": "2026-12-04T04:00:00+00:00",
-    "date_start": "2026-12-04T04:00:00+00:00",
-    "date_end": "2026-12-04T04:00:00+00:00",
+    "local_date": "2027-05-06",
+    "start_datetime": "2027-05-07T03:00:00+00:00",
+    "date_start": "2027-05-07T03:00:00+00:00",
+    "date_end": "2027-05-07T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6010000000000001,
+    "score": 0.5890000000000001,
     "ai_priority": 5,
-    "ai_reason": "Fetty Wap's nostalgia tour taps into his past hits, appealing to fans looking for a trip down memory lane."
+    "ai_reason": "French 79's electronic music is well-received in live settings, promising an engaging show."
   },
   {
     "id": "G5vYZ_G3WCt2E",
@@ -275,60 +297,13 @@
     "night_count": 1,
     "score": 0.58,
     "ai_priority": 5,
-    "ai_reason": "Ibeyi's unique blend of sounds and cultural influences makes their performance a compelling option for diverse music fans."
-  },
-  {
-    "id": "G5vYZ_GkymCSV",
-    "ids": [
-      "G5vYZ_GkymCSV"
-    ],
-    "name": "Jamey Johnson - Traveling Truebadour Tour",
-    "primary_artist": "Jamey Johnson",
-    "venue_name": "San Jose Civic",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/jamey-johnson-traveling-truebadour-tour-san-jose-california-12-09-2026/event/1C0064C1B9B8ECF4",
-    "window": "far_out",
-    "local_date": "2026-12-09",
-    "start_datetime": "2026-12-10T04:00:00+00:00",
-    "date_start": "2026-12-10T04:00:00+00:00",
-    "date_end": "2026-12-10T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.5710000000000001,
-    "ai_priority": 5,
-    "ai_reason": "Jamey Johnson's tour offers a chance to see a respected figure in country music, appealing to fans of the genre."
-  },
-  {
-    "id": "G5vYZ_GEbY5kj",
-    "ids": [
-      "G5vYZ_GEbY5kj"
-    ],
-    "name": "Alicia Villarreal - Bendita Locura Tour 2026",
-    "primary_artist": "Alicia Villarreal",
-    "venue_name": "San Jose Civic",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/alicia-villarreal-bendita-locura-tour-2026-san-jose-california-12-06-2026/event/1C0064C9D8C0B19C",
-    "window": "far_out",
-    "local_date": "2026-12-06",
-    "start_datetime": "2026-12-07T04:00:00+00:00",
-    "date_start": "2026-12-07T04:00:00+00:00",
-    "date_end": "2026-12-07T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.5710000000000001,
-    "ai_priority": 5,
-    "ai_reason": "Alicia Villarreal's tour showcases her powerful voice and Latin music appeal, making it a noteworthy event."
+    "ai_reason": "The California Honeydrops are known for their lively performances, blending genres and engaging audiences."
   },
   {
     "id": "G5vYZ_C6wKPtg",
     "ids": [
       "G5vYZ_C6wKPtg",
-      "G5vYZ_C6wf4nb",
-      "G5vYZ_C6w44n-"
+      "G5vYZ_C6wf4nb"
     ],
     "name": "THE CALIFORNIA HONEYDROPS - SAN FRANCISCO 2027 With Family & Friends",
     "primary_artist": "The California Honeydrops",
@@ -341,12 +316,58 @@
     "local_date": "2027-01-28",
     "start_datetime": "2027-01-29T04:00:00+00:00",
     "date_start": "2027-01-29T04:00:00+00:00",
-    "date_end": "2027-01-31T04:00:00+00:00",
+    "date_end": "2027-01-30T04:00:00+00:00",
     "multi_night": true,
-    "night_count": 3,
+    "night_count": 2,
     "score": 0.544,
     "ai_priority": 5,
-    "ai_reason": "The California Honeydrops are known for their lively performances, making their shows a fun experience."
+    "ai_reason": "Ibeyi's unique sound and cultural influences make for a compelling live performance."
+  },
+  {
+    "id": "G5vYZ_5pjciOj",
+    "ids": [
+      "G5vYZ_5pjciOj"
+    ],
+    "name": "BottleRock Napa Valley",
+    "primary_artist": "BottleRock Napa Valley",
+    "venue_name": "Napa Valley Expo",
+    "city": "Napa",
+    "state": "CA",
+    "country": "US",
+    "url": "https://on.fgtix.com/trk/6lUK",
+    "window": "far_out",
+    "local_date": "2027-05-28",
+    "start_datetime": "2027-05-28T18:30:00+00:00",
+    "date_start": "2027-05-28T18:30:00+00:00",
+    "date_end": "2027-05-28T18:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.49,
+    "ai_priority": 5,
+    "ai_reason": "BottleRock Napa Valley is a major festival that attracts top-tier acts and a diverse crowd."
+  },
+  {
+    "id": "G5vYZ_82GUJke",
+    "ids": [
+      "G5vYZ_82GUJke"
+    ],
+    "name": "The Mary Wallopers",
+    "primary_artist": "The Mary Wallopers",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-mary-wallopers-san-francisco-california-04-01-2027/event/1C006503CCDA6182",
+    "window": "far_out",
+    "local_date": "2027-04-01",
+    "start_datetime": "2027-04-02T03:00:00+00:00",
+    "date_start": "2027-04-02T03:00:00+00:00",
+    "date_end": "2027-04-02T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 4,
+    "ai_reason": "The Mary Wallopers bring a unique folk sound that resonates with fans of traditional music."
   },
   {
     "id": "G5vYZ_195TiVO",
@@ -368,6 +389,29 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6549999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "rZ7HnEZ1AfFkr7",
+    "ids": [
+      "rZ7HnEZ1AfFkr7"
+    ],
+    "name": "HARBOUR",
+    "primary_artist": "HARBOUR",
+    "venue_name": "Cafe Du Nord",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/harbour-cafe-du-nord-tickets/14206784",
+    "window": "far_out",
+    "local_date": "2026-12-08",
+    "start_datetime": "2026-12-09T04:00:00+00:00",
+    "date_start": "2026-12-09T04:00:00+00:00",
+    "date_end": "2026-12-09T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.628,
     "ai_priority": null,
     "ai_reason": null
   }

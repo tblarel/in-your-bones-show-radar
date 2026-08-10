@@ -1,28 +1,5 @@
 [
   {
-    "id": "G5vYZ_dlc1EtE",
-    "ids": [
-      "G5vYZ_dlc1EtE"
-    ],
-    "name": "Southern Hospitality Tour: The Black Crowes and Whiskey Myers",
-    "primary_artist": "The Black Crowes",
-    "venue_name": "Shoreline Amphitheatre",
-    "city": "Mountain View",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/southern-hospitality-tour-the-black-crowes-mountain-view-california-08-20-2026/event/1C00643AED2A7A67",
-    "window": "short_term",
-    "local_date": "2026-08-20",
-    "start_datetime": "2026-08-21T01:30:00+00:00",
-    "date_start": "2026-08-21T01:30:00+00:00",
-    "date_end": "2026-08-21T01:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.7029999999999998,
-    "ai_priority": 10,
-    "ai_reason": "The Black Crowes are known for their energetic live performances, and their collaboration with Whiskey Myers adds a unique Southern rock flavor."
-  },
-  {
     "id": "G5vYZ_6Nrymcw",
     "ids": [
       "G5vYZ_6Nrymcw"
@@ -42,54 +19,77 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.7029999999999998,
-    "ai_priority": 9,
-    "ai_reason": "Muse's reputation for spectacular live shows makes their upcoming tour highly anticipated, especially with the new album."
+    "ai_priority": 10,
+    "ai_reason": "Courtney Barnett is known for her captivating live performances and unique storytelling in her music, making this a must-see event."
   },
   {
-    "id": "G5vYZ_1Dbmqb3",
+    "id": "G5vYZ_1DMvkmg",
     "ids": [
-      "G5vYZ_1Dbmqb3"
+      "G5vYZ_1DMvkmg"
     ],
-    "name": "Sweet Pill - US TOUR 2026 - SAN FRANCISCO",
-    "primary_artist": "Sweet Pill",
-    "venue_name": "August Hall",
+    "name": "wave to earth - the pieces tour",
+    "primary_artist": "Wave To Earth",
+    "venue_name": "The Theater at Bill Graham Civic Auditorium",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/sweet-pill-us-tour-2026-san-san-francisco-california-08-28-2026/event/1C0064AED8B9D612",
+    "url": "https://www.ticketmaster.com/wave-to-earth-the-pieces-tour-san-francisco-california-09-08-2026/event/1C0064AEF7046BB5",
     "window": "short_term",
-    "local_date": "2026-08-28",
-    "start_datetime": "2026-08-29T03:00:00+00:00",
-    "date_start": "2026-08-29T03:00:00+00:00",
-    "date_end": "2026-08-29T03:00:00+00:00",
+    "local_date": "2026-09-08",
+    "start_datetime": "2026-09-09T03:15:00+00:00",
+    "date_start": "2026-09-09T03:15:00+00:00",
+    "date_end": "2026-09-09T03:15:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6789999999999999,
+    "score": 0.6969999999999998,
     "ai_priority": 9,
-    "ai_reason": "Courtney Barnett's introspective lyrics and engaging stage presence make her shows a must-see for indie fans."
+    "ai_reason": "Eagles of Death Metal brings high-energy rock with a cult following, promising an exciting live show."
   },
   {
-    "id": "G5vYZ_a3n2DuU",
+    "id": "G5vYZ_6GAOFcs",
     "ids": [
-      "G5vYZ_a3n2DuU"
+      "G5vYZ_6GAOFcs"
     ],
-    "name": "Corbyn Besson and Soulidified: The Pop'n Out Tour",
-    "primary_artist": "Corbyn Besson",
+    "name": "Eagles Of Death Metal: Death By Sexy 20th Anniversary Tour",
+    "primary_artist": "Eagles of Death Metal",
     "venue_name": "The Fillmore",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/corbyn-besson-and-soulidified-the-popn-san-francisco-california-08-20-2026/event/1C006494AA3FB376",
+    "url": "https://www.ticketmaster.com/eagles-of-death-metal-death-by-san-francisco-california-09-01-2026/event/1C00647305808B71",
     "window": "short_term",
-    "local_date": "2026-08-20",
-    "start_datetime": "2026-08-21T03:00:00+00:00",
-    "date_start": "2026-08-21T03:00:00+00:00",
-    "date_end": "2026-08-21T03:00:00+00:00",
+    "local_date": "2026-09-01",
+    "start_datetime": "2026-09-02T03:00:00+00:00",
+    "date_start": "2026-09-02T03:00:00+00:00",
+    "date_end": "2026-09-02T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.694,
+    "ai_priority": 9,
+    "ai_reason": "This 20th anniversary tour of Eagles of Death Metal is a celebration of their influential sound and live reputation."
+  },
+  {
+    "id": "G5vYZ_aR9Vi7q",
+    "ids": [
+      "G5vYZ_aR9Vi7q"
+    ],
+    "name": "Liz Phair & Sleater-Kinney: The Flannel and The Fury 2026",
+    "primary_artist": "Liz Phair",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/liz-phair-sleaterkinney-the-flannel-and-berkeley-california-09-09-2026/event/1C00649BD7D2C11D",
+    "window": "short_term",
+    "local_date": "2026-09-09",
+    "start_datetime": "2026-09-10T01:30:00+00:00",
+    "date_start": "2026-09-10T01:30:00+00:00",
+    "date_end": "2026-09-10T01:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.7029999999999998,
     "ai_priority": 8,
-    "ai_reason": "Corbyn Besson's rising popularity in the pop scene makes this tour one to watch for fans of contemporary pop music."
+    "ai_reason": "Liz Phair and Sleater-Kinney together promise a nostalgic yet fresh experience for fans of indie rock."
   },
   {
     "id": "G5vYZ_eTN_yEE",
@@ -112,7 +112,7 @@
     "night_count": 1,
     "score": 0.694,
     "ai_priority": 8,
-    "ai_reason": "Courtney Barnett's multiple shows at The Fillmore highlight her strong following and engaging live performances."
+    "ai_reason": "Courtney Barnett's multiple shows at The Fillmore highlight her growing popularity and strong live performance reputation."
   },
   {
     "id": "G5vYZ_7nmFDCr",
@@ -135,53 +135,30 @@
     "night_count": 1,
     "score": 0.6789999999999999,
     "ai_priority": 8,
-    "ai_reason": "J. Cole's live performances are renowned for their energy and connection with the audience, making this tour a highlight."
+    "ai_reason": "J. Cole's upcoming tour is highly anticipated, showcasing his lyrical prowess and strong connection with fans."
   },
   {
-    "id": "G5vYZ_5F3Ziyx",
+    "id": "G5vYZ_1UDxFhX",
     "ids": [
-      "G5vYZ_5F3Ziyx"
+      "G5vYZ_1UDxFhX"
     ],
-    "name": "2026 CORTIS TOUR <PUT YOUR PHONE DOWN> IN SAN FRANCISCO",
-    "primary_artist": "CORTIS",
-    "venue_name": "The Theater at Bill Graham Civic Auditorium",
-    "city": "San Francisco",
+    "name": "Gracie Abrams: The Look at My Life Tour presented by Capital One",
+    "primary_artist": "Gracie Abrams",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/2026-cortis-tour-put-your-phone-san-francisco-california-08-16-2026/event/1C0064B21202CE62",
+    "url": "https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakland-california-12-06-2026/event/1C0064ADBB8886FE",
     "window": "short_term",
-    "local_date": "2026-08-16",
-    "start_datetime": "2026-08-17T03:00:00+00:00",
-    "date_start": "2026-08-17T03:00:00+00:00",
-    "date_end": "2026-08-17T03:00:00+00:00",
+    "local_date": "2026-12-06",
+    "start_datetime": "2026-12-07T04:00:00+00:00",
+    "date_start": "2026-12-07T04:00:00+00:00",
+    "date_end": "2026-12-07T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6969999999999998,
-    "ai_priority": 7,
-    "ai_reason": "5 Seconds of Summer's energetic performances and dedicated fanbase make this tour a significant event in the pop-punk scene."
-  },
-  {
-    "id": "G5vYZ_6GAOFcs",
-    "ids": [
-      "G5vYZ_6GAOFcs"
-    ],
-    "name": "Eagles Of Death Metal: Death By Sexy 20th Anniversary Tour",
-    "primary_artist": "Eagles of Death Metal",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/eagles-of-death-metal-death-by-san-francisco-california-09-01-2026/event/1C00647305808B71",
-    "window": "short_term",
-    "local_date": "2026-09-01",
-    "start_datetime": "2026-09-02T03:00:00+00:00",
-    "date_start": "2026-09-02T03:00:00+00:00",
-    "date_end": "2026-09-02T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 7,
-    "ai_reason": "Eagles of Death Metal's unique blend of rock and humor makes their shows a fun experience for attendees."
+    "score": 0.6789999999999999,
+    "ai_priority": 8,
+    "ai_reason": "Gracie Abrams is gaining traction in the pop scene, making her tour a noteworthy event for fans of emerging artists."
   },
   {
     "id": "G5vYZ_1m-eW1q",
@@ -204,76 +181,30 @@
     "night_count": 1,
     "score": 0.6789999999999999,
     "ai_priority": 7,
-    "ai_reason": "Wave To Earth's unique sound and engaging performances are gaining traction, making this tour noteworthy."
+    "ai_reason": "KATSEYE's tour is generating buzz within the indie scene, making it a noteworthy event for fans."
   },
   {
-    "id": "G5vYZ_k3LHG-Q",
+    "id": "G5vYZ_kEkqCJe",
     "ids": [
-      "G5vYZ_k3LHG-Q"
+      "G5vYZ_kEkqCJe"
     ],
-    "name": "Passion Pit - The Pretty Penny Tour",
-    "primary_artist": "Passion Pit",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
+    "name": "Bleachers Forever",
+    "primary_artist": "Bleachers",
+    "venue_name": "Greek Theatre-U.C. Berkeley",
+    "city": "Berkeley",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/passion-pit-the-pretty-penny-tour-oakland-california-08-16-2026/event/1C0064649FF0C85A",
+    "url": "https://www.ticketmaster.com/bleachers-forever-berkeley-california-09-17-2026/event/1C006469C674E982",
     "window": "short_term",
-    "local_date": "2026-08-16",
-    "start_datetime": "2026-08-17T02:30:00+00:00",
-    "date_start": "2026-08-17T02:30:00+00:00",
-    "date_end": "2026-08-17T02:30:00+00:00",
+    "local_date": "2026-09-17",
+    "start_datetime": "2026-09-18T01:30:00+00:00",
+    "date_start": "2026-09-18T01:30:00+00:00",
+    "date_end": "2026-09-18T01:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 6,
-    "ai_reason": "Weezer's nostalgic appeal combined with their new material makes this show a highlight for fans of alternative rock."
-  },
-  {
-    "id": "G5vYZ_1mWZNyw",
-    "ids": [
-      "G5vYZ_1mWZNyw"
-    ],
-    "name": "LE SSERAFIM - 2026 LE SSERAFIM 'PUREFLOW' TOUR IN SAN JOSE",
-    "primary_artist": "LE SSERAFIM",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/le-sserafim-2026-le-sserafim-pureflow-san-jose-california-09-23-2026/event/1C0064ABBD023E72",
-    "window": "short_term",
-    "local_date": "2026-09-23",
-    "start_datetime": "2026-09-24T02:30:00+00:00",
-    "date_start": "2026-09-24T02:30:00+00:00",
-    "date_end": "2026-09-24T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6759999999999999,
-    "ai_priority": 6,
-    "ai_reason": "LE SSERAFIM's growing popularity in the K-pop scene makes their tour a must-see for fans of the genre."
-  },
-  {
-    "id": "G5vYZ_1DHczIz",
-    "ids": [
-      "G5vYZ_1DHczIz"
-    ],
-    "name": "LIVE 105 Presents The Smashing Pumpkins: The Rats in a Cage Tour",
-    "primary_artist": "The Smashing Pumpkins",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/live-105-presents-the-smashing-pumpkins-san-jose-california-11-08-2026/event/1C0064AEFCB78A38",
-    "window": "short_term",
-    "local_date": "2026-11-08",
-    "start_datetime": "2026-11-09T04:00:00+00:00",
-    "date_start": "2026-11-09T04:00:00+00:00",
-    "date_end": "2026-11-09T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6759999999999999,
-    "ai_priority": 6,
-    "ai_reason": "The Smashing Pumpkins' legacy and their upcoming tour are sure to attract both old and new fans."
+    "score": 0.6729999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Bleachers' tour is highly anticipated, promising an engaging live performance from a beloved indie pop act."
   },
   {
     "id": "G5vYZ_6RQGEcM",
@@ -295,44 +226,44 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6729999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Johnny Blue Skies' unique sound and engaging live performances make their tour an exciting prospect."
+    "ai_priority": 7,
+    "ai_reason": "Johnny Blue Skies' tour is a chance to see a rising artist with a compelling live presence."
   },
   {
-    "id": "G5vYZ_5VZPI4B",
+    "id": "G5vYZ_kQFX_FC",
     "ids": [
-      "G5vYZ_5VZPI4B"
+      "G5vYZ_kQFX_FC"
     ],
-    "name": "Mastodon",
-    "primary_artist": "Mastodon",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
+    "name": "Public Image Ltd - This Is Not The Last Tour",
+    "primary_artist": "Public Image Ltd",
+    "venue_name": "The Fillmore",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/mastodon-oakland-california-10-09-2026/event/1C0064BD0096857A",
+    "url": "https://www.ticketmaster.com/public-image-ltd-this-is-not-san-francisco-california-09-12-2026/event/1C00646688F9920E",
     "window": "short_term",
-    "local_date": "2026-10-09",
-    "start_datetime": "2026-10-10T02:00:00+00:00",
-    "date_start": "2026-10-10T02:00:00+00:00",
-    "date_end": "2026-10-10T02:00:00+00:00",
+    "local_date": "2026-09-12",
+    "start_datetime": "2026-09-13T03:00:00+00:00",
+    "date_start": "2026-09-13T03:00:00+00:00",
+    "date_end": "2026-09-13T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.664,
-    "ai_priority": 6,
-    "ai_reason": "Gary Clark Jr.'s blues-infused rock performances are known for their intensity and musicianship."
+    "ai_priority": 7,
+    "ai_reason": "Public Image Ltd's tour is a significant event for post-punk fans, showcasing their lasting influence."
   },
   {
-    "id": "G5vYZ_1NG_qrt",
+    "id": "G5vYZ_1h9Msjn",
     "ids": [
-      "G5vYZ_1NG_qrt"
+      "G5vYZ_1h9Msjn"
     ],
-    "name": "José González: Against The Dying Of The Light Tour",
-    "primary_artist": "Jose Gonzalez",
-    "venue_name": "Uptown Theatre Napa",
-    "city": "Napa",
+    "name": "Everything Everything: Get To Heaven, 10th Anniversary, North America",
+    "primary_artist": "Everything Everything",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/jose-gonzalez-against-the-dying-of-napa-california-09-25-2026/event/1C0064A8CC65D7A9",
+    "url": "https://www.ticketmaster.com/everything-everything-get-to-heaven-10th-san-francisco-california-09-25-2026/event/1C0064A6D7DF172A",
     "window": "short_term",
     "local_date": "2026-09-25",
     "start_datetime": "2026-09-26T03:00:00+00:00",
@@ -340,55 +271,124 @@
     "date_end": "2026-09-26T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.643,
-    "ai_priority": 6,
-    "ai_reason": "Jose Gonzalez's intimate performances and beautiful melodies create a captivating live experience."
+    "score": 0.649,
+    "ai_priority": 7,
+    "ai_reason": "Everything Everything's anniversary tour offers a unique opportunity to experience their innovative sound live."
   },
   {
-    "id": "G5vYZ_6eU7h08",
+    "id": "G5vYZ_5CHDJie",
     "ids": [
-      "G5vYZ_6eU7h08"
+      "G5vYZ_5CHDJie"
     ],
-    "name": "Morris Day and the Time and Sheila E.",
-    "primary_artist": "Morris Day and the Time",
+    "name": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
+    "primary_artist": "John Summit",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/john-summit-ctrl-escape-arena-tour-oakland-california-12-04-2026/event/1C0064B3BCEE6B02",
+    "window": "short_term",
+    "local_date": "2026-12-04",
+    "start_datetime": "2026-12-05T03:00:00+00:00",
+    "date_start": "2026-12-05T03:00:00+00:00",
+    "date_end": "2026-12-05T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6789999999999999,
+    "ai_priority": 6,
+    "ai_reason": "John Summit's tour is part of the growing electronic music scene, attracting fans eager for a vibrant live experience."
+  },
+  {
+    "id": "G5vYZ_k3Wj-BC",
+    "ids": [
+      "G5vYZ_k3Wj-BC"
+    ],
+    "name": "Social Distortion - Born To Kill World Tour",
+    "primary_artist": "Social Distortion",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/social-distortion-born-to-kill-world-oakland-california-09-29-2026/event/1C006464BD721E8E",
+    "window": "short_term",
+    "local_date": "2026-09-29",
+    "start_datetime": "2026-09-30T02:00:00+00:00",
+    "date_start": "2026-09-30T02:00:00+00:00",
+    "date_end": "2026-09-30T02:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.664,
+    "ai_priority": 6,
+    "ai_reason": "Social Distortion's tour is a must-see for punk rock enthusiasts, showcasing their enduring legacy."
+  },
+  {
+    "id": "G5vYZ_1Sa3k5o",
+    "ids": [
+      "G5vYZ_1Sa3k5o"
+    ],
+    "name": "Asal: Kiss the Sun Tour ",
+    "primary_artist": "Asal",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/asal-kiss-the-sun-tour-san-francisco-california-09-11-2026/event/1C0064ACC94862D1",
+    "window": "short_term",
+    "local_date": "2026-09-11",
+    "start_datetime": "2026-09-12T03:00:00+00:00",
+    "date_start": "2026-09-12T03:00:00+00:00",
+    "date_end": "2026-09-12T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.649,
+    "ai_priority": 6,
+    "ai_reason": "Asal's tour is gaining attention, promising a fresh sound and engaging live performance."
+  },
+  {
+    "id": "G5vYZ_1f5qfAc",
+    "ids": [
+      "G5vYZ_1f5qfAc"
+    ],
+    "name": "Switchfoot with special guest Anberlin - Forever Now Tour",
+    "primary_artist": "SWITCHFOOT",
     "venue_name": "Blue Note Napa Summer Sessions",
     "city": "Napa",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/morris-day-and-the-time-and-napa-california-08-21-2026/event/1C006470B611B910",
+    "url": "https://www.ticketmaster.com/switchfoot-with-special-guest-anberlin-forever-napa-california-10-23-2026/event/1C0064A50B75416D",
     "window": "short_term",
-    "local_date": "2026-08-21",
-    "start_datetime": "2026-08-22T02:00:00+00:00",
-    "date_start": "2026-08-22T02:00:00+00:00",
-    "date_end": "2026-08-22T02:00:00+00:00",
+    "local_date": "2026-10-23",
+    "start_datetime": "2026-10-24T02:00:00+00:00",
+    "date_start": "2026-10-24T02:00:00+00:00",
+    "date_end": "2026-10-24T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6669999999999999,
-    "ai_priority": 5,
-    "ai_reason": "Morris Day and the Time's legacy in funk music makes their performance a nostalgic event for fans."
+    "score": 0.637,
+    "ai_priority": 6,
+    "ai_reason": "Switchfoot's tour with Anberlin promises a nostalgic yet energetic show for fans of alternative rock."
   },
   {
-    "id": "G5vYZ_5IX0y73",
+    "id": "G5vYZ_6LqPWgq",
     "ids": [
-      "G5vYZ_5IX0y73"
+      "G5vYZ_6LqPWgq"
     ],
-    "name": "Bryson Tiller Presents: The Neo Trapsoul Tour",
-    "primary_artist": "Bryson Tiller",
-    "venue_name": "Toyota Pavilion at Concord",
-    "city": "Concord",
+    "name": "Jack Harlow - Monica Tour",
+    "primary_artist": "Jack Harlow",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/bryson-tiller-presents-the-neo-trapsoul-concord-california-10-27-2026/event/1C0064BA3E939112",
+    "url": "https://www.ticketmaster.com/jack-harlow-monica-tour-oakland-california-09-18-2026/event/1C006477DD97DD5D",
     "window": "short_term",
-    "local_date": "2026-10-27",
-    "start_datetime": "2026-10-28T02:30:00+00:00",
-    "date_start": "2026-10-28T02:30:00+00:00",
-    "date_end": "2026-10-28T02:30:00+00:00",
+    "local_date": "2026-09-18",
+    "start_datetime": "2026-09-19T03:00:00+00:00",
+    "date_start": "2026-09-19T03:00:00+00:00",
+    "date_end": "2026-09-19T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6340000000000001,
-    "ai_priority": 5,
-    "ai_reason": "Bryson Tiller's blend of R&B and hip-hop continues to resonate with audiences, making his tour significant."
+    "ai_priority": 6,
+    "ai_reason": "Jack Harlow's tour is expected to draw a large crowd, showcasing his rising star power in hip-hop."
   },
   {
     "id": "G5vYZ_dwWjIOa",
@@ -407,6 +407,29 @@
     "start_datetime": "2026-09-03T03:00:00+00:00",
     "date_start": "2026-09-03T03:00:00+00:00",
     "date_end": "2026-09-03T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.7149999999999999,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "G5vYZ_kw4eyPa",
+    "ids": [
+      "G5vYZ_kw4eyPa"
+    ],
+    "name": "LIVE 105 Presents WEEZER: The Gathering",
+    "primary_artist": "Weezer",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/live-105-presents-weezer-the-gathering-san-francisco-california-09-09-2026/event/1C00646C950B9949",
+    "window": "short_term",
+    "local_date": "2026-09-09",
+    "start_datetime": "2026-09-10T02:00:00+00:00",
+    "date_start": "2026-09-10T02:00:00+00:00",
+    "date_end": "2026-09-10T02:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.7149999999999999,
@@ -433,29 +456,6 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.7059999999999998,
-    "ai_priority": null,
-    "ai_reason": null
-  },
-  {
-    "id": "G5vYZ_57bppsB",
-    "ids": [
-      "G5vYZ_57bppsB"
-    ],
-    "name": "An Evening With David Byrne - Who is the Sky Tour",
-    "primary_artist": "David Byrne",
-    "venue_name": "Greek Theatre-U.C. Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/an-evening-with-david-byrne-who-berkeley-california-08-25-2026/event/1C0064B118596C7A",
-    "window": "short_term",
-    "local_date": "2026-08-25",
-    "start_datetime": "2026-08-26T03:00:00+00:00",
-    "date_start": "2026-08-26T03:00:00+00:00",
-    "date_end": "2026-08-26T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.7029999999999998,
     "ai_priority": null,
     "ai_reason": null
   }

@@ -1,31 +1,39 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 10 new show(s) since last run:
+Found 12 new show(s) since last run:
 
-- 2026-08-21 01:30 — The Black Crowes @ Shoreline Amphitheatre (Mountain View)
-    ▹ The Black Crowes are known for their energetic live performances, and their collaboration with Whiskey Myers adds a unique Southern rock flavor.
+- 2026-09-09 03:15 — Wave To Earth @ The Theater at Bill Graham Civic Auditorium (San Francisco)
+    ▹ Eagles of Death Metal brings high-energy rock with a cult following, promising an exciting live show.
 
-- 2026-08-29 03:00 — Sweet Pill @ August Hall (San Francisco)
-    ▹ Courtney Barnett's introspective lyrics and engaging stage presence make her shows a must-see for indie fans.
+- 2026-09-10 01:30 — Liz Phair @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Liz Phair and Sleater-Kinney together promise a nostalgic yet fresh experience for fans of indie rock.
 
-- 2026-08-21 03:00 — Corbyn Besson @ The Fillmore (San Francisco)
-    ▹ Corbyn Besson's rising popularity in the pop scene makes this tour one to watch for fans of contemporary pop music.
+- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
+    ▹ Gracie Abrams is gaining traction in the pop scene, making her tour a noteworthy event for fans of emerging artists.
 
-- 2026-08-30 03:00 — J. Cole @ Oakland Arena (Oakland)
-    ▹ J. Cole's live performances are renowned for their energy and connection with the audience, making this tour a highlight.
+- 2026-09-18 01:30 — Bleachers @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Bleachers' tour is highly anticipated, promising an engaging live performance from a beloved indie pop act.
 
-- 2026-08-17 03:00 — CORTIS @ The Theater at Bill Graham Civic Auditorium (San Francisco)
-    ▹ 5 Seconds of Summer's energetic performances and dedicated fanbase make this tour a significant event in the pop-punk scene.
+- 2026-09-13 03:00 — Public Image Ltd @ The Fillmore (San Francisco)
+    ▹ Public Image Ltd's tour is a significant event for post-punk fans, showcasing their lasting influence.
 
-- 2026-08-22 02:00 — Morris Day and the Time @ Blue Note Napa Summer Sessions (Napa)
-    ▹ Morris Day and the Time's legacy in funk music makes their performance a nostalgic event for fans.
+- 2026-09-26 03:00 — Everything Everything @ August Hall (San Francisco)
+    ▹ Everything Everything's anniversary tour offers a unique opportunity to experience their innovative sound live.
 
-- 2026-10-28 02:30 — Bryson Tiller @ Toyota Pavilion at Concord (Concord)
-    ▹ Bryson Tiller's blend of R&B and hip-hop continues to resonate with audiences, making his tour significant.
+- 2026-12-05 03:00 — John Summit @ Oakland Arena (Oakland)
+    ▹ John Summit's tour is part of the growing electronic music scene, attracting fans eager for a vibrant live experience.
 
-- 2026-09-03 03:00 — ZAYN @ Chase Center (San Francisco)
+- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
+    ▹ Social Distortion's tour is a must-see for punk rock enthusiasts, showcasing their enduring legacy.
 
-- 2026-08-28 02:30 — Mamamoo @ SAP Center at San Jose (San Jose)
+- 2026-09-12 03:00 — Asal @ August Hall (San Francisco)
+    ▹ Asal's tour is gaining attention, promising a fresh sound and engaging live performance.
 
-- 2026-08-26 03:00 — David Byrne @ Greek Theatre-U.C. Berkeley (Berkeley)
+- 2026-10-24 02:00 — SWITCHFOOT @ Blue Note Napa Summer Sessions (Napa)
+    ▹ Switchfoot's tour with Anberlin promises a nostalgic yet energetic show for fans of alternative rock.
+
+- 2026-09-19 03:00 — Jack Harlow @ Fox Theater - Oakland (Oakland)
+    ▹ Jack Harlow's tour is expected to draw a large crowd, showcasing his rising star power in hip-hop.
+
+- 2026-09-10 02:00 — Weezer @ Chase Center (San Francisco)

@@ -1,21 +1,33 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 6 new show(s) since last run:
+Found 10 new show(s) since last run:
 
-- 2026-12-09 04:00 — Angine de Poitrine @ Fox Theater - Oakland (Oakland)
-    ▹ Trivium's upcoming tour promises a powerful metal experience, appealing to fans of the genre.
+- 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
+    ▹ Gracie Abrams is gaining significant buzz as a rising pop artist, making her tour highly anticipated.
 
-- 2026-12-13 04:00 — Tiny Habits @ The Castro Theatre (San Francisco)
-    ▹ Ibeyi's unique blend of sounds and cultural influences makes their performance a compelling option for diverse music fans.
+- 2026-12-10 04:00 — The Jayhawks @ The Fillmore (San Francisco)
+    ▹ The Jayhawks have a strong legacy in alt-country, appealing to both nostalgia and new fans.
 
-- 2026-12-10 04:00 — Jamey Johnson @ San Jose Civic (San Jose)
-    ▹ Jamey Johnson's tour offers a chance to see a respected figure in country music, appealing to fans of the genre.
+- 2027-01-04 04:00 — Lord Huron @ Fox Theater - Oakland (Oakland)
+    ▹ Lord Huron's atmospheric live shows are a draw for indie rock fans, promising a captivating experience.
 
-- 2026-12-07 04:00 — Alicia Villarreal @ San Jose Civic (San Jose)
-    ▹ Alicia Villarreal's tour showcases her powerful voice and Latin music appeal, making it a noteworthy event.
+- 2026-12-13 04:00 — Virtual Riot @ San Jose Civic (San Jose)
+    ▹ Virtual Riot is a prominent name in electronic music, promising a high-energy experience.
 
-- 2027-01-29 04:00 → 2027-01-31 04:00 — The California Honeydrops @ The Fillmore (San Francisco) [multi-night x3]
-    ▹ The California Honeydrops are known for their lively performances, making their shows a fun experience.
+- 2027-01-22 04:00 — Beth Hart @ Uptown Theatre Napa (Napa)
+    ▹ Beth Hart's powerful vocals and blues-rock style attract a loyal following.
 
-- 2027-05-26 02:30 — Niall Horan @ Chase Center (San Francisco)
+- 2027-05-07 03:00 — French 79 @ The Fillmore (San Francisco)
+    ▹ French 79's electronic music is well-received in live settings, promising an engaging show.
+
+- 2027-01-29 04:00 → 2027-01-30 04:00 — The California Honeydrops @ The Fillmore (San Francisco) [multi-night x2]
+    ▹ Ibeyi's unique sound and cultural influences make for a compelling live performance.
+
+- 2027-05-28 18:30 — BottleRock Napa Valley @ Napa Valley Expo (Napa)
+    ▹ BottleRock Napa Valley is a major festival that attracts top-tier acts and a diverse crowd.
+
+- 2027-04-02 03:00 — The Mary Wallopers @ August Hall (San Francisco)
+    ▹ The Mary Wallopers bring a unique folk sound that resonates with fans of traditional music.
+
+- 2026-12-09 04:00 — HARBOUR @ Cafe Du Nord (San Francisco)
