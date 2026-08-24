@@ -1,121 +1,5 @@
 [
   {
-    "id": "G5vYZ_5mq0w7N",
-    "ids": [
-      "G5vYZ_5mq0w7N"
-    ],
-    "name": "Gracie Abrams: The Look at My Life Tour presented by Capital One",
-    "primary_artist": "Gracie Abrams",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/gracie-abrams-the-look-at-my-oakland-california-12-07-2026/event/1C0064BB9D932123",
-    "window": "far_out",
-    "local_date": "2026-12-07",
-    "start_datetime": "2026-12-08T04:00:00+00:00",
-    "date_start": "2026-12-08T04:00:00+00:00",
-    "date_end": "2026-12-08T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6789999999999999,
-    "ai_priority": 9,
-    "ai_reason": "Gracie Abrams is gaining significant buzz as a rising pop artist, making her tour highly anticipated."
-  },
-  {
-    "id": "G5vYZ_aMbKo0B",
-    "ids": [
-      "G5vYZ_aMbKo0B",
-      "G5vYZ_aMbfsP1"
-    ],
-    "name": "Olivia Rodrigo: The Unraveled Tour",
-    "primary_artist": "Olivia Rodrigo",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/olivia-rodrigo-the-unraveled-tour-oakland-california-12-11-2026/event/1C00649DD84D193A",
-    "window": "far_out",
-    "local_date": "2026-12-11",
-    "start_datetime": "2026-12-12T03:00:00+00:00",
-    "date_start": "2026-12-12T03:00:00+00:00",
-    "date_end": "2026-12-13T03:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.6489999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Olivia Rodrigo's live performances are known for their emotional intensity and strong fan engagement."
-  },
-  {
-    "id": "G5vYZ_1U8_jNx",
-    "ids": [
-      "G5vYZ_1U8_jNx"
-    ],
-    "name": "Angine de Poitrine",
-    "primary_artist": "Angine de Poitrine",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/angine-de-poitrine-oakland-california-12-08-2026/event/1C0064AD9065C8E2",
-    "window": "far_out",
-    "local_date": "2026-12-08",
-    "start_datetime": "2026-12-09T04:00:00+00:00",
-    "date_start": "2026-12-09T04:00:00+00:00",
-    "date_end": "2026-12-09T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.664,
-    "ai_priority": 7,
-    "ai_reason": "Niall Horan's Dinner Party Live On Tour promises a unique experience with an established pop star."
-  },
-  {
-    "id": "G5vYZ_53UKNHh",
-    "ids": [
-      "G5vYZ_53UKNHh"
-    ],
-    "name": "Strawberry Guy",
-    "primary_artist": "Strawberry Guy",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/strawberry-guy-san-francisco-california-12-10-2026/event/1C0064B4B64E3F1B",
-    "window": "far_out",
-    "local_date": "2026-12-10",
-    "start_datetime": "2026-12-11T04:00:00+00:00",
-    "date_start": "2026-12-11T04:00:00+00:00",
-    "date_end": "2026-12-11T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 7,
-    "ai_reason": "Strawberry Guy is an emerging indie artist with a fresh sound, likely to attract a dedicated audience."
-  },
-  {
-    "id": "G5vYZ_ud64RQU",
-    "ids": [
-      "G5vYZ_ud64RQU"
-    ],
-    "name": "Sanctuary Park Tour: Celebrating 40 Years of The Jayhawks ",
-    "primary_artist": "The Jayhawks",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/sanctuary-park-tour-celebrating-40-years-san-francisco-california-12-09-2026/event/1C0064D0C756F6B6",
-    "window": "far_out",
-    "local_date": "2026-12-09",
-    "start_datetime": "2026-12-10T04:00:00+00:00",
-    "date_start": "2026-12-10T04:00:00+00:00",
-    "date_end": "2026-12-10T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 6,
-    "ai_reason": "The Jayhawks have a strong legacy in alt-country, appealing to both nostalgia and new fans."
-  },
-  {
     "id": "G5vYZ_2MrSP3Q",
     "ids": [
       "G5vYZ_2MrSP3Q"
@@ -135,8 +19,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.634,
-    "ai_priority": 6,
-    "ai_reason": "Lord Huron's atmospheric live shows are a draw for indie rock fans, promising a captivating experience."
+    "ai_priority": 9,
+    "ai_reason": "Lord Huron has a strong live reputation and their atmospheric sound is perfect for the Fox Theater."
   },
   {
     "id": "G5vYZ_Gf0ezoV",
@@ -158,8 +42,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.634,
-    "ai_priority": 6,
-    "ai_reason": "Sylvan Esso is known for their engaging electronic performances, appealing to a diverse audience."
+    "ai_priority": 9,
+    "ai_reason": "Sylvan Esso's unique blend of electronic and indie pop makes for an engaging live experience."
   },
   {
     "id": "G5vYZ_5KszTeQ",
@@ -181,31 +65,77 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.634,
-    "ai_priority": 6,
-    "ai_reason": "Nothing But Thieves are recognized for their energetic live shows and strong fanbase."
+    "ai_priority": 8,
+    "ai_reason": "Nothing But Thieves are known for their high-energy performances and compelling rock sound."
   },
   {
-    "id": "G5vYZ_uk9C1cy",
+    "id": "G5vYZ_oK5HLNw",
     "ids": [
-      "G5vYZ_uk9C1cy"
+      "G5vYZ_oK5HLNw"
     ],
-    "name": "Virtual Riot & Blanke - Far From Home Tour",
-    "primary_artist": "Virtual Riot",
-    "venue_name": "San Jose Civic",
-    "city": "San Jose",
+    "name": "Stella Lefty: Long Way Home Tour",
+    "primary_artist": "Stella Lefty",
+    "venue_name": "The Masonic",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/virtual-riot-blanke-far-from-home-san-jose-california-12-12-2026/event/1C0064D19738AB79",
+    "url": "https://www.ticketmaster.com/stella-lefty-long-way-home-tour-san-francisco-california-02-09-2027/event/1C006514CBF1F8F2",
     "window": "far_out",
-    "local_date": "2026-12-12",
-    "start_datetime": "2026-12-13T04:00:00+00:00",
-    "date_start": "2026-12-13T04:00:00+00:00",
-    "date_end": "2026-12-13T04:00:00+00:00",
+    "local_date": "2027-02-09",
+    "start_datetime": "2027-02-10T04:00:00+00:00",
+    "date_start": "2027-02-10T04:00:00+00:00",
+    "date_end": "2027-02-10T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.631,
-    "ai_priority": 6,
-    "ai_reason": "Virtual Riot is a prominent name in electronic music, promising a high-energy experience."
+    "ai_priority": 8,
+    "ai_reason": "Stella Lefty is gaining buzz with her fresh sound and engaging stage presence."
+  },
+  {
+    "id": "G5vYZ_195TiVO",
+    "ids": [
+      "G5vYZ_195TiVO"
+    ],
+    "name": "Niall Horan: Dinner Party Live On Tour",
+    "primary_artist": "Niall Horan",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
+    "window": "far_out",
+    "local_date": "2027-05-25",
+    "start_datetime": "2027-05-26T02:30:00+00:00",
+    "date_start": "2027-05-26T02:30:00+00:00",
+    "date_end": "2027-05-26T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6549999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Niall Horan's popularity and strong fan base make this a noteworthy event at the Chase Center."
+  },
+  {
+    "id": "Z7r9jZ1A70_4z",
+    "ids": [
+      "Z7r9jZ1A70_4z"
+    ],
+    "name": "Blue October",
+    "primary_artist": "Blue October",
+    "venue_name": "The Regency Ballroom",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_4z",
+    "window": "far_out",
+    "local_date": "2027-02-18",
+    "start_datetime": "2027-02-19T04:00:00+00:00",
+    "date_start": "2027-02-19T04:00:00+00:00",
+    "date_end": "2027-02-19T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.628,
+    "ai_priority": 7,
+    "ai_reason": "Blue October's emotional performances resonate well with their dedicated fan base."
   },
   {
     "id": "G5vYZ_CUC0Jxp",
@@ -227,8 +157,123 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.625,
+    "ai_priority": 7,
+    "ai_reason": "Jesse Cook's guitar skills and world music influences create a captivating live show."
+  },
+  {
+    "id": "Z7r9jZ1A70o1d",
+    "ids": [
+      "Z7r9jZ1A70o1d"
+    ],
+    "name": "Bouncing Souls w/ The Suicide Machines",
+    "primary_artist": "The Bouncing Souls",
+    "venue_name": "The UC Theatre",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70o1d",
+    "window": "far_out",
+    "local_date": "2027-02-17",
+    "start_datetime": "2027-02-18T03:00:00+00:00",
+    "date_start": "2027-02-18T03:00:00+00:00",
+    "date_end": "2027-02-18T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.622,
+    "ai_priority": 6,
+    "ai_reason": "The Bouncing Souls bring a nostalgic punk energy that appeals to a dedicated audience."
+  },
+  {
+    "id": "rZ7HnEZ1Afa7x7",
+    "ids": [
+      "rZ7HnEZ1Afa7x7"
+    ],
+    "name": "Com Truise b2b Matthew Dear",
+    "primary_artist": "Com Truise",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/com-truise-b2b-matthew-dear-the-independent-tickets/14244884",
+    "window": "far_out",
+    "local_date": "2027-01-08",
+    "start_datetime": "2027-01-09T05:00:00+00:00",
+    "date_start": "2027-01-09T05:00:00+00:00",
+    "date_end": "2027-01-09T05:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 6,
+    "ai_reason": "Com Truise's electronic sound paired with Matthew Dear promises a unique live experience."
+  },
+  {
+    "id": "G5vYZbVDFHBDS",
+    "ids": [
+      "G5vYZbVDFHBDS"
+    ],
+    "name": "VNV Nation - An Evening With",
+    "primary_artist": "VNV Nation",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/vnv-nation-an-evening-with-san-francisco-california-03-21-2027/event/1C00634EC8F3AEF3",
+    "window": "far_out",
+    "local_date": "2027-03-21",
+    "start_datetime": "2027-03-22T02:30:00+00:00",
+    "date_start": "2027-03-22T02:30:00+00:00",
+    "date_end": "2027-03-22T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 6,
+    "ai_reason": "VNV Nation's blend of electronic and industrial music has a strong following and engaging live shows."
+  },
+  {
+    "id": "G5vYZ_82GUJke",
+    "ids": [
+      "G5vYZ_82GUJke"
+    ],
+    "name": "The Mary Wallopers",
+    "primary_artist": "The Mary Wallopers",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-mary-wallopers-san-francisco-california-04-01-2027/event/1C006503CCDA6182",
+    "window": "far_out",
+    "local_date": "2027-04-01",
+    "start_datetime": "2027-04-02T03:00:00+00:00",
+    "date_start": "2027-04-02T03:00:00+00:00",
+    "date_end": "2027-04-02T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 6,
+    "ai_reason": "The Mary Wallopers offer a unique folk sound that stands out in the current music scene."
+  },
+  {
+    "id": "G5vYZ_CPsSVwE",
+    "ids": [
+      "G5vYZ_CPsSVwE"
+    ],
+    "name": "Five For Fighting with String Quartet",
+    "primary_artist": "Five for Fighting",
+    "venue_name": "Uptown Theatre Napa",
+    "city": "Napa",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/five-for-fighting-with-string-quartet-napa-california-01-19-2027/event/1C0064E971CF4CA7",
+    "window": "far_out",
+    "local_date": "2027-01-19",
+    "start_datetime": "2027-01-20T04:00:00+00:00",
+    "date_start": "2027-01-20T04:00:00+00:00",
+    "date_end": "2027-01-20T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.613,
     "ai_priority": 5,
-    "ai_reason": "Jesse Cook's fusion of world music and guitar mastery appeals to a niche but dedicated audience."
+    "ai_reason": "Five For Fighting's nostalgic hits resonate well with audiences, making for a solid performance."
   },
   {
     "id": "G5vYZ_2NiKcTO",
@@ -251,7 +296,7 @@
     "night_count": 1,
     "score": 0.613,
     "ai_priority": 5,
-    "ai_reason": "Beth Hart's powerful vocals and blues-rock style attract a loyal following."
+    "ai_reason": "Beth Hart's powerful vocals and bluesy sound make her a compelling live act."
   },
   {
     "id": "G5vYZ_FJIGjct",
@@ -274,36 +319,35 @@
     "night_count": 1,
     "score": 0.5890000000000001,
     "ai_priority": 5,
-    "ai_reason": "French 79's electronic music is well-received in live settings, promising an engaging show."
+    "ai_reason": "French 79's electronic sound is perfect for a vibrant live setting at The Fillmore."
   },
   {
-    "id": "G5vYZ_G3WCt2E",
+    "id": "G5vYZ_kQ5Ey-u",
     "ids": [
-      "G5vYZ_G3WCt2E"
+      "G5vYZ_kQ5Ey-u"
     ],
-    "name": "Tiny Habits - The Keepers Tour",
-    "primary_artist": "Tiny Habits",
-    "venue_name": "The Castro Theatre",
+    "name": "Rhiannon Giddens",
+    "primary_artist": "Rhiannon Giddens",
+    "venue_name": "The Fillmore",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/tiny-habits-the-keepers-tour-san-francisco-california-12-12-2026/event/1C0064C4BD3A93E7",
+    "url": "https://www.ticketmaster.com/rhiannon-giddens-san-francisco-california-02-09-2027/event/1C0064668B9F984D",
     "window": "far_out",
-    "local_date": "2026-12-12",
-    "start_datetime": "2026-12-13T04:00:00+00:00",
-    "date_start": "2026-12-13T04:00:00+00:00",
-    "date_end": "2026-12-13T04:00:00+00:00",
+    "local_date": "2027-02-09",
+    "start_datetime": "2027-02-10T04:00:00+00:00",
+    "date_start": "2027-02-10T04:00:00+00:00",
+    "date_end": "2027-02-10T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.58,
+    "score": 0.5740000000000001,
     "ai_priority": 5,
-    "ai_reason": "The California Honeydrops are known for their lively performances, blending genres and engaging audiences."
+    "ai_reason": "Rhiannon Giddens brings a unique blend of folk and roots music that captivates audiences."
   },
   {
     "id": "G5vYZ_C6wKPtg",
     "ids": [
-      "G5vYZ_C6wKPtg",
-      "G5vYZ_C6wf4nb"
+      "G5vYZ_C6wKPtg"
     ],
     "name": "THE CALIFORNIA HONEYDROPS - SAN FRANCISCO 2027 With Family & Friends",
     "primary_artist": "The California Honeydrops",
@@ -316,102 +360,102 @@
     "local_date": "2027-01-28",
     "start_datetime": "2027-01-29T04:00:00+00:00",
     "date_start": "2027-01-29T04:00:00+00:00",
-    "date_end": "2027-01-30T04:00:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
+    "date_end": "2027-01-29T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
     "score": 0.544,
     "ai_priority": 5,
-    "ai_reason": "Ibeyi's unique sound and cultural influences make for a compelling live performance."
+    "ai_reason": "The California Honeydrops offer a lively mix of genres that creates an engaging atmosphere."
   },
   {
-    "id": "G5vYZ_5pjciOj",
+    "id": "G5vYZ_8RMVL2x",
     "ids": [
-      "G5vYZ_5pjciOj"
+      "G5vYZ_8RMVL2x"
     ],
-    "name": "BottleRock Napa Valley",
-    "primary_artist": "BottleRock Napa Valley",
-    "venue_name": "Napa Valley Expo",
-    "city": "Napa",
+    "name": "Yuri & Lucero - ENTRE AMIGAS TOUR",
+    "primary_artist": "Yuri",
+    "venue_name": "SAP Center at San Jose",
+    "city": "San Jose",
     "state": "CA",
     "country": "US",
-    "url": "https://on.fgtix.com/trk/6lUK",
+    "url": "https://www.ticketmaster.com/yuri-lucero-entre-amigas-tour-san-jose-california-04-15-2027/event/1C00650BF7D1F3E2",
     "window": "far_out",
-    "local_date": "2027-05-28",
-    "start_datetime": "2027-05-28T18:30:00+00:00",
-    "date_start": "2027-05-28T18:30:00+00:00",
-    "date_end": "2027-05-28T18:30:00+00:00",
+    "local_date": "2027-04-15",
+    "start_datetime": "2027-04-16T03:00:00+00:00",
+    "date_start": "2027-04-16T03:00:00+00:00",
+    "date_end": "2027-04-16T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.49,
-    "ai_priority": 5,
-    "ai_reason": "BottleRock Napa Valley is a major festival that attracts top-tier acts and a diverse crowd."
-  },
-  {
-    "id": "G5vYZ_82GUJke",
-    "ids": [
-      "G5vYZ_82GUJke"
-    ],
-    "name": "The Mary Wallopers",
-    "primary_artist": "The Mary Wallopers",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-mary-wallopers-san-francisco-california-04-01-2027/event/1C006503CCDA6182",
-    "window": "far_out",
-    "local_date": "2027-04-01",
-    "start_datetime": "2027-04-02T03:00:00+00:00",
-    "date_start": "2027-04-02T03:00:00+00:00",
-    "date_end": "2027-04-02T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.619,
-    "ai_priority": 4,
-    "ai_reason": "The Mary Wallopers bring a unique folk sound that resonates with fans of traditional music."
-  },
-  {
-    "id": "G5vYZ_195TiVO",
-    "ids": [
-      "G5vYZ_195TiVO"
-    ],
-    "name": "Niall Horan: Dinner Party Live On Tour",
-    "primary_artist": "Niall Horan",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
-    "window": "far_out",
-    "local_date": "2027-05-25",
-    "start_datetime": "2027-05-26T02:30:00+00:00",
-    "date_start": "2027-05-26T02:30:00+00:00",
-    "date_end": "2027-05-26T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
+    "score": 0.6459999999999999,
     "ai_priority": null,
     "ai_reason": null
   },
   {
-    "id": "rZ7HnEZ1AfFkr7",
+    "id": "rZ7HnEZ1AfaU47",
     "ids": [
-      "rZ7HnEZ1AfFkr7"
+      "rZ7HnEZ1AfaU47"
     ],
-    "name": "HARBOUR",
-    "primary_artist": "HARBOUR",
-    "venue_name": "Cafe Du Nord",
+    "name": "Vansire",
+    "primary_artist": "Vansire",
+    "venue_name": "Bimbo's 365 Club",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketweb.com/event/harbour-cafe-du-nord-tickets/14206784",
+    "url": "https://www.ticketweb.com/event/vansire-bimbos-365-club-tickets/14276544",
     "window": "far_out",
-    "local_date": "2026-12-08",
-    "start_datetime": "2026-12-09T04:00:00+00:00",
-    "date_start": "2026-12-09T04:00:00+00:00",
-    "date_end": "2026-12-09T04:00:00+00:00",
+    "local_date": "2027-02-01",
+    "start_datetime": "2027-02-02T04:00:00+00:00",
+    "date_start": "2027-02-02T04:00:00+00:00",
+    "date_end": "2027-02-02T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.628,
+    "score": 0.619,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "rZ7HnEZ1Afe9uf",
+    "ids": [
+      "rZ7HnEZ1Afe9uf"
+    ],
+    "name": "POSTPONED: Dogma",
+    "primary_artist": "Dogma",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/postponed-dogma-the-independent-tickets/14097354",
+    "window": "far_out",
+    "local_date": "2027-03-17",
+    "start_datetime": "2027-03-18T03:00:00+00:00",
+    "date_start": "2027-03-18T03:00:00+00:00",
+    "date_end": "2027-03-18T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "rZ7HnEZ1Afak4f",
+    "ids": [
+      "rZ7HnEZ1Afak4f"
+    ],
+    "name": "Dan and Peggy Reeder",
+    "primary_artist": "Dan and Peggy Reeder",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/dan-and-peggy-reeder-the-independent-tickets/14246554",
+    "window": "far_out",
+    "local_date": "2027-03-25",
+    "start_datetime": "2027-03-26T03:00:00+00:00",
+    "date_start": "2027-03-26T03:00:00+00:00",
+    "date_end": "2027-03-26T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
     "ai_priority": null,
     "ai_reason": null
   }

@@ -1,33 +1,36 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 10 new show(s) since last run:
+Found 12 new show(s) since last run:
 
-- 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
-    ▹ Gracie Abrams is gaining significant buzz as a rising pop artist, making her tour highly anticipated.
+- 2027-02-10 04:00 — Stella Lefty @ The Masonic (San Francisco)
+    ▹ Stella Lefty is gaining buzz with her fresh sound and engaging stage presence.
 
-- 2026-12-10 04:00 — The Jayhawks @ The Fillmore (San Francisco)
-    ▹ The Jayhawks have a strong legacy in alt-country, appealing to both nostalgia and new fans.
+- 2027-02-19 04:00 — Blue October @ The Regency Ballroom (San Francisco)
+    ▹ Blue October's emotional performances resonate well with their dedicated fan base.
 
-- 2027-01-04 04:00 — Lord Huron @ Fox Theater - Oakland (Oakland)
-    ▹ Lord Huron's atmospheric live shows are a draw for indie rock fans, promising a captivating experience.
+- 2027-02-18 03:00 — The Bouncing Souls @ The UC Theatre (Berkeley)
+    ▹ The Bouncing Souls bring a nostalgic punk energy that appeals to a dedicated audience.
 
-- 2026-12-13 04:00 — Virtual Riot @ San Jose Civic (San Jose)
-    ▹ Virtual Riot is a prominent name in electronic music, promising a high-energy experience.
+- 2027-01-09 05:00 — Com Truise @ The Independent (San Francisco)
+    ▹ Com Truise's electronic sound paired with Matthew Dear promises a unique live experience.
 
-- 2027-01-22 04:00 — Beth Hart @ Uptown Theatre Napa (Napa)
-    ▹ Beth Hart's powerful vocals and blues-rock style attract a loyal following.
+- 2027-03-22 02:30 — VNV Nation @ August Hall (San Francisco)
+    ▹ VNV Nation's blend of electronic and industrial music has a strong following and engaging live shows.
 
-- 2027-05-07 03:00 — French 79 @ The Fillmore (San Francisco)
-    ▹ French 79's electronic music is well-received in live settings, promising an engaging show.
+- 2027-01-20 04:00 — Five for Fighting @ Uptown Theatre Napa (Napa)
+    ▹ Five For Fighting's nostalgic hits resonate well with audiences, making for a solid performance.
 
-- 2027-01-29 04:00 → 2027-01-30 04:00 — The California Honeydrops @ The Fillmore (San Francisco) [multi-night x2]
-    ▹ Ibeyi's unique sound and cultural influences make for a compelling live performance.
+- 2027-02-10 04:00 — Rhiannon Giddens @ The Fillmore (San Francisco)
+    ▹ Rhiannon Giddens brings a unique blend of folk and roots music that captivates audiences.
 
-- 2027-05-28 18:30 — BottleRock Napa Valley @ Napa Valley Expo (Napa)
-    ▹ BottleRock Napa Valley is a major festival that attracts top-tier acts and a diverse crowd.
+- 2027-01-29 04:00 — The California Honeydrops @ The Fillmore (San Francisco)
+    ▹ The California Honeydrops offer a lively mix of genres that creates an engaging atmosphere.
 
-- 2027-04-02 03:00 — The Mary Wallopers @ August Hall (San Francisco)
-    ▹ The Mary Wallopers bring a unique folk sound that resonates with fans of traditional music.
+- 2027-04-16 03:00 — Yuri @ SAP Center at San Jose (San Jose)
 
-- 2026-12-09 04:00 — HARBOUR @ Cafe Du Nord (San Francisco)
+- 2027-02-02 04:00 — Vansire @ Bimbo's 365 Club (San Francisco)
+
+- 2027-03-18 03:00 — Dogma @ The Independent (San Francisco)
+
+- 2027-03-26 03:00 — Dan and Peggy Reeder @ The Independent (San Francisco)

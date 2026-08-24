@@ -1,39 +1,36 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 12 new show(s) since last run:
+Found 11 new show(s) since last run:
 
-- 2026-09-09 03:15 — Wave To Earth @ The Theater at Bill Graham Civic Auditorium (San Francisco)
-    ▹ Eagles of Death Metal brings high-energy rock with a cult following, promising an exciting live show.
+- 2026-09-12 03:00 — Foster the People @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Foster the People are known for their engaging live shows and catchy hits.
 
-- 2026-09-10 01:30 — Liz Phair @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Liz Phair and Sleater-Kinney together promise a nostalgic yet fresh experience for fans of indie rock.
+- 2026-09-24 02:30 — LE SSERAFIM @ SAP Center at San Jose (San Jose)
+    ▹ LE SSERAFIM's rising popularity and energetic performances make this a hot ticket.
 
-- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
-    ▹ Gracie Abrams is gaining traction in the pop scene, making her tour a noteworthy event for fans of emerging artists.
+- 2026-09-23 03:00 — Jay Park @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Jay Park's blend of hip-hop and R&B with a strong live presence is a highlight.
 
-- 2026-09-18 01:30 — Bleachers @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Bleachers' tour is highly anticipated, promising an engaging live performance from a beloved indie pop act.
+- 2026-09-14 03:00 — Manchester Orchestra @ The Fillmore (San Francisco)
+    ▹ Manchester Orchestra's anniversary tour promises a nostalgic experience.
 
-- 2026-09-13 03:00 — Public Image Ltd @ The Fillmore (San Francisco)
-    ▹ Public Image Ltd's tour is a significant event for post-punk fans, showcasing their lasting influence.
+- 2026-09-20 03:00 — The Matches @ The Fillmore (San Francisco)
+    ▹ The Matches' 20th anniversary show is a celebration of their influential sound.
 
-- 2026-09-26 03:00 — Everything Everything @ August Hall (San Francisco)
-    ▹ Everything Everything's anniversary tour offers a unique opportunity to experience their innovative sound live.
+- 2026-09-10 03:00 — Slayyyter @ Fox Theater - Oakland (Oakland)
+    ▹ Slayyyter's rising star power and engaging performances are a must-see.
 
-- 2026-12-05 03:00 — John Summit @ Oakland Arena (Oakland)
-    ▹ John Summit's tour is part of the growing electronic music scene, attracting fans eager for a vibrant live experience.
+- 2026-09-19 03:00 — The Exploited @ August Hall (San Francisco)
+    ▹ The Exploited's punk legacy and live energy are sure to attract fans.
 
-- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
-    ▹ Social Distortion's tour is a must-see for punk rock enthusiasts, showcasing their enduring legacy.
+- 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
+    ▹ Beck's innovative sound and engaging performances make this a must-see.
 
-- 2026-09-12 03:00 — Asal @ August Hall (San Francisco)
-    ▹ Asal's tour is gaining attention, promising a fresh sound and engaging live performance.
+- 2026-10-31 03:00 — Shpongle @ Fox Theater - Oakland (Oakland)
+    ▹ Shpongle's live shows are known for their immersive and unique experiences.
 
-- 2026-10-24 02:00 — SWITCHFOOT @ Blue Note Napa Summer Sessions (Napa)
-    ▹ Switchfoot's tour with Anberlin promises a nostalgic yet energetic show for fans of alternative rock.
+- 2026-09-23 03:00 — Chance The Rapper @ The Masonic (San Francisco)
+    ▹ Chance The Rapper's anniversary tour promises a memorable and energetic show.
 
-- 2026-09-19 03:00 — Jack Harlow @ Fox Theater - Oakland (Oakland)
-    ▹ Jack Harlow's tour is expected to draw a large crowd, showcasing his rising star power in hip-hop.
-
-- 2026-09-10 02:00 — Weezer @ Chase Center (San Francisco)
+- 2026-09-11 03:00 — Soda Stereo @ SAP Center at San Jose (San Jose)
