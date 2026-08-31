@@ -19,8 +19,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.634,
-    "ai_priority": 9,
-    "ai_reason": "Lord Huron has a strong live reputation and their atmospheric sound is perfect for the Fox Theater."
+    "ai_priority": 10,
+    "ai_reason": "Lord Huron has a strong live reputation and a dedicated fanbase, making this a highly anticipated show."
   },
   {
     "id": "G5vYZ_Gf0ezoV",
@@ -43,7 +43,7 @@
     "night_count": 1,
     "score": 0.634,
     "ai_priority": 9,
-    "ai_reason": "Sylvan Esso's unique blend of electronic and indie pop makes for an engaging live experience."
+    "ai_reason": "Sylvan Esso's unique blend of electronic and folk has garnered significant buzz, ensuring an engaging live performance."
   },
   {
     "id": "G5vYZ_5KszTeQ",
@@ -66,7 +66,7 @@
     "night_count": 1,
     "score": 0.634,
     "ai_priority": 8,
-    "ai_reason": "Nothing But Thieves are known for their high-energy performances and compelling rock sound."
+    "ai_reason": "Nothing But Thieves is known for their powerful live shows and emotional depth, appealing to a wide audience."
   },
   {
     "id": "G5vYZ_oK5HLNw",
@@ -89,30 +89,30 @@
     "night_count": 1,
     "score": 0.631,
     "ai_priority": 8,
-    "ai_reason": "Stella Lefty is gaining buzz with her fresh sound and engaging stage presence."
+    "ai_reason": "Stella Lefty's rising profile and engaging performances make this show a must-see."
   },
   {
-    "id": "G5vYZ_195TiVO",
+    "id": "G5vYZ_GRA3gjR",
     "ids": [
-      "G5vYZ_195TiVO"
+      "G5vYZ_GRA3gjR"
     ],
-    "name": "Niall Horan: Dinner Party Live On Tour",
-    "primary_artist": "Niall Horan",
-    "venue_name": "Chase Center",
+    "name": "Polyphia: BE NOT AFRAID World Tour ",
+    "primary_artist": "Polyphia",
+    "venue_name": "The Masonic",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
+    "url": "https://www.ticketmaster.com/polyphia-be-not-afraid-world-tour-san-francisco-california-02-14-2027/event/1C0064CBC54B572F",
     "window": "far_out",
-    "local_date": "2027-05-25",
-    "start_datetime": "2027-05-26T02:30:00+00:00",
-    "date_start": "2027-05-26T02:30:00+00:00",
-    "date_end": "2027-05-26T02:30:00+00:00",
+    "local_date": "2027-02-14",
+    "start_datetime": "2027-02-15T03:30:00+00:00",
+    "date_start": "2027-02-15T03:30:00+00:00",
+    "date_end": "2027-02-15T03:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.6549999999999999,
+    "score": 0.631,
     "ai_priority": 7,
-    "ai_reason": "Niall Horan's popularity and strong fan base make this a noteworthy event at the Chase Center."
+    "ai_reason": "Polyphia's innovative sound and impressive musicianship promise a captivating live experience."
   },
   {
     "id": "Z7r9jZ1A70_4z",
@@ -135,7 +135,7 @@
     "night_count": 1,
     "score": 0.628,
     "ai_priority": 7,
-    "ai_reason": "Blue October's emotional performances resonate well with their dedicated fan base."
+    "ai_reason": "Blue October's emotional lyrics and strong connection with fans make their live shows memorable."
   },
   {
     "id": "G5vYZ_CUC0Jxp",
@@ -157,31 +157,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.625,
-    "ai_priority": 7,
-    "ai_reason": "Jesse Cook's guitar skills and world music influences create a captivating live show."
-  },
-  {
-    "id": "Z7r9jZ1A70o1d",
-    "ids": [
-      "Z7r9jZ1A70o1d"
-    ],
-    "name": "Bouncing Souls w/ The Suicide Machines",
-    "primary_artist": "The Bouncing Souls",
-    "venue_name": "The UC Theatre",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70o1d",
-    "window": "far_out",
-    "local_date": "2027-02-17",
-    "start_datetime": "2027-02-18T03:00:00+00:00",
-    "date_start": "2027-02-18T03:00:00+00:00",
-    "date_end": "2027-02-18T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.622,
     "ai_priority": 6,
-    "ai_reason": "The Bouncing Souls bring a nostalgic punk energy that appeals to a dedicated audience."
+    "ai_reason": "Jesse Cook's fusion of world music and guitar virtuosity offers a unique concert experience."
   },
   {
     "id": "rZ7HnEZ1Afa7x7",
@@ -204,30 +181,53 @@
     "night_count": 1,
     "score": 0.619,
     "ai_priority": 6,
-    "ai_reason": "Com Truise's electronic sound paired with Matthew Dear promises a unique live experience."
+    "ai_reason": "Com Truise's electronic soundscapes paired with Matthew Dear's artistry will create a memorable night."
   },
   {
-    "id": "G5vYZbVDFHBDS",
+    "id": "rZ7HnEZ1Af16_V",
     "ids": [
-      "G5vYZbVDFHBDS"
+      "rZ7HnEZ1Af16_V"
     ],
-    "name": "VNV Nation - An Evening With",
-    "primary_artist": "VNV Nation",
-    "venue_name": "August Hall",
+    "name": "STS9",
+    "primary_artist": "STS9",
+    "venue_name": "The Independent",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/vnv-nation-an-evening-with-san-francisco-california-03-21-2027/event/1C00634EC8F3AEF3",
+    "url": "https://www.ticketweb.com/event/sts9-the-independent-tickets/14287674",
     "window": "far_out",
-    "local_date": "2027-03-21",
-    "start_datetime": "2027-03-22T02:30:00+00:00",
-    "date_start": "2027-03-22T02:30:00+00:00",
-    "date_end": "2027-03-22T02:30:00+00:00",
+    "local_date": "2027-01-17",
+    "start_datetime": "2027-01-18T04:00:00+00:00",
+    "date_start": "2027-01-18T04:00:00+00:00",
+    "date_end": "2027-01-18T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.619,
     "ai_priority": 6,
-    "ai_reason": "VNV Nation's blend of electronic and industrial music has a strong following and engaging live shows."
+    "ai_reason": "STS9's blend of electronic and jam band styles is sure to attract a diverse crowd."
+  },
+  {
+    "id": "rZ7HnEZ1AfaU47",
+    "ids": [
+      "rZ7HnEZ1AfaU47"
+    ],
+    "name": "Vansire",
+    "primary_artist": "Vansire",
+    "venue_name": "Bimbo's 365 Club",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/vansire-bimbos-365-club-tickets/14276544",
+    "window": "far_out",
+    "local_date": "2027-02-01",
+    "start_datetime": "2027-02-02T04:00:00+00:00",
+    "date_start": "2027-02-02T04:00:00+00:00",
+    "date_end": "2027-02-02T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 6,
+    "ai_reason": "Vansire's dreamy sound and engaging live performances make them a rising act to watch."
   },
   {
     "id": "G5vYZ_82GUJke",
@@ -249,77 +249,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.619,
-    "ai_priority": 6,
-    "ai_reason": "The Mary Wallopers offer a unique folk sound that stands out in the current music scene."
-  },
-  {
-    "id": "G5vYZ_CPsSVwE",
-    "ids": [
-      "G5vYZ_CPsSVwE"
-    ],
-    "name": "Five For Fighting with String Quartet",
-    "primary_artist": "Five for Fighting",
-    "venue_name": "Uptown Theatre Napa",
-    "city": "Napa",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/five-for-fighting-with-string-quartet-napa-california-01-19-2027/event/1C0064E971CF4CA7",
-    "window": "far_out",
-    "local_date": "2027-01-19",
-    "start_datetime": "2027-01-20T04:00:00+00:00",
-    "date_start": "2027-01-20T04:00:00+00:00",
-    "date_end": "2027-01-20T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.613,
     "ai_priority": 5,
-    "ai_reason": "Five For Fighting's nostalgic hits resonate well with audiences, making for a solid performance."
-  },
-  {
-    "id": "G5vYZ_2NiKcTO",
-    "ids": [
-      "G5vYZ_2NiKcTO"
-    ],
-    "name": "Beth Hart",
-    "primary_artist": "Beth Hart",
-    "venue_name": "Uptown Theatre Napa",
-    "city": "Napa",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/beth-hart-napa-california-01-21-2027/event/1C0064F8EC4EDFE0",
-    "window": "far_out",
-    "local_date": "2027-01-21",
-    "start_datetime": "2027-01-22T04:00:00+00:00",
-    "date_start": "2027-01-22T04:00:00+00:00",
-    "date_end": "2027-01-22T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.613,
-    "ai_priority": 5,
-    "ai_reason": "Beth Hart's powerful vocals and bluesy sound make her a compelling live act."
-  },
-  {
-    "id": "G5vYZ_FJIGjct",
-    "ids": [
-      "G5vYZ_FJIGjct"
-    ],
-    "name": "French 79 - Close To The Giants",
-    "primary_artist": "French 79",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/french-79-close-to-the-giants-san-francisco-california-05-06-2027/event/1C006489A831CB69",
-    "window": "far_out",
-    "local_date": "2027-05-06",
-    "start_datetime": "2027-05-07T03:00:00+00:00",
-    "date_start": "2027-05-07T03:00:00+00:00",
-    "date_end": "2027-05-07T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.5890000000000001,
-    "ai_priority": 5,
-    "ai_reason": "French 79's electronic sound is perfect for a vibrant live setting at The Fillmore."
+    "ai_reason": "The Mary Wallopers' unique sound and energetic performances make them a standout act."
   },
   {
     "id": "G5vYZ_kQ5Ey-u",
@@ -342,7 +273,30 @@
     "night_count": 1,
     "score": 0.5740000000000001,
     "ai_priority": 5,
-    "ai_reason": "Rhiannon Giddens brings a unique blend of folk and roots music that captivates audiences."
+    "ai_reason": "Rhiannon Giddens brings a rich musical heritage and powerful storytelling to her performances."
+  },
+  {
+    "id": "Z7r9jZ1A70Iuy",
+    "ids": [
+      "Z7r9jZ1A70Iuy"
+    ],
+    "name": "Book of Love",
+    "primary_artist": "Book of Love",
+    "venue_name": "The Chapel",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70Iuy",
+    "window": "far_out",
+    "local_date": "2027-01-15",
+    "start_datetime": "2027-01-16T04:30:00+00:00",
+    "date_start": "2027-01-16T04:30:00+00:00",
+    "date_end": "2027-01-16T04:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.5650000000000001,
+    "ai_priority": 5,
+    "ai_reason": "Book of Love's nostalgic sound and dedicated fanbase promise an engaging show."
   },
   {
     "id": "G5vYZ_C6wKPtg",
@@ -365,7 +319,30 @@
     "night_count": 1,
     "score": 0.544,
     "ai_priority": 5,
-    "ai_reason": "The California Honeydrops offer a lively mix of genres that creates an engaging atmosphere."
+    "ai_reason": "The California Honeydrops are known for their lively shows that blend various genres and engage the audience."
+  },
+  {
+    "id": "G5vYZ_195TiVO",
+    "ids": [
+      "G5vYZ_195TiVO"
+    ],
+    "name": "Niall Horan: Dinner Party Live On Tour",
+    "primary_artist": "Niall Horan",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
+    "window": "far_out",
+    "local_date": "2027-05-25",
+    "start_datetime": "2027-05-26T02:30:00+00:00",
+    "date_start": "2027-05-26T02:30:00+00:00",
+    "date_end": "2027-05-26T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.6549999999999999,
+    "ai_priority": null,
+    "ai_reason": null
   },
   {
     "id": "G5vYZ_8RMVL2x",
@@ -391,22 +368,45 @@
     "ai_reason": null
   },
   {
-    "id": "rZ7HnEZ1AfaU47",
+    "id": "Z7r9jZ1A70o1d",
     "ids": [
-      "rZ7HnEZ1AfaU47"
+      "Z7r9jZ1A70o1d"
     ],
-    "name": "Vansire",
-    "primary_artist": "Vansire",
-    "venue_name": "Bimbo's 365 Club",
+    "name": "Bouncing Souls w/ The Suicide Machines",
+    "primary_artist": "The Bouncing Souls",
+    "venue_name": "The UC Theatre",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70o1d",
+    "window": "far_out",
+    "local_date": "2027-02-17",
+    "start_datetime": "2027-02-18T03:00:00+00:00",
+    "date_start": "2027-02-18T03:00:00+00:00",
+    "date_end": "2027-02-18T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.622,
+    "ai_priority": null,
+    "ai_reason": null
+  },
+  {
+    "id": "rZ7HnEZ1Af1dO0",
+    "ids": [
+      "rZ7HnEZ1Af1dO0"
+    ],
+    "name": "Fink",
+    "primary_artist": "Fink",
+    "venue_name": "The Independent",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketweb.com/event/vansire-bimbos-365-club-tickets/14276544",
+    "url": "https://www.ticketweb.com/event/fink-the-independent-tickets/14283824",
     "window": "far_out",
-    "local_date": "2027-02-01",
-    "start_datetime": "2027-02-02T04:00:00+00:00",
-    "date_start": "2027-02-02T04:00:00+00:00",
-    "date_end": "2027-02-02T04:00:00+00:00",
+    "local_date": "2027-02-19",
+    "start_datetime": "2027-02-20T05:00:00+00:00",
+    "date_start": "2027-02-20T05:00:00+00:00",
+    "date_end": "2027-02-20T05:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.619,
@@ -437,22 +437,22 @@
     "ai_reason": null
   },
   {
-    "id": "rZ7HnEZ1Afak4f",
+    "id": "G5vYZbVDFHBDS",
     "ids": [
-      "rZ7HnEZ1Afak4f"
+      "G5vYZbVDFHBDS"
     ],
-    "name": "Dan and Peggy Reeder",
-    "primary_artist": "Dan and Peggy Reeder",
-    "venue_name": "The Independent",
+    "name": "VNV Nation - An Evening With",
+    "primary_artist": "VNV Nation",
+    "venue_name": "August Hall",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketweb.com/event/dan-and-peggy-reeder-the-independent-tickets/14246554",
+    "url": "https://www.ticketmaster.com/vnv-nation-an-evening-with-san-francisco-california-03-21-2027/event/1C00634EC8F3AEF3",
     "window": "far_out",
-    "local_date": "2027-03-25",
-    "start_datetime": "2027-03-26T03:00:00+00:00",
-    "date_start": "2027-03-26T03:00:00+00:00",
-    "date_end": "2027-03-26T03:00:00+00:00",
+    "local_date": "2027-03-21",
+    "start_datetime": "2027-03-22T02:30:00+00:00",
+    "date_start": "2027-03-22T02:30:00+00:00",
+    "date_end": "2027-03-22T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.619,

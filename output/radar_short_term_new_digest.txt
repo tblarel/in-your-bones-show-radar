@@ -1,36 +1,41 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 11 new show(s) since last run:
+Found 13 new show(s) since last run:
 
-- 2026-09-12 03:00 — Foster the People @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Foster the People are known for their engaging live shows and catchy hits.
+- 2026-09-27 02:30 — Lionel Richie @ Chase Center (San Francisco)
+    ▹ Lionel Richie and Earth, Wind & Fire bring legendary status and classic hits that resonate across generations.
 
-- 2026-09-24 02:30 — LE SSERAFIM @ SAP Center at San Jose (San Jose)
-    ▹ LE SSERAFIM's rising popularity and energetic performances make this a hot ticket.
+- 2026-09-25 03:00 — Jack White @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Jack White's live performances are renowned for their intensity and musicianship, promising an unforgettable night.
 
-- 2026-09-23 03:00 — Jay Park @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Jay Park's blend of hip-hop and R&B with a strong live presence is a highlight.
+- 2026-09-23 03:00 — Dogstar @ The Fillmore (San Francisco)
+    ▹ Dogstar's return to the stage is a nostalgic moment for fans, especially with Keanu Reeves in the lineup.
 
-- 2026-09-14 03:00 — Manchester Orchestra @ The Fillmore (San Francisco)
-    ▹ Manchester Orchestra's anniversary tour promises a nostalgic experience.
+- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
+    ▹ Social Distortion's punk rock legacy and energetic shows continue to attract dedicated fans.
 
-- 2026-09-20 03:00 — The Matches @ The Fillmore (San Francisco)
-    ▹ The Matches' 20th anniversary show is a celebration of their influential sound.
+- 2026-09-26 03:00 — Everything Everything @ August Hall (San Francisco)
+    ▹ Everything Everything's anniversary tour promises a mix of nostalgia and fresh energy.
 
-- 2026-09-10 03:00 — Slayyyter @ Fox Theater - Oakland (Oakland)
-    ▹ Slayyyter's rising star power and engaging performances are a must-see.
+- 2026-09-30 03:00 — Ethan Regan @ August Hall (San Francisco)
+    ▹ Ethan Regan's rising popularity in the indie scene makes this show one to watch.
 
-- 2026-09-19 03:00 — The Exploited @ August Hall (San Francisco)
-    ▹ The Exploited's punk legacy and live energy are sure to attract fans.
+- 2026-10-03 03:00 — Madeon @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Madeon's live shows are renowned for their immersive experience and innovative sound.
 
-- 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
-    ▹ Beck's innovative sound and engaging performances make this a must-see.
+- 2026-10-04 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
+    ▹ My Morning Jacket's blend of rock and Americana is perfect for live settings, promising a great show.
 
-- 2026-10-31 03:00 — Shpongle @ Fox Theater - Oakland (Oakland)
-    ▹ Shpongle's live shows are known for their immersive and unique experiences.
+- 2026-09-23 03:00 — Bilal @ August Hall (San Francisco)
+    ▹ Bilal's soulful voice and unique style make his performances a captivating experience.
 
-- 2026-09-23 03:00 — Chance The Rapper @ The Masonic (San Francisco)
-    ▹ Chance The Rapper's anniversary tour promises a memorable and energetic show.
+- 2026-09-26 03:00 — Kruder & Dorfmeister @ Fox Theater - Oakland (Oakland)
+    ▹ Kruder & Dorfmeister's anniversary tour celebrates their influential sound in electronic music.
 
-- 2026-09-11 03:00 — Soda Stereo @ SAP Center at San Jose (San Jose)
+- 2026-10-08 03:00 — French Police @ August Hall (San Francisco)
+    ▹ French Police's emerging sound and local following make them a notable act to catch.
+
+- 2026-10-01 01:30 — Jack Johnson @ Greek Theatre-U.C. Berkeley (Berkeley)
+
+- 2026-09-20 02:00 — Godsmack @ Shoreline Amphitheatre (Mountain View)
