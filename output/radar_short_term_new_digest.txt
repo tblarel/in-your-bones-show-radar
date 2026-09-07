@@ -1,41 +1,34 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 13 new show(s) since last run:
+Found 10 new show(s) since last run:
 
-- 2026-09-27 02:30 — Lionel Richie @ Chase Center (San Francisco)
-    ▹ Lionel Richie and Earth, Wind & Fire bring legendary status and classic hits that resonate across generations.
+- 2026-10-07 03:00 — aespa @ Oakland Arena (Oakland)
+    ▹ aespa is a popular K-pop group known for their innovative sound and strong live performances, drawing attention in Oakland.
 
-- 2026-09-25 03:00 — Jack White @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Jack White's live performances are renowned for their intensity and musicianship, promising an unforgettable night.
+- 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
+    ▹ Sombr's You Are The Reason Tour showcases a unique blend of genres, promising an engaging live experience.
 
-- 2026-09-23 03:00 — Dogstar @ The Fillmore (San Francisco)
-    ▹ Dogstar's return to the stage is a nostalgic moment for fans, especially with Keanu Reeves in the lineup.
+- 2026-10-03 02:00 — Hayley Williams @ Shoreline Amphitheatre (Mountain View)
+    ▹ Hayley Williams, known for her powerful vocals and emotional performances, brings her solo show to Mountain View.
 
-- 2026-09-30 02:00 — Social Distortion @ Fox Theater - Oakland (Oakland)
-    ▹ Social Distortion's punk rock legacy and energetic shows continue to attract dedicated fans.
+- 2026-10-04 03:00 — Jon Batiste @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ Jon Batiste's live performances are renowned for their energy and musicianship, making his show in Berkeley highly anticipated.
 
-- 2026-09-26 03:00 — Everything Everything @ August Hall (San Francisco)
-    ▹ Everything Everything's anniversary tour promises a mix of nostalgia and fresh energy.
+- 2026-10-08 02:00 — The Neighbourhood @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ The Neighbourhood's tour promises a compelling mix of indie rock and atmospheric sounds, making it a noteworthy event.
 
-- 2026-09-30 03:00 — Ethan Regan @ August Hall (San Francisco)
-    ▹ Ethan Regan's rising popularity in the indie scene makes this show one to watch.
+- 2026-10-04 03:00 → 2026-10-12 03:00 — My Morning Jacket @ The Fillmore (San Francisco) [multi-night x4]
+    ▹ My Morning Jacket is celebrated for their dynamic live performances, making their multiple shows at The Fillmore a highlight.
 
-- 2026-10-03 03:00 — Madeon @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Madeon's live shows are renowned for their immersive experience and innovative sound.
+- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
+    ▹ Gracie Abrams is an emerging artist with a strong narrative in her music, making her tour stop in Oakland noteworthy.
 
-- 2026-10-04 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
-    ▹ My Morning Jacket's blend of rock and Americana is perfect for live settings, promising a great show.
+- 2026-12-05 03:00 — John Summit @ Oakland Arena (Oakland)
+    ▹ John Summit's CTRL ESCAPE ARENA TOUR is a highly anticipated electronic music event, promising an energetic night.
 
-- 2026-09-23 03:00 — Bilal @ August Hall (San Francisco)
-    ▹ Bilal's soulful voice and unique style make his performances a captivating experience.
+- 2026-10-10 02:00 — Mastodon @ Fox Theater - Oakland (Oakland)
+    ▹ Gary Clark Jr. is known for his powerful guitar work and soulful performances, making his show in Oakland a must-see.
 
-- 2026-09-26 03:00 — Kruder & Dorfmeister @ Fox Theater - Oakland (Oakland)
-    ▹ Kruder & Dorfmeister's anniversary tour celebrates their influential sound in electronic music.
-
-- 2026-10-08 03:00 — French Police @ August Hall (San Francisco)
-    ▹ French Police's emerging sound and local following make them a notable act to catch.
-
-- 2026-10-01 01:30 — Jack Johnson @ Greek Theatre-U.C. Berkeley (Berkeley)
-
-- 2026-09-20 02:00 — Godsmack @ Shoreline Amphitheatre (Mountain View)
+- 2026-10-15 02:30 — Brit Floyd @ Fox Theater - Oakland (Oakland)
+    ▹ Billy Strings is a rising star in the bluegrass scene, known for his captivating live performances.

@@ -1,26 +1,26 @@
 [
   {
-    "id": "G5vYZ_2MrSP3Q",
+    "id": "G5vYZ_195TiVO",
     "ids": [
-      "G5vYZ_2MrSP3Q"
+      "G5vYZ_195TiVO"
     ],
-    "name": "An Evening with Lord Huron",
-    "primary_artist": "Lord Huron",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
+    "name": "Niall Horan: Dinner Party Live On Tour",
+    "primary_artist": "Niall Horan",
+    "venue_name": "Chase Center",
+    "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/an-evening-with-lord-huron-oakland-california-01-03-2027/event/1C0064FDDECE549A",
+    "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
     "window": "far_out",
-    "local_date": "2027-01-03",
-    "start_datetime": "2027-01-04T04:00:00+00:00",
-    "date_start": "2027-01-04T04:00:00+00:00",
-    "date_end": "2027-01-04T04:00:00+00:00",
+    "local_date": "2027-05-25",
+    "start_datetime": "2027-05-26T02:30:00+00:00",
+    "date_start": "2027-05-26T02:30:00+00:00",
+    "date_end": "2027-05-26T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 10,
-    "ai_reason": "Lord Huron has a strong live reputation and a dedicated fanbase, making this a highly anticipated show."
+    "score": 0.6549999999999999,
+    "ai_priority": 8,
+    "ai_reason": "Niall Horan's Dinner Party Live On Tour promises an engaging experience from the former One Direction member, appealing to both pop fans and his growing solo audience."
   },
   {
     "id": "G5vYZ_Gf0ezoV",
@@ -42,8 +42,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.634,
-    "ai_priority": 9,
-    "ai_reason": "Sylvan Esso's unique blend of electronic and folk has garnered significant buzz, ensuring an engaging live performance."
+    "ai_priority": 8,
+    "ai_reason": "Sylvan Esso is known for their captivating live performances, blending electronic and indie pop in a way that resonates deeply with audiences."
   },
   {
     "id": "G5vYZ_5KszTeQ",
@@ -66,7 +66,7 @@
     "night_count": 1,
     "score": 0.634,
     "ai_priority": 8,
-    "ai_reason": "Nothing But Thieves is known for their powerful live shows and emotional depth, appealing to a wide audience."
+    "ai_reason": "Nothing But Thieves have built a strong reputation for their energetic rock shows, making this tour a must-see for alt-rock fans."
   },
   {
     "id": "G5vYZ_oK5HLNw",
@@ -88,8 +88,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.631,
-    "ai_priority": 8,
-    "ai_reason": "Stella Lefty's rising profile and engaging performances make this show a must-see."
+    "ai_priority": 7,
+    "ai_reason": "Stella Lefty is an emerging artist with a unique sound, and her Long Way Home Tour is likely to showcase her growth and artistry."
   },
   {
     "id": "G5vYZ_GRA3gjR",
@@ -112,7 +112,7 @@
     "night_count": 1,
     "score": 0.631,
     "ai_priority": 7,
-    "ai_reason": "Polyphia's innovative sound and impressive musicianship promise a captivating live experience."
+    "ai_reason": "Polyphia's innovative blend of rock and progressive music makes their BE NOT AFRAID World Tour a standout event for guitar enthusiasts."
   },
   {
     "id": "Z7r9jZ1A70_4z",
@@ -135,7 +135,7 @@
     "night_count": 1,
     "score": 0.628,
     "ai_priority": 7,
-    "ai_reason": "Blue October's emotional lyrics and strong connection with fans make their live shows memorable."
+    "ai_reason": "Blue October's emotional and powerful live performances have garnered a dedicated fanbase, making this show a significant event."
   },
   {
     "id": "G5vYZ_CUC0Jxp",
@@ -158,7 +158,30 @@
     "night_count": 1,
     "score": 0.625,
     "ai_priority": 6,
-    "ai_reason": "Jesse Cook's fusion of world music and guitar virtuosity offers a unique concert experience."
+    "ai_reason": "Jesse Cook's Forever Live Tour promises an engaging mix of world music and guitar virtuosity, appealing to a diverse audience."
+  },
+  {
+    "id": "Z7r9jZ1A70o1d",
+    "ids": [
+      "Z7r9jZ1A70o1d"
+    ],
+    "name": "Bouncing Souls w/ The Suicide Machines",
+    "primary_artist": "The Bouncing Souls",
+    "venue_name": "The UC Theatre",
+    "city": "Berkeley",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70o1d",
+    "window": "far_out",
+    "local_date": "2027-02-17",
+    "start_datetime": "2027-02-18T03:00:00+00:00",
+    "date_start": "2027-02-18T03:00:00+00:00",
+    "date_end": "2027-02-18T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.622,
+    "ai_priority": 6,
+    "ai_reason": "The Bouncing Souls with The Suicide Machines offer a nostalgic punk rock experience that will resonate with fans of the genre."
   },
   {
     "id": "rZ7HnEZ1Afa7x7",
@@ -181,7 +204,7 @@
     "night_count": 1,
     "score": 0.619,
     "ai_priority": 6,
-    "ai_reason": "Com Truise's electronic soundscapes paired with Matthew Dear's artistry will create a memorable night."
+    "ai_reason": "Com Truise b2b Matthew Dear is an exciting electronic music event that promises a unique and memorable night for fans."
   },
   {
     "id": "rZ7HnEZ1Af16_V",
@@ -204,7 +227,7 @@
     "night_count": 1,
     "score": 0.619,
     "ai_priority": 6,
-    "ai_reason": "STS9's blend of electronic and jam band styles is sure to attract a diverse crowd."
+    "ai_reason": "STS9 is known for their immersive live shows that blend electronic and jam band elements, making this a highly anticipated event."
   },
   {
     "id": "rZ7HnEZ1AfaU47",
@@ -227,7 +250,53 @@
     "night_count": 1,
     "score": 0.619,
     "ai_priority": 6,
-    "ai_reason": "Vansire's dreamy sound and engaging live performances make them a rising act to watch."
+    "ai_reason": "Vansire's dreamy soundscapes and engaging performances make their show a great pick for indie pop fans."
+  },
+  {
+    "id": "rZ7HnEZ1Af1dO0",
+    "ids": [
+      "rZ7HnEZ1Af1dO0"
+    ],
+    "name": "Fink",
+    "primary_artist": "Fink",
+    "venue_name": "The Independent",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/fink-the-independent-tickets/14283824",
+    "window": "far_out",
+    "local_date": "2027-02-19",
+    "start_datetime": "2027-02-20T05:00:00+00:00",
+    "date_start": "2027-02-20T05:00:00+00:00",
+    "date_end": "2027-02-20T05:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 6,
+    "ai_reason": "Fink's soulful performances and unique blend of genres will attract a diverse audience looking for an intimate concert experience."
+  },
+  {
+    "id": "G5vYZbVDFHBDS",
+    "ids": [
+      "G5vYZbVDFHBDS"
+    ],
+    "name": "VNV Nation - An Evening With",
+    "primary_artist": "VNV Nation",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/vnv-nation-an-evening-with-san-francisco-california-03-21-2027/event/1C00634EC8F3AEF3",
+    "window": "far_out",
+    "local_date": "2027-03-21",
+    "start_datetime": "2027-03-22T02:30:00+00:00",
+    "date_start": "2027-03-22T02:30:00+00:00",
+    "date_end": "2027-03-22T02:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.619,
+    "ai_priority": 6,
+    "ai_reason": "VNV Nation's blend of electronic and industrial music has a dedicated following, making their show a notable event for fans."
   },
   {
     "id": "G5vYZ_82GUJke",
@@ -250,30 +319,30 @@
     "night_count": 1,
     "score": 0.619,
     "ai_priority": 5,
-    "ai_reason": "The Mary Wallopers' unique sound and energetic performances make them a standout act."
+    "ai_reason": "The Mary Wallopers bring a fresh take on folk music, and their performance is likely to engage audiences with their lively style."
   },
   {
-    "id": "G5vYZ_kQ5Ey-u",
+    "id": "G5vYZ_CPsSVwE",
     "ids": [
-      "G5vYZ_kQ5Ey-u"
+      "G5vYZ_CPsSVwE"
     ],
-    "name": "Rhiannon Giddens",
-    "primary_artist": "Rhiannon Giddens",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
+    "name": "Five For Fighting with String Quartet",
+    "primary_artist": "Five for Fighting",
+    "venue_name": "Uptown Theatre Napa",
+    "city": "Napa",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/rhiannon-giddens-san-francisco-california-02-09-2027/event/1C0064668B9F984D",
+    "url": "https://www.ticketmaster.com/five-for-fighting-with-string-quartet-napa-california-01-19-2027/event/1C0064E971CF4CA7",
     "window": "far_out",
-    "local_date": "2027-02-09",
-    "start_datetime": "2027-02-10T04:00:00+00:00",
-    "date_start": "2027-02-10T04:00:00+00:00",
-    "date_end": "2027-02-10T04:00:00+00:00",
+    "local_date": "2027-01-19",
+    "start_datetime": "2027-01-20T04:00:00+00:00",
+    "date_start": "2027-01-20T04:00:00+00:00",
+    "date_end": "2027-01-20T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.5740000000000001,
+    "score": 0.613,
     "ai_priority": 5,
-    "ai_reason": "Rhiannon Giddens brings a rich musical heritage and powerful storytelling to her performances."
+    "ai_reason": "Five For Fighting with String Quartet offers a unique twist on familiar hits, appealing to both fans of the artist and classical music enthusiasts."
   },
   {
     "id": "Z7r9jZ1A70Iuy",
@@ -296,7 +365,7 @@
     "night_count": 1,
     "score": 0.5650000000000001,
     "ai_priority": 5,
-    "ai_reason": "Book of Love's nostalgic sound and dedicated fanbase promise an engaging show."
+    "ai_reason": "Book of Love's nostalgic sound and legacy in the synth-pop genre will attract fans looking for a trip down memory lane."
   },
   {
     "id": "G5vYZ_C6wKPtg",
@@ -319,30 +388,7 @@
     "night_count": 1,
     "score": 0.544,
     "ai_priority": 5,
-    "ai_reason": "The California Honeydrops are known for their lively shows that blend various genres and engage the audience."
-  },
-  {
-    "id": "G5vYZ_195TiVO",
-    "ids": [
-      "G5vYZ_195TiVO"
-    ],
-    "name": "Niall Horan: Dinner Party Live On Tour",
-    "primary_artist": "Niall Horan",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
-    "window": "far_out",
-    "local_date": "2027-05-25",
-    "start_datetime": "2027-05-26T02:30:00+00:00",
-    "date_start": "2027-05-26T02:30:00+00:00",
-    "date_end": "2027-05-26T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": null,
-    "ai_reason": null
+    "ai_reason": "The California Honeydrops are known for their energetic performances and blend of genres, making their shows a fun and engaging experience."
   },
   {
     "id": "G5vYZ_8RMVL2x",
@@ -368,45 +414,22 @@
     "ai_reason": null
   },
   {
-    "id": "Z7r9jZ1A70o1d",
+    "id": "rZ7HnEZ1AfPZAN",
     "ids": [
-      "Z7r9jZ1A70o1d"
+      "rZ7HnEZ1AfPZAN"
     ],
-    "name": "Bouncing Souls w/ The Suicide Machines",
-    "primary_artist": "The Bouncing Souls",
-    "venue_name": "The UC Theatre",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70o1d",
-    "window": "far_out",
-    "local_date": "2027-02-17",
-    "start_datetime": "2027-02-18T03:00:00+00:00",
-    "date_start": "2027-02-18T03:00:00+00:00",
-    "date_end": "2027-02-18T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.622,
-    "ai_priority": null,
-    "ai_reason": null
-  },
-  {
-    "id": "rZ7HnEZ1Af1dO0",
-    "ids": [
-      "rZ7HnEZ1Af1dO0"
-    ],
-    "name": "Fink",
-    "primary_artist": "Fink",
+    "name": "Way Dynamic",
+    "primary_artist": "Way Dynamic",
     "venue_name": "The Independent",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketweb.com/event/fink-the-independent-tickets/14283824",
+    "url": "https://www.ticketweb.com/event/way-dynamic-the-independent-tickets/14940163",
     "window": "far_out",
-    "local_date": "2027-02-19",
-    "start_datetime": "2027-02-20T05:00:00+00:00",
-    "date_start": "2027-02-20T05:00:00+00:00",
-    "date_end": "2027-02-20T05:00:00+00:00",
+    "local_date": "2027-02-24",
+    "start_datetime": "2027-02-25T04:00:00+00:00",
+    "date_start": "2027-02-25T04:00:00+00:00",
+    "date_end": "2027-02-25T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.619,
@@ -430,29 +453,6 @@
     "start_datetime": "2027-03-18T03:00:00+00:00",
     "date_start": "2027-03-18T03:00:00+00:00",
     "date_end": "2027-03-18T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.619,
-    "ai_priority": null,
-    "ai_reason": null
-  },
-  {
-    "id": "G5vYZbVDFHBDS",
-    "ids": [
-      "G5vYZbVDFHBDS"
-    ],
-    "name": "VNV Nation - An Evening With",
-    "primary_artist": "VNV Nation",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/vnv-nation-an-evening-with-san-francisco-california-03-21-2027/event/1C00634EC8F3AEF3",
-    "window": "far_out",
-    "local_date": "2027-03-21",
-    "start_datetime": "2027-03-22T02:30:00+00:00",
-    "date_start": "2027-03-22T02:30:00+00:00",
-    "date_end": "2027-03-22T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.619,
