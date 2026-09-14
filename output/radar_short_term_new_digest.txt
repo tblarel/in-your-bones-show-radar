@@ -1,34 +1,25 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 10 new show(s) since last run:
+Found 7 new show(s) since last run:
 
-- 2026-10-07 03:00 — aespa @ Oakland Arena (Oakland)
-    ▹ aespa is a popular K-pop group known for their innovative sound and strong live performances, drawing attention in Oakland.
+- 2026-10-13 03:00 — Taemin @ SAP Center at San Jose (San Jose)
+    ▹ Taemin's world tour promises a captivating performance from a well-respected artist in the K-pop genre.
 
-- 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
-    ▹ Sombr's You Are The Reason Tour showcases a unique blend of genres, promising an engaging live experience.
+- 2026-10-01 01:30 → 2026-10-02 01:30 — Jack Johnson @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
+    ▹ Jack Johnson's laid-back style and strong fanbase make his shows a must-see for acoustic and pop lovers.
 
-- 2026-10-03 02:00 — Hayley Williams @ Shoreline Amphitheatre (Mountain View)
-    ▹ Hayley Williams, known for her powerful vocals and emotional performances, brings her solo show to Mountain View.
+- 2026-10-09 02:30 — Mumford & Sons @ Shoreline Amphitheatre (Mountain View)
+    ▹ Mumford & Sons continue to be a major force in folk-rock, promising an engaging live experience.
 
-- 2026-10-04 03:00 — Jon Batiste @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Jon Batiste's live performances are renowned for their energy and musicianship, making his show in Berkeley highly anticipated.
+- 2026-10-11 03:00 — Bonnie Raitt @ The Theater at Bill Graham Civic Auditorium (San Francisco)
+    ▹ Bonnie Raitt's legacy and live performance reputation make her show a significant event for fans.
 
-- 2026-10-08 02:00 — The Neighbourhood @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ The Neighbourhood's tour promises a compelling mix of indie rock and atmospheric sounds, making it a noteworthy event.
+- 2026-10-03 03:00 — Gillian Welch & David Rawlings @ The Fillmore (San Francisco)
+    ▹ Gillian Welch & David Rawlings are celebrated for their folk music, promising a captivating performance.
 
-- 2026-10-04 03:00 → 2026-10-12 03:00 — My Morning Jacket @ The Fillmore (San Francisco) [multi-night x4]
-    ▹ My Morning Jacket is celebrated for their dynamic live performances, making their multiple shows at The Fillmore a highlight.
+- 2026-10-04 03:00 → 2026-10-12 03:00 — My Morning Jacket @ The Fillmore (San Francisco) [multi-night x7]
+    ▹ My Morning Jacket's live shows are known for their dynamic energy and musical prowess.
 
-- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
-    ▹ Gracie Abrams is an emerging artist with a strong narrative in her music, making her tour stop in Oakland noteworthy.
-
-- 2026-12-05 03:00 — John Summit @ Oakland Arena (Oakland)
-    ▹ John Summit's CTRL ESCAPE ARENA TOUR is a highly anticipated electronic music event, promising an energetic night.
-
-- 2026-10-10 02:00 — Mastodon @ Fox Theater - Oakland (Oakland)
-    ▹ Gary Clark Jr. is known for his powerful guitar work and soulful performances, making his show in Oakland a must-see.
-
-- 2026-10-15 02:30 — Brit Floyd @ Fox Theater - Oakland (Oakland)
-    ▹ Billy Strings is a rising star in the bluegrass scene, known for his captivating live performances.
+- 2026-10-08 03:00 — Dresden Dolls @ Warfield (San Francisco)
+    ▹ Dresden Dolls' unique blend of theatricality and music makes their show a standout event.
