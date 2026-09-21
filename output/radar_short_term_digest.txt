@@ -2,40 +2,59 @@ InYourBones — Bay Area Radar (short_term)
 =========================================
 
 - 2026-10-07 03:00 — aespa @ Oakland Arena (Oakland)
-    ▹ aespa is a rising K-pop sensation with a strong live reputation, making this a highly anticipated event.
+    ▹ aespa is a rising K-pop group with a strong global following, promising a visually stunning live performance.
 
 - 2026-10-08 02:00 — Sombr @ SAP Center at San Jose (San Jose)
-    ▹ Sombr's tour is generating buzz, and their unique sound is attracting attention in the indie scene.
+    ▹ Sombr is gaining traction with their unique sound and engaging live shows, making this tour noteworthy.
 
-- 2026-10-13 03:00 — Taemin @ SAP Center at San Jose (San Jose)
-    ▹ Taemin's world tour promises a captivating performance from a well-respected artist in the K-pop genre.
-
-- 2026-10-01 01:30 → 2026-10-02 01:30 — Jack Johnson @ Greek Theatre-U.C. Berkeley (Berkeley) [multi-night x2]
-    ▹ Jack Johnson's laid-back style and strong fanbase make his shows a must-see for acoustic and pop lovers.
-
-- 2026-10-04 03:00 — Jon Batiste @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Jon Batiste's live performances are known for their energy and musicality, making this a standout event.
-
-- 2026-10-03 02:00 — Hayley Williams @ Shoreline Amphitheatre (Mountain View)
-    ▹ Hayley Williams' solo show is a significant draw for fans of Paramore and alt-rock enthusiasts.
-
-- 2026-10-09 02:30 — Mumford & Sons @ Shoreline Amphitheatre (Mountain View)
-    ▹ Mumford & Sons continue to be a major force in folk-rock, promising an engaging live experience.
-
-- 2026-10-03 03:00 — Madeon @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Madeon's live shows are known for their immersive electronic experience, appealing to EDM fans.
-
-- 2026-10-08 02:00 — The Neighbourhood @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ The Neighbourhood's tour is highly anticipated, with their unique sound resonating with indie fans.
+- 2026-10-19 02:30 — ROLE MODEL @ Greek Theatre-U.C. Berkeley (Berkeley)
+    ▹ ROLE MODEL has been building a dedicated fanbase with his relatable lyrics and energetic performances.
 
 - 2026-10-11 03:00 — Bonnie Raitt @ The Theater at Bill Graham Civic Auditorium (San Francisco)
-    ▹ Bonnie Raitt's legacy and live performance reputation make her show a significant event for fans.
+    ▹ The Neighbourhood's tour is highly anticipated, showcasing their evolution and strong live reputation.
 
-- 2026-10-03 03:00 — Gillian Welch & David Rawlings @ The Fillmore (San Francisco)
-    ▹ Gillian Welch & David Rawlings are celebrated for their folk music, promising a captivating performance.
+- 2026-10-05 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
+    ▹ My Morning Jacket is known for their captivating live shows, making this a must-see event.
 
-- 2026-10-04 03:00 → 2026-10-12 03:00 — My Morning Jacket @ The Fillmore (San Francisco) [multi-night x7]
-    ▹ My Morning Jacket's live shows are known for their dynamic energy and musical prowess.
+- 2026-10-24 03:00 — Gary Clark Jr. @ Fox Theater - Oakland (Oakland)
+    ▹ Gary Clark Jr. is a powerhouse performer, blending blues and rock with a strong live reputation.
 
-- 2026-10-08 03:00 — Dresden Dolls @ Warfield (San Francisco)
-    ▹ Dresden Dolls' unique blend of theatricality and music makes their show a standout event.
+- 2026-10-17 03:00 — Sara Bareilles @ The Theater at Bill Graham Civic Auditorium (San Francisco)
+    ▹ Sara Bareilles continues to draw crowds with her heartfelt performances and strong songwriting.
+
+- 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
+    ▹ Mastodon is known for their intense live performances and dedicated fanbase, making this a notable event.
+
+- 2026-10-11 03:00 — BEAT @ Blue Note Napa Summer Sessions (Napa)
+    ▹ BEAT's performance of King Crimson's music is a unique tribute that will attract fans of progressive rock.
+
+- 2026-10-26 03:00 — Kishi Bashi @ The Fillmore (San Francisco)
+    ▹ Kishi Bashi's unique blend of genres and engaging performances make this a standout show.
+
+- 2026-10-29 02:00 — G-Eazy @ Shoreline Amphitheatre (Mountain View)
+    ▹ G-Eazy's tour promises high energy and a solid lineup, appealing to hip-hop fans.
+
+- 2026-10-08 03:00 — Sammy Rae & The Friends @ The Castro Theatre (San Francisco)
+    ▹ Sammy Rae & The Friends are gaining popularity for their lively performances and positive vibes.
+
+- 2026-10-21 03:00 — Geese @ Fox Theater - Oakland (Oakland)
+    ▹ Geese's tour is generating buzz with their unique sound and energetic live shows.
+
+- 2026-10-19 03:00 — Nice as F**k @ August Hall (San Francisco)
+    ▹ Akeem Ali's unique style and engaging performances are making waves in the hip-hop scene.
+
+- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
+    ▹ The Smashing Pumpkins continue to be a significant force in rock, drawing nostalgia and new fans alike.
+
+- 2026-10-25 03:00 — Dermot Kennedy @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Dermot Kennedy's emotional performances have resonated with many, making this a highly anticipated show.
+
+- 2026-11-06 04:00 — Don Omar @ SAP Center at San Jose (San Jose)
+    ▹ Don Omar's tour is expected to be a vibrant celebration of Latin music, appealing to a wide audience.
+
+- 2026-10-19 03:00 — The Click Five @ Napa Music Hall (Napa)
+    ▹ Switchfoot's tour is notable for its engaging live performances and dedicated fanbase.
+
+- 2026-10-13 03:00 — Taemin @ SAP Center at San Jose (San Jose)
+
+- 2026-10-16 02:30 — RUSH @ SAP Center at San Jose (San Jose)
