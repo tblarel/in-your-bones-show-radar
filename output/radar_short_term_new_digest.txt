@@ -1,51 +1,43 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 16 new show(s) since last run:
+Found 13 new show(s) since last run:
 
-- 2026-10-19 02:30 — ROLE MODEL @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ ROLE MODEL has been building a dedicated fanbase with his relatable lyrics and energetic performances.
+- 2026-10-28 02:30 → 2026-10-29 02:30 — Phoebe Bridgers @ Chase Center (San Francisco) [multi-night x2]
+    ▹ Phoebe Bridgers is a critically acclaimed artist with a strong live reputation, making her shows a must-see.
 
-- 2026-10-05 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
-    ▹ My Morning Jacket is known for their captivating live shows, making this a must-see event.
+- 2026-10-29 02:00 — Gorillaz @ Oakland Arena (Oakland)
+    ▹ Gorillaz is known for their innovative live performances and unique sound, promising an exciting show.
 
-- 2026-10-24 03:00 — Gary Clark Jr. @ Fox Theater - Oakland (Oakland)
-    ▹ Gary Clark Jr. is a powerhouse performer, blending blues and rock with a strong live reputation.
+- 2026-10-27 03:00 — beabadoobee @ Oakland Arena (Oakland)
+    ▹ beabadoobee has gained a strong following with her indie pop sound and engaging live shows.
 
-- 2026-10-17 03:00 — Sara Bareilles @ The Theater at Bill Graham Civic Auditorium (San Francisco)
-    ▹ Sara Bareilles continues to draw crowds with her heartfelt performances and strong songwriting.
+- 2026-10-23 03:00 — MONSTA X @ The Theater at Bill Graham Civic Auditorium (San Francisco)
+    ▹ MONSTA X is a popular K-pop group known for their energetic performances and dedicated fanbase.
 
-- 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
-    ▹ Mastodon is known for their intense live performances and dedicated fanbase, making this a notable event.
+- 2026-10-17 03:00 → 2026-10-18 03:00 — Neurosis @ The Fillmore (San Francisco) [multi-night x2]
+    ▹ Neurosis is a respected band in the post-metal scene, known for their intense and immersive live performances.
 
-- 2026-10-11 03:00 — BEAT @ Blue Note Napa Summer Sessions (Napa)
-    ▹ BEAT's performance of King Crimson's music is a unique tribute that will attract fans of progressive rock.
+- 2026-10-12 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
+    ▹ My Morning Jacket has a strong reputation for their dynamic live shows, blending rock and jam influences.
 
-- 2026-10-26 03:00 — Kishi Bashi @ The Fillmore (San Francisco)
-    ▹ Kishi Bashi's unique blend of genres and engaging performances make this a standout show.
+- 2026-10-15 03:30 — Sex Pistols @ Warfield (San Francisco)
+    ▹ The Sex Pistols are iconic in punk history, making their shows a significant event for fans of the genre.
 
-- 2026-10-29 02:00 — G-Eazy @ Shoreline Amphitheatre (Mountain View)
-    ▹ G-Eazy's tour promises high energy and a solid lineup, appealing to hip-hop fans.
+- 2026-10-28 03:00 — Grace Enger @ August Hall (San Francisco)
+    ▹ Slow Pulp is gaining traction in the indie scene, known for their engaging live performances.
 
-- 2026-10-08 03:00 — Sammy Rae & The Friends @ The Castro Theatre (San Francisco)
-    ▹ Sammy Rae & The Friends are gaining popularity for their lively performances and positive vibes.
+- 2026-10-17 03:00 → 2026-10-18 03:00 — Sara Bareilles @ The Theater at Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
+    ▹ Sara Bareilles is a well-respected artist with a strong live presence and emotional performances.
 
-- 2026-10-21 03:00 — Geese @ Fox Theater - Oakland (Oakland)
-    ▹ Geese's tour is generating buzz with their unique sound and energetic live shows.
+- 2026-10-19 03:00 — The Wallflowers @ The Fillmore (San Francisco)
+    ▹ The Wallflowers have a nostalgic appeal and a solid catalog, making their shows attractive to fans.
 
-- 2026-10-19 03:00 — Nice as F**k @ August Hall (San Francisco)
-    ▹ Akeem Ali's unique style and engaging performances are making waves in the hip-hop scene.
+- 2026-10-14 03:00 — Audrey Hobert @ Fox Theater - Oakland (Oakland)
+    ▹ Audrey Hobert is an emerging artist with a unique sound, making her performance noteworthy.
 
-- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
-    ▹ The Smashing Pumpkins continue to be a significant force in rock, drawing nostalgia and new fans alike.
+- 2026-10-15 02:30 — Brit Floyd @ Fox Theater - Oakland (Oakland)
+    ▹ BRIT FLOYD offers a high-quality tribute experience for Pink Floyd fans, appealing to nostalgia.
 
-- 2026-10-25 03:00 — Dermot Kennedy @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Dermot Kennedy's emotional performances have resonated with many, making this a highly anticipated show.
-
-- 2026-11-06 04:00 — Don Omar @ SAP Center at San Jose (San Jose)
-    ▹ Don Omar's tour is expected to be a vibrant celebration of Latin music, appealing to a wide audience.
-
-- 2026-10-19 03:00 — The Click Five @ Napa Music Hall (Napa)
-    ▹ Switchfoot's tour is notable for its engaging live performances and dedicated fanbase.
-
-- 2026-10-16 02:30 — RUSH @ SAP Center at San Jose (San Jose)
+- 2026-10-14 03:00 — MICO @ The Regency Ballroom (San Francisco)
+    ▹ Mico is an emerging artist with a fresh sound, promising an interesting live experience.
