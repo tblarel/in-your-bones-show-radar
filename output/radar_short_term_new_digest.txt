@@ -1,43 +1,36 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 13 new show(s) since last run:
+Found 11 new show(s) since last run:
 
-- 2026-10-28 02:30 → 2026-10-29 02:30 — Phoebe Bridgers @ Chase Center (San Francisco) [multi-night x2]
-    ▹ Phoebe Bridgers is a critically acclaimed artist with a strong live reputation, making her shows a must-see.
+- 2026-11-04 04:00 — XG @ Oakland Arena (Oakland)
+    ▹ XG is an emerging act with a growing fanbase, promising an exciting performance.
 
-- 2026-10-29 02:00 — Gorillaz @ Oakland Arena (Oakland)
-    ▹ Gorillaz is known for their innovative live performances and unique sound, promising an exciting show.
+- 2026-10-24 03:00 — Julia Wolf @ Warfield (San Francisco)
+    ▹ Julia Wolf is an up-and-coming artist with a unique sound, making her show a promising experience.
 
-- 2026-10-27 03:00 — beabadoobee @ Oakland Arena (Oakland)
-    ▹ beabadoobee has gained a strong following with her indie pop sound and engaging live shows.
+- 2026-10-26 03:00 — Kishi Bashi @ The Fillmore (San Francisco)
+    ▹ Kishi Bashi's innovative blend of genres and engaging performances make his anniversary tour noteworthy.
 
-- 2026-10-23 03:00 — MONSTA X @ The Theater at Bill Graham Civic Auditorium (San Francisco)
-    ▹ MONSTA X is a popular K-pop group known for their energetic performances and dedicated fanbase.
+- 2026-10-28 03:00 → 2026-10-29 03:00 — Slow Pulp @ The Fillmore (San Francisco) [multi-night x2]
+    ▹ Slow Pulp's indie rock sound has been gaining traction, and their live shows are known for their intimacy.
 
-- 2026-10-17 03:00 → 2026-10-18 03:00 — Neurosis @ The Fillmore (San Francisco) [multi-night x2]
-    ▹ Neurosis is a respected band in the post-metal scene, known for their intense and immersive live performances.
+- 2026-10-31 03:00 — Galactic @ The Fillmore (San Francisco)
+    ▹ Galactic offers a unique blend of funk and jazz, known for their lively performances that get the crowd moving.
 
-- 2026-10-12 03:00 — My Morning Jacket @ The Fillmore (San Francisco)
-    ▹ My Morning Jacket has a strong reputation for their dynamic live shows, blending rock and jam influences.
+- 2026-10-20 03:00 — Geese @ Fox Theater - Oakland (Oakland)
+    ▹ Geese is an exciting new band with a fresh sound, making their tour a noteworthy event.
 
-- 2026-10-15 03:30 — Sex Pistols @ Warfield (San Francisco)
-    ▹ The Sex Pistols are iconic in punk history, making their shows a significant event for fans of the genre.
+- 2026-10-22 03:00 — Malcolm Todd @ Fox Theater - Oakland (Oakland)
+    ▹ Rise Against's punk rock energy and socially conscious lyrics make their show a compelling experience.
 
-- 2026-10-28 03:00 — Grace Enger @ August Hall (San Francisco)
-    ▹ Slow Pulp is gaining traction in the indie scene, known for their engaging live performances.
+- 2026-11-02 04:00 — Tom Jones @ The Masonic (San Francisco)
+    ▹ Tom Jones remains a legendary performer with a captivating stage presence, appealing to a wide audience.
 
-- 2026-10-17 03:00 → 2026-10-18 03:00 — Sara Bareilles @ The Theater at Bill Graham Civic Auditorium (San Francisco) [multi-night x2]
-    ▹ Sara Bareilles is a well-respected artist with a strong live presence and emotional performances.
+- 2026-10-19 03:00 — She Wants Revenge @ The Regency Ballroom (San Francisco)
+    ▹ She Wants Revenge's dark pop sound and nostalgic appeal make their show an interesting option for fans.
 
-- 2026-10-19 03:00 — The Wallflowers @ The Fillmore (San Francisco)
-    ▹ The Wallflowers have a nostalgic appeal and a solid catalog, making their shows attractive to fans.
+- 2026-10-23 02:00 — The Aquabats! @ The Regency Ballroom (San Francisco)
+    ▹ The Aquabats! combine fun music with a theatrical performance style, making for an entertaining show.
 
-- 2026-10-14 03:00 — Audrey Hobert @ Fox Theater - Oakland (Oakland)
-    ▹ Audrey Hobert is an emerging artist with a unique sound, making her performance noteworthy.
-
-- 2026-10-15 02:30 — Brit Floyd @ Fox Theater - Oakland (Oakland)
-    ▹ BRIT FLOYD offers a high-quality tribute experience for Pink Floyd fans, appealing to nostalgia.
-
-- 2026-10-14 03:00 — MICO @ The Regency Ballroom (San Francisco)
-    ▹ Mico is an emerging artist with a fresh sound, promising an interesting live experience.
+- 2026-10-25 03:00 — Amble @ The Fillmore (San Francisco)

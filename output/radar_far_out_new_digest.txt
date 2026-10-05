@@ -1,28 +1,30 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 8 new show(s) since last run:
+Found 9 new show(s) since last run:
 
-- 2027-07-14 02:00 — Lizzy McAlpine @ Chase Center (San Francisco)
-    ▹ Lizzy McAlpine's rising star status and emotive songwriting make her tour a must-see for indie pop fans.
+- 2027-04-22 02:30 — Carly Rae Jepsen @ Bill Graham Civic Auditorium (San Francisco)
+    ▹ Fontaines D.C. are known for their electrifying live shows and critical acclaim, making this a standout event.
 
-- 2027-02-19 04:00 — Blue October @ The Regency Ballroom (San Francisco)
-    ▹ Blue October's emotive sound and dedicated fanbase make their show a compelling choice for alternative rock enthusiasts.
+- 2027-02-13 03:30 → 2027-02-14 03:30 — Dark Star Orchestra @ Fox Theater - Oakland (Oakland) [multi-night x2]
+    ▹ Michael Shannon & Jason Narducy playing R.E.M.'s Document offers a nostalgic twist with a fresh live interpretation.
 
-- 2027-02-18 03:00 — The Bouncing Souls @ The UC Theatre (Berkeley)
-    ▹ The Bouncing Souls' collaboration with The Suicide Machines promises an energetic night for punk rock fans.
+- 2027-02-05 04:00 — AJJ @ Great American Music Hall (San Francisco)
+    ▹ AJJ's punk-infused folk sound and energetic performances make them a compelling act to catch live.
 
-- 2027-02-12 04:00 — Death From Above 1979 @ August Hall (San Francisco)
-    ▹ Death From Above 1979's return to the stage is a treat for fans of dance-punk and high-energy performances.
+- 2027-03-01 03:30 — James Marriott @ August Hall (San Francisco)
+    ▹ The Lemonheads' tour promises a nostalgic experience for fans of 90s alternative rock.
 
-- 2027-02-21 04:00 — Los Tigres del Norte @ SAP Center at San Jose (San Jose)
-    ▹ Los Tigres del Norte's legacy in Latin music makes their concert a significant cultural event.
+- 2027-02-25 04:00 — Wailin' Jennys @ Uptown Theatre Napa (Napa)
+    ▹ Saint Levant's AFANDI WORLD TOUR is gaining traction with his unique blend of pop and cultural influences.
 
-- 2027-01-29 04:00 — The California Honeydrops @ The Fillmore (San Francisco)
-    ▹ The California Honeydrops' shows are known for their infectious energy and blend of genres, making them a crowd favorite.
+- 2027-03-03 04:00 — Wasia Project @ The Castro Theatre (San Francisco)
+    ▹ The Red Clay Strays offer a refreshing take on Americana music, making this a unique show.
 
-- 2027-05-07 03:00 — Ha*Ash @ San Jose Civic (San Jose)
-    ▹ Ha*Ash's tour promises a lively mix of pop and Latin sounds, appealing to a diverse audience.
+- 2027-02-21 04:00 — La Roux @ The Castro Theatre (San Francisco)
+    ▹ The Warning's live show promises to deliver a powerful rock experience with a modern edge.
 
-- 2027-05-28 18:30 → 2027-05-29 18:30 — BottleRock Napa Valley @ Napa Valley Expo (Napa) [multi-night x2]
-    ▹ BottleRock Napa Valley's multi-day festival format offers a unique opportunity to experience various artists.
+- 2027-06-04 03:00 — Flans @ San Jose Civic (San Jose)
+    ▹ The Interrupters are known for their high-energy ska-punk performances that are always a blast.
+
+- 2027-02-02 04:00 — Vansire @ Bimbo's 365 Club (San Francisco)

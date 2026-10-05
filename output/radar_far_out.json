@@ -1,28 +1,5 @@
 [
   {
-    "id": "G5vYZ_195TiVO",
-    "ids": [
-      "G5vYZ_195TiVO"
-    ],
-    "name": "Niall Horan: Dinner Party Live On Tour",
-    "primary_artist": "Niall Horan",
-    "venue_name": "Chase Center",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
-    "window": "far_out",
-    "local_date": "2027-05-25",
-    "start_datetime": "2027-05-26T02:30:00+00:00",
-    "date_start": "2027-05-26T02:30:00+00:00",
-    "date_end": "2027-05-26T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6549999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Niall Horan's Dinner Party Live On Tour promises a unique experience blending music and dining, appealing to both fans and foodies."
-  },
-  {
     "id": "G5vYZ_K6tphZ4",
     "ids": [
       "G5vYZ_K6tphZ4"
@@ -42,54 +19,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6549999999999999,
-    "ai_priority": 8,
-    "ai_reason": "Lizzy McAlpine's rising star status and emotive songwriting make her tour a must-see for indie pop fans."
-  },
-  {
-    "id": "G5vYZ_30jAtQd",
-    "ids": [
-      "G5vYZ_30jAtQd"
-    ],
-    "name": "Disappear Here: A Ten Year Celebration",
-    "primary_artist": "Bad Suns",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/disappear-here-a-ten-year-celebration-san-francisco-california-01-26-2027/event/1C0065291C169683",
-    "window": "far_out",
-    "local_date": "2027-01-26",
-    "start_datetime": "2027-01-27T04:00:00+00:00",
-    "date_start": "2027-01-27T04:00:00+00:00",
-    "date_end": "2027-01-27T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.649,
-    "ai_priority": 7,
-    "ai_reason": "Bad Suns' 10-year celebration showcases their evolution in the alt-rock scene, making it a nostalgic yet fresh experience."
-  },
-  {
-    "id": "G5vYZ_5KszTeQ",
-    "ids": [
-      "G5vYZ_5KszTeQ"
-    ],
-    "name": "Nothing But Thieves: The Stray Dogs World Tour",
-    "primary_artist": "Nothing But Thieves",
-    "venue_name": "Fox Theater - Oakland",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-oakland-california-04-03-2027/event/1C0064B4F1E3F09A",
-    "window": "far_out",
-    "local_date": "2027-04-03",
-    "start_datetime": "2027-04-04T03:00:00+00:00",
-    "date_start": "2027-04-04T03:00:00+00:00",
-    "date_end": "2027-04-04T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.634,
-    "ai_priority": 7,
-    "ai_reason": "Nothing But Thieves are known for their electrifying live performances, making their Stray Dogs World Tour a highlight."
+    "ai_priority": 10,
+    "ai_reason": "Lizzy McAlpine is gaining significant buzz with her unique sound and storytelling, making this a must-see show."
   },
   {
     "id": "G5vYZ_8RMVL2x",
@@ -111,77 +42,54 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.6459999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Yuri's ENTRE AMIGAS TOUR is a unique blend of pop and cultural celebration, promising an engaging live experience."
+    "ai_priority": 9,
+    "ai_reason": "Carly Rae Jepsen continues to captivate audiences with her infectious pop anthems and strong live performances."
   },
   {
-    "id": "G5vYZ_GRA3gjR",
+    "id": "G5vYZ_KDN9Abg",
     "ids": [
-      "G5vYZ_GRA3gjR"
+      "G5vYZ_KDN9Abg"
     ],
-    "name": "Polyphia: BE NOT AFRAID World Tour ",
-    "primary_artist": "Polyphia",
-    "venue_name": "The Masonic",
+    "name": "Carly Rae Jepsen: Day and Night Tour",
+    "primary_artist": "Carly Rae Jepsen",
+    "venue_name": "Bill Graham Civic Auditorium",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/polyphia-be-not-afraid-world-tour-san-francisco-california-02-14-2027/event/1C0064CBC54B572F",
+    "url": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-san-francisco-california-04-21-2027/event/1C00653EE35C5635",
     "window": "far_out",
-    "local_date": "2027-02-14",
-    "start_datetime": "2027-02-15T03:30:00+00:00",
-    "date_start": "2027-02-15T03:30:00+00:00",
-    "date_end": "2027-02-15T03:30:00+00:00",
+    "local_date": "2027-04-21",
+    "start_datetime": "2027-04-22T02:30:00+00:00",
+    "date_start": "2027-04-22T02:30:00+00:00",
+    "date_end": "2027-04-22T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.631,
-    "ai_priority": 6,
-    "ai_reason": "Polyphia's BE NOT AFRAID World Tour is set to deliver a captivating blend of progressive rock and instrumental flair."
+    "score": 0.6369999999999999,
+    "ai_priority": 8,
+    "ai_reason": "Fontaines D.C. are known for their electrifying live shows and critical acclaim, making this a standout event."
   },
   {
-    "id": "Z7r9jZ1A70_4z",
+    "id": "G5vYZ_195TiVO",
     "ids": [
-      "Z7r9jZ1A70_4z"
+      "G5vYZ_195TiVO"
     ],
-    "name": "Blue October",
-    "primary_artist": "Blue October",
-    "venue_name": "The Regency Ballroom",
+    "name": "Niall Horan: Dinner Party Live On Tour",
+    "primary_artist": "Niall Horan",
+    "venue_name": "Chase Center",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70_4z",
+    "url": "https://www.ticketmaster.com/niall-horan-dinner-party-live-on-san-francisco-california-05-25-2027/event/1C0064A5CBFECD20",
     "window": "far_out",
-    "local_date": "2027-02-18",
-    "start_datetime": "2027-02-19T04:00:00+00:00",
-    "date_start": "2027-02-19T04:00:00+00:00",
-    "date_end": "2027-02-19T04:00:00+00:00",
+    "local_date": "2027-05-25",
+    "start_datetime": "2027-05-26T02:30:00+00:00",
+    "date_start": "2027-05-26T02:30:00+00:00",
+    "date_end": "2027-05-26T02:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.628,
-    "ai_priority": 6,
-    "ai_reason": "Blue October's emotive sound and dedicated fanbase make their show a compelling choice for alternative rock enthusiasts."
-  },
-  {
-    "id": "Z7r9jZ1A70o1d",
-    "ids": [
-      "Z7r9jZ1A70o1d"
-    ],
-    "name": "Bouncing Souls w/ The Suicide Machines",
-    "primary_artist": "The Bouncing Souls",
-    "venue_name": "The UC Theatre",
-    "city": "Berkeley",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70o1d",
-    "window": "far_out",
-    "local_date": "2027-02-17",
-    "start_datetime": "2027-02-18T03:00:00+00:00",
-    "date_start": "2027-02-18T03:00:00+00:00",
-    "date_end": "2027-02-18T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.622,
-    "ai_priority": 6,
-    "ai_reason": "The Bouncing Souls' collaboration with The Suicide Machines promises an energetic night for punk rock fans."
+    "score": 0.6549999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Niall Horan's Dinner Party Live On Tour promises an engaging experience with his heartfelt pop songs."
   },
   {
     "id": "G5vYZ_3EdAxnR",
@@ -203,8 +111,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.634,
-    "ai_priority": 5,
-    "ai_reason": "Spin Doctors' anniversary tour offers a nostalgic trip for fans of 90s rock."
+    "ai_priority": 6,
+    "ai_reason": "Nothing But Thieves have a strong reputation for their dynamic performances and compelling rock sound."
   },
   {
     "id": "G5vYZ_KFrbG76",
@@ -227,53 +135,146 @@
     "night_count": 1,
     "score": 0.619,
     "ai_priority": 5,
-    "ai_reason": "Death From Above 1979's return to the stage is a treat for fans of dance-punk and high-energy performances."
+    "ai_reason": "Death From Above 1979's high-energy shows and unique sound make this a noteworthy event."
   },
   {
-    "id": "G5vYZ_3niOlHo",
+    "id": "G5vYZ_K0kD1GQ",
     "ids": [
-      "G5vYZ_3niOlHo"
+      "G5vYZ_K0kD1GQ",
+      "G5vYZ_K0Fc1ij"
     ],
-    "name": "The Lemonheads: The Love Chant Tour",
-    "primary_artist": "The Lemonheads",
+    "name": "Dark Star Orchestra - 2/12",
+    "primary_artist": "Dark Star Orchestra",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/dark-star-orchestra-212-oakland-california-02-12-2027/event/1C00653906ECA31A",
+    "window": "far_out",
+    "local_date": "2027-02-12",
+    "start_datetime": "2027-02-13T03:30:00+00:00",
+    "date_start": "2027-02-13T03:30:00+00:00",
+    "date_end": "2027-02-14T03:30:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
+    "score": 0.634,
+    "ai_priority": 4,
+    "ai_reason": "Michael Shannon & Jason Narducy playing R.E.M.'s Document offers a nostalgic twist with a fresh live interpretation."
+  },
+  {
+    "id": "G5vYZ_5KszTeQ",
+    "ids": [
+      "G5vYZ_5KszTeQ"
+    ],
+    "name": "Nothing But Thieves: The Stray Dogs World Tour",
+    "primary_artist": "Nothing But Thieves",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/nothing-but-thieves-the-stray-dogs-oakland-california-04-03-2027/event/1C0064B4F1E3F09A",
+    "window": "far_out",
+    "local_date": "2027-04-03",
+    "start_datetime": "2027-04-04T03:00:00+00:00",
+    "date_start": "2027-04-04T03:00:00+00:00",
+    "date_end": "2027-04-04T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.634,
+    "ai_priority": 3,
+    "ai_reason": "Stella Lefty's Long Way Home Tour is generating interest with her emerging indie sound."
+  },
+  {
+    "id": "G5vYZ_GRA3gjR",
+    "ids": [
+      "G5vYZ_GRA3gjR"
+    ],
+    "name": "Polyphia: BE NOT AFRAID World Tour ",
+    "primary_artist": "Polyphia",
+    "venue_name": "The Masonic",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/polyphia-be-not-afraid-world-tour-san-francisco-california-02-14-2027/event/1C0064CBC54B572F",
+    "window": "far_out",
+    "local_date": "2027-02-14",
+    "start_datetime": "2027-02-15T03:30:00+00:00",
+    "date_start": "2027-02-15T03:30:00+00:00",
+    "date_end": "2027-02-15T03:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.631,
+    "ai_priority": 2,
+    "ai_reason": "Blue October's emotive rock sound continues to resonate with fans, promising an impactful show."
+  },
+  {
+    "id": "Z7r9jZ1AAe4QK",
+    "ids": [
+      "Z7r9jZ1AAe4QK"
+    ],
+    "name": "AJJ",
+    "primary_artist": "AJJ",
+    "venue_name": "Great American Music Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4QK",
+    "window": "far_out",
+    "local_date": "2027-02-04",
+    "start_datetime": "2027-02-05T04:00:00+00:00",
+    "date_start": "2027-02-05T04:00:00+00:00",
+    "date_end": "2027-02-05T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.622,
+    "ai_priority": 2,
+    "ai_reason": "AJJ's punk-infused folk sound and energetic performances make them a compelling act to catch live."
+  },
+  {
+    "id": "G5vYZ_K5AhPqF",
+    "ids": [
+      "G5vYZ_K5AhPqF"
+    ],
+    "name": "James Marriott",
+    "primary_artist": "James Marriott",
     "venue_name": "August Hall",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-lemonheads-the-love-chant-tour-san-francisco-california-03-07-2027/event/1C00652AAC82BF11",
+    "url": "https://www.ticketmaster.com/james-marriott-san-francisco-california-02-28-2027/event/1C006532C56E5748",
     "window": "far_out",
-    "local_date": "2027-03-07",
-    "start_datetime": "2027-03-08T04:30:00+00:00",
-    "date_start": "2027-03-08T04:30:00+00:00",
-    "date_end": "2027-03-08T04:30:00+00:00",
+    "local_date": "2027-02-28",
+    "start_datetime": "2027-03-01T03:30:00+00:00",
+    "date_start": "2027-03-01T03:30:00+00:00",
+    "date_end": "2027-03-01T03:30:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.619,
-    "ai_priority": 5,
-    "ai_reason": "The Lemonheads' tour is a nostalgic nod to their influential sound in the alternative rock scene."
+    "ai_priority": 2,
+    "ai_reason": "The Lemonheads' tour promises a nostalgic experience for fans of 90s alternative rock."
   },
   {
-    "id": "G5vYZ_82GUJke",
+    "id": "G5vYZ_KqsBPGJ",
     "ids": [
-      "G5vYZ_82GUJke"
+      "G5vYZ_KqsBPGJ"
     ],
-    "name": "The Mary Wallopers",
-    "primary_artist": "The Mary Wallopers",
-    "venue_name": "August Hall",
-    "city": "San Francisco",
+    "name": "Wailin' Jennys",
+    "primary_artist": "Wailin' Jennys",
+    "venue_name": "Uptown Theatre Napa",
+    "city": "Napa",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/the-mary-wallopers-san-francisco-california-04-01-2027/event/1C006503CCDA6182",
+    "url": "https://www.ticketmaster.com/wailin-jennys-napa-california-02-24-2027/event/1C00653771EA5326",
     "window": "far_out",
-    "local_date": "2027-04-01",
-    "start_datetime": "2027-04-02T03:00:00+00:00",
-    "date_start": "2027-04-02T03:00:00+00:00",
-    "date_end": "2027-04-02T03:00:00+00:00",
+    "local_date": "2027-02-24",
+    "start_datetime": "2027-02-25T04:00:00+00:00",
+    "date_start": "2027-02-25T04:00:00+00:00",
+    "date_end": "2027-02-25T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.619,
-    "ai_priority": 5,
-    "ai_reason": "The Mary Wallopers' tour is a fresh take on traditional music, promising an engaging live performance."
+    "score": 0.613,
+    "ai_priority": 2,
+    "ai_reason": "Saint Levant's AFANDI WORLD TOUR is gaining traction with his unique blend of pop and cultural influences."
   },
   {
     "id": "G5vYZ_K6cIDVV",
@@ -295,8 +296,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.586,
-    "ai_priority": 5,
-    "ai_reason": "Los Tigres del Norte's legacy in Latin music makes their concert a significant cultural event."
+    "ai_priority": 2,
+    "ai_reason": "La Roux's The Old Flames Tour is an exciting opportunity to see her live, known for her synth-pop hits."
   },
   {
     "id": "G5vYZ_3T0dUAS",
@@ -318,54 +319,8 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.58,
-    "ai_priority": 5,
-    "ai_reason": "Alaska Thunderf*ck's tour is set to be a vibrant celebration of drag culture and performance art."
-  },
-  {
-    "id": "G5vYZ_3NpydIE",
-    "ids": [
-      "G5vYZ_3NpydIE"
-    ],
-    "name": "Elevation Worship & Steven Furtick",
-    "primary_artist": "Elevation Worship",
-    "venue_name": "Oakland Arena",
-    "city": "Oakland",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/elevation-worship-steven-furtick-oakland-california-03-02-2027/event/1C006528D6E43A27",
-    "window": "far_out",
-    "local_date": "2027-03-02",
-    "start_datetime": "2027-03-03T03:00:00+00:00",
-    "date_start": "2027-03-03T03:00:00+00:00",
-    "date_end": "2027-03-03T03:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.5589999999999999,
-    "ai_priority": 5,
-    "ai_reason": "Elevation Worship's event promises a powerful and uplifting experience for fans of contemporary Christian music."
-  },
-  {
-    "id": "G5vYZ_C6wKPtg",
-    "ids": [
-      "G5vYZ_C6wKPtg"
-    ],
-    "name": "THE CALIFORNIA HONEYDROPS - SAN FRANCISCO 2027 With Family & Friends",
-    "primary_artist": "The California Honeydrops",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/the-california-honeydrops-san-francisco-2027-san-francisco-california-01-28-2027/event/1C0064E1F24E5A75",
-    "window": "far_out",
-    "local_date": "2027-01-28",
-    "start_datetime": "2027-01-29T04:00:00+00:00",
-    "date_start": "2027-01-29T04:00:00+00:00",
-    "date_end": "2027-01-29T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.544,
-    "ai_priority": 5,
-    "ai_reason": "The California Honeydrops' shows are known for their infectious energy and blend of genres, making them a crowd favorite."
+    "ai_priority": 2,
+    "ai_reason": "An Evening with Sylvan Esso promises an engaging mix of electronic and folk influences."
   },
   {
     "id": "G5vYZ_K6wiGg_",
@@ -387,53 +342,98 @@
     "multi_night": false,
     "night_count": 1,
     "score": 0.541,
-    "ai_priority": 5,
-    "ai_reason": "Ha*Ash's tour promises a lively mix of pop and Latin sounds, appealing to a diverse audience."
+    "ai_priority": 2,
+    "ai_reason": "Ha*Ash are known for their engaging performances and strong fanbase, making this a solid choice."
   },
   {
-    "id": "G5vYZ_5pjciOj",
+    "id": "G5vYZ_KJwW4Q0",
     "ids": [
-      "G5vYZ_5pjciOj",
-      "G5vYZ_5pqFjJa"
+      "G5vYZ_KJwW4Q0"
     ],
-    "name": "BottleRock Napa Valley",
-    "primary_artist": "BottleRock Napa Valley",
-    "venue_name": "Napa Valley Expo",
-    "city": "Napa",
-    "state": "CA",
-    "country": "US",
-    "url": "https://on.fgtix.com/trk/6lUK",
-    "window": "far_out",
-    "local_date": "2027-05-28",
-    "start_datetime": "2027-05-28T18:30:00+00:00",
-    "date_start": "2027-05-28T18:30:00+00:00",
-    "date_end": "2027-05-29T18:30:00+00:00",
-    "multi_night": true,
-    "night_count": 2,
-    "score": 0.49,
-    "ai_priority": 5,
-    "ai_reason": "BottleRock Napa Valley's multi-day festival format offers a unique opportunity to experience various artists."
-  },
-  {
-    "id": "G5vYZ_oK5HLNw",
-    "ids": [
-      "G5vYZ_oK5HLNw"
-    ],
-    "name": "Stella Lefty: Long Way Home Tour",
-    "primary_artist": "Stella Lefty",
-    "venue_name": "The Masonic",
+    "name": "Wasia Project - Nocturne Live 2027",
+    "primary_artist": "Wasia Project",
+    "venue_name": "The Castro Theatre",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/stella-lefty-long-way-home-tour-san-francisco-california-02-09-2027/event/1C006514CBF1F8F2",
+    "url": "https://www.ticketmaster.com/wasia-project-nocturne-live-2027-san-francisco-california-03-02-2027/event/1C006539B2F556A4",
     "window": "far_out",
-    "local_date": "2027-02-09",
-    "start_datetime": "2027-02-10T04:00:00+00:00",
-    "date_start": "2027-02-10T04:00:00+00:00",
-    "date_end": "2027-02-10T04:00:00+00:00",
+    "local_date": "2027-03-02",
+    "start_datetime": "2027-03-03T04:00:00+00:00",
+    "date_start": "2027-03-03T04:00:00+00:00",
+    "date_end": "2027-03-03T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.631,
+    "score": 0.58,
+    "ai_priority": 1,
+    "ai_reason": "The Red Clay Strays offer a refreshing take on Americana music, making this a unique show."
+  },
+  {
+    "id": "G5vYZ_KrM2Pgs",
+    "ids": [
+      "G5vYZ_KrM2Pgs"
+    ],
+    "name": "La Roux - The Old Flames Tour",
+    "primary_artist": "La Roux",
+    "venue_name": "The Castro Theatre",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/la-roux-the-old-flames-tour-san-francisco-california-02-20-2027/event/1C006537B73E5D71",
+    "window": "far_out",
+    "local_date": "2027-02-20",
+    "start_datetime": "2027-02-21T04:00:00+00:00",
+    "date_start": "2027-02-21T04:00:00+00:00",
+    "date_end": "2027-02-21T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.58,
+    "ai_priority": 1,
+    "ai_reason": "The Warning's live show promises to deliver a powerful rock experience with a modern edge."
+  },
+  {
+    "id": "G5vYZ_K6lHlxQ",
+    "ids": [
+      "G5vYZ_K6lHlxQ"
+    ],
+    "name": "Flans - Sin Control Tour 2027",
+    "primary_artist": "Flans",
+    "venue_name": "San Jose Civic",
+    "city": "San Jose",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/flans-sin-control-tour-2027-san-jose-california-06-03-2027/event/1C006531EBF2B89A",
+    "window": "far_out",
+    "local_date": "2027-06-03",
+    "start_datetime": "2027-06-04T03:00:00+00:00",
+    "date_start": "2027-06-04T03:00:00+00:00",
+    "date_end": "2027-06-04T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.541,
+    "ai_priority": 1,
+    "ai_reason": "The Interrupters are known for their high-energy ska-punk performances that are always a blast."
+  },
+  {
+    "id": "rZ7HnEZ1AfaU47",
+    "ids": [
+      "rZ7HnEZ1AfaU47"
+    ],
+    "name": "Vansire",
+    "primary_artist": "Vansire",
+    "venue_name": "Bimbo's 365 Club",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketweb.com/event/vansire-bimbos-365-club-tickets/14276544",
+    "window": "far_out",
+    "local_date": "2027-02-01",
+    "start_datetime": "2027-02-02T04:00:00+00:00",
+    "date_start": "2027-02-02T04:00:00+00:00",
+    "date_end": "2027-02-02T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.649,
     "ai_priority": null,
     "ai_reason": null
   }
