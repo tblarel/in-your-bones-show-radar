@@ -1,33 +1,36 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 10 new show(s) since last run:
+Found 11 new show(s) since last run:
 
-- 2026-11-11 03:00 — Teddy Swims @ Chase Center (San Francisco)
-    ▹ Teddy Swims has been gaining traction for his powerful vocals and engaging live performances.
+- 2026-11-16 04:00 → 2026-11-17 04:00 — The Mountain Goats @ The Fillmore (San Francisco) [multi-night x2]
+    ▹ The Mountain Goats are known for their captivating storytelling and intimate performances, making their multi-night run a must-see.
 
-- 2026-11-07 04:00 — Mon Laferte @ SAP Center at San Jose (San Jose)
-    ▹ Mon Laferte's vibrant performances and rich musicality make her a standout in the Latin music scene.
+- 2026-11-13 04:00 — Gene @ The Fillmore (San Francisco)
+    ▹ Gene's return to the stage is a nostalgic draw for fans of 90s Britpop, promising a night of classic hits.
 
-- 2026-11-09 04:00 — The Smashing Pumpkins @ SAP Center at San Jose (San Jose)
-    ▹ The Smashing Pumpkins have a legendary status and their shows are often filled with nostalgia and energy.
+- 2026-11-15 03:30 — Allison Russell @ The Fillmore (San Francisco)
+    ▹ Allison Russell's blend of folk and soul, along with her powerful lyrics, makes her a compelling live performer.
 
-- 2026-11-12 04:00 — Brand New @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Brand New's reunion shows are highly anticipated, drawing fans eager to experience their iconic sound live.
+- 2026-11-17 04:00 — Manic Street Preachers @ The Regency Ballroom (San Francisco)
+    ▹ Manic Street Preachers' blend of rock and political commentary continues to resonate, making their show a significant event.
 
-- 2026-11-08 04:00 — Big Star @ The Fillmore (San Francisco)
-    ▹ The Big Star Quintet offers a unique tribute to a legendary band, appealing to both old fans and new.
+- 2026-11-13 04:00 — Band of Horses @ The Regency Ballroom (San Francisco)
+    ▹ Band of Horses' atmospheric sound and engaging live performances make them a must-see for indie rock fans.
 
-- 2026-11-12 04:00 — The Damned @ The Fillmore (San Francisco)
-    ▹ The Damned's legacy in punk rock makes their shows a significant event for fans of the genre.
+- 2026-11-15 02:30 — Underoath @ The Masonic (San Francisco)
+    ▹ Underoath's anniversary tour promises a nostalgic experience for fans of post-hardcore and metalcore.
 
-- 2026-11-08 04:00 — Brandi Carlile @ Fox Theater - Oakland (Oakland)
-    ▹ Brandi Carlile's all-request tour promises an intimate and unique experience for her fans.
+- 2026-11-06 04:00 — The Black Angels @ The Regency Ballroom (San Francisco)
+    ▹ The Black Angels are known for their psychedelic sound and captivating live shows, appealing to fans of alternative rock.
 
-- 2026-11-06 04:00 — Gnarls Barkley @ The Masonic (San Francisco)
-    ▹ Gnarls Barkley's return to the stage is highly anticipated, promising a night of unforgettable music.
+- 2026-11-18 03:30 — Straight No Chaser @ Palace of Fine Arts (San Francisco)
+    ▹ Straight No Chaser offers a unique twist on a cappella music, appealing to fans of vocal harmony.
 
-- 2026-11-02 03:00 — The Musical Box @ The Regency Ballroom (San Francisco)
-    ▹ Medium Build's unique sound and engaging performances make them a hidden gem in the local scene.
+- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
+    ▹ Gracie Abrams is rising in the pop scene, and her tour is generating significant interest among younger audiences.
 
-- 2026-10-31 03:00 → 2026-11-01 03:00 — Galactic @ The Fillmore (San Francisco) [multi-night x2]
+- 2026-11-06 04:00 — Don Omar @ SAP Center at San Jose (San Jose)
+    ▹ Lord Huron's atmospheric indie-folk sound and engaging performances make them a highlight for fans of the genre.
+
+- 2026-11-19 03:00 — Three Days Grace @ SAP Center at San Jose (San Jose)
