@@ -1,9 +1,34 @@
 [
   {
+    "id": "G5vYZ_1m-eW1q",
+    "ids": [
+      "G5vYZ_1m-eW1q"
+    ],
+    "name": "KATSEYE: THE WILDWORLD TOUR",
+    "primary_artist": "KATSEYE",
+    "venue_name": "Oakland Arena",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/katseye-the-wildworld-tour-oakland-california-11-19-2026/event/1C0064ABA10BD29D",
+    "window": "short_term",
+    "local_date": "2026-11-19",
+    "start_datetime": "2026-11-20T04:00:00+00:00",
+    "date_start": "2026-11-20T04:00:00+00:00",
+    "date_end": "2026-11-20T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.7089999999999999,
+    "ai_priority": 10,
+    "ai_reason": "KATSEYE is gaining buzz with their unique sound and strong live performances, making this a must-see event."
+  },
+  {
     "id": "G5vYZ_G85xh2y",
     "ids": [
       "G5vYZ_G85xh2y",
-      "G5vYZ_G85Nh2X"
+      "G5vYZ_G85Nh2X",
+      "G5vYZ_G85Pl8-",
+      "G5vYZ_G85Jl8S"
     ],
     "name": "The Mountain Goats - Night One: Openers",
     "primary_artist": "The Mountain Goats",
@@ -16,25 +41,71 @@
     "local_date": "2026-11-15",
     "start_datetime": "2026-11-16T04:00:00+00:00",
     "date_start": "2026-11-16T04:00:00+00:00",
-    "date_end": "2026-11-17T04:00:00+00:00",
+    "date_end": "2026-11-21T04:00:00+00:00",
     "multi_night": true,
-    "night_count": 2,
+    "night_count": 4,
     "score": 0.694,
     "ai_priority": 8,
-    "ai_reason": "The Mountain Goats are known for their captivating storytelling and intimate performances, making their multi-night run a must-see."
+    "ai_reason": "The Mountain Goats' multi-night run at The Fillmore promises a unique experience for fans with varied setlists."
   },
   {
-    "id": "G5vYZ_162pnlP",
+    "id": "G5vYZ_8SbxulZ",
     "ids": [
-      "G5vYZ_162pnlP"
+      "G5vYZ_8SbxulZ"
     ],
-    "name": "Gene",
-    "primary_artist": "Gene",
-    "venue_name": "The Fillmore",
+    "name": "Jonas Brothers: The Burning Up Tour All Over Again",
+    "primary_artist": "Jonas Brothers",
+    "venue_name": "Chase Center",
     "city": "San Francisco",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/gene-san-francisco-california-11-12-2026/event/1C0064A1CF5AAAE5",
+    "url": "https://www.ticketmaster.com/jonas-brothers-the-burning-up-tour-san-francisco-california-11-21-2026/event/1C00650CD888DAC0",
+    "window": "short_term",
+    "local_date": "2026-11-21",
+    "start_datetime": "2026-11-22T03:30:00+00:00",
+    "date_start": "2026-11-22T03:30:00+00:00",
+    "date_end": "2026-11-22T03:30:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.7149999999999999,
+    "ai_priority": 7,
+    "ai_reason": "The Jonas Brothers are a pop sensation with a strong following, ensuring a lively concert atmosphere."
+  },
+  {
+    "id": "G5vYZ_2fIMqin",
+    "ids": [
+      "G5vYZ_2fIMqin"
+    ],
+    "name": "TYLA - THE A*POP WORLD TOUR (MOVED TO FOX THEATER)",
+    "primary_artist": "Tyla",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/tyla-the-apop-world-tour-moved-oakland-california-11-13-2026/event/1C0064F528DDDB2A",
+    "window": "short_term",
+    "local_date": "2026-11-13",
+    "start_datetime": "2026-11-14T04:00:00+00:00",
+    "date_start": "2026-11-14T04:00:00+00:00",
+    "date_end": "2026-11-14T04:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.694,
+    "ai_priority": 7,
+    "ai_reason": "Tyla's tour is generating buzz, making her a rising star in the pop scene worth seeing live."
+  },
+  {
+    "id": "G5vYZ_1D8lhz4",
+    "ids": [
+      "G5vYZ_1D8lhz4"
+    ],
+    "name": "they are gutting a body of water",
+    "primary_artist": "they are gutting a body of water",
+    "venue_name": "August Hall",
+    "city": "San Francisco",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/they-are-gutting-a-body-of-san-francisco-california-11-12-2026/event/1C0064AED0ADBE15",
     "window": "short_term",
     "local_date": "2026-11-12",
     "start_datetime": "2026-11-13T04:00:00+00:00",
@@ -42,152 +113,15 @@
     "date_end": "2026-11-13T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.694,
+    "score": 0.6789999999999999,
     "ai_priority": 7,
-    "ai_reason": "Gene's return to the stage is a nostalgic draw for fans of 90s Britpop, promising a night of classic hits."
-  },
-  {
-    "id": "G5vYZ_8QLfqro",
-    "ids": [
-      "G5vYZ_8QLfqro"
-    ],
-    "name": "Allison Russell",
-    "primary_artist": "Allison Russell",
-    "venue_name": "The Fillmore",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/allison-russell-san-francisco-california-11-14-2026/event/1C0065069F51D791",
-    "window": "short_term",
-    "local_date": "2026-11-14",
-    "start_datetime": "2026-11-15T03:30:00+00:00",
-    "date_start": "2026-11-15T03:30:00+00:00",
-    "date_end": "2026-11-15T03:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.694,
-    "ai_priority": 7,
-    "ai_reason": "Allison Russell's blend of folk and soul, along with her powerful lyrics, makes her a compelling live performer."
-  },
-  {
-    "id": "Z7r9jZ1A70zfg",
-    "ids": [
-      "Z7r9jZ1A70zfg"
-    ],
-    "name": "Manic Street Preachers",
-    "primary_artist": "Manic Street Preachers",
-    "venue_name": "The Regency Ballroom",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70zfg",
-    "window": "short_term",
-    "local_date": "2026-11-16",
-    "start_datetime": "2026-11-17T04:00:00+00:00",
-    "date_start": "2026-11-17T04:00:00+00:00",
-    "date_end": "2026-11-17T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.688,
-    "ai_priority": 7,
-    "ai_reason": "Manic Street Preachers' blend of rock and political commentary continues to resonate, making their show a significant event."
-  },
-  {
-    "id": "Z7r9jZ1A70E19",
-    "ids": [
-      "Z7r9jZ1A70E19"
-    ],
-    "name": "Band of Horses",
-    "primary_artist": "Band of Horses",
-    "venue_name": "The Regency Ballroom",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A70E19",
-    "window": "short_term",
-    "local_date": "2026-11-12",
-    "start_datetime": "2026-11-13T04:00:00+00:00",
-    "date_start": "2026-11-13T04:00:00+00:00",
-    "date_end": "2026-11-13T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.688,
-    "ai_priority": 7,
-    "ai_reason": "Band of Horses' atmospheric sound and engaging live performances make them a must-see for indie rock fans."
-  },
-  {
-    "id": "G5vYZ_G5awjUE",
-    "ids": [
-      "G5vYZ_G5awjUE"
-    ],
-    "name": "Underoath - Define the Great Line 20th Anniversary Tour",
-    "primary_artist": "Underoath",
-    "venue_name": "The Masonic",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/underoath-define-the-great-line-20th-san-francisco-california-11-14-2026/event/1C0064C2C9C9CDA7",
-    "window": "short_term",
-    "local_date": "2026-11-14",
-    "start_datetime": "2026-11-15T02:30:00+00:00",
-    "date_start": "2026-11-15T02:30:00+00:00",
-    "date_end": "2026-11-15T02:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.691,
-    "ai_priority": 6,
-    "ai_reason": "Underoath's anniversary tour promises a nostalgic experience for fans of post-hardcore and metalcore."
-  },
-  {
-    "id": "Z7r9jZ1A7x9k7",
-    "ids": [
-      "Z7r9jZ1A7x9k7"
-    ],
-    "name": "Black Angels w/ GHOSTWOMAN",
-    "primary_artist": "The Black Angels",
-    "venue_name": "The Regency Ballroom",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/event/Z7r9jZ1A7x9k7",
-    "window": "short_term",
-    "local_date": "2026-11-05",
-    "start_datetime": "2026-11-06T04:00:00+00:00",
-    "date_start": "2026-11-06T04:00:00+00:00",
-    "date_end": "2026-11-06T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.688,
-    "ai_priority": 6,
-    "ai_reason": "The Black Angels are known for their psychedelic sound and captivating live shows, appealing to fans of alternative rock."
-  },
-  {
-    "id": "G5vYZ_1sHw6pW",
-    "ids": [
-      "G5vYZ_1sHw6pW"
-    ],
-    "name": "Straight No Chaser",
-    "primary_artist": "Straight No Chaser",
-    "venue_name": "Palace of Fine Arts",
-    "city": "San Francisco",
-    "state": "CA",
-    "country": "US",
-    "url": "https://www.ticketmaster.com/straight-no-chaser-san-francisco-california-11-17-2026/event/1C0064AC7CC875BD",
-    "window": "short_term",
-    "local_date": "2026-11-17",
-    "start_datetime": "2026-11-18T03:30:00+00:00",
-    "date_start": "2026-11-18T03:30:00+00:00",
-    "date_end": "2026-11-18T03:30:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
-    "score": 0.6849999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Straight No Chaser offers a unique twist on a cappella music, appealing to fans of vocal harmony."
+    "ai_reason": "they are gutting a body of water is an intriguing act with a distinct sound that appeals to indie fans."
   },
   {
     "id": "G5vYZ_1UDxFhX",
     "ids": [
-      "G5vYZ_1UDxFhX"
+      "G5vYZ_1UDxFhX",
+      "G5vYZ_5mq0w7N"
     ],
     "name": "Gracie Abrams: The Look at My Life Tour presented by Capital One",
     "primary_artist": "Gracie Abrams",
@@ -200,57 +134,80 @@
     "local_date": "2026-12-06",
     "start_datetime": "2026-12-07T04:00:00+00:00",
     "date_start": "2026-12-07T04:00:00+00:00",
-    "date_end": "2026-12-07T04:00:00+00:00",
-    "multi_night": false,
-    "night_count": 1,
+    "date_end": "2026-12-08T04:00:00+00:00",
+    "multi_night": true,
+    "night_count": 2,
     "score": 0.6789999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Gracie Abrams is rising in the pop scene, and her tour is generating significant interest among younger audiences."
+    "ai_priority": 7,
+    "ai_reason": "Gracie Abrams is a rising pop star with a strong connection to her audience, making her shows highly anticipated."
   },
   {
-    "id": "G5vYZ_1MqembE",
+    "id": "G5vYZ_35P5NtU",
     "ids": [
-      "G5vYZ_1MqembE"
+      "G5vYZ_35P5NtU"
     ],
-    "name": "Don Omar \"The Last King World Tour\"",
-    "primary_artist": "Don Omar",
+    "name": "Who Want The Smoke",
+    "primary_artist": "Shoreline Mafia",
     "venue_name": "SAP Center at San Jose",
     "city": "San Jose",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/don-omar-the-last-king-world-san-jose-california-11-05-2026/event/1C0064ADDD0AE627",
+    "url": "https://www.ticketmaster.com/who-want-the-smoke-san-jose-california-11-20-2026/event/1C006522E52E3A76",
     "window": "short_term",
-    "local_date": "2026-11-05",
-    "start_datetime": "2026-11-06T04:00:00+00:00",
-    "date_start": "2026-11-06T04:00:00+00:00",
-    "date_end": "2026-11-06T04:00:00+00:00",
+    "local_date": "2026-11-20",
+    "start_datetime": "2026-11-21T03:00:00+00:00",
+    "date_start": "2026-11-21T03:00:00+00:00",
+    "date_end": "2026-11-21T03:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
     "score": 0.6759999999999999,
-    "ai_priority": 6,
-    "ai_reason": "Lord Huron's atmospheric indie-folk sound and engaging performances make them a highlight for fans of the genre."
+    "ai_priority": 7,
+    "ai_reason": "Shoreline Mafia's concert promises an energetic hip-hop experience for fans."
   },
   {
-    "id": "G5vYZbU3R_nwH",
+    "id": "G5vYZ_GnJfN19",
     "ids": [
-      "G5vYZbU3R_nwH"
+      "G5vYZ_GnJfN19"
     ],
-    "name": "Three Days Grace - Alienation Tour ",
-    "primary_artist": "Three Days Grace",
-    "venue_name": "SAP Center at San Jose",
-    "city": "San Jose",
+    "name": "Daughtry - 20 Years Unplugged Tour",
+    "primary_artist": "Daughtry",
+    "venue_name": "Uptown Theatre Napa",
+    "city": "Napa",
     "state": "CA",
     "country": "US",
-    "url": "https://www.ticketmaster.com/three-days-grace-alienation-tour-san-jose-california-11-18-2026/event/1C006364AF66ACBC",
+    "url": "https://www.ticketmaster.com/daughtry-20-years-unplugged-tour-napa-california-11-08-2026/event/1C0064CAA6523297",
     "window": "short_term",
-    "local_date": "2026-11-18",
-    "start_datetime": "2026-11-19T03:00:00+00:00",
-    "date_start": "2026-11-19T03:00:00+00:00",
-    "date_end": "2026-11-19T03:00:00+00:00",
+    "local_date": "2026-11-08",
+    "start_datetime": "2026-11-09T04:00:00+00:00",
+    "date_start": "2026-11-09T04:00:00+00:00",
+    "date_end": "2026-11-09T04:00:00+00:00",
     "multi_night": false,
     "night_count": 1,
-    "score": 0.7059999999999998,
-    "ai_priority": null,
-    "ai_reason": null
+    "score": 0.6729999999999999,
+    "ai_priority": 7,
+    "ai_reason": "Daughtry's unplugged tour offers a unique twist on their hits, appealing to both new and longtime fans."
+  },
+  {
+    "id": "G5vYZ_2NoqbG8",
+    "ids": [
+      "G5vYZ_2NoqbG8"
+    ],
+    "name": "The String Cheese Incident: Just Keep Spinning Tour - 12/4",
+    "primary_artist": "The String Cheese Incident",
+    "venue_name": "Fox Theater - Oakland",
+    "city": "Oakland",
+    "state": "CA",
+    "country": "US",
+    "url": "https://www.ticketmaster.com/the-string-cheese-incident-just-keep-oakland-california-12-04-2026/event/1C0064F8D1758310",
+    "window": "short_term",
+    "local_date": "2026-12-04",
+    "start_datetime": "2026-12-05T03:00:00+00:00",
+    "date_start": "2026-12-05T03:00:00+00:00",
+    "date_end": "2026-12-05T03:00:00+00:00",
+    "multi_night": false,
+    "night_count": 1,
+    "score": 0.664,
+    "ai_priority": 7,
+    "ai_reason": "The String Cheese Incident's tour promises a vibrant live experience for fans of jam bands."
   }
 ]

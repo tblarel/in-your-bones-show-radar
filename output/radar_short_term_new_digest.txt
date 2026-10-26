@@ -1,36 +1,31 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 11 new show(s) since last run:
+Found 9 new show(s) since last run:
 
-- 2026-11-16 04:00 → 2026-11-17 04:00 — The Mountain Goats @ The Fillmore (San Francisco) [multi-night x2]
-    ▹ The Mountain Goats are known for their captivating storytelling and intimate performances, making their multi-night run a must-see.
+- 2026-11-20 04:00 — KATSEYE @ Oakland Arena (Oakland)
+    ▹ KATSEYE is gaining buzz with their unique sound and strong live performances, making this a must-see event.
 
-- 2026-11-13 04:00 — Gene @ The Fillmore (San Francisco)
-    ▹ Gene's return to the stage is a nostalgic draw for fans of 90s Britpop, promising a night of classic hits.
+- 2026-11-16 04:00 → 2026-11-21 04:00 — The Mountain Goats @ The Fillmore (San Francisco) [multi-night x4]
+    ▹ The Mountain Goats' multi-night run at The Fillmore promises a unique experience for fans with varied setlists.
 
-- 2026-11-15 03:30 — Allison Russell @ The Fillmore (San Francisco)
-    ▹ Allison Russell's blend of folk and soul, along with her powerful lyrics, makes her a compelling live performer.
+- 2026-11-22 03:30 — Jonas Brothers @ Chase Center (San Francisco)
+    ▹ The Jonas Brothers are a pop sensation with a strong following, ensuring a lively concert atmosphere.
 
-- 2026-11-17 04:00 — Manic Street Preachers @ The Regency Ballroom (San Francisco)
-    ▹ Manic Street Preachers' blend of rock and political commentary continues to resonate, making their show a significant event.
+- 2026-11-14 04:00 — Tyla @ Fox Theater - Oakland (Oakland)
+    ▹ Tyla's tour is generating buzz, making her a rising star in the pop scene worth seeing live.
 
-- 2026-11-13 04:00 — Band of Horses @ The Regency Ballroom (San Francisco)
-    ▹ Band of Horses' atmospheric sound and engaging live performances make them a must-see for indie rock fans.
+- 2026-11-13 04:00 — they are gutting a body of water @ August Hall (San Francisco)
+    ▹ they are gutting a body of water is an intriguing act with a distinct sound that appeals to indie fans.
 
-- 2026-11-15 02:30 — Underoath @ The Masonic (San Francisco)
-    ▹ Underoath's anniversary tour promises a nostalgic experience for fans of post-hardcore and metalcore.
+- 2026-12-07 04:00 → 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland) [multi-night x2]
+    ▹ Gracie Abrams is a rising pop star with a strong connection to her audience, making her shows highly anticipated.
 
-- 2026-11-06 04:00 — The Black Angels @ The Regency Ballroom (San Francisco)
-    ▹ The Black Angels are known for their psychedelic sound and captivating live shows, appealing to fans of alternative rock.
+- 2026-11-21 03:00 — Shoreline Mafia @ SAP Center at San Jose (San Jose)
+    ▹ Shoreline Mafia's concert promises an energetic hip-hop experience for fans.
 
-- 2026-11-18 03:30 — Straight No Chaser @ Palace of Fine Arts (San Francisco)
-    ▹ Straight No Chaser offers a unique twist on a cappella music, appealing to fans of vocal harmony.
+- 2026-11-09 04:00 — Daughtry @ Uptown Theatre Napa (Napa)
+    ▹ Daughtry's unplugged tour offers a unique twist on their hits, appealing to both new and longtime fans.
 
-- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
-    ▹ Gracie Abrams is rising in the pop scene, and her tour is generating significant interest among younger audiences.
-
-- 2026-11-06 04:00 — Don Omar @ SAP Center at San Jose (San Jose)
-    ▹ Lord Huron's atmospheric indie-folk sound and engaging performances make them a highlight for fans of the genre.
-
-- 2026-11-19 03:00 — Three Days Grace @ SAP Center at San Jose (San Jose)
+- 2026-12-05 03:00 — The String Cheese Incident @ Fox Theater - Oakland (Oakland)
+    ▹ The String Cheese Incident's tour promises a vibrant live experience for fans of jam bands.
