@@ -1,31 +1,22 @@
 InYourBones — NEW Bay Area Shows (far_out)
 ==========================================
 
-Found 9 new show(s) since last run:
+Found 7 new show(s) since last run:
 
-- 2027-05-05 01:30 — Queens of the Stone Age @ Oakland Arena (Oakland)
-    ▹ Lizzy McAlpine is gaining significant buzz with her unique sound and storytelling, making her a must-see act.
+- 2027-05-08 02:30 → 2027-05-10 02:30 — Calvin Harris @ Oakland Arena (Oakland) [multi-night x3]
+    ▹ Calvin Harris is a major name in electronic music, promising a high-energy show at Oakland Arena.
 
-- 2027-05-09 02:30 → 2027-05-10 02:30 — Calvin Harris @ Oakland Arena (Oakland) [multi-night x2]
-    ▹ Calvin Harris is a major name in electronic music, known for his high-energy live shows and hits.
+- 2027-03-06 04:00 → 2027-03-08 04:00 — They Might Be Giants @ The Fillmore (San Francisco) [multi-night x2]
+    ▹ They Might Be Giants have a dedicated fanbase and are known for their quirky and entertaining live shows.
 
-- 2027-09-08 02:00 — SIENNA SPIRO @ Greek Theatre-U.C. Berkeley (Berkeley)
-    ▹ Sienna Spiro is an emerging artist with a fresh sound that resonates well with indie pop fans.
+- 2027-04-25 02:00 — Meshuggah @ Fox Theater - Oakland (Oakland)
+    ▹ Meshuggah's metal prowess will surely attract fans looking for an intense live performance.
 
-- 2027-05-06 03:00 — Ocean Alley @ Fox Theater - Oakland (Oakland)
-    ▹ Ocean Alley brings a refreshing blend of reggae and rock, appealing to a diverse audience.
+- 2027-05-14 03:00 — Luka Sulic @ Palace of Fine Arts (San Francisco)
+    ▹ Luka Sulic's performance at the Palace of Fine Arts promises a blend of classical and contemporary music.
 
-- 2027-03-06 04:00 → 2027-03-07 04:00 — They Might Be Giants @ The Fillmore (San Francisco) [multi-night x2]
-    ▹ They Might Be Giants have a cult following and are known for their quirky and energetic live shows.
+- 2027-03-02 04:00 — Moody Joody @ The Independent (San Francisco)
 
-- 2027-03-27 04:00 — Sadurn @ Rickshaw Stop (San Francisco)
-    ▹ Sadurn is gaining traction in the indie scene with their unique sound and engaging live performances.
+- 2027-03-03 04:00 — Vincent Lima @ The Independent (San Francisco)
 
-- 2027-03-11 04:00 — CHVRCHES @ Fox Theater - Oakland (Oakland)
-    ▹ CHVRCHES' synth-pop sound and dynamic stage presence make them a standout live act.
-
-- 2027-04-17 02:00 — Destroy Boys @ August Hall (San Francisco)
-    ▹ 49 Winchester's blend of country and rock offers a unique sound that appeals to a growing fanbase.
-
-- 2027-05-02 03:00 — Lola Young @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ Lola Young's fresh take on pop music is gaining traction, making her a noteworthy act to catch.
+- 2027-03-28 02:30 — Dancing with the Stars @ SAP Center at San Jose (San Jose)
