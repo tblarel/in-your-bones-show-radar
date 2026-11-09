@@ -1,37 +1,34 @@
 InYourBones — NEW Bay Area Shows (short_term)
 =============================================
 
-Found 11 new show(s) since last run:
+Found 15 new show(s) since last run:
 
-- 2026-12-03 03:00 — The Neighbourhood @ Bill Graham Civic Auditorium (San Francisco)
-    ▹ The Neighbourhood is known for their atmospheric sound and strong live presence, making their tour highly anticipated.
+- 2026-12-07 04:00 → 2026-12-08 04:00 — Gracie Abrams @ Oakland Arena (Oakland) [multi-night x2]
 
-- 2026-11-16 04:00 → 2026-11-22 04:00 — The Mountain Goats @ The Fillmore (San Francisco) [multi-night x6]
-    ▹ The Mountain Goats' unique storytelling and intimate performances make their shows a highlight for fans.
+- 2026-12-09 04:00 — Triumph @ Oakland Arena (Oakland)
 
-- 2026-11-29 03:30 — Journey @ Chase Center (San Francisco)
-    ▹ Journey's nostalgic appeal and legacy in rock music make their final tour a significant event.
+- 2026-12-07 03:30 — RUSH @ SAP Center at San Jose (San Jose)
 
-- 2026-12-07 04:00 — Gracie Abrams @ Oakland Arena (Oakland)
-    ▹ Gracie Abrams is gaining traction in the indie pop scene, making her tour a notable event.
+- 2026-11-24 04:00 — CocoRosie @ The Fillmore (San Francisco)
 
-- 2026-12-04 04:00 — Fetty Wap @ The Masonic (San Francisco)
-    ▹ Fetty Wap's return to the stage is generating buzz, appealing to hip-hop fans.
+- 2026-11-29 04:00 — Jackie Greene @ The Fillmore (San Francisco)
 
-- 2026-11-18 04:00 — Son Volt @ August Hall (San Francisco)
-    ▹ Son Volt's alt-country sound has a dedicated audience, making their performance noteworthy.
+- 2026-12-03 04:00 — Eloise @ The Fillmore (San Francisco)
 
-- 2026-12-12 04:00 — Jorma Kaukonen @ The Fillmore (San Francisco)
-    ▹ Jorma Kaukonen's legacy in the music scene makes his performance a significant event.
+- 2026-12-10 04:00 — The Jayhawks @ The Fillmore (San Francisco)
 
-- 2026-12-06 03:00 — The String Cheese Incident @ Fox Theater - Oakland (Oakland)
-    ▹ The String Cheese Incident's live shows are known for their improvisational style and fan engagement.
+- 2026-12-05 03:00 → 2026-12-06 03:00 — The String Cheese Incident @ Fox Theater - Oakland (Oakland) [multi-night x2]
 
-- 2026-12-06 02:35 — Trivium @ The Masonic (San Francisco)
-    ▹ Trivium's heavy sound and energetic performances attract a dedicated metal audience.
+- 2026-12-09 04:00 — Angine de Poitrine @ Fox Theater - Oakland (Oakland)
 
-- 2026-12-16 04:00 — Father John Misty @ Uptown Theatre Napa (Napa)
-    ▹ Father John Misty's unique blend of folk and rock makes his shows highly anticipated.
+- 2026-11-25 04:00 — The Amity Affliction @ The Regency Ballroom (San Francisco)
 
-- 2026-11-16 03:00 — Rodrigo y Gabriela @ The Castro Theatre (San Francisco)
-    ▹ Rodrigo y Gabriela's energetic performances are a treat for fans of acoustic rock.
+- 2026-12-10 03:30 — ONEUS @ Palace of Fine Arts (San Francisco)
+
+- 2026-11-29 04:00 — Zepparella @ Great American Music Hall (San Francisco)
+
+- 2026-12-05 04:00 — Amorphis @ The UC Theatre (Berkeley)
+
+- 2026-11-23 03:30 — Boston Manor @ August Hall (San Francisco)
+
+- 2026-11-23 04:00 — Mark William Lewis @ The Independent (San Francisco)
